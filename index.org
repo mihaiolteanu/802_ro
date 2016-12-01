@@ -60,7 +60,8 @@ echipotentiale]]  |  [[file:Lect_04.ro.srt][subtitrare]]
 
 [[https://www.youtube.com/watch?v=MXuZ1SRjpqk&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=16][15. Legea lui Ampere, solenoizi]]  |  [[file:Lect_15.ro.srt][subtitrare]]
 
-* Descarca
+* Completare subtitrari
 
-Poti [[file:802_ro.tar.gz][descarca]] toate subtitrarile de mai sus ca si arhiva. Pentru
-Windows, poti folosi 7zip pentru extragerea arhivei.
+Daca ai sau poti pregati subtitrari si pentru celelalte cursuri (sunt
+38 de cursuri in total), le poti adauga pe pagina proiectului de pe
+[[https://github.com/mihaiolteanu/802_ro][Github]] sau mi le poti trimite pe mail si ma ocup eu de restul.
