@@ -1,0 +1,66 @@
+#+TITLE: 8.02 - Electricitate si magnetism (de Walter Lewin)
+#+AUTHOR: Mihai Olteanu
+#+OPTIONS: toc:nil num:nil
+
+* Prefata
+
+Mai jos sunt o serie de subtitrari pentru celebrul curs de
+[[https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j]["Electricitate si Magnetism"]] prezentat de Walter Lewin, pe cand acesta
+preda la Universitatea MIT din Statele Unite.
+
+Aceste lecturi vin ca o completare la cursul de [[https://mihaiolteanu.github.io/circuiteelectrice/][Introducere in
+circuite electrice si electronice]], sau in cazul in care urmezi o
+facultate de profil, ca o necesitate pentru o mai buna intelegere a
+subiectelor predate. Aceste cursuri acopera materia cunoscuta sub
+numele de "Bazele Electrotehnicii". Vei avea nevoie de cunostinte de
+matematica (pana la urma e un curs MIT de fizica) pentru a putea
+urmari cap-coada intreg cursul, altfel, pe alocuri iti va parea
+plictisitor. Chiar si asa, experimentele realizate in fata studentilor
+merita toata atentia.
+
+Pentru a putea folosi subtitrarile, trebuie mai intai sa-ti iei
+cursurile in format video de pe youtube. Poti sa cauti cum sa faci
+asta direct pe youtube. Daca folosesti Linux, atunci treaba e simpla:
+: $ youtube-dl <link-youtube>
+
+* Cursurile cu subtitrari
+Salveaza subtitrarea cu click-dreapta pe link-ul subtitrare si apoi
+"save link as", sau [[file:802_ro.tar.gz][salveaza]] toate subtitrarile sub forma de
+arhiva. Pentru extragerea arhivei, poti folosi programul 7zip.
+
+[[https://www.youtube.com/watch?v=x1-SibwIPM4&index=2&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j][01. Sarcina electrica si forte electrice]]  |  [[file:Lect_01.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=Pd9HY8iLiCA&index=3&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j][02. Linii de camp electric, teorema superpozitiei, incarcarea
+inductiva, dipoli]] | [[file:Lect_02.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=Zu2gomaDqnM&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=4][03. Fluxul electric si legea lui Gauss]]  |  [[file:Lect_03.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=QpVxj3XrLgk&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=5][04. Potentialul electrostatic, energia electrica si suprafete
+echipotentiale]]  |  [[file:Lect_04.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=JhV-GOS4y8g&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=6][05. E=-grad V, conductori, ecranarea electrostatica]]  |  [[file:Lect_05.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=ww0XJUqFHXU&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=7][06. Strapungerea dielectrica, fulgerul]]  |  [[file:Lect_06.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=qyP1xZCB62E&index=8&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j][07. Capacitatea, energia campului electric]]  |  [[file:Lect_07.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=GAtAG938AQc&index=9&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j][08. Polarizatia, dielectrici, generatorul Van de Graaff, condensatori]]  |  [[file:Lect_08.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=PJqOaHBgr30&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=10][09. Curentul electric, rezistivitatea, conductivitatea, legea lui Ohm]]  |  [[file:Lect_09.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=ViwSDL657L4&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=11][10. Baterii, puterea, legile ui Kirchhoff, circuite electrice]]  |  [[file:Lect_10.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=0y9x7CS5Vrk&index=12&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j][11. Campuri magnetice, forta Lorentz, cuplu, motoare electrice de cc]]  |  [[file:Lect_11.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=08WJDvgr2Zc&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=13][12. Recapitulare pentru examen]]  |  [[file:Lect_12.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=sDnG1JhZ2N4&index=14&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j][13. Sarcini in campuri magnetice, ciclotronul]]  |  [[file:Lect_13.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=By2ogrSwgVo&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=15][14. Legea Biot-Savart, div B = 0, linii electrice de tensiune inalta]]  |  [[file:Lect_14.ro.srt][subtitrare]]
+
+[[https://www.youtube.com/watch?v=MXuZ1SRjpqk&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j&index=16][15. Legea lui Ampere, solenoizi]]  |  [[file:Lect_15.ro.srt][subtitrare]]
+
+* Descarca
+
+Poti [[file:802_ro.tar.gz][descarca]] toate subtitrarile de mai sus ca si arhiva. Pentru
+Windows, poti folosi 7zip pentru extragerea arhivei.
