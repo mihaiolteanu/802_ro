@@ -1,0 +1,4009 @@
+﻿1
+00:00:02,074 --> 00:00:08,003
+Câmpurile electrice
+induc dipoli în materialele dielectrice.
+
+2
+00:00:08,003 --> 00:00:11,074
+Electronii dielectricilor
+sunt legaţi de atomi şi de
+
+3
+00:00:11,074 --> 00:00:16,032
+molecule, spre deosebire de conductori,
+unde aceştia se pot deplasa liberi.
+
+4
+00:00:16,032 --> 00:00:20,004
+La aplicarea unui 
+câmp electric extern,
+
+5
+00:00:20,004 --> 00:00:24,003
+precum acesta,
+chiar dacă moleculele
+
+6
+00:00:24,003 --> 00:00:27,055
+sau atomii sunt sfere perfecte,
+aceştia se vor
+
+7
+00:00:27,055 --> 00:00:31,005
+alungi puţin,
+în sensul că electroni vor
+
+8
+00:00:31,005 --> 00:00:34,004
+petrece un timp
+mai îndelungat aici,
+
+9
+00:00:34,004 --> 00:00:37,006
+această parte devenind 
+încărcată negativ, iar această parte
+
+10
+00:00:37,006 --> 00:00:41,001
+încărcată pozitiv.
+Acest lucru creează un dipol.
+
+11
+00:00:41,001 --> 00:00:43,015
+Am discutat despre
+dipoli în primul
+
+12
+00:00:43,015 --> 00:00:45,075
+curs. 
+Acesta este un lucru
+
+13
+00:00:45,075 --> 00:00:51,000
+extraordinar, adică,
+dacă avem un izolator -- plusurile
+
+14
+00:00:51,000 --> 00:00:54,003
+şi minusurile indică 
+atomi neutri --
+
+15
+00:00:54,003 --> 00:00:58,048
+şi dacă aplicăm un câmp electric,
+de sus în jos,
+
+16
+00:00:58,048 --> 00:01:00,089
+observăm 
+o deplasare uşoară a electronilor,
+
+17
+00:01:00,089 --> 00:01:04,001
+petrec un timp
+mai îndelungat sus decât jos,
+
+18
+00:01:04,001 --> 00:01:07,006
+şi obţinem
+un strat de sarcină
+
+19
+00:01:07,006 --> 00:01:10,008
+negativă ce ia 
+naştere în partea de sus,
+
+20
+00:01:10,008 --> 00:01:15,051
+şi un strat de sarcină pozitivă
+ce ia naştere în partea de jos.
+
+21
+00:01:15,051 --> 00:01:19,002
+Acesta este rezultatul inducţiei.
+Acest fenomen mai poartă
+
+22
+00:01:19,002 --> 00:01:21,062
+şi numele de polarizaţie.
+Am polarizat
+
+23
+00:01:21,062 --> 00:01:27,000
+într-un fel sarcina electrică.
+Substanţele care se comportă astfel
+
+24
+00:01:27,000 --> 00:01:31,052
+poartă numele de dielectrici,
+şi vom vorbi astăzi mai pe larg
+
+25
+00:01:31,052 --> 00:01:36,035
+despre dielectrici.
+Prima parte a cursului se află
+
+26
+00:01:36,035 --> 00:01:39,048
+pe internet,
+dacă mergeţi pe site-ul cursului
+
+27
+00:01:39,048 --> 00:01:41,043
+veţi găsi
+un document ce
+
+28
+00:01:41,043 --> 00:01:44,018
+descrie în detaliu
+ceea ce vă voi spune
+
+29
+00:01:44,018 --> 00:01:50,007
+acum.
+Să presupunem că avem un condensator
+
+30
+00:01:50,007 --> 00:01:58,091
+planar, două plăci
+pe care le încarc la un anumit potenţial,
+
+31
+00:01:58,091 --> 00:02:03,075
+o densitate superficială
+de sarcină +σ aici şi
+
+32
+00:02:03,075 --> 00:02:05,074
+-σ
+aici.
+
+33
+00:02:05,074 --> 00:02:08,006
+Folosesc notaţia
+„liber” pentru această sarcină,
+
+34
+00:02:08,006 --> 00:02:12,004
+veţi vedea imediat motivul,
+iar aici -σ_liber.
+
+35
+00:02:12,004 --> 00:02:14,004
+Există o diferenţă
+de potenţial între plăci,
+
+36
+00:02:14,004 --> 00:02:17,003
+avem sarcină pe ele,
+aria lor este A,
+
+37
+00:02:17,003 --> 00:02:22,000
+iar σ_liber este densitatea 
+de sarcină, cantitatea de sarcină
+
+38
+00:02:22,000 --> 00:02:24,007
+pe unitate de suprafaţă.
+Vom obţine un
+
+39
+00:02:24,007 --> 00:02:28,001
+câmp electric
+în această direcţie,
+
+40
+00:02:28,001 --> 00:02:32,000
+pe care îl numim E_liber.
+Distanţa dintre
+
+41
+00:02:32,000 --> 00:02:37,023
+plăci este d.
+Asta e ceea ce ştim.
+
+42
+00:02:37,023 --> 00:02:41,009
+Îndepărtez acum sursa
+de tensiune utilizată pentru aplicarea
+
+43
+00:02:41,009 --> 00:02:45,098
+diferenţei de potenţial.
+O deconectez cu totul.
+
+44
+00:02:45,098 --> 00:02:49,000
+Asta înseamnă că
+sarcina este blocată aici,
+
+45
+00:02:49,000 --> 00:02:54,046
+nu poate varia.
+Dar acum introduc un dielectric.
+
+46
+00:02:54,046 --> 00:02:57,001
+Introduc 
+un astfel de material.
+
+47
+00:02:57,001 --> 00:02:59,046
+Vom observa
+în partea de sus
+
+48
+00:02:59,046 --> 00:03:02,039
+un strat indus de sarcină
+electrică negativă,
+
+49
+00:03:02,039 --> 00:03:05,003
+iar în partea de jos
+un strat
+
+50
+00:03:05,003 --> 00:03:10,038
+indus de sarcină electrică pozitivă.
+Pe acesta îl notăm cu +σ_indus,
+
+51
+00:03:10,038 --> 00:03:15,009
+iar pe acesta 
+cu -σ_indus.
+
+52
+00:03:15,009 --> 00:03:17,065
+Singurul motiv
+pentru care am notat sarcina
+
+53
+00:03:17,065 --> 00:03:24,001
+cealaltă cu „liber”, este pentru 
+a o putea distinge de sarcina indusă.
+
+54
+00:03:24,001 --> 00:03:28,000
+Această sarcină indusă,
+cea cu verde,
+
+55
+00:03:28,000 --> 00:03:30,008
+va produce 
+un câmp electric în direcţia
+
+56
+00:03:30,008 --> 00:03:35,001
+opusă, 
+câmp ce-l notăm cu E_indus.
+
+57
+00:03:35,001 --> 00:03:40,006
+E_liber este
+evident egal cu
+
+58
+00:03:40,006 --> 00:03:45,058
+densitatea superficială
+de sarcină liberă împărţită la ε0,
+
+59
+00:03:45,058 --> 00:03:51,006
+iar E_indus este egal cu
+densitatea superficială de sarcină indusă
+
+60
+00:03:51,006 --> 00:03:53,062
+împărţită la
+ε0.
+
+61
+00:03:53,062 --> 00:03:58,059
+Câmpul E total
+este suma vectorială a celor două.
+
+62
+00:03:58,059 --> 00:04:11,068
+E_net, ca şi vector,
+este egal cu E_liber plus E_indus,
+
+63
+00:04:11,068 --> 00:04:17,003
+adunate vectorial.
+Cunoaştem
+
+64
+00:04:17,003 --> 00:04:20,077
+deja direcţia
+şi vrem să aflăm intensitatea câmpului.
+
+65
+00:04:20,077 --> 00:04:25,008
+Prin urmare,
+intensitatea câmpului E total va fi
+
+66
+00:04:25,008 --> 00:04:29,040
+egală cu intensitatea câmpului E
+creat de sarcina
+
+67
+00:04:29,040 --> 00:04:34,007
+liberă, minus intensitatea
+câmpului E creat de
+
+68
+00:04:34,007 --> 00:04:37,004
+sarcina indusă.
+Minus, pentru că vectorul acesta E
+
+69
+00:04:37,004 --> 00:04:41,055
+este în jos
+iar acesta este îndreptat în sus.
+
+70
+00:04:41,055 --> 00:04:44,084
+Dacă presupunem
+că sarcina indusă
+
+71
+00:04:44,084 --> 00:04:50,000
+este egală cu o anumită fracţie
+din sarcina liberă, presupun
+
+72
+00:04:50,000 --> 00:04:54,074
+aşadar că σ_indus este
+egal cu b ori
+
+73
+00:04:54,074 --> 00:04:56,053
+σ_liber.
+Am folosit
+
+74
+00:04:56,053 --> 00:04:59,005
+acum „i” pentru
+indus şi „f” pentru liber.
+
+75
+00:04:59,005 --> 00:05:02,094
+b este subunitar.
+Un b egal cu 0,1
+
+76
+00:05:02,094 --> 00:05:06,006
+ar însemna că σ_indus
+este egal cu 10% din
+
+77
+00:05:06,006 --> 00:05:10,006
+σ_liber, aceasta este semnificaţia b-ului.
+Evident că în acest
+
+78
+00:05:10,006 --> 00:05:16,095
+caz şi E_indus
+trebuie să fie b ori E_liber.
+
+79
+00:05:16,095 --> 00:05:19,003
+Este cât
+se poate de evident,
+
+80
+00:05:19,003 --> 00:05:23,000
+sunt dependente.
+Pot acum scrie
+
+81
+00:05:23,000 --> 00:05:27,000
+că E_total
+este egal cu
+
+82
+00:05:27,000 --> 00:05:33,048
+E_liber ori (1-b),
+iar acest (1-b)
+
+83
+00:05:33,048 --> 00:05:40,006
+îl notăm cu 1/κ.
+Îl vom nota cu 1/κ,
+
+84
+00:05:40,006 --> 00:05:44,007
+în carte veţi găsi 1/K.
+Dar sunt atât de obişnuit cu κ (kappa)
+
+85
+00:05:44,007 --> 00:05:47,002
+încât voi folosi
+κ în continuare.
+
+86
+00:05:47,002 --> 00:05:50,004
+Acest K, sau κ,
+cum vreţi să-i spuneţi,
+
+87
+00:05:50,004 --> 00:05:56,007
+poarta numele de
+constanta dielectrică.
+
+88
+00:05:56,007 --> 00:06:02,073
+Este o constantă adimensională.
+Putem acum scrie,
+
+89
+00:06:02,073 --> 00:06:06,009
+în general,
+că E -- nu voi mai folosi
+
+90
+00:06:06,009 --> 00:06:10,001
+„total” pentru E.
+De acum încolo, când scriu E,
+
+91
+00:06:10,001 --> 00:06:12,002
+mă voi referi
+tot timpul la câmpul electric
+
+92
+00:06:12,002 --> 00:06:16,048
+total.
+Putem acum scrie
+
+93
+00:06:16,048 --> 00:06:22,005
+că E este egal
+cu câmpul electric liber
+
+94
+00:06:22,005 --> 00:06:26,006
+împărţit la κ,
+pentru că (1-b) este egal cu
+
+95
+00:06:26,006 --> 00:06:31,029
+1/κ.
+Vedeţi aşadar că,
+
+96
+00:06:31,029 --> 00:06:36,004
+în experimentul acesta
+ce l-am realizat doar în teorie,
+
+97
+00:06:36,004 --> 00:06:40,001
+am adus sarcină pe plăci,
+am avut o anumită diferenţă de potenţial,
+
+98
+00:06:40,001 --> 00:06:43,007
+am îndepărtat sursa de tensiune,
+am introdus dielectricul, vedeţi că
+
+99
+00:06:43,007 --> 00:06:48,036
+valoarea câmpului E
+descreşte cu un factor κ.
+
+100
+00:06:48,036 --> 00:06:51,000
+Pentru sticlă
+κ este aproximativ 5.
+
+101
+00:06:51,000 --> 00:06:57,004
+Asta este o reducere semnificativă,
+vă voi arăta mai târziu.
+
+102
+00:06:57,004 --> 00:07:02,002
+Dacă valoarea câmpului
+electric scade, în acest caz
+
+103
+00:07:02,002 --> 00:07:05,002
+particular, este evident că
+diferenţa de potenţial dintre
+
+104
+00:07:05,002 --> 00:07:08,005
+plăci va scădea şi ea,
+pentru că diferenţa
+
+105
+00:07:08,005 --> 00:07:12,002
+de potenţial dintre plăci, V, 
+este tot timpul egală cu câmpul electric
+
+106
+00:07:12,002 --> 00:07:17,002
+dintre plăci ori distanţa d.
+Dacă acesta scade
+
+107
+00:07:17,002 --> 00:07:19,045
+cu un factor κ,
+dacă introduc acolo
+
+108
+00:07:19,045 --> 00:07:22,002
+dielectricul, nu modific d-ul,
+atunci desigur,
+
+109
+00:07:22,002 --> 00:07:25,044
+potenţialul dintre plăci
+va descreşte şi el.
+
+110
+00:07:25,044 --> 00:07:30,000
+Nimic din toate acestea
+nu este intuitiv, dar vi le voi demonstra
+
+111
+00:07:30,000 --> 00:07:34,002
+imediat.
+Întrebarea este acum,
+
+112
+00:07:34,002 --> 00:07:37,056
+mai este valabilă legea lui Gauss?
+Răspunsul este,
+
+113
+00:07:37,056 --> 00:07:41,084
+da, desigur,
+legea lui Gauss este valabilă.
+
+114
+00:07:41,084 --> 00:07:44,094
+Legea lui Gauss 
+spune că
+
+115
+00:07:44,094 --> 00:07:55,081
+integrală de suprafaţă închisă 
+din E punct dA este
+
+116
+00:07:55,081 --> 00:08:02,042
+egală cu 1/ε0 ori suma tuturor 
+sarcinilor din interiorul suprafeţei.
+
+117
+00:08:02,042 --> 00:08:05,003
+Toate sarcinile!
+Sarcina totală,
+
+118
+00:08:05,003 --> 00:08:08,004
+adică atât
+sarcina indusă,
+
+119
+00:08:08,004 --> 00:08:11,036
+cât şi
+sarcina liberă.
+
+120
+00:08:11,036 --> 00:08:15,002
+Scriu aici „total”,
+ca să nu uitaţi acest lucru.
+
+121
+00:08:15,002 --> 00:08:21,082
+Dar Q_total este egal cu
+Q_liber plus
+
+122
+00:08:21,082 --> 00:08:25,003
+Q_indus.
+Această sarcină
+
+123
+00:08:25,003 --> 00:08:31,005
+este negativă
+iar aceasta pozitivă.
+
+124
+00:08:31,005 --> 00:08:35,001
+Sarcina liberă,
+cea pozitivă,
+
+125
+00:08:35,001 --> 00:08:38,001
+este plus, şi pe aceeaşi
+suprafaţă, dacă trasăm suprafaţa
+
+126
+00:08:38,001 --> 00:08:41,062
+Gaussiană deasupra,
+avem sarcina negativă
+
+127
+00:08:41,062 --> 00:08:44,040
+Q_indus.
+Prin urmare,
+
+128
+00:08:44,040 --> 00:08:48,038
+conform legii lui Gauss
+trebuie să le luăm pe ambele
+
+129
+00:08:48,038 --> 00:08:53,000
+în considerare.
+Vom scrie aşadar
+
+130
+00:08:53,000 --> 00:08:58,009
+1/ε0
+ori suma sarcinilor libere,
+
+131
+00:08:58,009 --> 00:09:01,006
+dar trebuie să luăm
+în considerare şi
+
+132
+00:09:01,006 --> 00:09:03,009
+sarcina indusă,
+aşa că
+
+133
+00:09:03,009 --> 00:09:05,005
+împărţim totul
+la κ.
+
+134
+00:09:05,005 --> 00:09:08,002
+Am luat astfel automat
+în considerare şi
+
+135
+00:09:08,002 --> 00:09:11,005
+sarcina indusă.
+Putem modifica
+
+136
+00:09:11,005 --> 00:09:17,093
+foarte uşor legea lui Gauss
+prin introducerea factorului κ.
+
+137
+00:09:17,093 --> 00:09:20,035
+Constanta dielectrică
+este adimensională,
+
+138
+00:09:20,035 --> 00:09:24,000
+după cum am menţionat deja,
+iar în vid este egală cu unu,
+
+139
+00:09:24,000 --> 00:09:27,008
+prin definiţie.
+Gazele la presiunea de o atmosferă
+
+140
+00:09:27,008 --> 00:09:31,003
+au de obicei o constantă 
+dielectrică doar puţin mai mare de unu.
+
+141
+00:09:31,003 --> 00:09:34,002
+Vom presupune că
+este unu în majoritatea cazurilor.
+
+142
+00:09:34,002 --> 00:09:37,003
+Constanta dielectrică
+a plasticului este egală cu 3,
+
+143
+00:09:37,003 --> 00:09:39,049
+iar pentru sticlă,
+un izolator extrem de bun,
+
+144
+00:09:39,049 --> 00:09:45,006
+constanta dielectrică
+este egală cu 5.
+
+145
+00:09:45,006 --> 00:09:50,003
+Dacă avem un câmp extern
+ce poate induce dipoli în
+
+146
+00:09:50,003 --> 00:09:54,002
+molecule -- există însă
+substanţe
+
+147
+00:09:54,002 --> 00:09:58,004
+care au dipoli
+chiar şi în absenţa
+
+148
+00:09:58,004 --> 00:10:04,005
+unui câmp electric.
+Dacă aplicăm
+
+149
+00:10:04,005 --> 00:10:07,008
+acum un câmp extern,
+aceşti dipoli se vor
+
+150
+00:10:07,008 --> 00:10:10,009
+alinia în lungul câmpului electric.
+Am realizat şi un experiment,
+
+151
+00:10:10,009 --> 00:10:13,004
+cu seminţe de iarbă,
+poate vi-l mai amintiţi.
+
+152
+00:10:13,004 --> 00:10:16,001
+Pe măsură ce se aliniază
+pe direcţia câmpului electric,
+
+153
+00:10:16,001 --> 00:10:17,005
+câmpul electric
+va
+
+154
+00:10:17,005 --> 00:10:19,003
+creşte.
+Pe de altă parte,
+
+155
+00:10:19,003 --> 00:10:21,007
+datorită
+temperaturii substanţei,
+
+156
+00:10:21,007 --> 00:10:24,005
+aceşti dipoli,
+aceste molecule ce sunt
+
+157
+00:10:24,005 --> 00:10:28,002
+ele însele dipoli acum,
+datorită mişcării haotice,
+
+158
+00:10:28,002 --> 00:10:30,068
+vor încerca să scape de 
+această aliniere datorită
+
+159
+00:10:30,068 --> 00:10:32,073
+temperaturii.
+Va exista aşadar o
+
+160
+00:10:32,073 --> 00:10:35,009
+o competiţie între
+câmpul electric pe de-o parte,
+
+161
+00:10:35,009 --> 00:10:39,002
+ce încearcă să-l alinieze,
+şi temperatură ce încearcă să
+
+162
+00:10:39,002 --> 00:10:42,001
+rupă această aliniere.
+Dacă intensitatea câmpului electric este
+
+163
+00:10:42,001 --> 00:10:47,039
+suficient de mare,
+putem obţine o aliniere substanţială.
+
+164
+00:10:47,039 --> 00:10:51,059
+Dipolii permanenţi, de regulă,
+sunt mult mai puternici
+
+165
+00:10:51,059 --> 00:10:55,005
+decât orice dipol indus 
+prin metode tipice într-un
+
+166
+00:10:55,005 --> 00:10:59,005
+laborator. 
+Dipolii naturali
+
+167
+00:10:59,005 --> 00:11:02,003
+aşadar, au un κ
+mult mai mare,
+
+168
+00:11:02,003 --> 00:11:06,001
+o constantă dielectrică
+mult mai mare decât substanţele
+
+169
+00:11:06,001 --> 00:11:09,001
+despre care tocmai am vorbit,
+substanţe care nu au
+
+170
+00:11:09,001 --> 00:11:11,005
+ele însele dipoli.
+Apa este un exemplu
+
+171
+00:11:11,005 --> 00:11:14,018
+foarte bun.
+Electronii petrec puţin
+
+172
+00:11:14,018 --> 00:11:17,053
+mai mult timp în apropierea 
+oxigenului decât în apropierea
+
+173
+00:11:17,053 --> 00:11:20,007
+hidrogenului,
+iar apa are o constantă
+
+174
+00:11:20,007 --> 00:11:23,029
+dielectrică egală cu 80.
+Enorm de mult.
+
+175
+00:11:23,029 --> 00:11:26,005
+Dacă scădem temperatura,
+gheaţa la temperatura
+
+176
+00:11:26,005 --> 00:11:29,058
+de -40 de grade
+are o constantă dielectrică
+
+177
+00:11:29,058 --> 00:11:33,018
+şi mai mare,
+şi anume, 100.
+
+178
+00:11:35,096 --> 00:11:40,008
+Urmează acum
+patru demonstraţii,
+
+179
+00:11:40,008 --> 00:11:42,083
+patru experimente.
+Pe unul dintre ele
+
+180
+00:11:42,083 --> 00:11:47,001
+l-aţi văzut deja.
+Încercaţi să le urmăriţi
+
+181
+00:11:47,001 --> 00:11:49,002
+cu cea mai mare atenţie,
+pentru că dacă v-a scăpat
+
+182
+00:11:49,002 --> 00:11:51,000
+chiar şi cel mai mic detaliu,
+veţi pierde
+
+183
+00:11:51,000 --> 00:11:56,002
+mult.
+Am două plăci paralele
+
+184
+00:11:56,002 --> 00:12:00,094
+ce se află pe acea masă,
+ce le-aţi văzut şi data trecută,
+
+185
+00:12:00,094 --> 00:12:04,002
+iar aici
+am un ampermetru.
+
+186
+00:12:04,002 --> 00:12:08,023
+A-ul de aici
+este de la ampermetru.
+
+187
+00:12:08,023 --> 00:12:13,000
+Distanţa dintre 
+plăci este d.
+
+188
+00:12:13,000 --> 00:12:18,002
+Voi încărca condensatorul
+prin conectarea acestor
+
+189
+00:12:18,002 --> 00:12:23,071
+capete la o
+sursă de tensiune de
+
+190
+00:12:23,071 --> 00:12:29,007
+1.500 de volţi.
+Voi ajusta
+
+191
+00:12:29,007 --> 00:12:32,005
+lumina,
+pentru că veţi vedea experimentul
+
+192
+00:12:32,005 --> 00:12:36,005
+acolo.
+Distanţa iniţială
+
+193
+00:12:36,005 --> 00:12:39,092
+va fi d -- acesta este
+experimentul numărul 1 -- cu
+
+194
+00:12:39,092 --> 00:12:44,000
+o distanţă d de un milimetru.
+Potenţialul V înseamnă tot timpul
+
+195
+00:12:44,000 --> 00:12:47,001
+diferenţa 
+de potenţial dintre
+
+196
+00:12:47,001 --> 00:12:51,007
+plăci, 
+egală cu 1.500 de volţi.
+
+197
+00:12:51,007 --> 00:12:53,034
+Iertaţi-mă pentru cei doi de V,
+nu am ce face.
+
+198
+00:12:53,034 --> 00:12:55,070
+Cel de aici
+este diferenţă de potenţial,
+
+199
+00:12:55,070 --> 00:13:01,074
+iar acesta este volţi.
+După încărcarea plăcilor,
+
+200
+00:13:01,074 --> 00:13:06,003
+deconectez -- este foarte
+important -- deconectez
+
+201
+00:13:06,003 --> 00:13:10,001
+sursa de tensiune
+pe care o notez cu PS.
+
+202
+00:13:10,001 --> 00:13:13,079
+Asta e tot.
+Sarcina este acum blocată.
+
+203
+00:13:13,079 --> 00:13:17,039
+Pe măsură ce se încarcă,
+după cum aţi văzut şi data trecută,
+
+204
+00:13:17,039 --> 00:13:22,005
+veţi vedea că ampermetrul
+indică o creştere bruscă a curentului,
+
+205
+00:13:22,005 --> 00:13:25,096
+pentru că, pe măsură ce aduc sarcină 
+pe plăci, sarcina trebuie să se deplaseze
+
+206
+00:13:25,096 --> 00:13:30,001
+dinspre sursa de tensiune înspre plăci,
+şi veţi vedea o creştere
+
+207
+00:13:30,001 --> 00:13:36,001
+bruscă a curentului
+ce va determina indicatorul
+
+208
+00:13:36,001 --> 00:13:38,007
+ampermetrului, 
+ce-l veţi vedea
+
+209
+00:13:38,007 --> 00:13:41,007
+pe perete,
+să se deplaseze scurt spre dreapta,
+
+210
+00:13:41,007 --> 00:13:44,002
+şi apoi va reveni înapoi.
+Acest lucru indică
+
+211
+00:13:44,002 --> 00:13:49,005
+încărcarea plăcilor.
+Voi creşte apoi
+
+212
+00:13:49,005 --> 00:13:52,008
+distanţa -- acestea sunt
+condiţiile iniţiale aşadar,
+
+213
+00:13:52,008 --> 00:13:56,002
+fără dielectric --
+şi voi creşte acum distanţa d la
+
+214
+00:13:56,002 --> 00:13:59,008
+7 milimetri.
+Acest lucru l-am făcut şi
+
+215
+00:13:59,008 --> 00:14:01,068
+data trecută.
+Repet experimentul
+
+216
+00:14:01,068 --> 00:14:06,049
+pentru că am nevoie de el
+pentru următoarea demonstraţie.
+
+217
+00:14:06,049 --> 00:14:10,096
+Cresc distanţa la 7 milimetri.
+Sarcina,
+
+218
+00:14:10,096 --> 00:14:13,053
+ce o notez cu Q_liber,
+adică sarcina
+
+219
+00:14:13,053 --> 00:14:16,004
+de pe plăci,
+nu se va
+
+220
+00:14:16,004 --> 00:14:18,006
+modifica,
+este blocată.
+
+221
+00:14:18,006 --> 00:14:23,001
+Sarcina nu poate varia
+când măresc distanţa.
+
+222
+00:14:23,001 --> 00:14:25,003
+Asta înseamnă
+că ampermetrul nu va indica
+
+223
+00:14:25,003 --> 00:14:28,075
+nimic, nu există
+deplasare de sarcină.
+
+224
+00:14:28,075 --> 00:14:35,040
+Câmpul electric E nu se modifică, 
+pentru că E este egal cu
+
+225
+00:14:35,040 --> 00:14:39,008
+σ împărţit la ε0.
+Dacă Q_liber nu se
+
+226
+00:14:39,008 --> 00:14:43,004
+modifică, σ nu poate varia.
+Prin urmare, nici câmpul electric
+
+227
+00:14:43,004 --> 00:14:51,001
+nu poate varia.
+Dar potenţialul V
+
+228
+00:14:51,001 --> 00:14:59,000
+va creşte de 7 ori,
+pentru că V este egal cu E ori
+
+229
+00:14:59,000 --> 00:15:01,074
+d.
+E rămâne constant,
+
+230
+00:15:01,074 --> 00:15:06,000
+d creşte, V trebuie să crească.
+Vreau să vedeţi acest lucru
+
+231
+00:15:06,000 --> 00:15:09,021
+prima dată,
+chiar dacă l-aţi mai văzut.
+
+232
+00:15:09,021 --> 00:15:14,003
+Şi am nevoie de noile
+condiţii pentru următorul
+
+233
+00:15:14,003 --> 00:15:17,091
+experiment.
+Diferenţa de potenţial va creşte de la 1.500
+
+234
+00:15:17,091 --> 00:15:23,000
+de volţi la aproximativ 10.000,
+creşte
+
+235
+00:15:23,000 --> 00:15:25,004
+de 7 ori.
+Veţi vedea acest lucru
+
+236
+00:15:25,004 --> 00:15:30,061
+acolo.
+Vedeţi acolo ampermetrul
+
+237
+00:15:33,055 --> 00:15:36,086
+şi voltmetrul
+despre care
+
+238
+00:15:36,086 --> 00:15:39,002
+am discutat data trecută,
+precum şi
+
+239
+00:15:39,002 --> 00:15:41,005
+plăcile.
+Se află la o distanţă de 1 milimetru
+
+240
+00:15:41,005 --> 00:15:45,081
+una de cealaltă.
+Voi încărca
+
+241
+00:15:45,081 --> 00:15:50,013
+acum plăcile,
+fiţi atenţi la ampermetru,
+
+242
+00:15:50,013 --> 00:15:53,005
+trei, doi, unu, zero,
+aţi văzut o creştere bruscă
+
+243
+00:15:53,005 --> 00:15:56,046
+a curentului
+Am încărcat condensatorul.
+
+244
+00:15:56,046 --> 00:15:59,005
+Este încărcat acum.
+Voltmetrul nu indică
+
+245
+00:15:59,005 --> 00:16:01,032
+mare lucru,
+1.500 de volţi.
+
+246
+00:16:01,032 --> 00:16:03,061
+A crescut poate puţin,
+dar nu foarte mult.
+
+247
+00:16:03,061 --> 00:16:07,005
+Voi creşte acum
+distanţa la 7
+
+248
+00:16:07,005 --> 00:16:11,005
+milimetri. 
+Ampermetrul nu face nimic,
+
+249
+00:16:11,005 --> 00:16:14,045
+sarcina este blocată,
+nu există nicio deplasare de sarcină înspre
+
+250
+00:16:14,045 --> 00:16:17,057
+plăci, 
+dar uitaţi-vă la voltmetru.
+
+251
+00:16:17,057 --> 00:16:21,000
+Tensiunea acestuia creşte,
+se apropie de
+
+252
+00:16:21,000 --> 00:16:23,072
+10.000 de volţi,
+deşi afişajul nu este foarte
+
+253
+00:16:23,072 --> 00:16:26,049
+precis.
+Am ajuns la o distanţă de
+
+254
+00:16:26,049 --> 00:16:29,061
+7 milimetri,
+ceea ce ne-am şi propus.
+
+255
+00:16:29,061 --> 00:16:31,083
+Vedem că distanţa
+dintre plăci este
+
+256
+00:16:31,083 --> 00:16:35,000
+mai mare
+decât înainte.
+
+257
+00:16:35,000 --> 00:16:38,003
+Aceasta este prima demonstraţie,
+identică cu cea
+
+258
+00:16:38,003 --> 00:16:45,007
+de data trecută.
+Urmează acum a doua.
+
+259
+00:16:45,007 --> 00:16:52,018
+Condiţiile iniţiale sunt acum astfel:
+V este egal cu 10 kilovolţi,
+
+260
+00:16:52,018 --> 00:16:56,098
+adică diferenţa 
+de potenţial dintre plăci,
+
+261
+00:16:56,098 --> 00:16:59,030
+iar d
+este egal cu 7 milimetri,
+
+262
+00:16:59,030 --> 00:17:01,064
+şi va rămâne
+constantă.
+
+263
+00:17:01,064 --> 00:17:05,013
+În acest moment
+κ este egal cu 1.
+
+264
+00:17:05,013 --> 00:17:10,006
+Dar acum,
+voi introduce dielectricul.
+
+265
+00:17:10,006 --> 00:17:13,009
+Iau o bucată de sticlă
+şi o introduc în acea
+
+266
+00:17:13,009 --> 00:17:19,003
+deschizătură.
+Q_liber nu se poate deplasa niciunde,
+
+267
+00:17:19,003 --> 00:17:22,001
+pentru că am deconectat
+sursa de tensiune.
+
+268
+00:17:22,001 --> 00:17:29,005
+Q_liber nu variază aşadar.
+Dacă sarcina liberă
+
+269
+00:17:29,005 --> 00:17:33,060
+nu variază,
+ampermetrul nu va indica nimic.
+
+270
+00:17:33,060 --> 00:17:39,004
+Pe măsură ce introduc
+acest dielectric, ampermetrul
+
+271
+00:17:39,004 --> 00:17:43,001
+nu va indica nimic.
+Dar, după cum am discutat
+
+272
+00:17:43,001 --> 00:17:46,007
+deja, câmpul electric,
+mă refer la câmpul electric
+
+273
+00:17:46,007 --> 00:17:50,051
+total, 
+va descreşte cu acel factor κ.
+
+274
+00:17:50,051 --> 00:17:52,056
+Despre asta
+discutăm până la urmă.
+
+275
+00:17:52,056 --> 00:17:55,003
+Va descreşte
+de 5 ori.
+
+276
+00:17:55,003 --> 00:18:00,000
+Din moment ce potenţialul
+este egal cu câmpul electric ori d -- dar
+
+277
+00:18:00,000 --> 00:18:02,085
+d-ul îl menţin la 7 milimetri,
+nu-l modific --
+
+278
+00:18:02,085 --> 00:18:05,001
+dacă E-ul descreşte
+cu factorul κ,
+
+279
+00:18:05,001 --> 00:18:09,047
+atunci evident că şi
+potenţialul va descreşte cu un factor κ.
+
+280
+00:18:09,047 --> 00:18:12,006
+Veţi vedea acum
+ce-a de a doua parte,
+
+281
+00:18:12,006 --> 00:18:14,003
+fără să 
+modific nimic altceva,
+
+282
+00:18:14,003 --> 00:18:17,009
+voi introducea această
+bucată de sticlă cu o grosime de
+
+283
+00:18:17,009 --> 00:18:21,007
+7 milimetri, o introduc înăuntru.
+Ampermetrul nu va indica
+
+284
+00:18:21,007 --> 00:18:24,004
+nimic,
+dar diferenţa
+
+285
+00:18:24,004 --> 00:18:28,000
+de potenţial dintre plăci
+va descreşte de 5 ori,
+
+286
+00:18:28,000 --> 00:18:32,009
+astfel că 
+voltmetrul va indica
+
+287
+00:18:32,009 --> 00:18:35,025
+o valoare mai mică.
+Sunteţi pregătiţi?
+
+288
+00:18:35,025 --> 00:18:39,009
+Să-i dăm drumul.
+Diferenţa de potenţial
+
+289
+00:18:39,009 --> 00:18:42,002
+este acum mai mică,
+dar curentul
+
+290
+00:18:42,002 --> 00:18:44,036
+înspre sau dinspre plăci
+a fost zero.
+
+291
+00:18:44,036 --> 00:18:47,003
+Dacă o scot,
+diferenţa de potenţial revine
+
+292
+00:18:47,003 --> 00:18:51,005
+la valoarea de 10.000 de volţi.
+Aceasta este demonstraţia numărul
+
+293
+00:18:51,005 --> 00:18:57,005
+doi.
+Trecem acum la a treia.
+
+294
+00:18:57,005 --> 00:19:00,000
+Dar înainte să trecem la a treia,
+trebuie să-mi pun
+
+295
+00:19:00,000 --> 00:19:03,008
+o întrebare: 
+ce s-a întâmplat cu capacitatea
+
+296
+00:19:03,008 --> 00:19:08,074
+după ce am introdus
+dielectricul între cele două plăci?
+
+297
+00:19:08,074 --> 00:19:13,075
+Păi, capacitatea a fost definită
+ca raportul dintre sarcina
+
+298
+00:19:13,075 --> 00:19:17,067
+liberă şi diferenţa
+de potenţial dintre plăci.
+
+299
+00:19:17,067 --> 00:19:20,045
+Aceasta este
+definiţia capacităţii.
+
+300
+00:19:20,045 --> 00:19:24,002
+Dar în acest experiment,
+după cum aţi văzut,
+
+301
+00:19:24,002 --> 00:19:27,001
+tensiunea a scăzut
+cu un factor κ,
+
+302
+00:19:27,001 --> 00:19:29,049
+prin urmare capacitatea
+creşte cu un factor κ,
+
+303
+00:19:29,049 --> 00:19:33,001
+pentru că Q_liber
+nu s-a modificat.
+
+304
+00:19:33,001 --> 00:19:37,002
+Capacitatea,
+după cum am demonstrat data trecută
+
+305
+00:19:37,002 --> 00:19:40,009
+pentru
+condensatoarele plane,
+
+306
+00:19:40,009 --> 00:19:45,067
+este egală cu aria ori
+ε0 împărţit la distanţa d.
+
+307
+00:19:45,067 --> 00:19:48,009
+Dar ştim deja
+că după introducerea
+
+308
+00:19:48,009 --> 00:19:51,001
+sticlei,
+capacitatea este mai
+
+309
+00:19:51,001 --> 00:19:54,004
+mare cu un factor κ,
+formula trebuie modificată
+
+310
+00:19:54,004 --> 00:19:58,001
+astfel.
+Pentru calcularea capacităţii,
+
+311
+00:19:58,001 --> 00:20:02,002
+trebuie să înmulţim 
+pur şi simplu cu constanta dielectrică
+
+312
+00:20:02,002 --> 00:20:06,004
+a stratului subţire
+ce separă cei doi conductori,
+
+313
+00:20:06,004 --> 00:20:10,004
+stratul de grosime d
+ce se află între cele două
+
+314
+00:20:10,004 --> 00:20:12,031
+plăci.
+În cazul de faţă
+
+315
+00:20:12,031 --> 00:20:14,062
+am introdus 
+sticlă.
+
+316
+00:20:18,048 --> 00:20:22,003
+Voi scrie acum câteva ecuaţii
+pe care le veţi putea folosi
+
+317
+00:20:22,003 --> 00:20:25,004
+de acum încolo,
+şi pe care le vom folosi
+
+318
+00:20:25,004 --> 00:20:28,003
+în următoarele două
+demonstraţii.
+
+319
+00:20:28,003 --> 00:20:31,002
+Prima spune că E,
+adică E-ul total,
+
+320
+00:20:31,002 --> 00:20:37,025
+când spun E mă refer la E-ul total,
+este egal cu σ_liber
+
+321
+00:20:37,025 --> 00:20:41,046
+împărţit la 
+ε0  ori κ.
+
+322
+00:20:41,046 --> 00:20:44,026
+Acel κ 
+despre care am vorbit mai înainte.
+
+323
+00:20:44,026 --> 00:20:48,030
+Aceasta este
+ecuaţia numărul unu.
+
+324
+00:20:48,030 --> 00:20:51,002
+Cea de-a doua
+spune că diferenţa
+
+325
+00:20:51,002 --> 00:20:55,006
+de potenţial dintre plăci
+este tot timpul egală cu câmpul electric
+
+326
+00:20:55,006 --> 00:21:00,003
+dintre plăci ori d,
+pentru că integrală din E punct dl
+
+327
+00:21:00,003 --> 00:21:04,071
+pe o anumită distanţă
+este egală cu diferenţa de potenţial.
+
+328
+00:21:04,071 --> 00:21:07,081
+Iar cea
+de-a treia ecuaţie
+
+329
+00:21:07,081 --> 00:21:10,009
+este
+cea de acolo,
+
+330
+00:21:10,009 --> 00:21:16,089
+C este egal cu Q_liber
+împărţit la diferenţa de potenţial,
+
+331
+00:21:16,089 --> 00:21:21,003
+care, în funcţie de aria plăcii,
+este egală cu A ori ε0,
+
+332
+00:21:21,003 --> 00:21:24,000
+împărţit la d
+ori κ.
+
+333
+00:21:24,000 --> 00:21:27,063
+Aceasta este
+ecuaţia numărul trei.
+
+334
+00:21:30,046 --> 00:21:40,054
+Acum urmează al treilea experiment.
+În această demonstraţie
+
+335
+00:21:40,054 --> 00:21:44,099
+nu voi deconecta
+sursa de tensiune.
+
+336
+00:21:51,093 --> 00:21:54,001
+Diferenţa 
+de potenţial iniţială este de
+
+337
+00:21:54,001 --> 00:21:57,002
+1.500 de volţi,
+la fel ca în primul
+
+338
+00:21:57,002 --> 00:22:02,007
+experiment, 
+dar sursa de tensiune va rămâne conectată,
+
+339
+00:22:02,007 --> 00:22:08,002
+nu o voi îndepărta.
+Distanţa d iniţială este de
+
+340
+00:22:08,002 --> 00:22:13,001
+un milimetru,
+la fel ca în primul experiment.
+
+341
+00:22:13,001 --> 00:22:17,006
+Fără dielectric.
+Voi încărca plăcile,
+
+342
+00:22:17,006 --> 00:22:20,007
+la fel ca în primul experiment,
+şi vom observa
+
+343
+00:22:20,007 --> 00:22:24,077
+evident că 
+ampermetrul va indica această sarcină.
+
+344
+00:22:24,077 --> 00:22:28,005
+O creştere
+bruscă a curentului.
+
+345
+00:22:28,005 --> 00:22:31,009
+Voi creşte apoi
+distanţa d până la 7
+
+346
+00:22:31,009 --> 00:22:35,008
+milimetri.
+Rezultatul va fi
+
+347
+00:22:35,008 --> 00:22:39,005
+foarte diferit faţă
+de ceea ce am văzut în primul experiment.
+
+348
+00:22:39,005 --> 00:22:42,003
+Motivul este că
+diferenţa de potenţial va fi
+
+349
+00:22:42,003 --> 00:22:47,064
+constantă, pentru că
+sursa de tensiune nu este deconectată,
+
+350
+00:22:47,064 --> 00:22:52,039
+sursa de tensiune
+rămâne la locul ei.
+
+351
+00:22:52,039 --> 00:22:55,048
+Uitaţi-vă acum
+la ecuaţia numărul doi.
+
+352
+00:22:55,048 --> 00:22:59,008
+Dacă V nu poate varia,
+şi dacă distanţa d creşte
+
+353
+00:22:59,008 --> 00:23:04,002
+de şapte ori,
+câmpul electric trebuie să descrească
+
+354
+00:23:04,002 --> 00:23:08,000
+de şapte ori.
+Câmpul electric
+
+355
+00:23:08,000 --> 00:23:13,003
+va scădea de 7 ori,
+pentru că distanţa creşte de la
+
+356
+00:23:13,003 --> 00:23:17,002
+un milimetru la 7 milimetri.
+Câmpul electric variază
+
+357
+00:23:17,002 --> 00:23:22,000
+în acest caz, pentru că d creşte.
+Dacă ne interesează
+
+358
+00:23:22,000 --> 00:23:25,005
+capacitatea,
+aceasta va
+
+359
+00:23:25,005 --> 00:23:30,001
+scădea şi ea de 7 ori,
+pentru că dacă ne uităm la această
+
+360
+00:23:30,001 --> 00:23:34,002
+ecuaţie, κ este egal cu 1.
+Dacă d creşte
+
+361
+00:23:34,002 --> 00:23:37,081
+de 7 ori,
+C scade de 7 ori.
+
+362
+00:23:37,081 --> 00:23:40,002
+Uitaţi-vă aici,
+nimic mai simplu.
+
+363
+00:23:40,002 --> 00:23:44,028
+Aşadar şi C-ul trebuie
+să scadă de 7 ori.
+
+364
+00:23:47,014 --> 00:23:51,002
+Nicio legătură cu dielectricul.
+Niciuna.
+
+365
+00:23:51,002 --> 00:23:58,069
+Q_liber trebuie să scadă
+de asemenea de 7 ori,
+
+366
+00:23:58,069 --> 00:24:02,030
+pentru că, dacă 
+diferenţa de potenţial nu se modifică,
+
+367
+00:24:02,030 --> 00:24:06,037
+dar 
+capacitatea C
+
+368
+00:24:06,037 --> 00:24:08,026
+scade de 7 ori,
+şi Q_liber trebuie
+
+369
+00:24:08,026 --> 00:24:09,084
+să scadă
+de 7 ori.
+
+370
+00:24:09,084 --> 00:24:12,058
+Acesta scade de 7 ori,
+acesta nu se modifică.
+
+371
+00:24:12,058 --> 00:24:16,007
+Sarcina liberă descreşte
+aşadar de 7 ori.
+
+372
+00:24:16,007 --> 00:24:20,000
+Dar ce înseamnă acest lucru?
+Înseamnă că va exista
+
+373
+00:24:20,000 --> 00:24:23,006
+o deplasare de sarcină
+dinspre plăci,
+
+374
+00:24:23,006 --> 00:24:27,008
+iar ampermetrul
+îmi va spune că există o deplasare
+
+375
+00:24:27,008 --> 00:24:31,008
+de sarcină dinspre plăci.
+Indicatorul
+
+376
+00:24:31,008 --> 00:24:34,033
+se va deplasa
+în partea stângă.
+
+377
+00:24:34,033 --> 00:24:39,002
+Pe măsură ce măresc distanţa aşadar,
+în funcţie de cât de repede
+
+378
+00:24:39,002 --> 00:24:41,041
+pot face asta,
+sarcina se va deplasa dinspre
+
+379
+00:24:41,041 --> 00:24:46,000
+plăci în direcţia opusă.
+Sarcina va părăsi
+
+380
+00:24:46,000 --> 00:24:49,007
+plăcile.
+Ampermetrul va indica
+
+381
+00:24:49,007 --> 00:24:52,009
+de fiecare dată
+când măresc distanţa,
+
+382
+00:24:52,009 --> 00:24:57,003
+se va deplasa în această direcţie.
+Să facem asta prima dată,
+
+383
+00:24:57,003 --> 00:25:02,047
+fără dielectric,
+menţinând pur şi simplu sursa de tensiune
+
+384
+00:25:02,047 --> 00:25:05,002
+conectată.
+Trebuie să mă reîntorc
+
+385
+00:25:05,002 --> 00:25:09,004
+prima dată la un milimetru,
+adică ceea ce fac acum.
+
+386
+00:25:09,004 --> 00:25:12,009
+Folosesc această folie subţire
+pentru a mă asigura că nu le
+
+387
+00:25:12,009 --> 00:25:21,072
+scurtcircuitez.
+Am ajuns la un milimetri şi voi
+
+388
+00:25:21,072 --> 00:25:26,003
+conecta acum 
+cei 1.500 de volţi.
+
+389
+00:25:26,003 --> 00:25:30,009
+Pe măsură ce se încarcă,
+indicatorul ampermetrului
+
+390
+00:25:30,009 --> 00:25:32,003
+se va deplasa 
+în partea dreaptă, nu?
+
+391
+00:25:32,003 --> 00:25:34,040
+Asta înseamnă
+că încărcăm plăcile.
+
+392
+00:25:34,040 --> 00:25:36,053
+Să-i dăm drumul,
+aţi văzut?
+
+393
+00:25:36,053 --> 00:25:39,003
+Eu nu am văzut 
+pentru că trebuia să mă concentrez.
+
+394
+00:25:39,003 --> 00:25:41,001
+A făcut aşa?
+Bine.
+
+395
+00:25:41,001 --> 00:25:44,004
+Acum sunt încărcate.
+Nu întrerupem această
+
+396
+00:25:44,004 --> 00:25:48,000
+conexiune, plăcile sunt tot
+timpul conectate la sursa de tensiune.
+
+397
+00:25:48,000 --> 00:25:53,006
+Voi creşte acum distanţa,
+şi pe măsură ce distanţa creşte,
+
+398
+00:25:53,006 --> 00:25:57,007
+potenţialul rămâne constant.
+Indicaţia voltmetrului nu se
+
+399
+00:25:57,007 --> 00:26:01,002
+modifică, va sta exact unde este,
+pentru că cei 1.500
+
+400
+00:26:01,002 --> 00:26:03,009
+de volţi
+rămân 1.500 de volţi.
+
+401
+00:26:03,009 --> 00:26:07,007
+Dar pe măsură ce creştem distanţa,
+sarcina de pe plăci
+
+402
+00:26:07,007 --> 00:26:12,007
+scade, 
+iar ampermetrul va merge înspre stânga.
+
+403
+00:26:12,007 --> 00:26:16,003
+Ori de câte ori o modific,
+ca şi acum,
+
+404
+00:26:16,003 --> 00:26:18,003
+se va deplasa înspre stânga.
+Modific,
+
+405
+00:26:18,003 --> 00:26:20,006
+din nou.
+Cresc la doi milimetri, la trei milimetri,
+
+406
+00:26:20,006 --> 00:26:24,001
+patru milimetri,
+cinci milimetri,
+
+407
+00:26:24,001 --> 00:26:26,003
+cinci milimetri,
+şase milimetri,
+
+408
+00:26:26,003 --> 00:26:28,007
+şi în sfârşit,
+şapte milimetri.
+
+409
+00:26:28,007 --> 00:26:32,006
+De fiecare dată când am mărit distanţa
+indicatorul s-a deplasat
+
+410
+00:26:32,006 --> 00:26:34,050
+înspre stânga.
+De fiecare dată am îndepărtat
+
+411
+00:26:34,050 --> 00:26:41,000
+sarcină.
+Aceasta este demonstraţia numărul
+
+412
+00:26:41,000 --> 00:26:43,000
+trei.
+De ce am crescut la şapte
+
+413
+00:26:43,000 --> 00:26:44,093
+milimetri?
+Aţi ghicit!
+
+414
+00:26:44,093 --> 00:26:47,041
+Voi introduce
+acum dielectricul.
+
+415
+00:26:47,041 --> 00:26:51,004
+În experimentul numărul 4,
+încep cu 1.500 de
+
+416
+00:26:51,004 --> 00:26:58,007
+volţi, distanţa d
+este egală cu şapte milimetri
+
+417
+00:26:58,007 --> 00:27:02,007
+şi rămâne
+constantă.
+
+418
+00:27:02,007 --> 00:27:07,003
+Încă nu există un dielectric,
+dar voi introduce unul.
+
+419
+00:27:07,003 --> 00:27:14,002
+Avem acum un κ.
+Ce se va întâmpla?
+
+420
+00:27:14,002 --> 00:27:18,003
+Desigur,
+V-ul nu se modifică,
+
+421
+00:27:18,003 --> 00:27:21,000
+pentru că este V-ul
+sursei de tensiune,
+
+422
+00:27:21,000 --> 00:27:28,042
+prin urmare nu poate varia.
+Ce se întâmplă cu Q_liber?
+
+423
+00:27:31,003 --> 00:27:37,000
+Uitaţi-vă la această ecuaţie.
+Când introduc dielectricul,
+
+424
+00:27:37,000 --> 00:27:40,008
+capacitatea 
+creşte cu un factor κ.
+
+425
+00:27:40,008 --> 00:27:45,007
+C creşte cu
+un factor κ.
+
+426
+00:27:45,007 --> 00:27:50,008
+Dacă C creşte cu un factor κ,
+iar V-ul rămâne constant,
+
+427
+00:27:50,008 --> 00:27:54,009
+atunci Q_liber
+trebuie să crească cu un factor κ.
+
+428
+00:27:54,009 --> 00:27:57,004
+O consecinţă
+imediată a ecuaţiei trei.
+
+429
+00:27:57,004 --> 00:27:59,009
+Acesta trebuie să 
+crească aşadar cu un factor κ.
+
+430
+00:27:59,009 --> 00:28:01,079
+Ce înseamnă acest lucru?
+Înseamnă că va exista o deplasare
+
+431
+00:28:01,079 --> 00:28:04,004
+de sarcină înspre plăci.
+Cresc sarcina de pe
+
+432
+00:28:04,004 --> 00:28:07,007
+plăci, 
+iar ampermetrul îmi va indica acest lucru.
+
+433
+00:28:07,007 --> 00:28:11,003
+Ampermetrul va spune,
+„Aha!
+
+434
+00:28:11,003 --> 00:28:15,004
+trebuie să aduc sarcină pe plăci”,
+iar ampermetrul
+
+435
+00:28:15,004 --> 00:28:20,003
+va face asta.
+Asta e ceea ce vreau să vă
+
+436
+00:28:20,003 --> 00:28:23,004
+arăt.
+Remarcabil este
+
+437
+00:28:23,004 --> 00:28:29,005
+faptul că E-ul,
+câmpul electric total,
+
+438
+00:28:29,005 --> 00:28:40,005
+nu variază.
+Veţi spune,
+
+439
+00:28:40,005 --> 00:28:44,007
+„Dar aţi introdus un dielectric!”
+Da, am introdus un dielectric.
+
+440
+00:28:44,007 --> 00:28:47,005
+Dar am menţinut
+diferenţa de potenţial constantă,
+
+441
+00:28:47,005 --> 00:28:49,007
+şi am menţinut
+d-ul constant.
+
+442
+00:28:49,007 --> 00:28:54,000
+Din moment ce V este tot timpul
+egal cu E ori d, dacă menţin V-ul la
+
+443
+00:28:54,000 --> 00:28:56,006
+1.500 de volţi
+şi menţin distanţa la
+
+444
+00:28:56,006 --> 00:28:59,009
+şapte milimetri,
+atunci câmpul electric total
+
+445
+00:28:59,009 --> 00:29:02,003
+nu poate varia,
+este exact cel de
+
+446
+00:29:02,003 --> 00:29:06,006
+dinainte.
+Acesta este motivul pentru care Q_liber
+
+447
+00:29:06,006 --> 00:29:08,036
+trebuie să varieze,
+gândiţi-vă la asta.
+
+448
+00:29:08,036 --> 00:29:11,002
+Pentru că inducem
+sarcini electrice pe
+
+449
+00:29:11,002 --> 00:29:14,007
+dielectric, şi acest lucru 
+trebuie compensat dacă menţinem
+
+450
+00:29:14,007 --> 00:29:17,003
+câmpul E constant.
+Singura modalitate
+
+451
+00:29:17,003 --> 00:29:19,003
+de compensare
+constă în
+
+452
+00:29:19,003 --> 00:29:23,001
+creşterea sarcinii de pe plăci,
+a sarcinii libere.
+
+453
+00:29:23,001 --> 00:29:25,050
+Asta vreau acum să
+vă arăt
+
+454
+00:29:25,050 --> 00:29:28,003
+în ultimul experiment.
+Introduc acum
+
+455
+00:29:28,003 --> 00:29:34,001
+dielectricul,
+şi veţi vedea existenţa unui curent
+
+456
+00:29:34,001 --> 00:29:38,007
+înspre plăci.
+Voltmetrul nu va face
+
+457
+00:29:38,007 --> 00:29:43,006
+nimic, va sta acolo,
+iar ampermetrul se va
+
+458
+00:29:43,006 --> 00:29:47,006
+deplasa când introduc sticla,
+şi va reveni la starea iniţială apoi,
+
+459
+00:29:47,006 --> 00:29:49,003
+desigur.
+Sarcina transferată
+
+460
+00:29:49,003 --> 00:29:50,058
+este foarte mică,
+prin urmare
+
+461
+00:29:50,058 --> 00:29:53,000
+se va deplasa înapoi.
+Pe măsură ce o introduc,
+
+462
+00:29:53,000 --> 00:29:55,007
+veţi vedea o deplasare
+de sarcină înspre plăci.
+
+463
+00:29:55,007 --> 00:29:57,001
+Să-i dăm drumul,
+sunteţi pregătiţi?
+
+464
+00:29:57,001 --> 00:29:59,004
+Trei,
+doi, unu, zero.
+
+465
+00:29:59,004 --> 00:30:01,007
+Aţi văzut o deplasare
+de sarcină înspre plăci.
+
+466
+00:30:01,007 --> 00:30:05,001
+Când îndepărtez sticla, desigur,
+sarcina se va deplasa
+
+467
+00:30:05,001 --> 00:30:09,001
+dinspre plăci,
+vedeţi asta acum.
+
+468
+00:30:09,001 --> 00:30:13,001
+V-am arătat
+patru experimente.
+
+469
+00:30:13,001 --> 00:30:17,008
+Niciunul nu este intuitiv.
+Nici pentru voi
+
+470
+00:30:17,008 --> 00:30:21,007
+şi nici pentru mine.
+Ori de câte ori fac aceste experimente,
+
+471
+00:30:21,007 --> 00:30:24,004
+trebuie să 
+stau şi să mă gândesc
+
+472
+00:30:24,004 --> 00:30:27,004
+ce anume variază
+şi ce anume rămâne constant?
+
+473
+00:30:27,004 --> 00:30:29,001
+Nu am
+un instinct natural pentru asta.
+
+474
+00:30:29,001 --> 00:30:30,086
+Nimic nu-mi spune,
+„Oh, da,
+
+475
+00:30:30,086 --> 00:30:32,048
+normal
+că se va întâmpla asta.”
+
+476
+00:30:32,048 --> 00:30:34,057
+În niciun caz.
+Şi nici nu mă aştept la acest lucru
+
+477
+00:30:34,057 --> 00:30:37,006
+din partea voastră.
+Singurul sfat ce-l am pentru
+
+478
+00:30:37,006 --> 00:30:41,006
+voi, în cazul în care aveţi de-a
+face cu astfel de cazuri în care introducem
+
+479
+00:30:41,006 --> 00:30:44,004
+un dielectric, scoatem un dielectric,
+mărim distanţa dintre plăci,
+
+480
+00:30:44,004 --> 00:30:47,001
+menţinem distanţa constantă,
+sursa de tensiune rămâne conectată,
+
+481
+00:30:47,001 --> 00:30:51,005
+sursa de tensiune deconectată,
+analizaţi situaţia
+
+482
+00:30:51,005 --> 00:30:55,001
+cu sânge rece,
+metoda clasică MIT,
+
+483
+00:30:55,001 --> 00:30:58,000
+cu extrem de mult sânge rece.
+Gândiţi-vă ce nu
+
+484
+00:30:58,000 --> 00:31:04,034
+variază, şi porniţi de acolo.
+Deduceţi care ar fi consecinţele.
+
+485
+00:31:07,004 --> 00:31:09,006
+Cum pot
+construi un condensator
+
+486
+00:31:09,006 --> 00:31:13,002
+foarte mare,
+unul cu o capacitate foarte mare?
+
+487
+00:31:13,002 --> 00:31:19,003
+Capacitatea, C,
+este egală cu aria
+
+488
+00:31:19,003 --> 00:31:22,004
+ori ε0
+împărţit la d
+
+489
+00:31:22,004 --> 00:31:26,041
+ori κ,
+sau K în carte.
+
+490
+00:31:26,041 --> 00:31:29,053
+Trebuie să-l facem pe K cât mai mare,
+A-ul cât mai mare
+
+491
+00:31:29,053 --> 00:31:33,002
+şi d-ul cât mai mic
+cu putinţă.
+
+492
+00:31:33,002 --> 00:31:37,004
+Ah, dar pentru d există o limită.
+Dacă facem d-ul prea mic,
+
+493
+00:31:37,004 --> 00:31:40,070
+s-ar putea să ne trezim cu scântei
+între conductori, pentru că s-ar putea să
+
+494
+00:31:40,070 --> 00:31:44,077
+depăşim valoarea câmpului electric
+de străpungere.
+
+495
+00:31:44,077 --> 00:31:47,008
+Trebuie să rămânem
+tot timpul sub acel câmp de străpungere,
+
+496
+00:31:47,008 --> 00:31:54,000
+ce este egal cu
+3 milioane de volţi pe metru în aer.
+
+497
+00:31:54,000 --> 00:31:59,050
+Dacă dorim un κ
+foarte mare, veţi spune,
+
+498
+00:31:59,050 --> 00:32:01,076
+"Păi, 
+de ce nu realizăm stratul
+
+499
+00:32:01,076 --> 00:32:04,082
+dintre conductori din apă,
+unde κ este egal cu 80?”
+
+500
+00:32:04,082 --> 00:32:08,009
+Problema este că 
+apa are un câmp electric de străpungere
+
+501
+00:32:08,009 --> 00:32:12,000
+foarte mic,
+aşadar nu vrem să folosim apă.
+
+502
+00:32:12,000 --> 00:32:16,007
+Dacă introducem polietilenă,
+prescurtez
+
+503
+00:32:16,007 --> 00:32:20,001
+poli aici,
+câmpul electric de străpungere
+
+504
+00:32:20,001 --> 00:32:25,039
+al polietilenei este de
+18 milioane de volţi pe metru,
+
+505
+00:32:25,039 --> 00:32:28,065
+şi 
+κ egal cu 3.
+
+506
+00:32:28,065 --> 00:32:33,000
+Multe condensatoare
+au ca şi strat izolator
+
+507
+00:32:33,000 --> 00:32:36,005
+polietilenă,
+cu toate că mica este
+
+508
+00:32:36,005 --> 00:32:39,002
+superioară.
+Dar indiferent de material,
+
+509
+00:32:39,002 --> 00:32:41,034
+vreau să compar
+acum cu voi
+
+510
+00:32:41,034 --> 00:32:44,008
+doi condensatori,
+fiecare având aceeaşi
+
+511
+00:32:44,008 --> 00:32:49,088
+capacitate de 
+100 de microfarazi.
+
+512
+00:32:49,088 --> 00:32:53,002
+Dar pe unul din ei,
+producătorul spune
+
+513
+00:32:53,002 --> 00:32:55,073
+că putem pune o
+diferenţă maximă de potenţial de
+
+514
+00:32:55,073 --> 00:33:00,006
+4.000 de volţi,
+adică această jucărie de aici.
+
+515
+00:33:00,006 --> 00:33:03,001
+Iar pe celălalt,
+pe care l-am luat de la electronice,
+
+516
+00:33:03,001 --> 00:33:07,008
+scrie că nu putem depăşi
+o diferenţă de potenţial
+
+517
+00:33:07,008 --> 00:33:14,005
+de 40 de volţi.
+Dacă stratul izolator
+
+518
+00:33:14,005 --> 00:33:19,003
+este format din polietilenă,
+atunci pot calcula
+
+519
+00:33:19,003 --> 00:33:23,018
+grosimea minimă a lui d
+evitând în acelaşi timp străpungerea.
+
+520
+00:33:23,018 --> 00:33:27,002
+Asta e foarte uşor,
+pentru că V este egal cu E ori d.
+
+521
+00:33:27,002 --> 00:33:30,007
+Introduc în această ecuaţie
+18 milioane de volţi pe
+
+522
+00:33:30,007 --> 00:33:34,006
+metru şi cei
+4.000 de volţi,
+
+523
+00:33:34,006 --> 00:33:36,004
+şi pot calcula
+distanţa d.
+
+524
+00:33:36,004 --> 00:33:38,006
+Reiese că valoarea 
+minimă pentru d,
+
+525
+00:33:38,006 --> 00:33:42,006
+nu o putem face mai mică,
+este de 220
+
+526
+00:33:42,006 --> 00:33:46,005
+de microni,
+iar pentru acesta este doar 2,2
+
+527
+00:33:46,005 --> 00:33:48,006
+microni.
+Stratul poate fi mult mai subţire,
+
+528
+00:33:48,006 --> 00:33:50,064
+pentru că diferenţa
+de potenţial este de 100 de ori
+
+529
+00:33:50,064 --> 00:33:52,058
+mai mică.
+Putem realiza un strat
+
+530
+00:33:52,058 --> 00:33:57,006
+de 100 de ori mai subţire
+înainte de a atinge străpungerea dielectrică.
+
+531
+00:33:57,006 --> 00:34:01,006
+Vreau ca cei doi condensatori
+să aibă aceeaşi capacitate.
+
+532
+00:34:01,006 --> 00:34:05,008
+Asta înseamnă că,
+din moment ce au acelaşi κ
+
+533
+00:34:05,008 --> 00:34:10,004
+şi acelaşi ε0,
+înseamnă că raportul A pe d trebuie
+
+534
+00:34:10,004 --> 00:34:13,000
+să fie acelaşi
+pentru ambii condensatori.
+
+535
+00:34:13,000 --> 00:34:16,009
+Aşadar A împărţit la d,
+pentru acesta,
+
+536
+00:34:16,009 --> 00:34:19,008
+trebuie să fie acelaşi A
+împărţit la d pentru acela.
+
+537
+00:34:19,008 --> 00:34:23,004
+Dar dacă d-ul este
+de 100 de ori mai mare,
+
+538
+00:34:23,004 --> 00:34:27,005
+atunci A-ul trebuie să fie
+şi el de 100 de ori mai mare,
+
+539
+00:34:27,005 --> 00:34:31,004
+pentru că raportul A pe d este constant.
+Dacă A-ul acesta este 100,
+
+540
+00:34:31,004 --> 00:34:35,001
+atunci A-ul acesta este unu.
+Dar gândiţi-vă acum.
+
+541
+00:34:35,001 --> 00:34:38,001
+Ce anume determină
+volumul unui condensator?
+
+542
+00:34:38,001 --> 00:34:44,001
+Aria plăcilor
+ori grosimea.
+
+543
+00:34:44,001 --> 00:34:46,038
+Dacă ignorăm pentru moment
+grosimea
+
+544
+00:34:46,038 --> 00:34:50,007
+plăcilor conductoare,
+atunci volumul unui condensator
+
+545
+00:34:50,007 --> 00:34:54,000
+este evident egal cu produsul
+dintre arie şi grosimea dielectricului.
+
+546
+00:34:54,000 --> 00:34:56,007
+Acest lucru îmi spune
+că acest condensator,
+
+547
+00:34:56,007 --> 00:34:59,007
+a cărui arie este de 
+100 de ori mai mare, este de 100 de ori
+
+548
+00:34:59,007 --> 00:35:03,009
+mai gros, va avea 
+un volum de 10.000 de ori mai mare
+
+549
+00:35:03,009 --> 00:35:07,008
+decât acest condensator.
+Iar această jucărie este de 4.000
+
+550
+00:35:07,008 --> 00:35:12,006
+de volţi, 100 de microfarazi,
+are o lungime de aproximativ 30
+
+551
+00:35:12,006 --> 00:35:16,001
+de centimetri, 10 centimetri aici,
+20 de centimetri
+
+552
+00:35:16,001 --> 00:35:20,005
+înălţime, 
+adică aproximativ 10.000 de centimetri cubi.
+
+553
+00:35:20,005 --> 00:35:24,000
+10.000 de centimetri cubi.
+Mergeţi la magazinul de electronice
+
+554
+00:35:24,000 --> 00:35:26,039
+şi puteţi cumpăra
+un condensator de 40 de volţi,
+
+555
+00:35:26,039 --> 00:35:29,005
+100 de microfarazi,
+şi va avea un volum de 10.000
+
+556
+00:35:29,005 --> 00:35:33,002
+de ori mai mic decât acesta.
+Va avea doar un centimetru
+
+557
+00:35:33,002 --> 00:35:36,064
+cub. Dacă aş ascunde 
+un astfel de condensator după
+
+558
+00:35:36,066 --> 00:35:38,052
+ureche,
+nici măcar nu l-aţi
+
+559
+00:35:38,052 --> 00:35:42,005
+observa, aşa-i?
+Îmi poţi spune ce scrie
+
+560
+00:35:42,005 --> 00:35:47,006
+aici?
+100 de microfarazi.
+
+561
+00:35:47,006 --> 00:35:49,006
+Câţi volţi?
+40.
+
+562
+00:35:49,006 --> 00:35:52,008
+40 de volţi.
+Foarte mic.
+
+563
+00:35:52,008 --> 00:35:55,006
+Comparaţi-l cu acesta,
+ce poate suporta 4.000
+
+564
+00:35:55,006 --> 00:35:57,003
+de volţi.
+Dar capacitatea este
+
+565
+00:35:57,003 --> 00:35:59,004
+aceeaşi.
+Vedeţi aşadar
+
+566
+00:35:59,004 --> 00:36:02,007
+că legătura dintre arie
+şi grosime
+
+567
+00:36:02,007 --> 00:36:05,015
+este 
+foarte importantă.
+
+568
+00:36:07,095 --> 00:36:12,000
+Aceste lucruri nu sunt uşoare.
+Ştiu asta.
+
+569
+00:36:12,000 --> 00:36:15,004
+Este nevoie de timp pentru a le asimila,
+trebuie să vă recitiţi
+
+570
+00:36:15,004 --> 00:36:17,003
+notiţele.
+Prin urmare,
+
+571
+00:36:17,003 --> 00:36:20,006
+în timpul ce ne-a mai rămas,
+ne-a mai rămas ceva timp,
+
+572
+00:36:20,006 --> 00:36:23,005
+voi aborda un subiect
+puţin mai
+
+573
+00:36:23,005 --> 00:36:27,015
+uşor.
+Mai uşor de digerat.
+
+574
+00:36:30,080 --> 00:36:35,008
+Profesorul olandez Musschenbroek 
+a inventat -- da,
+
+575
+00:36:35,008 --> 00:36:39,006
+putem spune că a inventat --
+condensatorul.
+
+576
+00:36:39,006 --> 00:36:45,000
+A fost o descoperire accidentală.
+Acesta le-a denumit butelii de Leyda,
+
+577
+00:36:45,000 --> 00:36:47,055
+pentru că lucra în oraşul Leiden.
+O butelie de Leyda arată
+
+578
+00:36:47,055 --> 00:36:52,083
+astfel.
+Acesta este un recipient de sticlă,
+
+579
+00:36:52,083 --> 00:36:56,008
+avem doar sticlă aici,
+un izolator,
+
+580
+00:36:56,008 --> 00:37:01,008
+iar în exteriorul izolatorului
+există două plăci
+
+581
+00:37:01,008 --> 00:37:07,005
+conductoare,
+o cupă în exterior şi o cupă
+
+582
+00:37:07,005 --> 00:37:12,000
+în interior, conductoare.
+Acesta este un condensator.
+
+583
+00:37:12,000 --> 00:37:14,009
+Cu toate că nu i-a
+spus condensator.
+
+584
+00:37:14,009 --> 00:37:19,003
+Acestea vin încărcate
+cu sarcină pozitivă
+
+585
+00:37:19,003 --> 00:37:24,059
+aici şi sarcină negativă în interior.
+A realizat experimente cu
+
+586
+00:37:24,059 --> 00:37:31,005
+acesta.
+Energia stocată într-un
+
+587
+00:37:31,005 --> 00:37:37,037
+condensator -- am vorbit despre 
+asta data trecută -- este egală cu 1/2
+
+588
+00:37:37,037 --> 00:37:41,001
+ori sarcina liberă ori
+diferenţa de
+
+589
+00:37:41,001 --> 00:37:45,001
+potenţial, 
+sau 1/2 C ori V la pătrat dacă preferaţi,
+
+590
+00:37:45,001 --> 00:37:47,007
+e acelaşi lucru,
+mi-e indiferent,
+
+591
+00:37:47,007 --> 00:37:53,004
+pentru că C-ul este egal cu Q_liber
+împărţit la V.
+
+592
+00:37:53,004 --> 00:37:56,006
+Vom
+pune o anumită
+
+593
+00:37:56,006 --> 00:38:02,000
+diferenţă de potenţial
+pe butelia de Leyda, vă voi arăta
+
+594
+00:38:02,000 --> 00:38:08,004
+butelia de Leyda ce o avem --
+o vedeţi acolo.
+
+595
+00:38:08,004 --> 00:38:11,001
+Voi pune o anumită
+diferenţă de potenţial,
+
+596
+00:38:11,001 --> 00:38:14,009
+o anumită sarcină
+pe suprafaţa exterioară şi pe cea
+
+597
+00:38:14,009 --> 00:38:17,007
+interioară -- puteţi vedea 
+suprafaţa exterioară acolo,
+
+598
+00:38:17,007 --> 00:38:19,008
+suprafaţa interioară este 
+mai greu de văzut, dar vă voi arăta-o
+
+599
+00:38:19,008 --> 00:38:22,001
+imediat.
+Vedeţi aici sticla,
+
+600
+00:38:22,001 --> 00:38:24,009
+iar aici conductorul exterior.
+Există şi un conductor
+
+601
+00:38:24,009 --> 00:38:27,003
+interior pe care 
+nu-l puteţi vedea prea bine.
+
+602
+00:38:27,003 --> 00:38:31,054
+După ce voi face acest lucru,
+voi desface condensatorul.
+
+603
+00:38:31,054 --> 00:38:35,003
+Prima data îl încarc
+astfel încât să existe
+
+604
+00:38:35,003 --> 00:38:40,005
+o anumită energie în el.
+Voi scoate apoi
+
+605
+00:38:40,005 --> 00:38:50,005
+sticla,
+voi pune conductorul exterior aici
+
+606
+00:38:50,005 --> 00:38:54,001
+şi conductorul
+interior aici.
+
+607
+00:38:54,001 --> 00:38:57,000
+Le voi
+descărca complet.
+
+608
+00:38:57,000 --> 00:39:00,008
+Le voi ţine în mână,
+le voi atinge cu faţa,
+
+609
+00:39:00,008 --> 00:39:02,046
+le voi linge,
+voi face orice este necesar pentru
+
+610
+00:39:02,046 --> 00:39:05,009
+a scăpa de toată sarcina.
+Le voi pune apoi
+
+611
+00:39:05,009 --> 00:39:08,008
+la loc.
+Dacă îndepărtez toată
+
+612
+00:39:08,008 --> 00:39:14,003
+sarcina, Q_liber dispare,
+nu mai există nicio
+
+613
+00:39:14,003 --> 00:39:17,001
+diferenţă de potenţial.
+După ce pun la loc această jucărie,
+
+614
+00:39:17,001 --> 00:39:19,068
+este evident
+că nu mai pot să am niciun fel de
+
+615
+00:39:19,068 --> 00:39:23,002
+energie.
+Putem demonstra asta foarte uşor
+
+616
+00:39:23,002 --> 00:39:26,000
+dacă luăm această
+furcă
+
+617
+00:39:26,000 --> 00:39:29,000
+ce o am aici,
+această furcă conductoare,
+
+618
+00:39:29,000 --> 00:39:32,005
+şi încercăm să
+obţinem o scânteie prin conectarea
+
+619
+00:39:32,005 --> 00:39:35,001
+conductorului interior cu cel exterior.
+Şi nu ar trebui să obţinem
+
+620
+00:39:35,001 --> 00:39:38,001
+nimic.
+Aşa că acest experiment nu
+
+621
+00:39:38,001 --> 00:39:41,071
+va fi foarte interesant.
+Dar să-l facem oricum.
+
+622
+00:39:41,071 --> 00:39:46,005
+Aici este butelia de Leyda,
+folosesc Wimshurst-ul
+
+623
+00:39:46,005 --> 00:39:53,006
+pentru a o încărca.
+Îndepărtez această
+
+624
+00:39:53,006 --> 00:39:57,002
+conexiune,
+îndepărtez această conexiune,
+
+625
+00:39:57,002 --> 00:40:02,000
+scot asta afară,
+scot asta afară.
+
+626
+00:40:09,097 --> 00:40:13,004
+Credeţi-mă,
+nu mai există sarcină pe acesta.
+
+627
+00:40:13,004 --> 00:40:17,040
+Acesta.
+S-a dus, credeţi-mă.
+
+628
+00:40:26,062 --> 00:40:30,001
+Să vedem acum ce se întâmplă
+dacă scurtcircuitez conductorul
+
+629
+00:40:30,001 --> 00:40:33,034
+exterior
+cu cel interior.
+
+630
+00:40:33,034 --> 00:40:35,031
+Fiţi 
+atenţi!
+
+631
+00:40:38,098 --> 00:40:40,092
+Este
+incredibil.
+
+632
+00:40:40,092 --> 00:40:43,030
+Nu ar trebui să mai existe 
+energie pe acel condensator.
+
+633
+00:40:43,030 --> 00:40:46,000
+Nimic.
+Dar am văzut o scânteie imensă,
+
+634
+00:40:46,000 --> 00:40:50,003
+nici măcar nu a fost mică.
+Când am văzut prima dată asta,
+
+635
+00:40:50,003 --> 00:40:55,001
+şi nu glumesc,
+am fost uluit.
+
+636
+00:40:55,001 --> 00:40:59,002
+Mă gândeam la asta
+şi nu puteam să dorm toată noaptea.
+
+637
+00:40:59,002 --> 00:41:03,000
+Nu găseam nicio
+explicaţie logică.
+
+638
+00:41:03,000 --> 00:41:06,002
+Vă doresc ca şi voi
+să aveţi câteva nopţi
+
+639
+00:41:06,002 --> 00:41:10,002
+nedormite,
+şi să veniţi cu o explicaţie logică.
+
+640
+00:41:10,002 --> 00:41:13,007
+Cum este posibil 
+să pun sarcină pe aceste două
+
+641
+00:41:13,007 --> 00:41:17,005
+plăci, să le demontez apoi,
+îndepărtând în totalitate
+
+642
+00:41:17,005 --> 00:41:21,007
+sarcina, şi cu toate acestea,
+când le reasamblez,
+
+643
+00:41:21,007 --> 00:41:24,004
+există o diferenţă
+de potenţial între cele două
+
+644
+00:41:24,004 --> 00:41:26,001
+plăci, căci altfel,
+nu aţi fi văzut
+
+645
+00:41:26,001 --> 00:41:28,007
+acea scânteie?
+Gândiţi-vă la asta,
+
+646
+00:41:28,007 --> 00:41:33,004
+şi într-un curs viitor,
+voi încerca să vin
+
+647
+00:41:33,004 --> 00:41:35,047
+cu o explicaţie.
+Explicaţia
+
+648
+00:41:35,047 --> 00:41:38,046
+ce am găsit-o cel puţin,
+s-ar putea să nu fie cea mai bună,
+
+649
+00:41:38,046 --> 00:41:42,001
+dar este singura 
+explicaţie ce o am.
+
+650
+00:41:42,001 --> 00:41:45,028
+În cele 8 minute rămase,
+vreau să vă împărtăşesc şi ultimul
+
+651
+00:41:45,028 --> 00:41:49,001
+secret cu care v-am rămas dator,
+cel al Van der Graaff-ului.
+
+652
+00:41:49,001 --> 00:41:53,004
+Mă refer la
+potenţialul ce-l putem atinge.
+
+653
+00:41:53,004 --> 00:41:55,060
+Ţineţi minte 
+Van der Graaff-ul cel mare?
+
+654
+00:41:55,060 --> 00:42:00,005
+L-am putut aduce
+la aproximativ 300.000 de volţi.
+
+655
+00:42:00,005 --> 00:42:04,088
+Cum încărcăm
+o sferă conductoare?
+
+656
+00:42:07,002 --> 00:42:12,002
+Să începem
+cu această sferă goală,
+
+657
+00:42:12,002 --> 00:42:15,006
+-- ceea ce este şi Van
+der Garaff-ul  -- iar
+
+658
+00:42:15,006 --> 00:42:22,004
+aici am o sursă de tensiune
+de câţiva kilovolţi.
+
+659
+00:42:22,004 --> 00:42:24,006
+O pot
+cumpăra.
+
+660
+00:42:24,006 --> 00:42:30,012
+Aici am o sferă
+cu un braţ izolator
+
+661
+00:42:30,012 --> 00:42:33,001
+cu care 
+ating ieşirea sursei de
+
+662
+00:42:33,001 --> 00:42:37,003
+tensiune.
+Voi avea sarcină pozitivă aici,
+
+663
+00:42:37,003 --> 00:42:41,005
+să spunem, şi aduc sfera 
+în apropierea Van der Graaff-ului.
+
+664
+00:42:41,005 --> 00:42:45,004
+Între acest obiect încărcat
+şi Van der Graaff va exista
+
+665
+00:42:45,004 --> 00:42:48,060
+un câmp electric.
+Cu cât mă apropii mai tare,
+
+666
+00:42:48,060 --> 00:42:54,001
+cu atât câmpul
+electric va fi mai puternic.
+
+667
+00:42:54,001 --> 00:42:57,001
+Iar când ating suprafaţa exterioară,
+sarcina se va deplasa
+
+668
+00:42:57,001 --> 00:43:00,091
+pe Van der Graaff.
+Mă duc înapoi la sursa de tensiune,
+
+669
+00:43:00,091 --> 00:43:03,073
+vin din nou în contact
+cu cei câţiva mii de volţi,
+
+670
+00:43:03,073 --> 00:43:09,007
+şi continui să transfer
+sarcină pe Van der Graaff.
+
+671
+00:43:09,007 --> 00:43:11,006
+Pot aduce 
+Van der Graaff-ul la
+
+672
+00:43:11,006 --> 00:43:14,008
+300.000 de volţi?
+În niciun caz, pentru că vine
+
+673
+00:43:14,008 --> 00:43:19,000
+un moment în care potenţialul
+acestui obiect -- ce se datorează
+
+674
+00:43:19,000 --> 00:43:22,015
+sursei de tensiune -- este identic
+cu potenţialul Van
+
+675
+00:43:22,015 --> 00:43:26,002
+der Graaff-ului, moment în care
+nu mai poate avea loc schimb de sarcină.
+
+676
+00:43:26,002 --> 00:43:28,061
+Într-un final,
+când mă apropii cu acest
+
+677
+00:43:28,061 --> 00:43:31,001
+conductor de
+Van der Graaff,
+
+678
+00:43:31,001 --> 00:43:33,073
+nu va mai exista
+niciun câmp electric între cei doi.
+
+679
+00:43:33,073 --> 00:43:36,006
+Nu va mai exista aşadar
+nicio diferenţă de potenţial.
+
+680
+00:43:36,006 --> 00:43:39,086
+Nu vom mai putea transfera 
+sarcină electrică prin urmare.
+
+681
+00:43:39,086 --> 00:43:44,005
+Ajungem foarte repede
+într-un punct mort.
+
+682
+00:43:44,005 --> 00:43:49,035
+Nu putem trece
+de câţiva mii de volţi.
+
+683
+00:43:49,035 --> 00:43:52,000
+Ce putem face în acest caz?
+Aici vine descoperirea
+
+684
+00:43:52,000 --> 00:43:56,007
+profesorului Van der Graaff de la MIT,
+care a spus,
+
+685
+00:43:56,007 --> 00:43:59,003
+„Ah,
+dar nu trebuie să aduc
+
+686
+00:43:59,003 --> 00:44:02,007
+sarcina astfel,
+pot să o aduc
+
+687
+00:44:02,007 --> 00:44:05,007
+astfel.”
+Folosim aceeaşi sursă de tensiune,
+
+688
+00:44:05,007 --> 00:44:08,005
+câţiva mii de volţi,
+dar aducem sarcina în interiorul
+
+689
+00:44:08,005 --> 00:44:10,003
+sferei,
+unde nu există deloc
+
+690
+00:44:10,003 --> 00:44:14,003
+câmp electric.
+Dacă încărcăm prin exterior,
+
+691
+00:44:14,003 --> 00:44:17,007
+acest obiect 
+va genera un câmp electric,
+
+692
+00:44:17,007 --> 00:44:19,006
+şi va exista un câmp electric
+şi datorită acestui obiect,
+
+693
+00:44:19,006 --> 00:44:22,000
+rezultatul net dintre
+cele două va fi zero.
+
+694
+00:44:22,000 --> 00:44:24,001
+În interior nu avem
+câmp electric.
+
+695
+00:44:24,001 --> 00:44:27,000
+Dacă aduc acolo sfera
+încărcată pozitiv,
+
+696
+00:44:27,000 --> 00:44:33,004
+voi crea linii de câmp E
+precum acestea,
+
+697
+00:44:33,004 --> 00:44:36,028
+iar acum există o diferenţă 
+de potenţial între acest obiect
+
+698
+00:44:36,028 --> 00:44:40,001
+şi sferă.
+Prin introducerea obiectului
+
+699
+00:44:40,001 --> 00:44:43,009
+în interiorul sferei,
+am efectuat lucru mecanic pozitiv
+
+700
+00:44:43,009 --> 00:44:46,004
+fără să-mi dau seama de asta,
+şi prin urmare,
+
+701
+00:44:46,004 --> 00:44:49,007
+potenţialul acestuia 
+este mai mare decât al sferei.
+
+702
+00:44:49,007 --> 00:44:52,002
+Ating acum interiorul
+Van der Graaff-ului,
+
+703
+00:44:52,002 --> 00:44:55,004
+iar sarcina se va deplasa
+pe suprafaţa exterioară.
+
+704
+00:44:55,004 --> 00:44:58,004
+Pot continua să fac acest lucru.
+În interior, ating.
+
+705
+00:44:58,004 --> 00:45:01,006
+În interior, ating.
+În interior, ating.
+
+706
+00:45:01,006 --> 00:45:04,000
+De câte ori ajung aici,
+câmpul electric
+
+707
+00:45:04,000 --> 00:45:06,001
+este zero.
+Pot să fac asta până îmi
+
+708
+00:45:06,001 --> 00:45:09,002
+cresc peri albi.
+Vine un moment în care
+
+709
+00:45:09,002 --> 00:45:12,008
+potenţialul Van der Graaff-ului
+nu mai poate creşte,
+
+710
+00:45:12,008 --> 00:45:14,007
+adică atunci când
+Van der Graaff-ul atinge potenţialul
+
+711
+00:45:14,007 --> 00:45:16,007
+de străpungere dielectrică.
+Când ajung la
+
+712
+00:45:16,007 --> 00:45:18,006
+300.000 de volţi,
+nu mai am ce-i face.
+
+713
+00:45:18,006 --> 00:45:20,007
+Pot încerca
+să cresc potenţialul,
+
+714
+00:45:20,007 --> 00:45:23,005
+dar va pierde 
+sarcină prin aer.
+
+715
+00:45:23,005 --> 00:45:25,088
+Aceasta este
+limita superioară
+
+716
+00:45:25,088 --> 00:45:29,072
+a potenţialului Van der Graaff-ului.
+Cum funcţionează Van der Graaff-ul
+
+717
+00:45:29,072 --> 00:45:33,008
+aşadar?
+Există o curea
+
+718
+00:45:33,008 --> 00:45:39,006
+acţionată de un motor -- aici
+este Van der Graaff-ul -- iar
+
+719
+00:45:39,006 --> 00:45:45,054
+aici, prin descărcare corona,
+sarcina este transferată
+
+720
+00:45:45,054 --> 00:45:49,004
+pe curea.
+Sunt nişte puncte foarte ascuţite,
+
+721
+00:45:49,004 --> 00:45:52,002
+descărcarea corona are loc
+la o diferenţă de potenţial relativ
+
+722
+00:45:52,002 --> 00:45:55,046
+mică, sarcina este transferată pe curea,
+cureaua ajunge aici,
+
+723
+00:45:55,046 --> 00:45:59,003
+şi aici
+există două puncte ascuţite
+
+724
+00:45:59,003 --> 00:46:01,004
+care colectează sarcina
+prin intermediul descărcării corona.
+
+725
+00:46:01,004 --> 00:46:03,008
+În interior,
+acest lucru este esenţial.
+
+726
+00:46:03,008 --> 00:46:06,006
+Sarcina se deplasează pe cupolă,
+iar aceasta se încarcă
+
+727
+00:46:06,006 --> 00:46:09,008
+până în momentul în care
+începem să auzim scântei.
+
+728
+00:46:09,008 --> 00:46:13,049
+În acel moment avem străpungerea dielectrică.
+Vă pot demonstra acest
+
+729
+00:46:13,049 --> 00:46:17,002
+lucru.
+Am construit propriul meu Van der Graaff.
+
+730
+00:46:17,002 --> 00:46:21,001
+Van der Graaff-ul ce l-am construit
+este această cutie de vopsea.
+
+731
+00:46:21,001 --> 00:46:26,000
+Voi încărca această cutie
+prin atingerea ei repetată
+
+732
+00:46:26,000 --> 00:46:34,013
+cu ajutorul unui conductor.
+Voi atinge de fiecare dată conductorul
+
+733
+00:46:34,013 --> 00:46:37,004
+de sursa de tensiune
+de câţiva mii de volţi.
+
+734
+00:46:37,004 --> 00:46:41,009
+Aceasta este sursa de tensiune,
+o pornesc.
+
+735
+00:46:41,009 --> 00:46:46,005
+Veţi vedea 
+potenţialul
+
+736
+00:46:46,005 --> 00:46:51,003
+Van der Graaff-ului acolo.
+Acest aparat
+
+737
+00:46:51,003 --> 00:46:54,051
+indică doar cu aproximaţie
+potenţialul Van der Graaff-ului,
+
+738
+00:46:54,051 --> 00:46:57,001
+când indică unu,
+vom avea un potenţial
+
+739
+00:46:57,001 --> 00:47:00,000
+de aproximativ 10.000 de volţi.
+Aici este senzorul
+
+740
+00:47:00,000 --> 00:47:03,000
+ce-l folosim, 
+2 înseamnă 20.000 de volţi.
+
+741
+00:47:03,000 --> 00:47:06,080
+Sursa mea de tensiune
+are doar câţiva mii de volţi.
+
+742
+00:47:11,003 --> 00:47:12,080
+Voi
+încărca iniţial cutia
+
+743
+00:47:12,080 --> 00:47:14,080
+prin partea exterioară,
+pentru a vă demonstra că
+
+744
+00:47:14,080 --> 00:47:18,002
+ajungem foarte repede în
+punctul mort de care vă spuneam.
+
+745
+00:47:18,002 --> 00:47:21,001
+Adică dacă au acelaşi potenţial,
+atunci transferul de sarcină
+
+746
+00:47:21,001 --> 00:47:23,049
+nu mai este posibil.
+Dar voi schimba apoi
+
+747
+00:47:23,049 --> 00:47:27,039
+tactica şi o voi încărca din interior.
+Veţi vedea că potenţialul
+
+748
+00:47:27,039 --> 00:47:30,050
+va creşte peste această limită.
+Să vedem prima dată ce se întâmplă
+
+749
+00:47:30,050 --> 00:47:35,008
+dacă aduc sarcina
+prin partea exterioară.
+
+750
+00:47:35,008 --> 00:47:41,032
+Creşte.
+A ajuns la aproximativ 1.000 de volţi,
+
+751
+00:47:41,032 --> 00:47:45,000
+2.000 de volţi,
+2.000 de volţi,
+
+752
+00:47:45,000 --> 00:47:47,003
+fiţi atenţi acolo,
+2.000 de volţi,
+
+753
+00:47:47,003 --> 00:47:51,004
+se îndreaptă spre 3.000 de volţi,
+3.000 de volţi,
+
+754
+00:47:51,004 --> 00:47:54,055
+3.000 de volţi,
+3.000 de volţi,
+
+755
+00:47:54,055 --> 00:47:57,003
+3.000 de volţi,
+merge foarte greu,
+
+756
+00:47:57,003 --> 00:47:59,061
+sunt aproape de punctul
+de saturaţie, poate ajung la
+
+757
+00:47:59,061 --> 00:48:01,091
+3.500 de volţi,
+trei şi jumătate,
+
+758
+00:48:01,091 --> 00:48:05,005
+se îndreaptă încet spre patru,
+să vedem dacă putem
+
+759
+00:48:05,005 --> 00:48:09,001
+trece de patru,
+nu cred că putem.
+
+760
+00:48:09,001 --> 00:48:12,007
+Acesta ar fi sfârşitul 
+înainte de profesorul Van der Graaff.
+
+761
+00:48:12,007 --> 00:48:14,059
+Dar apoi a venit 
+profesorul Van der Graaff,
+
+762
+00:48:14,059 --> 00:48:16,057
+şi a spus,
+„Uite, trebuie să încarci
+
+763
+00:48:16,057 --> 00:48:19,000
+prin interior.”
+Să vedeţi acum.
+
+764
+00:48:19,000 --> 00:48:21,008
+Eu trebuie să 
+mă concentrez aici,
+
+765
+00:48:21,008 --> 00:48:24,071
+aşa că v-aş ruga pe voi
+să-mi spuneţi când ajungem la 5.000,
+
+766
+00:48:24,071 --> 00:48:28,009
+zbieraţi.
+Oh, am trecut deja de
+
+767
+00:48:28,009 --> 00:48:30,065
+5.000,
+nătângilor!
+
+768
+00:48:30,065 --> 00:48:32,026
+10.000,
+zbieraţi când vedeţi
+
+769
+00:48:32,026 --> 00:48:35,001
+10.000
+[studenţii zbiară].
+
+770
+00:48:35,001 --> 00:48:38,006
+Zbieraţi când vedeţi
+15.000.
+
+771
+00:48:38,006 --> 00:48:41,052
+Zbieraţi când vedeţi
+15.000.
+
+772
+00:48:45,004 --> 00:48:48,005
+[studenţii zbiară].
+Foarte bine, fiţi atenţi acolo,
+
+773
+00:48:48,005 --> 00:48:52,007
+spuneţi-mi când vedeţi
+20.000.
+
+774
+00:49:03,027 --> 00:49:06,073
+Nu aud nimic!
+[mulţimea zbiară] Acum vreau să-mi
+
+775
+00:49:06,073 --> 00:49:10,001
+spune-ţi la fiecare mie,
+pentru că vom ajunge
+
+776
+00:49:10,001 --> 00:49:16,065
+imediat într-un punct mort.
+21?
+
+777
+00:49:16,065 --> 00:49:20,007
+Vreau să aud 22.
+[mulţimea zbiară].
+
+778
+00:49:20,007 --> 00:49:24,007
+Suntem deja la 23.
+Ne putem aştepta
+
+779
+00:49:24,007 --> 00:49:30,001
+să atingem
+imediat punctul de descărcare,
+
+780
+00:49:30,001 --> 00:49:33,076
+nu o veţi putea observa,
+dar va exista o descărcare corona.
+
+781
+00:49:33,076 --> 00:49:37,002
+Din acel moment,
+indiferent cât de mult voi încerca, nu voi putea
+
+782
+00:49:37,002 --> 00:49:40,001
+creşte potenţialul şi mai mult.
+Dar să continuăm.
+
+783
+00:49:40,001 --> 00:49:42,001
+Suntem deja la 
+2.500?
+
+784
+00:49:42,001 --> 00:49:45,006
+La 25.000,
+mă scuzaţi, 25.000?
+
+785
+00:49:45,006 --> 00:49:48,001
+25.000.
+26.000.
+
+786
+00:49:48,001 --> 00:49:52,092
+27.
+27.
+
+787
+00:49:52,092 --> 00:49:58,000
+28.
+28.
+
+788
+00:49:58,000 --> 00:50:01,001
+Se pare că ajungem 
+imediat la descărcarea
+
+789
+00:50:01,001 --> 00:50:04,000
+corona.
+28!
+
+790
+00:50:04,000 --> 00:50:08,007
+Mamă, 28!
+Un nou record.
+
+791
+00:50:08,007 --> 00:50:11,054
+28,
+fiţi atenţi acolo.
+
+792
+00:50:11,054 --> 00:50:17,034
+29?
+29?
+
+793
+00:50:17,034 --> 00:50:19,009
+Vă daţi
+seama că
+
+794
+00:50:19,009 --> 00:50:24,008
+muncesc din greu.
+Sunt plătit pentru asta oricum.
+
+795
+00:50:24,008 --> 00:50:27,007
+Cred că
+am atins limita.
+
+796
+00:50:27,007 --> 00:50:30,005
+Mi-am atins propria limită
+şi am atins limita
+
+797
+00:50:30,005 --> 00:50:34,004
+de încărcare.
+Avem acum
+
+798
+00:50:34,004 --> 00:50:38,008
+30.000 de volţi,
+şi am pornit de la câteva mii de volţi.
+
+799
+00:50:38,008 --> 00:50:42,001
+Iniţial acesta
+nu era un obiect periculos.
+
+800
+00:50:42,001 --> 00:50:49,025
+Dar acum sunt 30.000 de volţi.
+Să încerc?
+
+801
+00:50:49,025 --> 00:50:52,054
+[mulţimea zbiară]
+Pe săptămâna viitoare.
+
+802
+00:50:53,057 --> 00:51:01,040
+( subtitrarea în limba română pentru
+www.circuiteelectrice.ro )

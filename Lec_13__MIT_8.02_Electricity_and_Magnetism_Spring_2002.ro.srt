@@ -1,0 +1,3484 @@
+﻿1
+00:00:01,002 --> 00:00:05,002
+Sunt mulţumit 
+de rezultatele examenului.
+
+2
+00:00:05,002 --> 00:00:08,096
+Media clasei este de 62.
+Ţinta mea e tot timpul 65,
+
+3
+00:00:08,096 --> 00:00:13,002
+sunt foarte mulţumit, prin urmare.
+Unsprezece studenţi au făcut
+
+4
+00:00:13,002 --> 00:00:16,005
+100.
+Cred că recapitularea pentru examen
+
+5
+00:00:16,005 --> 00:00:20,001
+a fost corectă.
+După unii instructori,
+
+6
+00:00:20,001 --> 00:00:23,005
+poate prea 
+detaliată.
+
+7
+00:00:23,005 --> 00:00:26,006
+Am rezolvat o problemă 
+cu rezistori paraleli şi o baterie.
+
+8
+00:00:26,006 --> 00:00:30,006
+Am aplicat legea lui Gauss
+pentru simetrie cilindrică.
+
+9
+00:00:30,006 --> 00:00:34,006
+Am discutat pe larg
+distribuţia sarcinilor
+
+10
+00:00:34,006 --> 00:00:39,006
+pe conductori,
+şi am
+
+11
+00:00:39,006 --> 00:00:44,007
+discutat despre condensatori
+şi dielectrici.
+
+12
+00:00:44,007 --> 00:00:48,003
+Prefer să nu fac o 
+distincţie rigidă între admis şi
+
+13
+00:00:48,003 --> 00:00:53,099
+respins, dar toţi cei care aţi 
+luat mai puţin de
+
+14
+00:00:53,099 --> 00:00:57,004
+47 de puncte,
+din punctul meu de vedere, sunteţi
+
+15
+00:00:57,004 --> 00:00:59,005
+în zona roşie.
+Asta nu înseamnă că
+
+16
+00:00:59,005 --> 00:01:02,004
+o să picaţi examenul,
+dar nici nu înseamnă că îl veţi
+
+17
+00:01:02,004 --> 00:01:05,005
+lua 
+dacă aţi făcut 70.
+
+18
+00:01:05,005 --> 00:01:08,003
+Dar acei studenţi
+se află în zona roşie.
+
+19
+00:01:08,003 --> 00:01:10,009
+Ar trebui să vorbiţi cu instructorul,
+şi i-aş sfătui pe
+
+20
+00:01:10,009 --> 00:01:16,002
+aceşti studenţi
+să apeleze mai des la asistenţi.
+
+21
+00:01:16,002 --> 00:01:21,007
+Mai urmează încă două examene,
+plus cel final.
+
+22
+00:01:21,007 --> 00:01:26,008
+Astăzi vom aborda
+un subiect cu totul nou pentru voi,
+
+23
+00:01:26,008 --> 00:01:32,003
+şi veţi vedea cât de important
+este acest curs.
+
+24
+00:01:32,003 --> 00:01:40,009
+Forţa Lorentz, F, este egală 
+cu sarcina ori produsul vectorial
+
+25
+00:01:40,009 --> 00:01:45,000
+dintre viteza acelei sarcini
+şi câmpul B existent
+
+26
+00:01:45,000 --> 00:01:50,002
+în jurul sarcinii.
+Dacă avem aici o sarcină
+
+27
+00:01:50,002 --> 00:01:58,007
+pozitivă +q, 
+cu o viteză, v, în această direcţie,
+
+28
+00:01:58,007 --> 00:02:03,001
+iar câmpul magnetic 
+este uniform şi îndreptat
+
+29
+00:02:03,001 --> 00:02:08,000
+înspre voi, asupra acestei 
+sarcini se va exercita o forţă conform
+
+30
+00:02:08,000 --> 00:02:11,081
+acestei relaţii,
+forţă îndreptată
+
+31
+00:02:11,081 --> 00:02:16,001
+în această direcţie.
+Perpendiculară pe v,
+
+32
+00:02:16,001 --> 00:02:23,006
+perpendiculară pe B.
+În acest caz, particula
+
+33
+00:02:23,006 --> 00:02:27,003
+încărcată se va roti
+într-un cerc.
+
+34
+00:02:27,003 --> 00:02:31,002
+Forţa Lorentz nu-i poate
+modifica viteza,
+
+35
+00:02:31,002 --> 00:02:33,051
+nu poate modifica energia cinetică,
+pentru că forţa este
+
+36
+00:02:33,051 --> 00:02:36,009
+tot timpul perpendiculară 
+pe viteză, dar poate modifica
+
+37
+00:02:36,009 --> 00:02:41,040
+direcţia vitezei.
+Rezultatul este că
+
+38
+00:02:41,040 --> 00:02:44,051
+particula încărcată
+se va
+
+39
+00:02:44,051 --> 00:02:50,062
+deplasa pe un cerc perfect
+în cazul în care câmpul magnetic este
+
+40
+00:02:50,062 --> 00:02:55,003
+identic peste tot.
+Raza acestui cerc
+
+41
+00:02:55,003 --> 00:02:59,004
+poate fi calculată foarte uşor
+folosind cunoştinţele
+
+42
+00:02:59,004 --> 00:03:05,001
+dobândite în acest curs.
+Forţa este egală cu qvB, pentru că
+
+43
+00:03:05,001 --> 00:03:10,004
+B-ul a fost ales perpendicular pe v,
+astfel că sinusul
+
+44
+00:03:10,004 --> 00:03:15,000
+unghiului dintre ele este unu.
+Aceasta trebuie să fie
+
+45
+00:03:15,000 --> 00:03:17,075
+forţa centripetă
+ce am discutat-o
+
+46
+00:03:17,075 --> 00:03:20,061
+în mecanica clasică, 
+adică mv^2 împărţit la
+
+47
+00:03:20,061 --> 00:03:25,003
+R, unde m 
+este masa acestei particule.
+
+48
+00:03:25,003 --> 00:03:33,046
+Găsim că R-ul
+este egal cu mv împărţit la qB.
+
+49
+00:03:33,046 --> 00:03:38,000
+Acest produs,
+vreau să vă reamintesc,
+
+50
+00:03:38,000 --> 00:03:44,000
+reprezintă 
+momentul acelei particule.
+
+51
+00:03:44,000 --> 00:03:46,036
+Dacă analizăm această ecuaţie, 
+vedem că e rezonabilă.
+
+52
+00:03:46,036 --> 00:03:49,000
+Dacă sarcina este mare,
+atunci
+
+53
+00:03:49,000 --> 00:03:52,001
+forţa Lorentz este mare,
+iar raza e mică.
+
+54
+00:03:52,001 --> 00:03:54,072
+Dacă intensitatea câmpului magnetic
+este mare, atunci forţa Lorentz
+
+55
+00:03:54,072 --> 00:03:58,006
+este mare, iar raza e mică.
+Dacă masa particulei este
+
+56
+00:03:58,006 --> 00:04:03,005
+mare, inerţia este mare,
+şi este foarte greu
+
+57
+00:04:03,005 --> 00:04:05,037
+s-o „urnin” din loc,
+ca să spunem aşa.
+
+58
+00:04:05,037 --> 00:04:09,005
+Prin urmare, pentru o masă mare,
+vom avea o rază foarte mare.
+
+59
+00:04:09,005 --> 00:04:14,006
+Ecuaţia, aşadar, 
+este intuitiv corectă.
+
+60
+00:04:14,006 --> 00:04:18,003
+Să considerăm 
+şi un exemplu numeric.
+
+61
+00:04:23,042 --> 00:04:27,009
+Considerăm un proton,
+p-ul semnifică un proton,
+
+62
+00:04:27,009 --> 00:04:31,008
+cu o energie de 1 MeV.
+Acelaşi proton considerat în
+
+63
+00:04:31,008 --> 00:04:35,007
+în cursul precedent.
+1 MeV înseamnă că energia
+
+64
+00:04:35,007 --> 00:04:44,003
+cinetică este de 1 MeV, 
+adică sarcina ori diferenţa de potenţial
+
+65
+00:04:44,003 --> 00:04:47,040
+peste care a fost accelerat 
+acest proton. În cazul de faţă,
+
+66
+00:04:47,040 --> 00:04:51,022
+delta V este egal cu
+un milion de volţi.
+
+67
+00:04:51,022 --> 00:04:54,008
+Iar asta este egală cu
+1/2 ori
+
+68
+00:04:54,008 --> 00:05:00,000
+masa protonului ori
+viteza la pătrat.
+
+69
+00:05:00,000 --> 00:05:03,007
+În cazul de faţă,
+dacă am 1 MeV,
+
+70
+00:05:03,007 --> 00:05:08,004
+adică un milion de electron-volţi,
+rezultatul este
+
+71
+00:05:08,004 --> 00:05:12,005
+1,6 ori 10^-13
+jouli.
+
+72
+00:05:12,005 --> 00:05:15,008
+Avem acolo sarcina protonului,
+o înmulţim cu
+
+73
+00:05:15,008 --> 00:05:19,006
+un milion,
+şi obţinem această energie.
+
+74
+00:05:19,006 --> 00:05:21,094
+Putem acum calcula viteza,
+masa protonului
+
+75
+00:05:21,094 --> 00:05:23,034
+fiind cunoscută.
+V-am
+
+76
+00:05:23,034 --> 00:05:25,000
+notat-o şi pe aceasta
+acolo.
+
+77
+00:05:25,000 --> 00:05:27,041
+Vom găsi exact acelaşi rezultat
+precum cel din cursul
+
+78
+00:05:27,041 --> 00:05:32,009
+precedent, 
+1,4 ori 10^7 metri pe
+
+79
+00:05:32,009 --> 00:05:37,004
+secundă, 
+adică 5% din viteza luminii,
+
+80
+00:05:37,004 --> 00:05:42,004
+suficient de mică
+pentru a nu fi nevoiţi să facem ajustări
+
+81
+00:05:42,004 --> 00:05:46,005
+relativiste. 
+Dacă acest proton intră într-un
+
+82
+00:05:46,005 --> 00:05:51,006
+câmp magnetic B,
+egal cu 1 Tesla,
+
+83
+00:05:51,006 --> 00:05:55,003
+atunci, aplicând ecuaţia
+de acolo,
+
+84
+00:05:55,003 --> 00:05:56,055
+cunoaştem 
+masa protonului,
+
+85
+00:05:56,055 --> 00:05:59,000
+viteza tocmai am
+calculat-o.
+
+86
+00:05:59,000 --> 00:06:01,064
+Ştim sarcina protonului
+şi ştim câmpul B.
+
+87
+00:06:01,064 --> 00:06:07,002
+Vom găsi că R este
+0,15 m,
+
+88
+00:06:07,002 --> 00:06:14,002
+adică 15 cm.
+Un exemplu numeric oarecare.
+
+89
+00:06:14,002 --> 00:06:19,004
+De obicei, sau,
+în majoritatea cazurilor,
+
+90
+00:06:19,004 --> 00:06:25,001
+se elimină 
+viteza din acea ecuaţie şi
+
+91
+00:06:25,001 --> 00:06:28,070
+se înlocuieşte cu
+diferenţa de potenţial,
+
+92
+00:06:28,070 --> 00:06:34,005
+V, peste care
+accelerăm aceste particule.
+
+93
+00:06:34,005 --> 00:06:40,003
+Putem înlocui V-ul
+aplicând
+
+94
+00:06:40,003 --> 00:06:44,005
+ecuaţia de acolo,
+1/2mv^2.
+
+95
+00:06:44,005 --> 00:06:51,006
+Avem 1/2mv^2 
+egal cu q ori delta V,
+
+96
+00:06:51,006 --> 00:06:55,004
+dar scriem doar V.
+Înlocuim apoi
+
+97
+00:06:55,004 --> 00:06:59,003
+acest V aici,
+şi nu vom mai avea
+
+98
+00:06:59,003 --> 00:07:01,009
+viteză în acea ecuaţie,
+ci doar diferenţa
+
+99
+00:07:01,009 --> 00:07:04,004
+de potenţial.
+În cazul acestui proton,
+
+100
+00:07:04,004 --> 00:07:10,003
+acest V este un milion,
+iar R-ul este
+
+101
+00:07:10,003 --> 00:07:16,055
+atunci egal cu 
+radical din 2mV împărţit la
+
+102
+00:07:16,055 --> 00:07:21,009
+qB^2.
+Cele două ecuaţii înseamnă
+
+103
+00:07:21,009 --> 00:07:25,000
+acelaşi lucru, desigur,
+dar sunt reprezentate
+
+104
+00:07:25,000 --> 00:07:33,020
+diferit.
+Dacă înlocuim V-ul cu 10^6,
+
+105
+00:07:33,020 --> 00:07:35,015
+masa protonului,
+sarcina protonului,
+
+106
+00:07:35,015 --> 00:07:38,002
+şi câmpul de 1 Tesla, 
+vom obţine exact acelaşi
+
+107
+00:07:38,002 --> 00:07:47,086
+răspuns, 0,15 m.
+Totul e bine şi frumos, dar ecuaţia
+
+108
+00:07:47,086 --> 00:07:52,000
+este valabilă atâta 
+timp cât viteza este mult mai mică
+
+109
+00:07:52,000 --> 00:07:56,043
+decât viteza luminii.
+În caz contrar,
+
+110
+00:07:56,043 --> 00:08:02,002
+trebuie să aplicăm
+relativitatea specială. Aceasta nu
+
+111
+00:08:02,002 --> 00:08:05,002
+face parte din cursul de faţă,
+dar voi prezenta câteva noţiuni
+
+112
+00:08:05,002 --> 00:08:11,015
+astăzi.
+Putem lua şi un exemplu.
+
+113
+00:08:11,015 --> 00:08:16,059
+Să presupunem că avem
+un electron cu energia de
+
+114
+00:08:16,059 --> 00:08:24,008
+500 keV.
+Asta înseamnă că,
+
+115
+00:08:24,008 --> 00:08:31,001
+în ecuaţia aceasta, 
+V-ul este egal cu 500.000,
+
+116
+00:08:31,001 --> 00:08:35,002
+q este sarcina electronului,
+iar m este masa
+
+117
+00:08:35,002 --> 00:08:38,007
+electronului.
+Rezolvând ecuaţia,
+
+118
+00:08:38,007 --> 00:08:43,005
+găsim că V este
+4,2 ori 10^8 metri
+
+119
+00:08:43,005 --> 00:08:47,003
+pe secundă, 
+mai mare decât viteza luminii,
+
+120
+00:08:47,003 --> 00:08:51,006
+ceea ce, evident, este imposibil.
+Viteza reală,
+
+121
+00:08:51,006 --> 00:08:55,012
+după ajustări relativiste,
+este egală cu
+
+122
+00:08:55,012 --> 00:09:01,046
+2,6 ori 10^8 
+m/s.
+
+123
+00:09:01,046 --> 00:09:04,004
+Cu toate că nu vă voi cere
+să aplicaţi aceste
+
+124
+00:09:04,004 --> 00:09:08,009
+ajustări relativiste,
+eu le voi face,
+
+125
+00:09:08,009 --> 00:09:11,002
+şi veţi vedea 
+de ce sunt necesare.
+
+126
+00:09:11,002 --> 00:09:15,000
+Şi, deşi nu sunt
+deloc
+
+127
+00:09:15,000 --> 00:09:19,001
+dificile, 
+nu vă cer să
+
+128
+00:09:19,001 --> 00:09:27,057
+le ştiţi. 
+Energia cinetică este
+
+129
+00:09:27,057 --> 00:09:30,045
+şi în acest caz egală cu
+qV,
+
+130
+00:09:30,045 --> 00:09:33,008
+nu se modifică,
+dar nu mai este egală cu
+
+131
+00:09:33,008 --> 00:09:37,005
+1/2mv^2, ci este 
+(γ-1)mc^2,
+
+132
+00:09:37,005 --> 00:09:41,009
+γ, factorul Lorentz, 
+fiind definit mai sus.
+
+133
+00:09:41,009 --> 00:09:46,002
+Dacă V-ul, pentru electron,
+este egal cu
+
+134
+00:09:46,002 --> 00:09:49,004
+500.000,
+putem calcula γ
+
+135
+00:09:49,004 --> 00:09:52,005
+din prima ecuaţie, 
+îl înlocuim în a doua ecuaţie,
+
+136
+00:09:52,005 --> 00:09:54,009
+şi obţinem viteza.
+În acest fel, nu vom
+
+137
+00:09:54,009 --> 00:10:00,000
+obţine niciodată o viteză
+mai mare decât cea a luminii.
+
+138
+00:10:00,000 --> 00:10:06,001
+Aceleaşi ajustări trebuie
+să le facem şi pentru rază,
+
+139
+00:10:06,001 --> 00:10:11,008
+iar acestea sunt din nou
+relativ simple.
+
+140
+00:10:11,008 --> 00:10:15,007
+Aici trebuie
+introdus un factor γ,
+
+141
+00:10:15,007 --> 00:10:20,004
+iar aici, 
+2-ul trebuie
+
+142
+00:10:20,004 --> 00:10:25,070
+înlocuit cu γ + 1.
+Totul este în regulă acum.
+
+143
+00:10:25,070 --> 00:10:29,000
+Nu va cer să ştiţi asta,
+dar nu vreau să
+
+144
+00:10:29,000 --> 00:10:31,001
+credeţi că toate aceste ajustări 
+relativiste vin
+
+145
+00:10:31,001 --> 00:10:34,001
+din senin,
+şi nici nu vreau să credeţi că
+
+146
+00:10:34,001 --> 00:10:36,005
+sunt foarte grele.
+Nu sunt.
+
+147
+00:10:36,005 --> 00:10:39,047
+Aceste ecuaţii
+sunt extrem de simple.
+
+148
+00:10:42,000 --> 00:10:46,080
+Să vedem rezultatul 
+ecuaţiilor ce tocmai le-am
+
+149
+00:10:46,080 --> 00:10:53,007
+discutat.
+Electronul de 1 MeV şi protonul de
+
+150
+00:10:53,007 --> 00:10:58,004
+500 keV,
+găsiţi asta pe site.
+
+151
+00:10:58,004 --> 00:11:00,004
+Vă puteţi 
+scoate suportul de curs
+
+152
+00:11:00,004 --> 00:11:03,008
+şi-l puteţi lista.
+Vedeţi aici energia
+
+153
+00:11:03,008 --> 00:11:08,009
+cinetică, protonul de 1 MeV.
+Observaţi viteza
+
+154
+00:11:08,009 --> 00:11:11,002
+ce am calculat-o,
+non-relativistă,
+
+155
+00:11:11,002 --> 00:11:13,005
+γ este aproximativ egal cu 1.
+Nu trebuie să facem
+
+156
+00:11:13,005 --> 00:11:16,002
+corecţii.
+Într-un câmp de 1 Tesla,
+
+157
+00:11:16,002 --> 00:11:19,000
+obţinem o rază de 15 cm,
+ceea ce tocmai
+
+158
+00:11:19,000 --> 00:11:22,003
+am calculat.
+Dacă trecem la un proton de
+
+159
+00:11:22,003 --> 00:11:26,002
+50 MeV, ne aflăm la graniţa
+dintre relativism
+
+160
+00:11:26,002 --> 00:11:28,009
+şi non-relativism.
+Este suficient de non-relativist
+
+161
+00:11:28,009 --> 00:11:33,003
+încă, 
+şi în acest caz, putem vedea
+
+162
+00:11:33,003 --> 00:11:38,000
+foarte clar că raza 
+este direct proporţională cu radical
+
+163
+00:11:38,000 --> 00:11:41,004
+din V.
+Pentru 50 MeV,
+
+164
+00:11:41,004 --> 00:11:44,005
+V-ul este 50 de milioane,
+iar pentru 1 MeV,
+
+165
+00:11:44,005 --> 00:11:47,007
+V-ul este 1 milion.
+Din moment ce este direct proporţională
+
+166
+00:11:47,007 --> 00:11:50,003
+cu radical din V,
+ne-am aştepta ca raza
+
+167
+00:11:50,003 --> 00:11:53,008
+să fie de radical din 50 de ori
+mai mare, adică de 7 ori,
+
+168
+00:11:53,008 --> 00:11:57,002
+şi, într-adevăr, asta se şi întâmplă.
+Raza creşte de la
+
+169
+00:11:57,002 --> 00:12:01,098
+15 centimetri
+la aproximativ 1 m.
+
+170
+00:12:01,098 --> 00:12:06,000
+Avem şi electronul 
+de 500 keV aici,
+
+171
+00:12:06,000 --> 00:12:11,000
+iar rezultatele
+sunt ajustate.
+
+172
+00:12:11,000 --> 00:12:13,002
+Rezultatul este corectat
+din punct de vedere relativist.
+
+173
+00:12:13,002 --> 00:12:15,089
+Obţinem 
+2,6 ori 10^8 metri
+
+174
+00:12:15,089 --> 00:12:20,005
+pe secundă aplicând
+ceea ce am discutat mai înainte.
+
+175
+00:12:20,005 --> 00:12:24,000
+Las asta acolo 
+pe toată durata cursului,
+
+176
+00:12:24,000 --> 00:12:30,006
+pentru că ne vom referi
+la ea de câteva ori.
+
+177
+00:12:30,006 --> 00:12:35,005
+Vreau să vă prezint
+un experiment drăguţ.
+
+178
+00:12:35,005 --> 00:12:44,055
+Am aici un tun
+electronic ce arată cam aşa.
+
+179
+00:12:44,055 --> 00:12:47,056
+Aceasta este viteza
+electronilor.
+
+180
+00:12:47,056 --> 00:12:50,001
+Pun un minus 
+pentru a nu uita că vorbim de
+
+181
+00:12:50,001 --> 00:12:52,001
+electroni.
+Dacă electronii se deplasează
+
+182
+00:12:52,001 --> 00:12:55,007
+în această direcţie,
+direcţia curentului e aceasta.
+
+183
+00:12:55,007 --> 00:13:04,065
+Dacă avem acum un câmp magnetic,
+care intră în tablă,
+
+184
+00:13:04,065 --> 00:13:09,064
+acesta este B-ul,
+atunci I x B reprezintă direcţia
+
+185
+00:13:09,064 --> 00:13:13,001
+forţei.
+Direcţia lui I este aceasta,
+
+186
+00:13:13,001 --> 00:13:17,003
+B-ul intră în tablă.
+Aşadar, dacă nu mă înşel,
+
+187
+00:13:17,003 --> 00:13:22,061
+cred că forţa va fi în această direcţie,
+şi veţi vedea că electronul
+
+188
+00:13:22,061 --> 00:13:25,003
+va urma această
+traiectorie.
+
+189
+00:13:25,003 --> 00:13:29,073
+Dacă schimbăm direcţia
+câmpului magnetic,
+
+190
+00:13:29,073 --> 00:13:32,001
+câmpul magnetic iese 
+din tablă acum,
+
+191
+00:13:32,001 --> 00:13:34,047
+atunci electronul
+va urma această traiectorie.
+
+192
+00:13:34,047 --> 00:13:38,003
+Vă voi arăta asta aici.
+Nu e cu nimic diferit faţă
+
+193
+00:13:38,003 --> 00:13:42,007
+de experimentul 
+prin care am distorsionat ecranul
+
+194
+00:13:42,007 --> 00:13:46,073
+televizorului
+folosind un magnetic puternic,
+
+195
+00:13:46,073 --> 00:13:49,044
+dar acest experiment este, 
+desigur,
+
+196
+00:13:49,044 --> 00:13:54,000
+puţin mai controlat.
+Veţi vedea
+
+197
+00:13:54,000 --> 00:14:05,028
+imaginea acolo,
+vom mai stinge din lumini.
+
+198
+00:14:05,028 --> 00:14:09,055
+Să pornim
+tunul electronic.
+
+199
+00:14:09,055 --> 00:14:13,005
+Tunul electronic împrăştie 
+electronii pe un ecran fluorescent,
+
+200
+00:14:13,005 --> 00:14:17,003
+ca să-i putem vedea.
+Cu ajutorul unui magnet tip bară
+
+201
+00:14:17,003 --> 00:14:21,089
+ce-l voi ţine în spatele ecranului,
+pot crea situaţii de genul
+
+202
+00:14:21,089 --> 00:14:24,009
+celor de aici.
+Inversez magnetul
+
+203
+00:14:24,009 --> 00:14:27,076
+şi traiectoria 
+electronilor se va schimba.
+
+204
+00:14:27,076 --> 00:14:31,005
+Aduc magnetul aici,
+şi vedeţi
+
+205
+00:14:31,005 --> 00:14:35,002
+că electronii o iau în sus.
+Inversez magnetul
+
+206
+00:14:35,002 --> 00:14:38,000
+şi electronii
+o iau în jos.
+
+207
+00:14:38,000 --> 00:14:42,007
+Foarte clar,
+foarte simplu.
+
+208
+00:14:59,049 --> 00:15:07,000
+Există o metodă fizică superbă
+prin care putem separa
+
+209
+00:15:07,000 --> 00:15:11,027
+izotopii
+aceluiaşi element.
+
+210
+00:15:11,027 --> 00:15:15,003
+Dacă, de exemplu,
+considerăm uraniul,
+
+211
+00:15:15,003 --> 00:15:19,002
+atunci uraniul, 
+când îl descoperim,
+
+212
+00:15:19,002 --> 00:15:25,031
+constă în proporţie de 99,3%
+din uraniu 238.
+
+213
+00:15:25,031 --> 00:15:27,042
+Asta înseamnă că
+acesta conţine 92
+
+214
+00:15:27,042 --> 00:15:30,013
+de protoni, altfel, 
+nu ar fi uraniu,
+
+215
+00:15:30,013 --> 00:15:35,092
+şi 146 de neutroni,
+99,3 %.
+
+216
+00:15:37,043 --> 00:15:41,095
+0,7% constă din
+uraniu 235.
+
+217
+00:15:41,095 --> 00:15:44,090
+La fel, 92 de protoni,
+altfel, nu ar fi
+
+218
+00:15:44,090 --> 00:15:48,051
+uraniu, 
+dar numai 143 de neutroni,
+
+219
+00:15:48,051 --> 00:15:53,001
+acesta se găseşte în stare 
+naturală în proporţie de 0,7%.
+
+220
+00:15:53,001 --> 00:15:56,004
+Mergem la un chimist
+cu o cantitate de
+
+221
+00:15:56,004 --> 00:15:59,002
+uraniu, 
+şi-l rugăm să ne separe cei doi
+
+222
+00:15:59,002 --> 00:16:02,001
+izotopi.
+Acesta, desigur, va râde de
+
+223
+00:16:02,001 --> 00:16:05,057
+noi, şi ne va trimite la plimbare,
+pentru că proprietăţile
+
+224
+00:16:05,057 --> 00:16:09,005
+chimice sunt exact identice
+pentru cele două, pentru că uraniul este
+
+225
+00:16:09,005 --> 00:16:12,000
+uraniu.
+Uraniul de aici posedă
+
+226
+00:16:12,000 --> 00:16:15,001
+92 de electroni,
+iar cel de aici tot 92
+
+227
+00:16:15,001 --> 00:16:19,061
+de electroni, prin urmare,
+nu-i poate separa.
+
+228
+00:16:19,061 --> 00:16:23,004
+Vă voi arăta însă 
+cum îi putem separa folosind
+
+229
+00:16:23,004 --> 00:16:29,002
+un spectrometru de masă. 
+Încălzim uraniul până când se
+
+230
+00:16:29,002 --> 00:16:31,042
+ionizează.
+Să presupunem că se ionizează odată,
+
+231
+00:16:31,042 --> 00:16:33,001
+prin urmare,
+pierde un electron,
+
+232
+00:16:33,001 --> 00:16:36,048
+iar sarcina acestuia
+este acum +1,
+
+233
+00:16:36,048 --> 00:16:40,000
+adică o sarcină 
+precum cele de aici.
+
+234
+00:16:40,000 --> 00:16:45,007
+Îl accelerăm apoi peste o 
+anumită diferenţa de potenţial, astfel că
+
+235
+00:16:45,007 --> 00:16:49,032
+aceşti atomi de uraniu,
+235 şi 238,
+
+236
+00:16:49,032 --> 00:16:53,003
+voi fi acceleraţi la o anumită viteză.
+Ajung aşadar aici cu o anumită
+
+237
+00:16:53,003 --> 00:17:00,041
+viteză, v, fiind încărcaţi pozitiv,
+şi să presupunem că
+
+238
+00:17:00,041 --> 00:17:03,080
+avem un câmp magnetic
+uniform
+
+239
+00:17:03,080 --> 00:17:08,000
+în această direcţie,
+iese din tablă.
+
+240
+00:17:08,000 --> 00:17:12,004
+Acum, 
+aceste particule ce
+
+241
+00:17:12,004 --> 00:17:16,004
+sunt încărcate pozitiv, 
+cu o unitate de sarcină,
+
+242
+00:17:16,004 --> 00:17:24,064
+se vor deplasa pe un cerc
+şi vor ajunge aici.
+
+243
+00:17:24,064 --> 00:17:28,002
+Aceasta este raza.
+Dar, dacă ne uităm la aceste
+
+244
+00:17:28,002 --> 00:17:32,001
+ecuaţii, vedem că
+raza este direct proporţională cu
+
+245
+00:17:32,001 --> 00:17:36,015
+radical din masa particulei,
+iar masa uraniului 238
+
+246
+00:17:36,015 --> 00:17:39,007
+este cu 1,2% mai mare
+decât masa
+
+247
+00:17:39,007 --> 00:17:44,038
+uraniului 235.
+Aşadar, fiind cu 1,2%
+
+248
+00:17:44,038 --> 00:17:47,042
+mai mare, 
+datorită acelui radical,
+
+249
+00:17:47,042 --> 00:17:51,053
+vedeţi aici radicalul,
+cei doi atomi sunt acceleraţi
+
+250
+00:17:51,053 --> 00:17:55,000
+peste aceeaşi diferenţă de potenţial,
+V-ul aşadar nu se modifică.
+
+251
+00:17:55,000 --> 00:17:57,016
+Doar m-ul 
+se modifică.
+
+252
+00:17:57,016 --> 00:18:01,036
+Vom avea aşadar o variaţie
+de 0,6% a razei,
+
+253
+00:18:01,036 --> 00:18:04,002
+şi uraniul 238
+va ajunge
+
+254
+00:18:04,002 --> 00:18:07,003
+aici. 
+Distanţa e exagerată.
+
+255
+00:18:07,003 --> 00:18:10,000
+Dar 235-ul 
+va ajunge aici.
+
+256
+00:18:10,000 --> 00:18:12,005
+238-ul are o rază 
+mai mare, pentru că masa
+
+257
+00:18:12,005 --> 00:18:15,001
+lui este mai mare,
+vedeţi aici.
+
+258
+00:18:15,001 --> 00:18:17,079
+B-ul nu se modifică,
+q-ul nu se modifică,
+
+259
+00:18:17,079 --> 00:18:19,092
+şi nici V-ul
+nu se modifică.
+
+260
+00:18:19,092 --> 00:18:23,000
+Îi accelerăm peste
+aceeaşi diferenţă de potenţial.
+
+261
+00:18:23,000 --> 00:18:25,062
+Dacă raza acestui 
+spectrometru
+
+262
+00:18:25,062 --> 00:18:29,006
+ar fi de 1 m, de exemplu, 
+atunci această diferenţă
+
+263
+00:18:29,006 --> 00:18:32,009
+de aici, diametrul este 2R,
+diferenţa
+
+264
+00:18:32,009 --> 00:18:35,039
+va fi egală
+cu aproximativ 1,2 cm.
+
+265
+00:18:35,039 --> 00:18:38,001
+Amplasăm aici un colector,
+unde colectăm
+
+266
+00:18:38,001 --> 00:18:43,009
+atomii 238,
+iar aici colectăm
+
+267
+00:18:43,009 --> 00:18:49,046
+235-ul, aceasta fiind ideea
+din spatele unui spectrometru de masă.
+
+268
+00:18:49,046 --> 00:18:53,052
+De ce am ales
+acest exemplu ?
+
+269
+00:18:53,052 --> 00:18:59,005
+Acest exemplu a schimbat 
+radical lumea în care trăim şi a făcut istorie.
+
+270
+00:18:59,005 --> 00:19:04,007
+Americanii aveau nevoie de uraniu 235
+pentru realizarea
+
+271
+00:19:04,007 --> 00:19:07,082
+bombei atomice şi
+încheierea celui de al doilea război mondial.
+
+272
+00:19:07,082 --> 00:19:12,064
+Acest lucru a fost realizat în cadrul
+faimosului proiect Manhattan.
+
+273
+00:19:12,064 --> 00:19:17,006
+Ernest Lawrence, de la facultatea Berkeley,
+a construit spectrometre de masă ce
+
+274
+00:19:17,006 --> 00:19:20,006
+erau capabile să separe
+uraniul 235 de uraniul
+
+275
+00:19:20,006 --> 00:19:23,005
+238.
+La început,
+
+276
+00:19:23,005 --> 00:19:26,006
+mergea foarte încet,
+aproximativ 100 de micrograme
+
+277
+00:19:26,006 --> 00:19:30,009
+pe zi.
+Dar era nevoie de câteva
+
+278
+00:19:30,009 --> 00:19:35,004
+kilograme pentru o bombă atomică.
+Au ajuns până la urmă
+
+279
+00:19:35,004 --> 00:19:39,004
+la un gram pe zi, şi, 
+în combinaţie cu alte
+
+280
+00:19:39,004 --> 00:19:41,054
+metode de separaţie, 
+precum metode de difuziune
+
+281
+00:19:41,054 --> 00:19:45,009
+a gazului, 
+ce nu le vom discuta acum,
+
+282
+00:19:45,009 --> 00:19:49,001
+au reuşit să obţină câteva kilograme
+şi au lansat o bombă în
+
+283
+00:19:49,001 --> 00:19:52,002
+Hiroshima la data de 
+6 august 1945, şi, trei
+
+284
+00:19:52,002 --> 00:19:56,082
+zile mai târziu, 
+o altă bombă a fost lansată în Nagasaki.
+
+285
+00:19:56,082 --> 00:20:02,005
+Japonezii au capitulat
+şi astfel s-a încheiat războiul.
+
+286
+00:20:04,001 --> 00:20:06,055
+Este îmbucurător faptul 
+că există multe aplicaţii paşnice
+
+287
+00:20:06,055 --> 00:20:09,041
+în zilele noastre pentru spectrometre,
+în special în domeniul
+
+288
+00:20:09,041 --> 00:20:12,057
+medical.
+Oamenii necesită câteodată
+
+289
+00:20:12,057 --> 00:20:15,009
+radiaţii, dar necesită 
+radiaţii de la anumiţi
+
+290
+00:20:15,009 --> 00:20:19,004
+izotopi radioactivi,
+dar nu şi de la ceilalţi
+
+291
+00:20:19,004 --> 00:20:23,003
+izotopi ai aceluiaşi element. 
+Prin urmare, aceştia sunt separaţi
+
+292
+00:20:23,003 --> 00:20:27,049
+cu ajutorul unui spectrometru de masă.
+Este o adevărată industrie,
+
+293
+00:20:27,049 --> 00:20:33,057
+o industrie foarte importantă. 
+Vom vedea acum
+
+294
+00:20:33,057 --> 00:20:39,006
+modul în care putem
+accelera protonii la viteze
+
+295
+00:20:39,006 --> 00:20:44,000
+extrem de mari, 
+apropiate de viteza luminii.
+
+296
+00:20:44,000 --> 00:20:48,003
+Şi în acest domeniu
+Ernest Lawrence a avut un cuvânt
+
+297
+00:20:48,003 --> 00:20:53,001
+de spus.
+La început se folosea
+
+298
+00:20:53,001 --> 00:20:56,000
+ciclotronul,
+aparat ce-l vom analiza
+
+299
+00:20:56,000 --> 00:21:06,002
+acum.
+Ciclotronul este compus dintr-o
+
+300
+00:21:06,002 --> 00:21:11,079
+cameră, denumită D.
+Există un D aici şi un alt
+
+301
+00:21:11,079 --> 00:21:16,071
+D aici. 
+Acestea sunt camere conductoare.
+
+302
+00:21:16,071 --> 00:21:20,004
+Privite dintr-o parte,
+arată aşa.
+
+303
+00:21:20,004 --> 00:21:24,003
+Aceasta e camera din stânga,
+iar aceasta e camera din dreapta,
+
+304
+00:21:24,003 --> 00:21:29,081
+totul fiind introdus în vid.
+Avem şi un
+
+305
+00:21:29,081 --> 00:21:37,003
+câmp magnetic
+ce iese din tablă, astfel.
+
+306
+00:21:37,003 --> 00:21:43,002
+Să revenim la 
+protonul de 1 MeV.
+
+307
+00:21:43,002 --> 00:21:46,090
+Să presupunem că 
+punem în această cameră
+
+308
+00:21:46,090 --> 00:21:51,000
+un proton de 1 MeV.
+Cunoaştem viteza iniţială
+
+309
+00:21:51,000 --> 00:21:54,004
+a acestuia, pentru că viteza
+protonului de 1 MeV este de,
+
+310
+00:21:54,004 --> 00:21:56,090
+o vedeţi încă acolo,
+este de 1,4 ori 10^7
+
+311
+00:21:56,090 --> 00:22:00,002
+metri pe secundă.
+De asemenea, într-un câmp
+
+312
+00:22:00,002 --> 00:22:04,007
+de 1 Tesla , să spunem că
+acest câmp este 1 Tesla, raza
+
+313
+00:22:04,007 --> 00:22:08,000
+va fi de 15 cm.
+Vedeţi valoarea acolo.
+
+314
+00:22:08,000 --> 00:22:10,005
+Cum se va comporta
+acest proton ?
+
+315
+00:22:10,005 --> 00:22:15,005
+Va face asta.
+Dar când ajunge aici,
+
+316
+00:22:15,005 --> 00:22:18,008
+se introduce o diferenţă
+de potenţial între cei doi
+
+317
+00:22:18,008 --> 00:22:23,073
+D, astfel încât,
+aici este potenţial mare, şi aici potenţial
+
+318
+00:22:23,073 --> 00:22:26,073
+mic.
+Vom avea aşadar un
+
+319
+00:22:26,073 --> 00:22:33,001
+câmp electric în această deschizătură,
+în această direcţie, acest
+
+320
+00:22:33,001 --> 00:22:36,003
+proton fiind accelerat.
+Să presupunem că
+
+321
+00:22:36,003 --> 00:22:40,070
+diferenţa de potenţial
+este de 20 kV.
+
+322
+00:22:40,070 --> 00:22:44,006
+Atunci, energia cinetică 
+a protonului
+
+323
+00:22:44,006 --> 00:22:48,055
+va creşte cu 
+20 keV.
+
+324
+00:22:48,055 --> 00:22:50,079
+Aceasta este definiţia
+electron-
+
+325
+00:22:50,079 --> 00:22:54,004
+-voltului.
+Iniţial, avem un
+
+326
+00:22:54,004 --> 00:23:00,006
+MeV, dar după parcurgerea
+acestei deschizături va avea
+
+327
+00:23:00,006 --> 00:23:07,095
+1,2 MeV.
+Cu 20 keV mai mult.
+
+328
+00:23:07,095 --> 00:23:12,003
+Dar şi raza, acum,
+este mai mare.
+
+329
+00:23:12,003 --> 00:23:15,049
+Dacă V este cu 2% mai mare,
+şi folosesc această
+
+330
+00:23:15,049 --> 00:23:19,053
+ecuaţie, 
+atunci raza este cu 1%
+
+331
+00:23:19,053 --> 00:23:25,039
+mai mare, iar când ajunge aici,
+şi descrie un cerc,
+
+332
+00:23:25,039 --> 00:23:30,098
+raza acestuia este acum cu 1%
+mai mare decât 15 cm.
+
+333
+00:23:30,098 --> 00:23:36,001
+Dar când ajunge în această 
+parte a  D-ului, această diferenţă
+
+334
+00:23:36,001 --> 00:23:40,007
+de potenţial se inversează,
+iar direcţia câmpului electric este din nou
+
+335
+00:23:40,007 --> 00:23:43,000
+aceasta, 
+în direcţia de deplasare a protonului.
+
+336
+00:23:43,000 --> 00:23:47,005
+Aşadar, protonul este accelerat din nou
+cu 20 keV.
+
+337
+00:23:47,005 --> 00:23:50,003
+Acum, desigur, 
+raza este şi mai mare.
+
+338
+00:23:50,003 --> 00:23:54,000
+Prin urmare, 
+de fiecare dată când ajunge la deschizătură,
+
+339
+00:23:54,000 --> 00:23:57,002
+direcţia diferenţei de potenţial se modifică 
+pentru a permite accelerarea
+
+340
+00:23:57,002 --> 00:24:01,003
+protonului, rezultatul fiind că
+protonul face o spirală
+
+341
+00:24:01,003 --> 00:24:04,050
+până atinge raza maximă
+avută la dispoziţie.
+
+342
+00:24:04,050 --> 00:24:09,000
+Pe parcursul unei rotaţii
+câştigă 20 keV
+
+343
+00:24:09,000 --> 00:24:12,077
+aici, şi 20 keV aici,
+prin urmare, câştigă
+
+344
+00:24:12,077 --> 00:24:18,002
+40 keV.
+Responsabil este doar
+
+345
+00:24:18,002 --> 00:24:20,008
+câmpul electric,
+acesta accelerează particulele.
+
+346
+00:24:20,008 --> 00:24:22,026
+Câmpul magnetic nu
+poate accelera.
+
+347
+00:24:22,026 --> 00:24:25,024
+Câmpul magnetic poate modifica
+direcţia, dar nu poate efectua
+
+348
+00:24:25,024 --> 00:24:29,001
+lucru mecanic asupra particulelor.
+Câmpul magnetic este necesar pentru
+
+349
+00:24:29,001 --> 00:24:34,002
+a ţine particulele în interior. 
+Să presupunem că efectuăm
+
+350
+00:24:34,002 --> 00:24:40,060
+1225 de
+rotaţii complete.
+
+351
+00:24:40,060 --> 00:24:45,001
+Pe fiecare rotaţie,
+energia cinetică creşte cu
+
+352
+00:24:45,001 --> 00:24:49,007
+40 keV.
+Dacă înmulţim cele două,
+
+353
+00:24:49,007 --> 00:24:52,005
+obţinem că 
+energia
+
+354
+00:24:52,005 --> 00:24:58,094
+cinetică a acestui proton a crescut
+cu 49 MeV,
+
+355
+00:24:58,094 --> 00:25:02,035
+pentru că a efectuat 
+1225
+
+356
+00:25:02,035 --> 00:25:07,002
+de rotaţii complete.
+Energia protonului este acum de
+
+357
+00:25:07,002 --> 00:25:11,027
+49 MeV plus 1 MeV 
+energia iniţială,
+
+358
+00:25:11,027 --> 00:25:17,001
+obţinem un proton 
+de 50 MeV.
+
+359
+00:25:17,001 --> 00:25:20,001
+Vedeţi a doua linie de acolo ?
+Acolo este acel proton
+
+360
+00:25:20,001 --> 00:25:22,003
+de 50 MeV 
+ce l-am discutat mai
+
+361
+00:25:22,003 --> 00:25:25,008
+devreme. 
+Într-un câmp de 1 Tesla,
+
+362
+00:25:25,008 --> 00:25:30,001
+raza este egală cu 1 m,
+astfel încât, dacă raza acestui aparat
+
+363
+00:25:30,001 --> 00:25:34,007
+ar fi de 1m, totul ar fi în regulă.
+După 1225 de rotaţii,
+
+364
+00:25:34,007 --> 00:25:40,000
+protonul s-ar regăsi 
+la marginea acestei circumferinţe.
+
+365
+00:25:45,002 --> 00:25:50,005
+Este remarcabil, şi non-intuitiv,
+faptul că perioada
+
+366
+00:25:50,005 --> 00:25:54,006
+unei rotaţii,
+atâta timp cât nu trebuie efectuate ajustări
+
+367
+00:25:54,006 --> 00:25:57,002
+relativiste, 
+durata de rotaţie a
+
+368
+00:25:57,002 --> 00:26:01,052
+protonului este 
+independentă de viteză.
+
+369
+00:26:01,052 --> 00:26:04,006
+Nu e intuitiv,
+dar putem observa foarte
+
+370
+00:26:04,006 --> 00:26:12,000
+uşor acest lucru, pentru că perioada
+unei rotaţii este 2πR împărţit
+
+371
+00:26:12,000 --> 00:26:17,004
+la viteză.
+Dar şi raza este
+
+372
+00:26:17,004 --> 00:26:24,001
+direct proporţională cu viteza.
+Perioada este, aşadar,
+
+373
+00:26:24,001 --> 00:26:27,009
+independentă de v,
+pentru că R-ul ese direct
+
+374
+00:26:27,009 --> 00:26:33,055
+proporţional cu viteza,
+iar cele două viteze se simplifică, astfel că
+
+375
+00:26:33,055 --> 00:26:37,074
+perioada unei rotaţii
+este egală cu 2π ori
+
+376
+00:26:37,074 --> 00:26:45,005
+masa particulei respective,
+totul împărţit la qB.
+
+377
+00:26:45,005 --> 00:26:48,025
+Dacă facem ajustări
+relativiste,
+
+378
+00:26:48,025 --> 00:26:50,093
+trebuie să înmulţim totul cu γ,
+dar,
+
+379
+00:26:50,093 --> 00:26:55,056
+în caz contrar, 
+este independentă de
+
+380
+00:26:55,056 --> 00:27:00,007
+viteza protonilor.
+Dacă ne întoarcem la
+
+381
+00:27:00,007 --> 00:27:05,004
+protonul nostru de 1 MeV,
+ce a devenit un proton de
+
+382
+00:27:05,004 --> 00:27:10,002
+50 MeV
+după 1225 de rotaţii,
+
+383
+00:27:10,002 --> 00:27:17,001
+perioada unei singure rotaţii
+este de doar 6,6 nano-secunde,
+
+384
+00:27:17,001 --> 00:27:24,021
+adică 6,6 ori 10^-8
+secunde.
+
+385
+00:27:24,021 --> 00:27:28,002
+Ca să vă daţi seama
+cât de rapid se întâmplă toate acestea.
+
+386
+00:27:28,002 --> 00:27:31,070
+Dacă parcurgem 
+1225 de rotaţii,
+
+387
+00:27:31,070 --> 00:27:33,002
+asta va lua 
+doar
+
+388
+00:27:33,002 --> 00:27:36,005
+80 de micro-secunde. 
+Toate aceste lucruri au loc aşadar
+
+389
+00:27:36,005 --> 00:27:42,008
+în 80 de micro-secunde.
+Câmpul electric trebuie comutat de
+
+390
+00:27:42,008 --> 00:27:45,028
+două ori la fiecare rotaţie completă, 
+direcţia lui E trebuie să fie aceasta,
+
+391
+00:27:45,028 --> 00:27:48,006
+dar când protonul ajunge aici,
+câmpul E trebuie să fie în acea
+
+392
+00:27:48,006 --> 00:27:52,000
+direcţie. 
+Frecvenţa de comutaţie, aşadar,
+
+393
+00:27:52,000 --> 00:27:55,003
+poate fi calculată uşor, 
+şi este de aproximativ 30 de milioane
+
+394
+00:27:55,003 --> 00:28:00,040
+de ori pe secundă,
+aproximativ 30 MHz.
+
+395
+00:28:00,040 --> 00:28:03,003
+În 80 de 
+microsecunde
+
+396
+00:28:03,003 --> 00:28:06,075
+am transformat un proton de 1 MeV,
+într-un proton de
+
+397
+00:28:06,075 --> 00:28:14,013
+50 MeV.
+Pare incredibil, dar funcţionează.
+
+398
+00:28:19,037 --> 00:28:22,059
+Datorită ajustărilor relativiste
+de aici,
+
+399
+00:28:22,059 --> 00:28:30,002
+acest γ,
+la energii foarte mari, perioada
+
+400
+00:28:30,002 --> 00:28:32,008
+unei rotaţii nu 
+mai este constantă.
+
+401
+00:28:32,008 --> 00:28:37,004
+Frecvenţa de comutaţie 
+a potenţialului
+
+402
+00:28:37,004 --> 00:28:40,033
+din această deschizătură 
+trebuie acum ajustată.
+
+403
+00:28:40,033 --> 00:28:44,005
+Dacă perioada rotaţiei creşte, 
+atunci frecvenţa de comutaţie trebuie să
+
+404
+00:28:44,005 --> 00:28:48,001
+scadă, aceste instrument
+se numeşte sincrotron,
+
+405
+00:28:48,001 --> 00:28:50,034
+sau sincrociclotron.
+Au diferite denumiri.
+
+406
+00:28:50,034 --> 00:28:53,004
+Frecvenţa este sincronizată acum
+pentru a corecta
+
+407
+00:28:53,004 --> 00:28:59,030
+efectele relativiste.
+Acceleratoarele moderne
+
+408
+00:28:59,030 --> 00:29:04,001
+au o rază constantă.
+Sunt sub formă de inele.
+
+409
+00:29:04,001 --> 00:29:08,003
+Există un inel cu 
+o rază constantă.
+
+410
+00:29:08,003 --> 00:29:11,001
+Singura posibilitate de menţinere
+a particulelor în interiorul inelului atunci
+
+411
+00:29:11,001 --> 00:29:14,045
+când energia acestora este mică,
+precum şi atunci când este mare, este prin
+
+412
+00:29:14,045 --> 00:29:18,000
+creşterea progresivă 
+a câmpului magnetic.
+
+413
+00:29:18,000 --> 00:29:20,005
+La început, câmpul magnetic 
+este slab,
+
+414
+00:29:20,005 --> 00:29:24,003
+parcurgem un cerc imens, 
+o rază foarte mare,
+
+415
+00:29:24,003 --> 00:29:28,001
+iar câmpul magnetic 
+creşte progresiv pe măsură
+
+416
+00:29:28,001 --> 00:29:33,004
+ce particulele sunt accelerate. 
+Prin creşterea câmpului magnetic în
+
+417
+00:29:33,004 --> 00:29:36,001
+direcţia corectă, 
+chiar şi până la o intensitate de
+
+418
+00:29:36,001 --> 00:29:42,002
+2 Tesla,
+putem menţine particulele în inel.
+
+419
+00:29:42,002 --> 00:29:47,003
+Prima poză ce vreau s-o vedeţi,
+este un
+
+420
+00:29:47,003 --> 00:29:53,006
+ciclotron antic, 
+de fapt, un sincrociclotron,
+
+421
+00:29:53,006 --> 00:29:57,049
+construit de Lawrence, la Berkeley, 
+fiind capabil să
+
+422
+00:29:57,049 --> 00:30:01,048
+accelereze protonii la energii de
+730 MeV.
+
+423
+00:30:01,048 --> 00:30:05,005
+Vedeţi şi o persoană în poză
+pentru a putea aprecia mărimea
+
+424
+00:30:05,005 --> 00:30:08,085
+acestui instrument.
+Lawrence a câştigat premiul Nobel
+
+425
+00:30:08,085 --> 00:30:12,002
+pentru fizică, în 1939,
+pentru
+
+426
+00:30:12,002 --> 00:30:18,007
+invenţia ciclotronului.
+Următoarea poză este Fermilab-ul
+
+427
+00:30:18,007 --> 00:30:22,029
+de lângă Chicago.
+Acesta este un accelerator modern,
+
+428
+00:30:22,029 --> 00:30:25,066
+căruia i se mai spune şi
+„collider”,
+
+429
+00:30:25,066 --> 00:30:30,001
+cu un diametru de 
+2,2 km,
+
+430
+00:30:30,001 --> 00:30:36,075
+instrument ce-şi propune
+să accelereze
+
+431
+00:30:36,075 --> 00:30:41,007
+protonii până la mii de GeV, 
+G înseamnă giga,
+
+432
+00:30:41,007 --> 00:30:46,003
+giga înseamnă miliarde.
+O mie de giga electron-volţi
+
+433
+00:30:46,003 --> 00:30:48,080
+înseamnă
+10^12 electron-
+
+434
+00:30:48,080 --> 00:30:51,044
+volţi. 
+Aceste fascicule de protoni
+
+435
+00:30:51,044 --> 00:30:55,006
+accelerate la energii mari
+se ciocnesc cu alte nuclee pentru
+
+436
+00:30:55,006 --> 00:30:58,006
+a descoperi natura 
+fizicii nucleare.
+
+437
+00:30:58,006 --> 00:31:01,004
+Cu cât energia protonilor este mai mare,
+cu atât impactul este
+
+438
+00:31:01,004 --> 00:31:04,004
+mai puternic atunci când protonii se ciocnesc,
+şi cu atât mai multe lucruri
+
+439
+00:31:04,004 --> 00:31:07,004
+pot fi descoperite.
+Folosind protoni cu energii
+
+440
+00:31:07,004 --> 00:31:11,006
+din ce în ce mai mare, 
+reprezentând un fel de gloanţe nucleare,
+
+441
+00:31:11,006 --> 00:31:15,001
+se explorează teritorii necunoscute.
+La ştiri,
+
+442
+00:31:15,001 --> 00:31:17,006
+aceste acceleratoare sunt 
+adesea denumite
+
+443
+00:31:17,006 --> 00:31:21,000
+„distrugătoare de atomi”. 
+Acesta e doar un nume mai pompos
+
+444
+00:31:21,000 --> 00:31:24,005
+folosit pentru a trezi 
+interesul publicului, ce plăteşte toate acestea
+
+445
+00:31:24,005 --> 00:31:28,006
+prin intermediul taxelor.
+Aceste domeniu de cercetare  reprezintă
+
+446
+00:31:28,006 --> 00:31:32,000
+o industrie de miliarde de dolari.
+Termenul de „distrugător de atomi”
+
+447
+00:31:32,000 --> 00:31:36,007
+este impropriu, de fapt.
+Acceleratoarele ciocnesc nuclee,
+
+448
+00:31:36,007 --> 00:31:41,010
+ce sunt de 10.000 de ori mai mici 
+decât atomii.
+
+449
+00:31:41,010 --> 00:31:46,003
+În următoarea poză 
+este tunelul celui mai mare inel
+
+450
+00:31:46,003 --> 00:31:50,008
+din lume, aflat în Geneva, 
+la CERN, un proiect
+
+451
+00:31:50,008 --> 00:31:54,026
+european.
+Acest tunel, ce există
+
+452
+00:31:54,026 --> 00:32:00,040
+deja de câţiva ani, 
+are o lungime de 27 km,
+
+453
+00:32:00,040 --> 00:32:03,034
+şi o rază de 
+4,3 km,
+
+454
+00:32:03,034 --> 00:32:10,002
+şi aici are loc 
+accelerarea acestor protoni, desigur,
+
+455
+00:32:10,002 --> 00:32:14,000
+în vid. 
+Aplicând tehnici moderne
+
+456
+00:32:14,000 --> 00:32:18,000
+cu magneţi supraconductori,
+se pot utiliza câmpuri de până la
+
+457
+00:32:18,000 --> 00:32:23,001
+5 Tesla.
+În acest tunel se dezvoltă acum
+
+458
+00:32:23,001 --> 00:32:31,005
+un nou experiment,
+denumit „Large Hadron Collider",
+
+459
+00:32:31,007 --> 00:32:35,085
+considerat Sfântul Graal
+al fizicienilor,
+
+460
+00:32:35,085 --> 00:32:41,054
+preconizat a începe 
+în 2007,
+
+461
+00:32:41,054 --> 00:32:43,072
+şi va accelera protonii
+la energii
+
+462
+00:32:43,072 --> 00:32:47,006
+fără precedent, 
+până la energii cinetice
+
+463
+00:32:47,006 --> 00:32:53,027
+de 7.000 GeV, 
+adică 7 ori 10^12
+
+464
+00:32:53,027 --> 00:33:03,005
+electron-volţi. 
+Să ne întoarcem acum atenţia
+
+465
+00:33:03,005 --> 00:33:07,001
+înapoi la proiecţia de acolo,
+pentru a vedea lucrurile
+
+466
+00:33:07,001 --> 00:33:13,006
+ce le-am discutat, chiar acolo,
+mulţumesc Tom.
+
+467
+00:33:13,006 --> 00:33:19,070
+Aici este Fermilab-ul,
+cu o rază de 1,1 km,
+
+468
+00:33:19,070 --> 00:33:21,074
+v-am arătat
+o poză
+
+469
+00:33:21,074 --> 00:33:26,000
+aeriană, 
+acesta merge până la 1,5 Tesla,
+
+470
+00:33:26,000 --> 00:33:29,001
+aceasta fiind intensitatea 
+maximă a câmpului magnetic.
+
+471
+00:33:29,001 --> 00:33:31,001
+Se apropie foarte mult
+de viteza luminii,
+
+472
+00:33:31,001 --> 00:33:35,000
+obţinând protoni cu energii
+de 500 GeV.
+
+473
+00:33:35,000 --> 00:33:38,001
+Aici este Sfântul Graal, 
+„Large Hadron
+
+474
+00:33:38,001 --> 00:33:45,000
+Collider”, proiectul european
+de la Geneva, CERN,
+
+475
+00:33:45,000 --> 00:33:49,000
+unde circumferinţa este de
+27 km
+
+476
+00:33:49,000 --> 00:33:51,008
+iar câmpurile magnetice 
+vor fi de până la
+
+477
+00:33:51,008 --> 00:33:55,004
+5,5 Tesla, 
+folosind superconductori
+
+478
+00:33:55,004 --> 00:34:00,004
+moderni.
+Apropo, dacă vreţi să parcurgeţi
+
+479
+00:34:00,004 --> 00:34:02,043
+aceste tunele, 
+veţi avea nevoie de o
+
+480
+00:34:02,043 --> 00:34:06,007
+motocicletă, 
+sunt 27 km.
+
+481
+00:34:12,057 --> 00:34:16,020
+Scopul acestei fizici, 
+al tuturor acestor experimente,
+
+482
+00:34:16,020 --> 00:34:21,003
+este explorarea unor teritorii necunoscute,
+pentru a învăţa despre aceste forţe
+
+483
+00:34:21,003 --> 00:34:26,006
+nucleare misterioase, 
+pentru a vedea ce se află în interiorul protonilor,
+
+484
+00:34:26,006 --> 00:34:31,001
+şi în interiorul neutronilor. 
+Cu ajutorul acestui tip de experimente
+
+485
+00:34:31,001 --> 00:34:34,003
+s-au descoperit 
+multe particule
+
+486
+00:34:34,003 --> 00:34:40,003
+a căror existenţă era complet
+necunoscută înainte.
+
+487
+00:34:44,077 --> 00:34:50,001
+Cum pute vedea însă 
+rezultatul
+
+488
+00:34:50,001 --> 00:34:54,007
+coliziunilor acestor particule
+cu energii foarte mari ?
+
+489
+00:34:54,007 --> 00:34:59,090
+Putem face vizibilă urma 
+lăsată de aceste particule.
+
+490
+00:34:59,090 --> 00:35:03,054
+De fapt, le veţi vedea 
+pe viu astăzi, aici.
+
+491
+00:35:03,054 --> 00:35:06,098
+În trecut, acest lucru se
+realiza cu ajutorul camerei cu ceaţă.
+
+492
+00:35:06,098 --> 00:35:09,000
+Aceasta este 
+demonstraţia ce o voi realiza
+
+493
+00:35:09,000 --> 00:35:11,098
+astăzi. 
+Dar, mai nou, se foloseşte
+
+494
+00:35:11,098 --> 00:35:15,035
+camera cu bule.
+Să înţelegem prima dată
+
+495
+00:35:15,035 --> 00:35:18,069
+principiul.
+Dacă avem o particulă încărcată,
+
+496
+00:35:18,069 --> 00:35:23,001
+fie că este un electron,
+un proton, sau o particulă alfa,
+
+497
+00:35:23,001 --> 00:35:26,007
+particula alfa este 
+un nucleu de heliu, doi protoni,
+
+498
+00:35:26,007 --> 00:35:31,008
+doi neutroni.
+Pe măsură ce trece prin aer,
+
+499
+00:35:31,008 --> 00:35:35,032
+produce ioni, 
+şi pe măsură ce produce
+
+500
+00:35:35,032 --> 00:35:39,000
+ioni, energia sa cinetică scade,
+până când
+
+501
+00:35:39,000 --> 00:35:45,005
+se opreşte.
+În cazul unui electron de 10 MeV,
+
+502
+00:35:45,005 --> 00:35:50,005
+şi aer la o atmosferă, 
+poate parcurge 40 de metri.
+
+503
+00:35:50,005 --> 00:35:54,003
+Dacă avem un proton de 10 MeV,
+acesta s-ar deplasa doar 1 metru,
+
+504
+00:35:54,003 --> 00:35:57,001
+pentru că densitatea ionilor 
+este mai mare, datorită masei
+
+505
+00:35:57,001 --> 00:36:02,002
+mai mari. Iar dacă luăm o particulă alfa,
+ce are o masă mai mare
+
+506
+00:36:02,002 --> 00:36:05,078
+decât un proton 
+şi dublul sarcinii acestuia,
+
+507
+00:36:05,078 --> 00:36:08,007
+s-ar deplasa 
+doar 10 centimetri.
+
+508
+00:36:08,007 --> 00:36:12,092
+Urma lăsată de o particulă alfa
+este foarte densă.
+
+509
+00:36:14,025 --> 00:36:17,007
+O modalitate de vizualizare 
+a acestor urme este cu ajutorul camerei
+
+510
+00:36:17,007 --> 00:36:20,003
+cu ceaţă,
+ce funcţionează, în principiu, astfel.
+
+511
+00:36:20,003 --> 00:36:24,003
+Putem avea o cameră în aer, 
+aer la o atmosferă,
+
+512
+00:36:24,003 --> 00:36:26,052
+pe care o umplem cu alcool lichid,
+noi am umplut-o deja cu
+
+513
+00:36:26,052 --> 00:36:31,057
+alcool, şi răcim partea inferioară.
+Avem aici unul,
+
+514
+00:36:31,057 --> 00:36:34,003
+şi-l veţi vedea imediat.
+Răcim baza
+
+515
+00:36:34,003 --> 00:36:39,065
+cu CO2 solid, 
+şi ca urmare, în interiorul acestei camere
+
+516
+00:36:39,065 --> 00:36:44,001
+vom obţine un gradient de temperatură,
+astfel că va exista un strat în care
+
+517
+00:36:44,001 --> 00:36:47,072
+alcoolul ar trebui
+să condenseze
+
+518
+00:36:47,072 --> 00:36:53,005
+în picături mici, pentru că este rece,
+dar din motive ce
+
+519
+00:36:53,005 --> 00:36:56,004
+sunt prea complicate, 
+nu condensează imediat.
+
+520
+00:36:56,004 --> 00:36:59,030
+Spunem că acest alcool
+este acum subrăcit.
+
+521
+00:36:59,030 --> 00:37:03,006
+Chiar şi ploaia poate fi subrăcită.
+Puţin sub temperatura de îngheţ,
+
+522
+00:37:03,006 --> 00:37:06,004
+şi e tot lichidă.
+În momentul în care atinge
+
+523
+00:37:06,004 --> 00:37:09,023
+solul, va deveni instant
+solidă.
+
+524
+00:37:09,023 --> 00:37:11,003
+Un alt exemplu
+de lichid subrăcit.
+
+525
+00:37:11,003 --> 00:37:15,000
+Aici avem de-a face cu un vapor subrăcit,
+şi atunci când
+
+526
+00:37:15,000 --> 00:37:17,039
+aceşti ioni
+sunt creaţi de aceste particule
+
+527
+00:37:17,039 --> 00:37:20,026
+încărcate, 
+ionii vor determina formarea picăturilor,
+
+528
+00:37:20,026 --> 00:37:23,007
+a picăturilor de alcool, în acest caz,
+şi le putem vedea cu
+
+529
+00:37:23,007 --> 00:37:30,003
+ochiul liber, 
+putem vedea formarea picăturilor.
+
+530
+00:37:30,003 --> 00:37:35,015
+Să luăm un exemplu numeric,
+în care avem
+
+531
+00:37:35,015 --> 00:37:40,020
+un electron de 500 keV,
+cel de acolo.
+
+532
+00:37:40,020 --> 00:37:43,001
+Observaţi că viteza 
+este ajustată din punct de vedere
+
+533
+00:37:43,001 --> 00:37:45,004
+relativist, 
+altfel, am obţine acest
+
+534
+00:37:45,004 --> 00:37:47,002
+număr ridicol
+ce l-am calculat
+
+535
+00:37:47,002 --> 00:37:50,002
+mai devreme,
+mai mare decât viteza luminii.
+
+536
+00:37:50,002 --> 00:37:54,052
+Să presupunem că avem 
+un câmp magnetic de 0,1 Tesla.
+
+537
+00:37:54,052 --> 00:37:59,000
+Atunci, raza va fi egală cu
+2,9 cm.
+
+538
+00:37:59,000 --> 00:38:04,003
+Dar, după un anumit timp,
+energia acestui electron scade,
+
+539
+00:38:04,003 --> 00:38:07,002
+şi, la un moment dat, 
+mai rămâne cu doar
+
+540
+00:38:07,002 --> 00:38:10,005
+100 keV.
+În acel moment,
+
+541
+00:38:10,005 --> 00:38:13,001
+raza acestuia în câmpul de 0,1 Tesla
+va fi egală cu
+
+542
+00:38:13,001 --> 00:38:18,048
+1,1 cm. 
+În camera cu ceaţă,
+
+543
+00:38:18,048 --> 00:38:28,071
+traiectoriile electronilor 
+vor fi curbate, rezultatul faptului că
+
+544
+00:38:28,071 --> 00:38:33,062
+raza scade în timp, 
+iar din moment ce câmpul magnetic este
+
+545
+00:38:33,062 --> 00:38:39,006
+constant, raza este mare aici,
+dar pe măsură ce energia
+
+546
+00:38:39,006 --> 00:38:47,002
+cinetică scade, 
+raza devine din ce în ce
+
+547
+00:38:47,002 --> 00:38:56,007
+mai mică.
+Să ne mai uităm la câteva
+
+548
+00:38:56,007 --> 00:39:02,000
+poze.
+În 1932, Anderson observă
+
+549
+00:39:02,000 --> 00:39:06,003
+o urmă într-o cameră cu ceaţă, 
+urmă ce semăna cu un
+
+550
+00:39:06,003 --> 00:39:08,004
+electron.
+Avea masa unui electron,
+
+551
+00:39:08,004 --> 00:39:11,004
+sarcina unui electron,
+dar direcţia
+
+552
+00:39:11,004 --> 00:39:15,063
+curbei era greşită.
+Acesta trage concluzia că este
+
+553
+00:39:15,063 --> 00:39:19,057
+un electron încărcat pozitiv, 
+particulă ce poartă acum denumirea de
+
+554
+00:39:19,057 --> 00:39:23,005
+pozitron.
+Existenţa pozitronilor a fost
+
+555
+00:39:23,005 --> 00:39:27,008
+prezisă prin metode pur teoretice
+de către Dirac,
+
+556
+00:39:27,008 --> 00:39:30,005
+iar Anderson câştigă premiul Nobel
+pentru descoperirea sa
+
+557
+00:39:30,005 --> 00:39:33,069
+în 1936,
+la doar patru ani după
+
+558
+00:39:33,069 --> 00:39:38,004
+ce descoperă pozitronul.
+Dirac primise deja
+
+559
+00:39:38,004 --> 00:39:44,088
+premiul Nobel în 1933
+pentru lucrarea sa teoretică.
+
+560
+00:39:44,088 --> 00:39:48,003
+Camera cu bule 
+este o formă avansată a camerei
+
+561
+00:39:48,003 --> 00:39:51,025
+cu ceaţă.
+În camera cu bule
+
+562
+00:39:51,025 --> 00:39:54,005
+se utilizează hidrogen lichid,
+iar trecerea
+
+563
+00:39:54,005 --> 00:40:01,001
+ionilor
+determină apariţia
+
+564
+00:40:01,001 --> 00:40:04,063
+unor bule de gaz.
+Aşadar, avem un lichid ce
+
+565
+00:40:04,063 --> 00:40:08,050
+ar trebui să fie sub formă de gaz,
+dar nu încă,
+
+566
+00:40:08,050 --> 00:40:12,003
+ce formează bule de gaz.
+Într-o cameră cu ceaţă, aşadar,
+
+567
+00:40:12,003 --> 00:40:16,068
+vedem picături.
+Într-o cameră cu bule,
+
+568
+00:40:16,068 --> 00:40:19,028
+vedem bule de gaz, 
+dar ideea este aceeaşi.
+
+569
+00:40:19,028 --> 00:40:24,004
+Glaser, cel care a inventat 
+aceste camere, tot de la Berkeley,
+
+570
+00:40:24,004 --> 00:40:26,006
+a primit şi el premiul
+Nobel
+
+571
+00:40:26,006 --> 00:40:32,079
+în 1960.
+Să vedem descoperirea
+
+572
+00:40:32,079 --> 00:40:37,023
+lui Anderson.
+Vedem aici un pozitron ce vine
+
+573
+00:40:37,023 --> 00:40:42,063
+de sus, iar energie cinetică
+a acestui pozitron este de
+
+574
+00:40:42,063 --> 00:40:50,097
+63 MeV. Anderson pune 
+şi o bucată de plumb de 0,5 cm
+
+575
+00:40:50,097 --> 00:40:54,045
+acolo, un lucru inteligent, 
+gândiţi-vă la asta.
+
+576
+00:40:54,045 --> 00:40:58,005
+După ce parcurge placa de plumb,
+energia scade,
+
+577
+00:40:58,005 --> 00:41:02,001
+pentru că produce foarte mulţi
+ioni în interiorul plumbului şi pierde
+
+578
+00:41:02,001 --> 00:41:05,050
+o cantitate mare de energie cinetică. 
+Energia la ieşire este de aproximativ
+
+579
+00:41:05,050 --> 00:41:10,093
+23 MeV. 
+De ce face acest lucru ?
+
+580
+00:41:10,093 --> 00:41:14,095
+Pentru că astfel poate fi sigur
+că această particulă a venit
+
+581
+00:41:14,095 --> 00:41:21,006
+din partea de sus, pentru că 
+după pierderea energiei, raza scade.
+
+582
+00:41:21,006 --> 00:41:23,048
+Astfel a putut afirma cu certitudine 
+că electronul este curbat în direcţia
+
+583
+00:41:23,048 --> 00:41:26,087
+greşită.
+Fără acest plumb,
+
+584
+00:41:26,087 --> 00:41:29,003
+nu putem fi siguri că
+electronul
+
+585
+00:41:29,003 --> 00:41:31,003
+nu a venit din această direcţie, 
+caz în care curbura
+
+586
+00:41:31,003 --> 00:41:33,063
+ar fi fost perfectă. 
+Dar, astfel, putem ştii că vine
+
+587
+00:41:33,063 --> 00:41:36,062
+din partea de sus, dar
+un electron s-ar fi curbat în partea
+
+588
+00:41:36,062 --> 00:41:40,006
+aceasta.
+Aceasta este una din primele
+
+589
+00:41:40,006 --> 00:41:46,002
+descoperiri, poza camerei cu ceaţă
+este făcută de Anderson.
+
+590
+00:41:46,002 --> 00:41:51,000
+Următoarea poză este a unei 
+camere cu bule, unde se observă atât
+
+591
+00:41:51,000 --> 00:41:55,003
+un pozitron cât şi un electron
+aflaţi într-un câmp magnetic constant,
+
+592
+00:41:55,003 --> 00:41:58,009
+iar poza vorbeşte de la sine. 
+Observaţi direcţiile opuse
+
+593
+00:41:58,009 --> 00:42:03,001
+ale curburilor 
+şi se observă formarea acestei
+
+594
+00:42:03,001 --> 00:42:07,037
+spirale despre care v-am vorbit
+pe măsură ce electronii pierd
+
+595
+00:42:07,037 --> 00:42:10,002
+din energia cinetică. 
+Din moment ce aceasta este o cameră cu bule,
+
+596
+00:42:10,002 --> 00:42:13,002
+cu o densitate enormă, 
+de 1.000 de ori mai mare
+
+597
+00:42:13,002 --> 00:42:16,005
+decât aerul, de exemplu,
+aceşti electroni nu se deplasează
+
+598
+00:42:16,005 --> 00:42:19,045
+pe distanţe de 40 m în aceste camere.
+În aer, s-ar deplasa,
+
+599
+00:42:19,045 --> 00:42:23,003
+dar în acest caz, 
+distanţa este mult mai mică, astfel că
+
+600
+00:42:23,003 --> 00:42:27,005
+îi putem observa foarte frumos,
+şi putem studia
+
+601
+00:42:27,005 --> 00:42:32,003
+momentul şi sarcina
+acestora.
+
+602
+00:42:39,076 --> 00:42:44,003
+Folosind acceleratoarele de particule 
+şi camerele cu ceaţă şi
+
+603
+00:42:44,003 --> 00:42:51,000
+cele cu bule, s-au făcut 
+avansuri considerabile în fizica nucleară.
+
+604
+00:42:52,009 --> 00:42:56,008
+Între 1958 şi '68,
+au fost descoperite 30
+
+605
+00:42:56,008 --> 00:43:00,057
+de particule noi.
+MIT-ul s-a aflat tot timpul
+
+606
+00:43:00,057 --> 00:43:04,056
+în prim plan în acest domeniu.
+Profesorul Sam King,
+
+607
+00:43:04,056 --> 00:43:07,001
+care se află încă la MIT,
+a primit premiul Nobel în
+
+608
+00:43:07,001 --> 00:43:10,004
+1976.
+Steven Weinberg,
+
+609
+00:43:10,004 --> 00:43:14,000
+un teoretician ce şi-a publicat lucrările
+pe când era la MIT, a primit
+
+610
+00:43:14,000 --> 00:43:16,047
+premiul Nobel 
+în 1979.
+
+611
+00:43:16,047 --> 00:43:18,058
+Jerry Friedman,
+încă la MIT,
+
+612
+00:43:18,058 --> 00:43:21,008
+şi Henry Kendall,
+au primit premiul Nobel pentru
+
+613
+00:43:21,008 --> 00:43:25,054
+munca lor în 1990.
+Iar Clifford Shull a primit
+
+614
+00:43:25,054 --> 00:43:30,000
+premiul Nobel 
+în 1994.
+
+615
+00:43:30,000 --> 00:43:34,004
+Pe scurt, ideea de bază 
+este foarte relevantă
+
+616
+00:43:34,004 --> 00:43:38,004
+pentru acest curs,
+particulele fiind accelerate
+
+617
+00:43:38,004 --> 00:43:41,006
+cu ajutorul câmpurilor electrice.
+Aceasta este singura modalitate
+
+618
+00:43:41,006 --> 00:43:44,003
+prin care le putem accelera.
+Câmpurile magnetice se pot utiliza
+
+619
+00:43:44,003 --> 00:43:47,000
+doar pentru a le ţine închise,
+ele nu pot modifica energia
+
+620
+00:43:47,000 --> 00:43:51,002
+cinetică, 
+dar câmpurile magnetice sunt decisive,
+
+621
+00:43:51,002 --> 00:43:56,001
+pentru că ne permit 
+ca pe măsură ce viteza particulelor creşte,
+
+622
+00:43:56,001 --> 00:43:58,071
+să le ţinem închise, 
+fie într-un inel,
+
+623
+00:43:58,071 --> 00:44:03,006
+cum se face mai nou,
+fie în aceste
+
+624
+00:44:03,006 --> 00:44:07,001
+camere a ciclotroanelor sau 
+sincrociclotroanelor, ca şi înainte.
+
+625
+00:44:07,001 --> 00:44:10,001
+Avem apoi camerele cu bule,
+mai demult
+
+626
+00:44:10,001 --> 00:44:13,001
+camerele cu ceaţă, 
+în care câmpurile magnetice
+
+627
+00:44:13,001 --> 00:44:17,001
+erau utilizate pentru 
+aflarea razei acestor particule
+
+628
+00:44:17,001 --> 00:44:20,007
+după detectarea lor.
+Din aceste experimente s-a născut
+
+629
+00:44:20,007 --> 00:44:25,002
+o nouă concepţie a lumii înconjurătoare,
+precum şi apariţia unor idei
+
+630
+00:44:25,002 --> 00:44:29,003
+complet noi despre funcţionarea acesteia. 
+Putem spune că a fost o
+
+631
+00:44:29,003 --> 00:44:34,005
+revoluţie.
+Mă voi bucura acum alături
+
+632
+00:44:34,005 --> 00:44:38,000
+de voi în cele 5 minute rămase, 
+şi ne vom uita la
+
+633
+00:44:38,000 --> 00:44:44,000
+o cameră cu ceaţă
+şi la urmele lăsate de particule.
+
+634
+00:44:44,000 --> 00:44:48,027
+Vom vedea o mulţime 
+de electroni acolo.
+
+635
+00:44:48,027 --> 00:44:52,025
+Pereţii camerei cu ceaţă 
+sunt radioactivi, la fel cum şi voi
+
+636
+00:44:52,025 --> 00:44:56,002
+sunteţi radioactivi.
+Oasele voastre sunt radioactive,
+
+637
+00:44:56,002 --> 00:45:01,063
+geamurile sunt radioactive, 
+emit electroni.
+
+638
+00:45:01,063 --> 00:45:05,001
+Nu şi protoni, dar cu siguranţă
+emit electroni.
+
+639
+00:45:05,001 --> 00:45:08,002
+În interiorul camerei
+avem un izotop radioactiv,
+
+640
+00:45:08,002 --> 00:45:10,025
+o tijă 
+ce conţine toriu,
+
+641
+00:45:10,025 --> 00:45:14,041
+şi produce particule alfa. 
+Veţi vedea aşadar
+
+642
+00:45:14,041 --> 00:45:19,032
+electroni ce formează 
+structuri extrem de frumoase.
+
+643
+00:45:19,032 --> 00:45:22,039
+Vă rog să nu ieşiţi,
+încă mai avem suficient timp.
+
+644
+00:45:22,039 --> 00:45:24,054
+Ca să fiu precis,
+mai avem încă 5 minute şi
+
+645
+00:45:24,054 --> 00:45:28,065
+18 secunde. 
+Aceşti electroni
+
+646
+00:45:28,065 --> 00:45:32,007
+se vor deplasa precum nişte
+păianjeni în această încăpere,
+
+647
+00:45:32,007 --> 00:45:36,000
+iar, câteodată, direcţiile lor 
+se schimbă brusc, pentru că
+
+648
+00:45:36,000 --> 00:45:42,003
+se ciocnesc, mai ales când
+energiile lor sunt mici.
+
+649
+00:45:42,003 --> 00:45:44,005
+Ocazional, vom vedea şi 
+câte o particulă alfa
+
+650
+00:45:44,005 --> 00:45:51,029
+de la toriul radioactiv, 
+iar aceasta lasă o urmă foarte groasă.
+
+651
+00:45:51,029 --> 00:45:54,004
+Să încercăm.
+Avem aici un expert, adică
+
+652
+00:45:54,004 --> 00:45:59,001
+Marcos, care nu doar 
+că a împrumutat acest instrument,
+
+653
+00:45:59,001 --> 00:46:01,001
+iar dacă vă place, 
+s-ar putea să-l cumpărăm,
+
+654
+00:46:01,001 --> 00:46:03,001
+nu e ieftin,
+dar s-ar putea să-l cumpărăm,
+
+655
+00:46:03,001 --> 00:46:06,013
+l-a împrumutat special pentru voi,
+lucru pentru care sunt extrem de
+
+656
+00:46:06,013 --> 00:46:09,007
+recunoscător, Marcos,
+şi s-a chinuit destul de mult
+
+657
+00:46:09,007 --> 00:46:12,001
+pentru a realiza condiţii
+de iluminare optime.
+
+658
+00:46:12,001 --> 00:46:14,003
+Aceste urme nu sunt
+uşor de observat.
+
+659
+00:46:14,003 --> 00:46:19,011
+Marcos, poţi seta
+lumina, dacă vrei.
+
+660
+00:46:19,011 --> 00:46:24,007
+Vom face întuneric în sală,
+şi vom admira
+
+661
+00:46:24,007 --> 00:46:29,082
+această lume incredibilă,
+această lume invizibilă
+
+662
+00:46:29,082 --> 00:46:35,094
+a fizicii nucleare. 
+Vedeţi acestă
+
+663
+00:46:35,094 --> 00:46:41,003
+tijă cu toriu, Marcos,
+poţi ajusta lumina dacă
+
+664
+00:46:41,003 --> 00:46:44,094
+doreşti.
+Mă voi duce şi eu în bancă
+
+665
+00:46:44,094 --> 00:46:47,002
+şi vom încerca
+să
+
+666
+00:46:47,002 --> 00:46:50,048
+identificăm electronii.
+Oh, aceea a fost o particulă
+
+667
+00:46:50,048 --> 00:46:54,009
+alfa. 
+Aceasta este tija,
+
+668
+00:46:54,009 --> 00:46:58,006
+iar fundul acestei camere 
+este răcit cu CO2 solid.
+
+669
+00:46:58,006 --> 00:47:01,004
+Ah, un electron,
+foarte frumos.
+
+670
+00:47:01,004 --> 00:47:04,000
+După cum v-am spus,
+aproape că seamănă cu pânzele
+
+671
+00:47:04,000 --> 00:47:07,002
+de păianjen.
+Acela a fost un electron.
+
+672
+00:47:07,002 --> 00:47:11,004
+Fiţi atenţi şi la această tijă, 
+pentru că, ocazional, veţi observa
+
+673
+00:47:11,004 --> 00:47:18,002
+o urmă foarte groasă 
+ce indică -- acolo a fost una,
+
+674
+00:47:18,002 --> 00:47:20,001
+aceea a fost o particulă
+alfa.
+
+675
+00:47:20,001 --> 00:47:24,061
+Încă o particulă alfa
+foarte frumoasă.
+
+676
+00:47:24,061 --> 00:47:26,075
+Bucuraţi-vă de asta.
+Priviţi acum
+
+677
+00:47:26,075 --> 00:47:29,001
+o lume cu totul nouă.
+Gândiţi-vă la asta.
+
+678
+00:47:29,001 --> 00:47:31,071
+Priviţi lumea
+fizicii nucleare.
+
+679
+00:47:31,071 --> 00:47:35,051
+Vedeţi electroni individuali, 
+şi, ocazional,
+
+680
+00:47:35,051 --> 00:47:39,002
+particule alfa.
+Aici a fost una.
+
+681
+00:47:39,002 --> 00:47:42,001
+Gândiţi-vă la fizica 
+din spatele a ceea ce vedeţi,
+
+682
+00:47:42,001 --> 00:47:46,052
+acest alcool ce refuză să 
+devină picături, iar apoi, aceşti ioni
+
+683
+00:47:46,052 --> 00:47:49,007
+forţează formarea picăturilor.
+Încă o particulă alfa,
+
+684
+00:47:49,007 --> 00:47:51,056
+nu ştiu ce caută 
+acolo.
+
+685
+00:47:51,056 --> 00:48:01,015
+Aceşti ioni, aşadar, 
+forţează vaporii de alcool să devină
+
+686
+00:48:01,015 --> 00:48:07,010
+picături.
+Aveţi în faţă o imagine extrem de complexă.
+
+687
+00:48:07,010 --> 00:48:10,002
+Mi se pare incredibil 
+de fiecare dată când o privesc.
+
+688
+00:48:10,002 --> 00:48:14,019
+Este absolut fabulos. 
+Totul datorită acestor reguli
+
+689
+00:48:14,019 --> 00:48:16,019
+foarte simple, 
+gândiţi-vă la asta,
+
+690
+00:48:16,019 --> 00:48:21,003
+avem forţa Lorentz, 
+datorită cărei aceste particule
+
+691
+00:48:21,003 --> 00:48:26,000
+urmează traiectorii circulare, 
+câmpuri electrice pentru accelerarea
+
+692
+00:48:26,000 --> 00:48:30,003
+lor, şi această metodă subtilă
+prin care le putem
+
+693
+00:48:30,003 --> 00:48:35,009
+urmări, prin care particulele 
+individuale devin vizibile.
+
+694
+00:48:35,009 --> 00:48:40,000
+Este o nouă lume. 
+Scopul acestui curs a fost
+
+695
+00:48:40,000 --> 00:48:45,004
+să vă introduc în această lume
+ce a revoluţionat
+
+696
+00:48:45,004 --> 00:48:52,018
+întregul nostru mod de gândire. 
+Vă mulţumesc.
+
+697
+00:48:52,018 --> 00:48:57,036
+subtitrarea în limba română pentru
+www.circuiteelectrice.ro

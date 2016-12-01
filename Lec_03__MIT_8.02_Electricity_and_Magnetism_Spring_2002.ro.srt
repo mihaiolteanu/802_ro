@@ -1,0 +1,3716 @@
+﻿1
+00:00:10,09 --> 00:00:20,85
+Astăzi vom aborda un subiect cu totul nou
+şi anume, fluxul electric.
+
+2
+00:00:22,82 --> 00:00:26,12
+Am ajuns 
+deja departe.
+
+3
+00:00:27,41 --> 00:00:29,93
+Am început cu 
+legea lui Coulomb.
+
+4
+00:00:29,93 --> 00:00:35,47
+Am analizat liniile de câmp electric.
+Şi am ajuns acum la fluxul electric.
+
+5
+00:00:37,22 --> 00:00:43,98
+Să presupunem că avem
+un astfel de câmp electric,
+
+6
+00:00:45,01 --> 00:00:48,51
+şi introduc o suprafaţă
+în acel câmp electric,
+
+7
+00:00:48,51 --> 00:00:52,25
+o suprafaţă deschisă,
+precum o batistă sau o bucată de hârtie.
+
+8
+00:00:52,25 --> 00:00:55,36
+Aici este 
+suprafaţa.
+
+9
+00:00:55,36 --> 00:01:00,15
+Ceva în genul acesta.
+Împart suprafaţa aceasta
+
+10
+00:01:00,15 --> 00:01:07,10
+în elemente de suprafaţă foarte mici,
+fiecare cu o mărime dA.
+
+11
+00:01:07,10 --> 00:01:10,63
+Aceasta este o suprafaţă,
+o suprafaţă foarte mică.
+
+12
+00:01:10,63 --> 00:01:16,61
+Aceasta este normala,
+n căciuliţă, normala la acea suprafaţă.
+
+13
+00:01:19,76 --> 00:01:21,59
+Câmpul electric local,
+
+14
+00:01:21,59 --> 00:01:25,57
+în locaţia respectivă va fi,
+de exemplu, acesta.
+
+15
+00:01:25,57 --> 00:01:31,93
+Este un vector.
+Fluxul electric, dΦ, ce trece
+
+16
+00:01:31,93 --> 00:01:39,38
+prin această suprafaţă mică
+se defineşte ca produsul scalar
+
+17
+00:01:39,38 --> 00:01:44,69
+dintre E şi vectorul
+perpendicular pe acest element
+
+18
+00:01:44,69 --> 00:01:48,37
+a cărui amplitudine este dA.
+
+19
+00:01:48,37 --> 00:01:54,66
+În carte veţi găsi tot timpul
+pentru ndA simplu dA.
+
+20
+00:01:54,66 --> 00:01:57,51
+Voi face şi eu acest lucru,
+deşi nu-mi place,
+
+21
+00:01:57,51 --> 00:02:02,65
+dar voi respecta notaţia din carte.
+Vectorul dA este tot timpul
+
+22
+00:02:02,65 --> 00:02:09,36
+perpendicular pe elementul
+element dA iar mărimea sa este dA.
+
+23
+00:02:11,56 --> 00:02:14,19
+Din moment ce este 
+un produs scalar,
+
+24
+00:02:14,19 --> 00:02:18,98
+este egal cu mărimea lui E
+înmulţită cu aria dA, înmulţită cu
+
+25
+00:02:18,98 --> 00:02:23,87
+cosinusul unghiului
+dintre aceşti doi vectori,
+
+26
+00:02:23,87 --> 00:02:25,88
+θ (theta).
+Acesta este un scalar.
+
+27
+00:02:25,88 --> 00:02:28,55
+Valoarea poate fi mai mare 
+decât zero, mai mică decât zero,
+
+28
+00:02:28,55 --> 00:02:33,53
+sau poate fi egală cu zero.
+Pot calcula fluxul
+
+29
+00:02:33,53 --> 00:02:36,69
+prin întreaga suprafaţă
+dacă aplic o integrală
+
+30
+00:02:36,69 --> 00:02:44,32
+pe întreaga suprafaţă.
+Unitatea de măsură a fluxului se poate afla
+
+31
+00:02:44,32 --> 00:02:50,02
+direct din definiţie,
+şi anume, newtoni pe coulombi,
+
+32
+00:02:50,02 --> 00:02:54,70
+unitatea de măsură pentru acest flux
+este newtoni pe coulombi ori
+
+33
+00:02:54,70 --> 00:02:57,29
+metri pătraţi.
+Dar nimeni nu şi-l imaginează
+
+34
+00:02:57,29 --> 00:03:00,95
+astfel.
+Doar unităţi SI.
+
+35
+00:03:00,95 --> 00:03:09,41
+Vă pot oferi o intuiţie 
+pentru acest flux, comparându-l
+
+36
+00:03:09,41 --> 00:03:14,08
+pentru început cu un curent de aer.
+Aceste săgeţi roşii ce le vedeţi
+
+37
+00:03:14,08 --> 00:03:20,53
+acolo reprezintă viteza aerului.
+Vedeţi acolo un
+
+38
+00:03:20,53 --> 00:03:23,56
+dreptunghi negru de trei ori.
+
+39
+00:03:23,56 --> 00:03:29,09
+În primul caz observaţi că
+normala la suprafaţa
+
+40
+00:03:29,09 --> 00:03:34,28
+acelei arii este paralelă cu 
+vectorul viteză al aerului.
+
+41
+00:03:34,28 --> 00:03:38,50
+Dacă vrem să aflăm cantitatea 
+de aer, în metri cubi
+
+42
+00:03:38,50 --> 00:03:41,79
+pe secundă, ce trece 
+prin acest dreptunghi,
+
+43
+00:03:41,79 --> 00:03:44,93
+este v înmulţit cu A.
+Este foarte simplu.
+
+44
+00:03:44,93 --> 00:03:51,25
+Totuşi, dacă rotim acest
+dreptunghi cu 90 de grade, astfel încât
+
+45
+00:03:51,25 --> 00:03:55,52
+normala pe acel dreptunghi
+este perpendiculară pe vectorul
+
+46
+00:03:55,52 --> 00:03:58,00
+viteză,
+prin acel dreptunghi nu va trece
+
+47
+00:03:58,00 --> 00:04:02,97
+nimic, prin urmare este zero.
+Fluxul -- fluxul aerului
+
+48
+00:04:02,97 --> 00:04:05,67
+este zero,
+iar dacă unghiul este de 60
+
+49
+00:04:05,67 --> 00:04:09,58
+de grade, atunci fluxul este desigur
+v ori A ori cosinus
+
+50
+00:04:09,58 --> 00:04:13,31
+de 60 de grade.
+Imaginaţi-vă acum că aceşti vectori
+
+51
+00:04:13,31 --> 00:04:19,81
+roşii sunt câmpuri electrice.
+Fluxul electric
+
+52
+00:04:19,81 --> 00:04:24,36
+în primul caz prin acea suprafaţă
+este acum pur şi simplu E ori A.
+
+53
+00:04:24,36 --> 00:04:29,13
+În cel de al doilea caz este zero.
+Iar în ultimul caz este EA
+
+54
+00:04:29,13 --> 00:04:33,74
+ori cosinus
+de 60 de grade.
+
+55
+00:04:33,74 --> 00:04:38,53
+Vă puteţi aşadar imagina câteodată
+ca fiind curenţi de aer.
+
+56
+00:04:38,53 --> 00:04:42,69
+Am văzut de asemenea
+în cazul liniilor de câmp, că acestea
+
+57
+00:04:42,69 --> 00:04:49,73
+pot fi câteodată foarte utile.
+Iau acum o suprafaţă
+
+58
+00:04:49,73 --> 00:04:55,78
+ce nu este deschisă precum aceasta,
+aceasta este o suprafaţă deschisă.
+
+59
+00:04:55,78 --> 00:04:58,73
+Mă pot apropia din ambele părţi.
+Dar acum aleg una
+
+60
+00:04:58,73 --> 00:05:03,99
+complet închisă.
+Precum un balon.
+
+61
+00:05:03,99 --> 00:05:06,49
+Voi desena, voi pune această linie
+aici pentru a înţelege că aceasta este
+
+62
+00:05:06,49 --> 00:05:10,25
+o suprafaţă complet închisă.
+Putem intra înăuntru
+
+63
+00:05:10,25 --> 00:05:14,56
+doar dacă penetrăm
+această suprafaţă din exterior.
+
+64
+00:05:14,56 --> 00:05:17,92
+Pot pune acum
+aici
+
+65
+00:05:17,92 --> 00:05:25,82
+şi aici aceste normale, dA,
+şi încă o normală aici
+
+66
+00:05:25,82 --> 00:05:33,92
+în această direcţie.
+În acest caz, prin convenţie,
+
+67
+00:05:33,92 --> 00:05:37,62
+normala la suprafaţă,
+local la suprafaţă,
+
+68
+00:05:37,62 --> 00:05:43,46
+indică tot timpul din interiorul
+suprafeţei înspre exterior.
+
+69
+00:05:43,46 --> 00:05:46,87
+Este unic determinată
+pentru că este o suprafaţă închisă.
+
+70
+00:05:46,87 --> 00:05:49,33
+Aici nu a fost unic
+determinată.
+
+71
+00:05:49,33 --> 00:05:53,05
+Am ales arbitrar aceasta,
+dar aş fi putut să o inversez
+
+72
+00:05:53,05 --> 00:05:54,83
+cu 180 de grade. 
+Din moment ce e o suprafaţă
+
+73
+00:05:54,83 --> 00:05:59,50
+deschisă, nu este bine definită.
+Aici este tot timpul bine definită.
+
+74
+00:05:59,50 --> 00:06:02,50
+Alegem astfel normala încât
+să indice tot timpul dinspre interior
+
+75
+00:06:02,50 --> 00:06:06,63
+înspre exterior.
+Pot acum calcula
+
+76
+00:06:06,63 --> 00:06:09,24
+fluxul total
+prin această suprafaţă
+
+77
+00:06:09,24 --> 00:06:12,44
+închisă.
+Înmulţind local E cu dA,
+
+78
+00:06:12,44 --> 00:06:17,85
+produs scalar pe întreaga suprafaţă,
+obţinem o anumită valoare.
+
+79
+00:06:17,85 --> 00:06:24,92
+Aceasta este acum
+integrala produsului scalar E dA,
+
+80
+00:06:24,92 --> 00:06:27,88
+integrată pe întreaga suprafaţă închisă.
+Din moment ce este o suprafaţă
+
+81
+00:06:27,88 --> 00:06:31,81
+închisă, pun un cerc aici
+pentru a ne reaminti că este
+
+82
+00:06:31,81 --> 00:06:38,03
+o integrală închisă,
+iar în acest caz este o suprafaţă închisă.
+
+83
+00:06:38,03 --> 00:06:45,04
+Acesta este acum fluxul total
+prin acea suprafaţă.
+
+84
+00:06:45,04 --> 00:06:50,36
+Poate fi mai mare decât zero.
+Poate fi mai mic decât zero.
+
+85
+00:06:50,36 --> 00:06:52,87
+Este un scalar,
+nu este un vector.
+
+86
+00:06:52,87 --> 00:06:57,75
+Poate fi egal cu zero.
+Dacă este egal cu zero atunci
+
+87
+00:06:57,75 --> 00:07:00,65
+tot ceea ce intră înăuntru,
+dacă vă imaginaţi un curent de aer,
+
+88
+00:07:00,65 --> 00:07:04,83
+iese afară.
+Dacă iese mai mult decât intră,
+
+89
+00:07:04,83 --> 00:07:09,95
+atunci este pozitiv.
+Dacă intră mai mult decât iese,
+
+90
+00:07:09,95 --> 00:07:14,04
+atunci e negativ.
+Să calculăm acum fluxul
+
+91
+00:07:14,04 --> 00:07:21,30
+pentru un caz foarte simplu
+unde am o sarcină punctiformă.
+
+92
+00:07:21,30 --> 00:07:29,34
+Am aici o sarcină punctiformă
+şi voi pune un balon
+
+93
+00:07:29,34 --> 00:07:35,01
+în jurul acestei sarcini punctiforme.
+Balonul este o sferă.
+
+94
+00:07:37,83 --> 00:07:42,66
+Este o sferă,
+iar raza sferei este R.
+
+95
+00:07:42,66 --> 00:07:48,57
+Să spunem că sarcina este +q.
+Doar pentru simplitate.
+
+96
+00:07:50,03 --> 00:07:54,82
+Aleg un element mic dA aici.
+
+97
+00:07:54,84 --> 00:08:00,88
+Elementul dA este îndreptat
+radial în exterior.
+
+98
+00:08:00,88 --> 00:08:03,58
+dA.
+Aceasta este normala
+
+99
+00:08:03,58 --> 00:08:09,08
+la acea suprafaţă, şi este radială.
+Câmpul electric în acel
+
+100
+00:08:09,08 --> 00:08:15,00
+punct este şi el radial.
+Am întâlnit acest caz şi înainte.
+
+101
+00:08:15,00 --> 00:08:18,81
+Aşadar dA şi E, nu doar aici 
+ci oriunde pe suprafaţa acestei
+
+102
+00:08:18,81 --> 00:08:22,77
+sfere, sunt paraleli.
+Întrucât cosinusul unghiului
+
+103
+00:08:22,77 --> 00:08:28,34
+este egal cu unu.
+Pot introduce aici şi
+
+104
+00:08:28,34 --> 00:08:35,20
+vectorul unitate, r căciuliţă, ce reprezintă
+vectorul unitate dinspre Q
+
+105
+00:08:35,20 --> 00:08:41,92
+înspre elementul unde
+calculez valoarea fluxului.
+
+106
+00:08:41,92 --> 00:08:44,63
+Dacă vreau acum să aflu
+care este
+
+107
+00:08:44,63 --> 00:08:46,44
+fluxul total prin această sferă,
+
+108
+00:08:46,44 --> 00:08:51,97
+este foarte uşor,
+deoarece aceasta fiind o sferă,
+
+109
+00:08:51,97 --> 00:08:55,79
+mărimea vectorului E este
+peste tot aceeaşi pentru că
+
+110
+00:08:55,79 --> 00:08:59,04
+raza este aceeaşi,
+aceeaşi distanţă până la
+
+111
+00:08:59,04 --> 00:09:03,79
+această sarcină, iar dA şi E
+sunt paraleli. Fluxul este
+
+112
+00:09:03,79 --> 00:09:09,80
+egal cu suprafaţa 4piR^2
+a sferei înmulţită cu E.
+
+113
+00:09:09,80 --> 00:09:11,80
+Am obţinut acum că 
+fluxul
+
+114
+00:09:11,80 --> 00:09:14,69
+total prin acea suprafaţă
+închisă este pur şi simplu
+
+115
+00:09:14,69 --> 00:09:28,57
+4piR^2 ori E.
+Care este mărimea lui E?
+
+116
+00:09:28,57 --> 00:09:38,33
+Câmpul electric la această distanţă
+R este egal cu Q
+
+117
+00:09:38,33 --> 00:09:45,53
+împărţit la 4pi epsilon zero R^2
+înmulţit cu r căciuliţă.
+
+118
+00:09:45,53 --> 00:09:51,34
+Acesta îmi indică direcţia.
+Dacă ştiu că fluxul este
+
+119
+00:09:51,34 --> 00:09:55,23
+4piR^2 ori E,
+îl pun pe 4piR^2
+
+120
+00:09:55,23 --> 00:09:58,24
+aici,
+se simplifică,
+
+121
+00:09:58,24 --> 00:10:01,99
+şi obţin că vectorul E,
+mărimea câmpului electric
+
+122
+00:10:01,99 --> 00:10:06,77
+cel puţin -- uh, pardon,
+că fluxul Φ,
+
+123
+00:10:06,77 --> 00:10:10,08
+asta vrea să calculez,
+înmulţesc asta cu E,
+
+124
+00:10:10,08 --> 00:10:15,08
+este egal cu Q împărţit la
+epsilon zero.
+
+125
+00:10:15,08 --> 00:10:21,06
+Acesta nu depinde
+de distanţa R.
+
+126
+00:10:21,06 --> 00:10:23,58
+Acest lucru nu este surprinzător,
+pentru că, dacă ne imaginăm
+
+127
+00:10:23,58 --> 00:10:28,01
+un curent de aer înspre exterior,
+atunci tot aerul trebuie să iasă afară cumva,
+
+128
+00:10:28,01 --> 00:10:32,24
+indiferent dacă fac sfera aşa de mare,
+sau aşa de mare.
+
+129
+00:10:32,24 --> 00:10:34,86
+Fluxul fiind independent
+
+130
+00:10:34,86 --> 00:10:40,57
+de mărimea sferei,
+fluxul este determinat de sarcina
+
+131
+00:10:40,57 --> 00:10:46,71
+aflată aici în centru,
+împărţită la epsilon zero.
+
+132
+00:10:50,56 --> 00:10:54,87
+Dacă aş fi ales o altă formă,
+nu o sferă,
+
+133
+00:10:54,87 --> 00:10:58,51
+ci aş fi îndoit-o aşa,
+este evident că aerul
+
+134
+00:10:58,51 --> 00:11:03,08
+ce iese afară
+va fi exact acelaşi.
+
+135
+00:11:03,08 --> 00:11:06,61
+Nu trebuie să iau neapărat
+o sferă pentru a obţine acest rezultat.
+
+136
+00:11:06,61 --> 00:11:11,44
+Aş fi putut alege orice suprafaţă ciudată
+şi închisă în jurul
+
+137
+00:11:11,44 --> 00:11:14,27
+acestei sarcini punctiforme 
+şi aş fi obţinut exact acelaşi
+
+138
+00:11:14,27 --> 00:11:18,22
+rezultat.
+Iar dacă aş fi pus mai mult de o singură
+
+139
+00:11:18,22 --> 00:11:24,35
+sarcină în interiorul balonului,
+atunci evident, din moment ce ştiu
+
+140
+00:11:24,35 --> 00:11:28,64
+că, câmpurile electrice
+al sarcinilor se adună,
+
+141
+00:11:28,64 --> 00:11:33,42
+trebuiesc adunate vectorial,
+este evident că relaţia
+
+142
+00:11:33,42 --> 00:11:35,68
+ar trebui să fie valabilă pentru
+orice colecţie de sarcini din interiorul
+
+143
+00:11:35,68 --> 00:11:41,67
+balonului, şi ajungem prin urmare
+la o lege foarte importantă
+
+144
+00:11:41,67 --> 00:11:46,07
+pentru acest curs, şi anume,
+legea lui Gauss.
+
+145
+00:11:46,07 --> 00:11:52,98
+Legea lui Gauss spune că
+fluxul, fluxul electric
+
+146
+00:11:52,98 --> 00:11:57,75
+printr-o suprafaţă închisă,
+este
+
+147
+00:11:57,75 --> 00:12:11,33
+suprafaţă închisă din E punct dA,
+este egală cu suma tuturor sarcinilor Q
+
+148
+00:12:11,33 --> 00:12:17,75
+ce se află în interiorul balonului
+pe care îl alegem noi -- putem alege orice formă
+
+149
+00:12:17,75 --> 00:12:21,60
+împărţit la 
+ε0 (epsilon zero).
+
+150
+00:12:21,60 --> 00:12:26,82
+Aceasta este prima din cele 
+patru ecuaţii ale lui Maxwell, ce reprezintă
+
+151
+00:12:26,82 --> 00:12:31,43
+sarea şi piperul acestui curs.
+Fluxul electric prin
+
+152
+00:12:31,43 --> 00:12:34,52
+orice suprafaţă închisă
+este egal tot timpul cu
+
+153
+00:12:34,52 --> 00:12:39,66
+sarcina din interiorul suprafeţei
+închise împărţită la ε0.
+
+154
+00:12:39,66 --> 00:12:42,55
+Dacă fluxul este zero,
+înseamnă că sarcina netă
+
+155
+00:12:42,55 --> 00:12:46,14
+din interiorul balonului este zero.
+Ar putea exista sarcini pozitive,
+
+156
+00:12:46,14 --> 00:12:51,56
+ar putea exista sarcini negative,
+dar sarcina netă este zero.
+
+157
+00:12:51,56 --> 00:12:55,75
+Legea lui Gauss este tot timpul valabilă.
+Indiferent cât de ciudată este distribuţia
+
+158
+00:12:55,75 --> 00:12:59,75
+de sarcină din interiorul balonului.
+Indiferent cât de ciudată este forma
+
+159
+00:12:59,75 --> 00:13:02,71
+acestui balon.
+Este tot timpul valabilă.
+
+160
+00:13:02,71 --> 00:13:06,38
+Dar legea lui Gauss nu este foarte utilă
+dacă nu avem o situaţie
+
+161
+00:13:06,38 --> 00:13:10,85
+în care sarcinile
+sunt distribuite simetric.
+
+162
+00:13:10,85 --> 00:13:12,39
+Legea lui Gauss 
+este adevărată,
+
+163
+00:13:12,39 --> 00:13:15,01
+dar nu ne ajută foarte mult
+dacă vrem să calculăm câmpul
+
+164
+00:13:15,01 --> 00:13:17,70
+electric.
+Pentru a calcula
+
+165
+00:13:17,70 --> 00:13:23,02
+cu succes câmpul electric,
+avem nevoie de simetrie.
+
+166
+00:13:23,02 --> 00:13:27,11
+Există trei forme de simetrie
+pe care le vom întâlni
+
+167
+00:13:27,11 --> 00:13:29,49
+în acest curs.
+Una dintre ele este evident
+
+168
+00:13:29,51 --> 00:13:32,44
+simetria sferică.
+O altă simetrie este
+
+169
+00:13:32,44 --> 00:13:37,42
+cea cilindrică
+Iar cea de-a treia sunt planuri netede
+
+170
+00:13:37,42 --> 00:13:41,07
+cu distribuţie uniformă
+de sarcină.
+
+171
+00:13:41,07 --> 00:13:45,87
+Există apoi şi situaţii
+de simetrie.
+
+172
+00:13:45,87 --> 00:13:51,51
+Aş dori acum, să iau un exemplu
+de aplicare a legii lui Gauss,
+
+173
+00:13:51,51 --> 00:13:54,32
+şi voi considera o situaţie
+cu simetrie
+
+174
+00:13:54,32 --> 00:14:00,84
+sferică.
+Folosesc un înveliş subţire,
+
+175
+00:14:00,84 --> 00:14:06,37
+o sferă goală,
+ce este subţire.
+
+176
+00:14:06,37 --> 00:14:10,67
+Raza aceasta este R şi
+pun o sarcină Q aici,
+
+177
+00:14:10,67 --> 00:14:14,88
+dar este distribuită uniform.
+Acest lucru este crucial.
+
+178
+00:14:14,88 --> 00:14:16,87
+Dacă nu este distribuită
+uniform, atunci nu am simetrie,
+
+179
+00:14:16,87 --> 00:14:21,41
+şi nu pot rezolva problema.
+Este distribuită uniform aşadar.
+
+180
+00:14:21,41 --> 00:14:24,16
+Vom vedea mai încolo că
+acest lucru este uşor de realizat
+
+181
+00:14:24,16 --> 00:14:27,53
+pentru că orice conductor
+de această formă, dacă punem sarcină
+
+182
+00:14:27,53 --> 00:14:32,15
+pe el, aceasta se va distribui
+automat uniform pe acesta.
+
+183
+00:14:32,15 --> 00:14:36,25
+Avem sarcina +Q
+distribuită uniform,
+
+184
+00:14:36,25 --> 00:14:39,72
+acest lucru este obligatoriu,
+şi vreau să aflu
+
+185
+00:14:39,72 --> 00:14:44,42
+care este câmpul electric
+aici, la distanţa r
+
+186
+00:14:44,42 --> 00:14:49,02
+faţă de centru, şi care este
+câmpul electric aici
+
+187
+00:14:49,02 --> 00:14:51,48
+la distanţa r faţă de centru.
+Cu alte cuvinte, vreau să ştiu
+
+188
+00:14:51,48 --> 00:14:54,74
+care este câmpul electric
+în oricare punct din spaţiu.
+
+189
+00:14:54,74 --> 00:14:59,04
+Doar datorită acestei
+sfere încărcate uniform.
+
+190
+00:14:59,04 --> 00:15:03,66
+Folosind legea lui Gauss, 
+este o nimica toată.
+
+191
+00:15:03,66 --> 00:15:06,88
+Trebuie să alegem mai întâi
+suprafaţa gaussiană .
+
+192
+00:15:06,88 --> 00:15:10,46
+Dacă nu o alegem corect,
+nu ajungem niciunde.
+
+193
+00:15:10,46 --> 00:15:13,39
+Într-o astfel de situaţie,
+cred că este
+
+194
+00:15:13,39 --> 00:15:16,11
+destul de evident că
+suprafaţa gaussiană aleasă
+
+195
+00:15:16,11 --> 00:15:20,80
+este ea însăşi o sferă,
+o sferă concentrică.
+
+196
+00:15:20,80 --> 00:15:23,95
+Dacă vrem să aflăm
+câmpul electric în acest punct,
+
+197
+00:15:23,95 --> 00:15:28,01
+alegem o sferă cu raza r,
+ce trece prin acel punct,
+
+198
+00:15:28,01 --> 00:15:31,06
+şi dacă vrem să-l aflăm
+aici, alegem o
+
+199
+00:15:31,06 --> 00:15:34,64
+sferă ce trece prin acel punct.
+Închisă.
+
+200
+00:15:34,64 --> 00:15:40,99
+Este o sferă concentrică.
+Acum trebuie să utilizăm
+
+201
+00:15:40,99 --> 00:15:43,86
+argumente de simetrie.
+Iar argumentele de simetrie
+
+202
+00:15:43,86 --> 00:15:46,35
+sunt următoarele.
+
+203
+00:15:46,35 --> 00:15:49,35
+Din moment ce această problemă
+prezintă simetrie sferică,
+
+204
+00:15:49,35 --> 00:15:52,07
+dacă suntem aici,
+oricare ar fi valoarea câmpului electric
+
+205
+00:15:52,07 --> 00:15:55,38
+aici, trebuie să fie
+egală cu cea de aici,
+
+206
+00:15:55,38 --> 00:15:59,08
+şi trebuie să fie egală cu cea de aici.
+Datorită simetriei problemei,
+
+207
+00:15:59,08 --> 00:16:02,19
+nu poate fi mai mare
+aici decât este aici.
+
+208
+00:16:02,19 --> 00:16:03,67
+Acest lucru 
+este evident.
+
+209
+00:16:03,67 --> 00:16:06,31
+Acesta este un argument de simetrie,
+întrucât sarcina în acest caz este
+
+210
+00:16:06,31 --> 00:16:08,97
+distribuită uniform.
+Acesta este argumentul de simetrie
+
+211
+00:16:08,97 --> 00:16:11,31
+numărul unu.
+Acum urmează un alt
+
+212
+00:16:11,31 --> 00:16:16,01
+argument de simetrie.
+Câmpul electric,
+
+213
+00:16:16,01 --> 00:16:18,91
+dacă există un câmp electric,
+trebuie să fie
+
+214
+00:16:18,91 --> 00:16:24,15
+radial în exterior
+sau radial în interior.
+
+215
+00:16:24,15 --> 00:16:27,89
+Fie este aşa,
+fie aşa.
+
+216
+00:16:27,89 --> 00:16:29,08
+Iar aici la fel.
+
+217
+00:16:29,08 --> 00:16:31,25
+Fie aşa, fie aşa.
+Dar ştim deja că,
+
+218
+00:16:31,25 --> 00:16:34,64
+dacă aceasta este o sarcină pozitivă,
+atunci va indica în exterior.
+
+219
+00:16:34,64 --> 00:16:39,49
+Nu poate fi aşa sau aşa,
+pentru că natura nu se poate decide
+
+220
+00:16:39,49 --> 00:16:42,03
+în cazul acestei probleme
+simetrice dacă să fie
+
+221
+00:16:42,03 --> 00:16:44,69
+aşa sau aşa.
+Poate să fie doar radial.
+
+222
+00:16:44,69 --> 00:16:48,14
+Acesta este al doilea 
+argument de simetrie.
+
+223
+00:16:48,14 --> 00:16:53,91
+Dacă analizăm acum această sferă 
+şi ştim că E este
+
+224
+00:16:53,91 --> 00:16:58,60
+radial în exterior,
+ignorând un plus sau un minus,
+
+225
+00:16:58,60 --> 00:17:01,76
+ignorând faptul că
+unghiul dintre dA şi E
+
+226
+00:17:01,76 --> 00:17:06,04
+poate fi zero sau 
+180 de grade,
+
+227
+00:17:06,04 --> 00:17:10,54
+ştim că aria suprafeţei
+sferei,
+
+228
+00:17:10,54 --> 00:17:15,23
+şi anume 4pir^2,
+înmulţită cu valoarea vectorului E
+
+229
+00:17:15,23 --> 00:17:18,11
+de aici,
+pot face asta deoarece dA
+
+230
+00:17:18,11 --> 00:17:21,58
+şi E sunt fie paraleli,
+fie antiparaleli.
+
+231
+00:17:21,58 --> 00:17:25,98
+Asta trebuie să fie egală cu Q din interior
+împărţit la ε0.
+
+232
+00:17:25,98 --> 00:17:31,76
+Nu avem Q în interior,
+prin urmare E trebuie sa fie zero.
+
+233
+00:17:31,76 --> 00:17:35,94
+Acesta este un rezultat uimitor.
+Veţi spune, da, nu există
+
+234
+00:17:35,94 --> 00:17:38,47
+sarcină în interior.
+Totuşi, un rezultat incredibil.
+
+235
+00:17:38,47 --> 00:17:41,53
+Înseamnă că oriunde
+în interiorul sferei, indiferent
+
+236
+00:17:41,53 --> 00:17:48,60
+ce rază alegem,
+câmpul electric este exact zero.
+
+237
+00:17:48,60 --> 00:17:53,44
+Asta înseamnă că printr-o
+conspiraţie ciudată a tuturor acestor sarcini
+
+238
+00:17:53,44 --> 00:17:56,24
+ce sunt distribuite 
+aici uniform,
+
+239
+00:17:56,24 --> 00:18:00,18
+fiecare contribuie la 
+câmpul electric din interior
+
+240
+00:18:00,18 --> 00:18:05,19
+prin intermediul legii lui Coulomb,
+toate aceste sarcini la un loc,
+
+241
+00:18:05,19 --> 00:18:10,19
+printr-o conspiraţie, determină un
+câmp electric zero în interior.
+
+242
+00:18:10,19 --> 00:18:15,37
+Rezultatul nu este banal.
+Foarte bine.
+
+243
+00:18:15,37 --> 00:18:18,40
+Acum ştim că valoarea lui E
+în interior este zero,
+
+244
+00:18:18,40 --> 00:18:23,51
+pentru r mai mic
+decât R.
+
+245
+00:18:23,51 --> 00:18:28,81
+Să vedem pentru r mai mare decât R.
+Tot ce v-am spus este valabil
+
+246
+00:18:28,81 --> 00:18:31,68
+pentru sfera 
+din exteriorul acestei
+
+247
+00:18:31,68 --> 00:18:35,09
+sfere goale.
+Totul este valabil.
+
+248
+00:18:35,09 --> 00:18:37,72
+Câmpul E aici trebuie să fie
+acelaşi în orice punct de pe suprafaţă.
+
+249
+00:18:37,72 --> 00:18:41,14
+dA şi E sunt fie paraleli
+fie antiparaleli.
+
+250
+00:18:41,14 --> 00:18:44,61
+Pot să scriu din nou că
+4pir^2, reprezentând
+
+251
+00:18:44,61 --> 00:18:49,09
+aria suprafeţei, ori vectorul
+câmpului electric trebuie să fie egal cu Q
+
+252
+00:18:49,09 --> 00:18:53,63
+din interior împărţit la ε0.
+Dar acest Q este acel Q.
+
+253
+00:18:53,63 --> 00:18:56,65
+Nu este zero.
+Avem sarcină în interior.
+
+254
+00:18:56,65 --> 00:19:01,85
+Ştiu acum că 
+valoarea câmpului electric E
+
+255
+00:19:01,85 --> 00:19:11,02
+este egală cu raportul dintre Q
+şi 4pir^2ε0.
+
+256
+00:19:11,02 --> 00:19:12,24
+Ştim şi direcţia.
+
+257
+00:19:12,24 --> 00:19:15,50
+Dacă sarcina este pozitivă,
+este radial în exterior,
+
+258
+00:19:15,50 --> 00:19:19,39
+iar dacă este negativă, radial în interior.
+Acest rezultat nu este
+
+259
+00:19:19,39 --> 00:19:26,27
+banal.
+Am mai văzut această relaţie înainte.
+
+260
+00:19:26,27 --> 00:19:30,96
+Dacă aş fi pus întreaga sarcină
+aici, în centru,
+
+261
+00:19:30,96 --> 00:19:34,80
+am fi obţinut exact acelaşi rezultat.
+Am mai văzut acest rezultat înainte.
+
+262
+00:19:34,80 --> 00:19:38,20
+Cu alte cuvinte, fie că sarcina
+este uniform distribuită pe suprafaţa
+
+263
+00:19:38,20 --> 00:19:42,46
+unei sfere, fie că întreaga sarcină
+se află exact în centrul
+
+264
+00:19:42,46 --> 00:19:44,87
+sferei,
+acest lucru nu are nicio importanţă
+
+265
+00:19:44,87 --> 00:19:49,64
+pentru câmpul electric
+atâta timp cât ne aflăm în exteriorul sferei.
+
+266
+00:19:49,64 --> 00:19:56,37
+Dacă trasăm graficul câmpului electric
+în funcţie de R.
+
+267
+00:19:56,37 --> 00:20:02,99
+Aici este R,
+iar aici este intensitatea câmpului,
+
+268
+00:20:02,99 --> 00:20:05,17
+atunci obţinem că valoarea
+câmpului electric este zero
+
+269
+00:20:05,17 --> 00:20:11,66
+în interior, sare la o valoare
+maximă şi scade
+
+270
+00:20:11,66 --> 00:20:18,32
+cu 1/r^2, proporţional cu
+1/r^2.
+
+271
+00:20:21,98 --> 00:20:26,17
+Dacă ne întoarcem la situaţia 
+în care sarcina -- în care
+
+272
+00:20:26,17 --> 00:20:31,03
+câmpul electric din interior este zero,
+vă puteţi întreba dacă
+
+273
+00:20:31,03 --> 00:20:35,12
+nu am trişat puţin.
+Pentru că, da, nu există sarcină
+
+274
+00:20:35,12 --> 00:20:38,06
+în interior.
+Dar aţi luat într-adevăr în considerare
+
+275
+00:20:38,06 --> 00:20:40,88
+sarcina din exterior?
+Şi dacă aţi luat-o în considerare,
+
+276
+00:20:40,88 --> 00:20:42,14
+cum aţi făcut-o?
+
+277
+00:20:42,14 --> 00:20:44,82
+Păi, am luat-o în considerare.
+Am considerat-o prin intermediul
+
+278
+00:20:44,82 --> 00:20:49,62
+argumentelor de simetrie.
+Argumentele de simetrie iau
+
+279
+00:20:49,62 --> 00:20:55,34
+în calcul faptul că sarcina
+este uniform distribuită.
+
+280
+00:20:55,34 --> 00:20:59,01
+Dacă sarcina de pe sferă 
+nu ar fi fost distribuită uniform,
+
+281
+00:20:59,01 --> 00:21:02,31
+nu aş fi putut aplica argumentele
+de simetrie, şi prin urmare,
+
+282
+00:21:02,31 --> 00:21:06,31
+câmpul electric din interior
+nu ar fi fost zero.
+
+283
+00:21:06,31 --> 00:21:09,80
+Dacă există mai multă sarcină 
+pe sferă aici decât există acolo,
+
+284
+00:21:09,80 --> 00:21:12,77
+atunci câmpul din interiorul sferei
+nu este zero.
+
+285
+00:21:12,77 --> 00:21:18,64
+Aşadar am luat în considerare toate sarcinile
+utilizând argumentul de simetrie.
+
+286
+00:21:18,64 --> 00:21:24,47
+Legea lui Gauss şi legea lui Coulomb
+sunt într-un fel aceeaşi lege.
+
+287
+00:21:24,47 --> 00:21:29,96
+Ambele leagă
+câmpul electric de sarcina Q.
+
+288
+00:21:29,96 --> 00:21:34,47
+Crucial este faptul că
+forţa electrică scade
+
+289
+00:21:34,47 --> 00:21:39,62
+cu 1/r^2.
+Dacă intensitatea câmpului electric
+
+290
+00:21:39,62 --> 00:21:43,90
+nu ar descreşte cu 1/r^2,
+legea lui Gauss nici nu ar fi
+
+291
+00:21:43,90 --> 00:21:46,78
+măcar valabilă,
+iar câmpul electric din interiorul
+
+292
+00:21:46,78 --> 00:21:49,32
+acestei sfere 
+încărcate uniform
+
+293
+00:21:49,32 --> 00:21:52,91
+nu ar fi zero.
+Aceasta este o consecinţa imediată
+
+294
+00:21:52,91 --> 00:21:56,71
+a faptului că forţele electrice
+scad cu
+
+295
+00:21:56,71 --> 00:22:02,94
+1/r^2.
+Forţele gravitaţionale scad şi ele
+
+296
+00:22:02,94 --> 00:22:08,08
+cu 1/r^2.
+Prin urmare, dacă luăm o planetă
+
+297
+00:22:08,08 --> 00:22:12,05
+dacă ar exista, goală pe dinăuntru,
+o planetă sferică
+
+298
+00:22:12,05 --> 00:22:16,63
+şi goală la interior,
+nu va exista
+
+299
+00:22:16,63 --> 00:22:20,70
+niciun câmp gravitaţional
+în interiorul acelei planete.
+
+300
+00:22:20,70 --> 00:22:24,51
+Dacă aţi fi acolo,
+nu ar exista o forţă gravitaţională
+
+301
+00:22:24,51 --> 00:22:27,48
+asupra voastră.
+Dacă este sferică.
+
+302
+00:22:27,48 --> 00:22:33,19
+Dacă acea planetă ar fi în formă de cub,
+atunci câmpul gravitaţional
+
+303
+00:22:33,19 --> 00:22:40,57
+din interiorul planetei nu ar fi zero.
+Veţi spune, mda, mare lucru,
+
+304
+00:22:40,57 --> 00:22:44,65
+în mecanica clasică luăm tot timpul
+o planetă, şi atât timp cât suntem
+
+305
+00:22:44,65 --> 00:22:47,53
+în exteriorul planetei,
+luăm în calcul întreaga masă
+
+306
+00:22:47,53 --> 00:22:51,42
+şi o considerăm ca fiind un punct.
+Da, într-adevăr.
+
+307
+00:22:51,42 --> 00:22:53,71
+Nu e mare lucru
+pentru voi,
+
+308
+00:22:53,71 --> 00:22:56,55
+şi nu e mare lucru pentru mine,
+dar a fost extrem de important pentru Newton.
+
+309
+00:22:56,55 --> 00:23:01,53
+Newton a intuit
+că este corect ca, în cazul în care
+
+310
+00:23:01,53 --> 00:23:05,35
+avem o planetă cu o distribuţie
+uniformă de masă,
+
+311
+00:23:05,35 --> 00:23:08,85
+o putem considera ca o masă punctiformă
+atât timp cât ne aflăm
+
+312
+00:23:08,85 --> 00:23:11,82
+în exteriorul planetei.
+Dar i-a luat 20 de ani să demonstreze
+
+313
+00:23:11,82 --> 00:23:15,84
+acest lucru,
+şi într-un final şi-a publicat rezultatele.
+
+314
+00:23:15,84 --> 00:23:17,41
+Nouă ne-ar lua acum
+30 de secunde.
+
+315
+00:23:17,41 --> 00:23:19,33
+Nu avea acces
+la legea lui Gauss.
+
+316
+00:23:19,33 --> 00:23:22,96
+Aceasta a venit după
+aproximativ 100 de ani.
+
+317
+00:23:22,96 --> 00:23:26,16
+Dar rezultatul final îl vedeţi
+aici în faţa voastră,
+
+318
+00:23:26,16 --> 00:23:29,13
+dacă aveţi o distribuţie
+uniformă de sarcină,
+
+319
+00:23:29,13 --> 00:23:31,17
+şi puteţi face o paralelă
+cu gravitaţia,
+
+320
+00:23:31,17 --> 00:23:34,67
+câmpul electric 
+din exterior este acelaşi
+
+321
+00:23:34,67 --> 00:23:41,09
+pe care l-am obţine dacă întreaga
+sarcină ar fi într-un singur loc.
+
+322
+00:23:41,09 --> 00:23:46,11
+În centru.
+Aceasta este simetria sferică
+
+323
+00:23:46,11 --> 00:23:49,30
+numărul unu.
+Aceasta este cea mai uşoară simetrie
+
+324
+00:23:49,30 --> 00:23:53,34
+din acest curs.
+Vă voi arăta acum
+
+325
+00:23:53,34 --> 00:23:55,83
+o a doua formă
+de simetrie, şi anume
+
+326
+00:23:55,83 --> 00:24:00,15
+planul neted. Aş dori
+să-l rezolvaţi voi în mare parte,
+
+327
+00:24:00,15 --> 00:24:03,97
+dar vă voi ajuta puţin
+ca să-l puneţi la punct.
+
+328
+00:24:03,97 --> 00:24:09,09
+Presupunem că avem un plan
+foarte foarte mare.
+
+329
+00:24:09,09 --> 00:24:11,62
+Gândiţi-vă pentru un moment
+ca fiind infinit de mare.
+
+330
+00:24:11,62 --> 00:24:14,99
+Desigur, aşa ceva nu există,
+infinit de mare.
+
+331
+00:24:14,99 --> 00:24:22,44
+Pun sarcină pe acest plan.
+Pun o anumită cantitate
+
+332
+00:24:22,44 --> 00:24:27,26
+de densitate de sarcină,
+sigma (σ).
+
+333
+00:24:27,26 --> 00:24:32,19
+Sigma reprezintă cantitatea
+de sarcină Q pe suprafaţa A.
+
+334
+00:24:32,19 --> 00:24:36,38
+Este egală cu un anumit număr
+de coulombi pe metru pătrat.
+
+335
+00:24:36,38 --> 00:24:40,07
+Sarcina este uniform distribuită,
+întregul plan, peste tot
+
+336
+00:24:40,07 --> 00:24:42,74
+are acelaşi număr de 
+coulombi pe metru pătrat.
+
+337
+00:24:42,74 --> 00:24:44,98
+Sau micro-coulombi sau
+nano-coulombi,
+
+338
+00:24:44,98 --> 00:24:50,16
+ce preferaţi mai mult.
+Acest plan este imens
+
+339
+00:24:50,16 --> 00:24:53,12
+şi trebuie să aflaţi
+care este câmpul electric
+
+340
+00:24:53,12 --> 00:24:56,56
+în oricare punct din spaţiu,
+la fel cum înainte ne-am întrebat
+
+341
+00:24:56,56 --> 00:24:58,94
+care este câmpul electric
+în oricare punct din
+
+342
+00:24:58,94 --> 00:25:01,45
+interiorul sau din exteriorul
+sferei.
+
+343
+00:25:01,45 --> 00:25:04,87
+Acum vreau să-l aflu
+în toate punctele din vecinătatea
+
+344
+00:25:04,87 --> 00:25:08,91
+acestui plan.
+Dacă alegem corect o suprafaţă
+
+345
+00:25:08,91 --> 00:25:13,43
+gaussiană,
+putem afla foarte uşor răspunsul.
+
+346
+00:25:13,43 --> 00:25:18,12
+Dacă alegem ca şi suprafaţă gaussiană
+o sferă, suntem morţi,
+
+347
+00:25:18,12 --> 00:25:20,26
+nu ajungem niciunde,
+pentru că nu există simetrie
+
+348
+00:25:20,26 --> 00:25:24,78
+sferică.
+Voi defini pentru voi suprafaţa
+
+349
+00:25:24,78 --> 00:25:28,13
+gaussiană,
+dar vreau ca voi să aflaţi acasă
+
+350
+00:25:28,13 --> 00:25:31,07
+cum obţinem 
+câmpul electric.
+
+351
+00:25:31,07 --> 00:25:35,57
+Să presupunem că vreau să determin
+câmpul electric la o distanţă
+
+352
+00:25:35,57 --> 00:25:42,21
+d deasupra planului.
+Aleg o astfel de
+
+353
+00:25:42,21 --> 00:25:47,67
+suprafaţă gaussiană.
+Urmăriţi-mă cu atenţie.
+
+354
+00:25:47,67 --> 00:25:52,56
+Aceasta este intersecţia
+cu planul.
+
+355
+00:25:56,38 --> 00:26:00,96
+Aceasta este suprafaţa mea gaussiană.
+Este o suprafaţă închisă.
+
+356
+00:26:00,96 --> 00:26:05,42
+Trebuie îndeplinite trei condiţii
+pentru a putea calcula
+
+357
+00:26:05,42 --> 00:26:09,62
+vectorul E în locaţia d.
+
+358
+00:26:11,75 --> 00:26:18,35
+Prima dintre ele este că acesta este
+un plan neted aici,
+
+359
+00:26:18,35 --> 00:26:21,88
+iar acesta este acelaşi plan neted.
+Trebuie să fie paralel cu acest plan.
+
+360
+00:26:21,88 --> 00:26:24,08
+E obligatoriu.
+Dacă nu faceţi acest lucru,
+
+361
+00:26:24,08 --> 00:26:31,63
+nu puteţi aplica legea lui Gauss.
+A doua condiţie este ca aceşti
+
+362
+00:26:31,63 --> 00:26:35,52
+pereţi verticali de aici
+să fie într-adevăr perpendiculari
+
+363
+00:26:35,52 --> 00:26:39,26
+pe acel plan.
+Cu alte cuvinte, aceştia sunt
+
+364
+00:26:39,26 --> 00:26:44,15
+paraleli şi aceştia
+sunt perfect verticali.
+
+365
+00:26:44,15 --> 00:26:47,15
+Dacă nu-i faceţi verticali,
+dacă-i faceţi aşa,
+
+366
+00:26:47,15 --> 00:26:49,03
+sunteţi morţi.
+Nu puteţi folosi legea lui Gauss
+
+367
+00:26:49,03 --> 00:26:54,23
+foarte eficient.
+Iar cel de al treilea argument,
+
+368
+00:26:54,23 --> 00:26:58,44
+foarte important, 
+este ca această suprafaţă netedă
+
+369
+00:26:58,44 --> 00:27:02,72
+să se afle la distanţa d deasupra planului,
+iar această suprafaţă netedă
+
+370
+00:27:02,72 --> 00:27:07,30
+să se afle la exact aceeaşi distanţă
+sub plan.
+
+371
+00:27:07,30 --> 00:27:10,42
+Puteţi să vă daţi deja seama
+de ce este important acest lucru.
+
+372
+00:27:10,42 --> 00:27:13,37
+Pentru că dacă vreţi să folosiţi
+un argument de simetrie,
+
+373
+00:27:13,37 --> 00:27:18,35
+dacă acest plan este încărcat uniform,
+vectorul câmpului electric aici,
+
+374
+00:27:18,35 --> 00:27:22,16
+ca şi valoare, trebuie evident
+să fie egal cu cel de acolo,
+
+375
+00:27:22,16 --> 00:27:26,09
+ca şi valoare,
+poate nu ca şi direcţie,
+
+376
+00:27:26,09 --> 00:27:29,42
+atâta timp cât acest d
+este egal cu acel d.
+
+377
+00:27:29,42 --> 00:27:34,23
+De aceea este important
+ca aceste două distanţe să fie identice.
+
+378
+00:27:34,23 --> 00:27:38,54
+Singura sarcină 
+ce o avem în interior când aplicăm
+
+379
+00:27:38,54 --> 00:27:41,78
+legea lui Gauss,
+este sarcina ce se află, desigur, aici.
+
+380
+00:27:41,78 --> 00:27:46,83
+Aceasta este singura sarcină
+din interiorul acelei cutii închise.
+
+381
+00:27:46,83 --> 00:27:51,33
+Dacă rezolvaţi această problemă acasă,
+veţi obţine un rezultat uimitor.
+
+382
+00:27:51,33 --> 00:27:56,17
+Veţi descoperi că fluxul electric
+prin aceşti pereţi verticali
+
+383
+00:27:56,17 --> 00:27:59,05
+este zero.
+Nu iese nimic prin aceşti
+
+384
+00:27:59,05 --> 00:28:01,61
+pereţi verticali.
+Gândiţi-vă la asta,
+
+385
+00:28:01,61 --> 00:28:04,88
+de ce se întâmplă acest lucru.
+Utilizaţi argumente de simetrie.
+
+386
+00:28:04,88 --> 00:28:07,43
+Dar pe aici iese ceva
+sau intră ceva dacă este o
+
+387
+00:28:07,43 --> 00:28:10,74
+sarcină negativă,
+şi ceva iese pe aici.
+
+388
+00:28:10,74 --> 00:28:13,21
+Avem aşadar doar două
+contribuţii de la cele două discuri
+
+389
+00:28:13,21 --> 00:28:16,20
+din capăt.
+Veţi rezolva această problemă,
+
+390
+00:28:16,20 --> 00:28:20,66
+şi veţi descoperi un rezultat uimitor,
+şi anume, câmpul electric
+
+391
+00:28:20,66 --> 00:28:25,17
+este egal cu raportul dintre σ şi 2ε0 
+şi este independent
+
+392
+00:28:25,17 --> 00:28:28,50
+de distanţa 
+faţă de plan.
+
+393
+00:28:28,50 --> 00:28:31,29
+Fie că ne aflăm foarte departe,
+fie că suntem foarte aproape,
+
+394
+00:28:31,29 --> 00:28:35,63
+câmpul este acelaşi.
+Dacă acesta este planul respectiv,
+
+395
+00:28:35,63 --> 00:28:39,63
+iar dacă planul este
+încărcat pozitiv,
+
+396
+00:28:39,63 --> 00:28:45,90
+atunci E este aşa aici
+şi E este aşa aici,
+
+397
+00:28:45,90 --> 00:28:52,34
+şi nu depinde de distanţă.
+Dacă este încărcat negativ,
+
+398
+00:28:52,34 --> 00:28:57,68
+E este aşa şi aşa,
+
+399
+00:28:57,68 --> 00:29:03,69
+îndreptat înspre plan,
+şi în toate cazurile mărimea lui E este
+
+400
+00:29:03,69 --> 00:29:08,27
+egală cu 
+raportul dintre σ şi 2ε0.
+
+401
+00:29:10,12 --> 00:29:12,15
+Este adevărat că
+la o distanţă foarte mare
+
+402
+00:29:12,15 --> 00:29:13,94
+faţă de plan,
+câmpul tot nu depinde
+
+403
+00:29:13,94 --> 00:29:15,93
+de distanţă?
+Da, dacă acel plan
+
+404
+00:29:15,93 --> 00:29:19,02
+este infinit de mare.
+Dar dacă planul este doar
+
+405
+00:29:19,02 --> 00:29:24,43
+cât sala aceasta de curs,
+atunci relaţia este extrem de
+
+406
+00:29:24,43 --> 00:29:27,78
+precisă atâta timp cât rămân
+relativ aproape de plan.
+
+407
+00:29:27,78 --> 00:29:31,20
+Cu alte cuvinte, 
+dacă distanţa până la plan este mică
+
+408
+00:29:31,20 --> 00:29:37,54
+în comparaţie cu mărimea planului.
+Dar dacă mă duc la câţiva kilometri distanţă,
+
+409
+00:29:37,54 --> 00:29:41,27
+atunci desigur, acel plan încărcat
+arată precum o sarcină
+
+410
+00:29:41,27 --> 00:29:43,56
+punctiformă
+dacă sunt la 10 kilometri
+
+411
+00:29:43,56 --> 00:29:46,68
+de sala de curs,
+dacă planul este doar cât sala
+
+412
+00:29:46,68 --> 00:29:48,93
+aceasta de curs, 
+atunci arată precum o sarcină punctiformă,
+
+413
+00:29:48,93 --> 00:29:54,02
+şi evident, câmpul electric 
+va descreşte cu 1/r^2.
+
+414
+00:29:54,02 --> 00:29:57,53
+Aşadar, atunci când spun că E
+nu se modifică cu distanţa,
+
+415
+00:29:57,53 --> 00:30:01,23
+înseamnă desigur că trebuie să
+fiu relativ aproape de
+
+416
+00:30:01,23 --> 00:30:06,30
+suprafaţă, relativ la mărimea
+acelei suprafeţe.
+
+417
+00:30:06,30 --> 00:30:10,42
+Vă rămâne vouă să demonstraţi asta,
+şi eu voi folosi rezultatul
+
+418
+00:30:10,42 --> 00:30:16,18
+pentru a calcula 
+o configuraţie mult mai complicată
+
+419
+00:30:16,18 --> 00:30:20,87
+constând din două plăci încărcate
+folosind acel rezultat.
+
+420
+00:30:20,87 --> 00:30:29,38
+Acest lucru este foarte important.
+Să presupunem că am aici
+
+421
+00:30:29,38 --> 00:30:33,94
+o placă, foarte mare,
+nimic nu este infinit de mare desigur,
+
+422
+00:30:33,94 --> 00:30:39,24
+cu o densitate superficială 
+de sarcină +σ
+
+423
+00:30:39,24 --> 00:30:45,14
+iar aici am o placă cu
+o densitate superficială de sarcină -σ,
+
+424
+00:30:45,14 --> 00:30:47,60
+iar distanţa dintre
+cele două plăci
+
+425
+00:30:47,60 --> 00:30:51,96
+este d.
+Întrebarea acum este care e
+
+426
+00:30:51,96 --> 00:30:55,25
+câmpul electric
+în toate punctele din spaţiu.
+
+427
+00:30:55,25 --> 00:30:58,96
+Aici, aici şi aici.
+Ne imaginăm că
+
+428
+00:30:58,96 --> 00:31:01,63
+sunt infinit de mari,
+ambele plăci.
+
+429
+00:31:01,63 --> 00:31:05,76
+Aplic acum principiul
+superpoziţiei.
+
+430
+00:31:05,76 --> 00:31:10,51
+Îmi spun aha.
+Considerând doar această placă,
+
+431
+00:31:10,51 --> 00:31:13,28
+o ignor pe cealaltă,
+această placă determină
+
+432
+00:31:13,28 --> 00:31:17,73
+un vector E,
+oh, să nu încurc culorile,
+
+433
+00:31:17,73 --> 00:31:27,32
+determină un vector E astfel,
+egal cu σ împărţit la 2ε0.
+
+434
+00:31:27,32 --> 00:31:30,02
+Direcţia acestuia este
+de asemenea în exterior,
+
+435
+00:31:30,02 --> 00:31:32,84
+σ împărţit la 2ε0,
+
+436
+00:31:32,84 --> 00:31:37,18
+şi aici este tot
+σ împărţit la 2ε0,
+
+437
+00:31:37,18 --> 00:31:40,89
+pentru că nu depinde
+de distanţa până la placă.
+
+438
+00:31:40,89 --> 00:31:43,69
+Ce face sarcina
+negativă?
+
+439
+00:31:43,69 --> 00:31:46,97
+Păi, în cazul sarcinii negative,
+vectorii E sunt îndreptaţi înspre ea.
+
+440
+00:31:46,97 --> 00:31:49,28
+Am aici un vector E
+egal cu
+
+441
+00:31:49,28 --> 00:31:52,37
+σ împărţit la 2ε0.
+
+442
+00:31:52,37 --> 00:31:56,63
+Am aici unul care este
+σ împărţit la 2ε0,
+
+443
+00:31:56,63 --> 00:31:59,71
+şi am aici unul care indică
+înspre placă,
+
+444
+00:31:59,71 --> 00:32:03,03
+egal cu
+σ împărţit la 2ε0.
+
+445
+00:32:03,03 --> 00:32:06,96
+Aplic principiul superpoziţiei,
+pot adăuga vectorii de câmp electric,
+
+446
+00:32:06,96 --> 00:32:11,07
+şi găsesc că aceştia 
+doi se anulează reciproc,
+
+447
+00:32:11,07 --> 00:32:13,68
+iar câmpul electric
+este zero aici.
+
+448
+00:32:13,68 --> 00:32:18,14
+Câmpul electric aici este egal cu
+σ împărţit la ε0.
+
+449
+00:32:18,14 --> 00:32:21,96
+Cele două câmpuri se susţin reciproc.
+Ambele sunt în aceeaşi direcţie.
+
+450
+00:32:21,96 --> 00:32:24,24
+Iar aici,
+câmpul electric este
+
+451
+00:32:24,24 --> 00:32:28,13
+din nou zero.
+Acesta este un rezultat surprinzător.
+
+452
+00:32:28,13 --> 00:32:34,69
+Desigur, este adevărat doar dacă
+aceste plăci sunt extrem de mari.
+
+453
+00:32:34,69 --> 00:32:39,47
+Dacă trebuie să trasez
+liniile de câmp într-o astfel de situaţie,
+
+454
+00:32:39,47 --> 00:32:44,60
+atunci liniile de câmp
+ar arăta astfel.
+
+455
+00:32:44,60 --> 00:32:48,70
+Dacă placa de sus este pozitivă,
+câmpul de aici este
+
+456
+00:32:48,70 --> 00:32:52,58
+acelaşi peste tot,
+iar în exterior zero
+
+457
+00:32:52,58 --> 00:32:59,37
+şi zero aici.
+Evident că acest lucru nu poate fi adevărat
+
+458
+00:32:59,37 --> 00:33:02,04
+în zona aceasta de aici,
+unde suntem foarte aproape
+
+459
+00:33:02,04 --> 00:33:05,68
+de capătul acestor plăci.
+Acest lucru nu este posibil.
+
+460
+00:33:05,68 --> 00:33:08,10
+De ce nu?
+Păi, nu putem folosi
+
+461
+00:33:08,10 --> 00:33:11,36
+argumente de simetrie, aşa că 
+legea lui Gauss nu este de folos
+
+462
+00:33:11,36 --> 00:33:15,04
+dacă ne apropiem de această zonă.
+Este foarte dificil de calculat
+
+463
+00:33:15,04 --> 00:33:19,37
+configuraţia câmpului electric
+atunci când suntem aproape de margini,
+
+464
+00:33:19,37 --> 00:33:21,48
+câmp ce poartă numele de
+câmp de margine.
+
+465
+00:33:21,48 --> 00:33:25,21
+Desigur, Maxwell a fost un om isteţ
+şi a ştiut cum să calculeze acest câmp.
+
+466
+00:33:25,21 --> 00:33:29,81
+Astăzi îl putem calcula şi noi
+foarte uşor cu ajutorul calculatorului.
+
+467
+00:33:29,81 --> 00:33:33,38
+Dar vă voi prezenta 
+din publicaţiile originale ale lui Maxwell,
+
+468
+00:33:33,38 --> 00:33:38,38
+că într-o astfel de situaţie,
+putea foarte bine să
+
+469
+00:33:38,38 --> 00:33:41,73
+calculeze aceste linii
+de câmp electric.
+
+470
+00:33:41,73 --> 00:33:46,63
+Avem aceste două plăci orizontale,
+care este plus şi care este
+
+471
+00:33:46,63 --> 00:33:50,07
+minus nu contează,
+nu foloseşte săgeţi aici.
+
+472
+00:33:50,07 --> 00:33:52,56
+Ceea ce vedeţi este
+un câmp extrem de puternic
+
+473
+00:33:52,56 --> 00:33:57,00
+în interiorul celor două plăci.
+Ţineţi minte că densitatea
+
+474
+00:33:57,00 --> 00:33:58,83
+liniilor de câmp
+ne indică intensitatea
+
+475
+00:33:58,83 --> 00:34:02,20
+[indescifrabil]
+câmp foarte puternic,
+
+476
+00:34:02,20 --> 00:34:05,86
+dar când ne apropiem de margini,
+câmpul nu este chiar zero.
+
+477
+00:34:05,86 --> 00:34:08,99
+Intensitatea câmpului scade rapid,
+pentru că, uitaţi-vă, densitatea
+
+478
+00:34:08,99 --> 00:34:11,47
+este foarte mică.
+Dar nu este zero.
+
+479
+00:34:11,47 --> 00:34:14,23
+Iar câmpul electric nu este
+zero nici aici, şi nu este
+
+480
+00:34:14,23 --> 00:34:21,58
+zero acolo.
+Noi am presupus totuşi
+
+481
+00:34:21,58 --> 00:34:24,08
+că placa
+este atât de mare,
+
+482
+00:34:24,08 --> 00:34:27,20
+încât nu trebuie să ne facem
+griji legate de efectele de margine,
+
+483
+00:34:27,20 --> 00:34:30,97
+iar în acest caz,
+câmpul electric există doar
+
+484
+00:34:30,97 --> 00:34:35,03
+între plăci,
+dar în rest este zero.
+
+485
+00:34:37,20 --> 00:34:39,85
+Vreau acum să vă demonstrez
+unele dintre lucrurile ce
+
+486
+00:34:39,85 --> 00:34:43,55
+le-am învăţat astăzi.
+Primul lucru ce vreau
+
+487
+00:34:43,55 --> 00:34:51,07
+să-l demonstrez este că în exteriorul
+unui plan întins, câmpul electric
+
+488
+00:34:51,07 --> 00:34:55,11
+este mai mult sau mai puţin constant.
+Nu contează distanţa
+
+489
+00:34:55,11 --> 00:34:59,79
+la care ne aflăm.
+Acum, desigur,
+
+490
+00:34:59,79 --> 00:35:01,80
+nu am un plan
+infinit de mare,
+
+491
+00:35:01,80 --> 00:35:03,24
+planul 
+ce-l veţi vedea
+
+492
+00:35:03,24 --> 00:35:05,52
+are doar
+câţiva metri pătraţi.
+
+493
+00:35:05,52 --> 00:35:08,98
+Aşa că, folosind un plan
+de 1 x 1 metri,
+
+494
+00:35:08,98 --> 00:35:12,84
+câmpul electric este
+aproximativ constant,
+
+495
+00:35:12,84 --> 00:35:15,65
+doar dacă rămân
+foarte aproape de acel plan.
+
+496
+00:35:15,65 --> 00:35:18,03
+În momentul în care mă îndepărtez
+dincolo de un metru,
+
+497
+00:35:18,03 --> 00:35:21,42
+acest lucru nu mai este adevărat.
+Ceea ce vă voi arăta
+
+498
+00:35:21,42 --> 00:35:24,37
+este foarte calitativ aşadar.
+Dar veţi vedea imediat
+
+499
+00:35:24,37 --> 00:35:26,90
+acolo un plan
+foarte mare.
+
+500
+00:35:26,90 --> 00:35:28,95
+Îl voi aduce în
+câteva minute.
+
+501
+00:35:28,95 --> 00:35:32,28
+Să presupunem că privim 
+acel plan dintr-o parte.
+
+502
+00:35:32,28 --> 00:35:34,75
+Aici este acel plan.
+Ne uităm la el dintr-o parte,
+
+503
+00:35:34,75 --> 00:35:37,80
+îl voi pune aici.
+Nu veţi putea vedea de el,
+
+504
+00:35:37,80 --> 00:35:40,06
+de aceea nu-l avem aici
+acum.
+
+505
+00:35:40,06 --> 00:35:43,25
+Îl voi conecta apoi
+cu Van der Graaff-ul
+
+506
+00:35:43,25 --> 00:35:46,67
+din spatele lui.
+Dacă poţi aştepta câteva minute,
+
+507
+00:35:46,67 --> 00:35:49,93
+atunci studenţii vor fi atenţi la mine
+şi nu la tine.
+
+508
+00:35:49,93 --> 00:35:53,25
+Aici este Van der Graaff-ul,
+îl vom ataşa de Van der Graaff
+
+509
+00:35:53,25 --> 00:35:58,27
+şi vom folosim apoi această
+undiţă interesantă
+
+510
+00:35:58,27 --> 00:36:02,42
+cu un balon din material izolant
+încărcat cu aceeaşi sarcină
+
+511
+00:36:02,42 --> 00:36:05,44
+precum Van der Graaff-ul,
+aceeaşi sarcină precum planul,
+
+512
+00:36:05,44 --> 00:36:10,85
+şi o vom aduce
+în faţa planului.
+
+513
+00:36:10,85 --> 00:36:14,29
+Va exista desigur
+o forţă.
+
+514
+00:36:14,29 --> 00:36:18,80
+Aici este bagheta mea de sticlă.
+Asta e verticala.
+
+515
+00:36:18,80 --> 00:36:22,25
+Datorită faptului că va exista
+o forţă de respingere asupra acestui
+
+516
+00:36:22,25 --> 00:36:26,37
+balon umplut cu aer,
+vom obţine un unghi.
+
+517
+00:36:26,37 --> 00:36:29,12
+Va exista o forţă electrică asupra lui
+întrucât cele două au aceeaşi
+
+518
+00:36:29,12 --> 00:36:31,64
+sarcină.
+Acesta este unghiul teta,
+
+519
+00:36:31,64 --> 00:36:35,11
+ce-l veţi vedea proiectat
+pe acel perete.
+
+520
+00:36:35,11 --> 00:36:40,14
+Când îl voi îndepărta de plan,
+veţi vedea că
+
+521
+00:36:40,14 --> 00:36:43,34
+unghiul teta scade.
+Da, desigur, pentru că uitaţi-vă
+
+522
+00:36:43,34 --> 00:36:46,09
+cât de mic este acel plan.
+Indiferent de ceea ce fac,
+
+523
+00:36:46,09 --> 00:36:49,30
+dacă mă îndepărtez de la 20 la 40 de centimetri,
+nu putem afirma că acel plan
+
+524
+00:36:49,30 --> 00:36:52,73
+este infinit de mare
+în comparaţie cu cei 40 de centimetri.
+
+525
+00:36:52,73 --> 00:36:56,21
+Dar veţi vedea că 
+unghiul teta variază
+
+526
+00:36:56,21 --> 00:37:00,59
+foarte încet.
+Vom îndepărta apoi
+
+527
+00:37:00,59 --> 00:37:04,15
+acel plan şi vom realiza
+exact acelaşi experiment,
+
+528
+00:37:04,15 --> 00:37:07,62
+dar vom include doar Van der Graaff-ul,
+ce produce un
+
+529
+00:37:07,62 --> 00:37:10,31
+câmp electric.
+Iar acel câmp electric
+
+530
+00:37:10,31 --> 00:37:15,81
+descreşte cu 1/r^2.
+Nu este independent de distanţă,
+
+531
+00:37:15,81 --> 00:37:17,50
+ci scade cu 
+1/r^2.
+
+532
+00:37:17,50 --> 00:37:21,33
+Aceasta este o sferă goală.
+Vă puteţi imagina aşadar că toată
+
+533
+00:37:21,33 --> 00:37:24,94
+sarcina se află în centru,
+după cum am demonstrat,
+
+534
+00:37:24,94 --> 00:37:26,88
+se află încă aici,
+pe tablă.
+
+535
+00:37:26,88 --> 00:37:29,03
+Ştiţi, obţinem acel rezultat
+minunat.
+
+536
+00:37:29,03 --> 00:37:35,57
+Dacă aduc acum această --
+dacă aduc această undiţă,
+
+537
+00:37:35,57 --> 00:37:40,32
+acest balon,
+în apropierea Van der Graaff-ului sferic,
+
+538
+00:37:40,32 --> 00:37:44,38
+veţi observa că acest
+unghi teta scade foarte rapid
+
+539
+00:37:44,38 --> 00:37:47,19
+când încep să
+mă îndepărtez.
+
+540
+00:37:47,19 --> 00:37:49,93
+Extrem de rapid.
+Dacă dublez distanţa
+
+541
+00:37:49,93 --> 00:37:54,06
+faţă de centru, forţa asupra
+acelui obiect mic va scădea
+
+542
+00:37:54,06 --> 00:37:56,93
+de 4 ori.
+Este legea 1/r^2.
+
+543
+00:37:56,93 --> 00:38:04,08
+Să realizăm mai  întâi experimentul
+cu planul şi apoi vom încerca doar
+
+544
+00:38:04,08 --> 00:38:08,98
+cu Van der Graaff-ul.
+Vom încerca să optimizăm
+
+545
+00:38:08,98 --> 00:38:11,08
+condiţiile de iluminare.
+
+546
+00:38:11,08 --> 00:38:19,14
+Avem aici un proiector.
+O lampă cu arc,
+
+547
+00:38:19,14 --> 00:38:25,75
+ce va produce să sperăm
+o iluminare în acea direcţie.
+
+548
+00:38:25,75 --> 00:38:29,55
+Dacă lampa cu arc funcţionează.
+[râsete] Marcos, oh, am uitat
+
+549
+00:38:29,55 --> 00:38:32,80
+să-l pornesc.
+Mulţumesc.
+
+550
+00:38:34,71 --> 00:38:38,19
+Lampa cu arc porneşte acum,
+vedeţi acolo
+
+551
+00:38:38,19 --> 00:38:42,56
+nişte umbre pe acel perete.
+Vedeţi mâna mea,
+
+552
+00:38:42,56 --> 00:38:45,22
+aici este planul,
+care este departe de a fi
+
+553
+00:38:45,22 --> 00:38:49,87
+un plan infinit.
+Dacă sunt la această distanţă de el,
+
+554
+00:38:49,87 --> 00:38:53,15
+patru centimetri,
+o aproximaţie foarte bună,
+
+555
+00:38:53,15 --> 00:38:55,85
+planul este infinit de mare.
+Dar dacă sunt aici şi acolo,
+
+556
+00:38:55,85 --> 00:38:59,07
+unde voi fi de fapt,
+atunci desigur, nu va mai fi
+
+557
+00:38:59,07 --> 00:39:02,28
+infinit de mare.
+Să pornim aşadar
+
+558
+00:39:02,28 --> 00:39:06,75
+Van der Graaff-ul.
+Nu-l puteţi vedea, dar l-am pornit.
+
+559
+00:39:06,75 --> 00:39:08,20
+Se roteşte acum.
+
+560
+00:39:08,20 --> 00:39:11,23
+Trebuie să pun sarcină aici,
+îl voi atinge cu
+
+561
+00:39:11,23 --> 00:39:15,89
+Van der Graaff-ul
+şi acum este încărcat.
+
+562
+00:39:15,89 --> 00:39:18,42
+Are aceeaşi sarcină 
+cu cea a planului.
+
+563
+00:39:18,42 --> 00:39:22,38
+Planul este încărcat.
+Vedeţi aici unghiul.
+
+564
+00:39:25,07 --> 00:39:28,17
+Încercaţi să reţineţi acel unghi.
+Este greu de estimat,
+
+565
+00:39:28,17 --> 00:39:30,96
+probabil 15 grade.
+Vedeţi verticala, iar dacă,
+
+566
+00:39:30,96 --> 00:39:35,37
+este la aproximativ
+30 de centimetri de plan.
+
+567
+00:39:35,37 --> 00:39:41,11
+Dacă mă îndepărtez la 50 de centimetri,
+unde mă aflu acum,
+
+568
+00:39:41,11 --> 00:39:43,92
+observaţi că unghiul
+nu s-a modificat foarte mult.
+
+569
+00:39:43,92 --> 00:39:46,73
+Dacă mă îndepărtez şi mai mult,
+la 60 de centimetri,
+
+570
+00:39:46,73 --> 00:39:47,98
+da, 
+unghiul scade puţin.
+
+571
+00:39:47,98 --> 00:39:50,69
+Sigur că scade.
+Dar nu foarte mult.
+
+572
+00:39:50,69 --> 00:39:53,84
+Dacă mă îndepărtez foarte tare,
+dacă mă duc foarte departe,
+
+573
+00:39:53,84 --> 00:39:57,27
+desigur, forţa exercitată asupra
+acestui obiect mic este invers
+
+574
+00:39:57,27 --> 00:40:00,90
+proporţională cu r^2, pentru că atunci 
+întregul plan se va comporta precum
+
+575
+00:40:00,90 --> 00:40:03,85
+o sursă punctiformă.
+V-am arătat aşadar că
+
+576
+00:40:03,85 --> 00:40:09,81
+în imediata vecinătate a acestui plan,
+câmpul electric este aproximativ
+
+577
+00:40:09,81 --> 00:40:14,49
+constant.
+Dacă îndepărtez acum planul
+
+578
+00:40:16,12 --> 00:40:20,92
+Marcos, dacă poţi,
+da, trebuie să iei şi asta jos.
+
+579
+00:40:20,92 --> 00:40:21,93
+Mulţumesc
+foarte mult.
+
+580
+00:40:21,93 --> 00:40:24,79
+Acum avem doar
+Van der Graaff-ul.
+
+581
+00:40:24,79 --> 00:40:27,28
+Ştim că valoarea
+câmpului electric scade cu
+
+582
+00:40:27,28 --> 00:40:29,59
+1/r^2.
+Acum este o aproximare
+
+583
+00:40:29,59 --> 00:40:32,09
+foarte bună.
+Ne putem imagina că sarcina
+
+584
+00:40:32,09 --> 00:40:35,34
+se află chiar în centru.
+Îl voi încărca puţin.
+
+585
+00:40:35,34 --> 00:40:38,84
+Oh,
+este încărcat deja.
+
+586
+00:40:38,84 --> 00:40:41,87
+Bine.
+Uitaţi-vă la proiecţie.
+
+587
+00:40:41,87 --> 00:40:48,31
+Balonul se află acum la
+aproximativ 30 de centimetri
+
+588
+00:40:48,31 --> 00:40:49,98
+de centru,
+poate 40,
+
+589
+00:40:49,98 --> 00:40:53,80
+unghiul este de aproape
+45 de grade.
+
+590
+00:40:53,80 --> 00:40:55,33
+Acum mă îndepărtez,
+dublez distanţa,
+
+591
+00:40:55,33 --> 00:40:58,50
+mă îndepărtez la aproximativ
+90 de centimetri,
+
+592
+00:40:58,50 --> 00:41:02,14
+şi observaţi unghiul teta.
+Unghiul teta a scăzut acum la
+
+593
+00:41:02,14 --> 00:41:06,79
+aproximativ 10 grade.
+Mă duc înapoi unde am fost.
+
+594
+00:41:06,79 --> 00:41:10,40
+Acest unghi este de aproximativ
+40 de grade.
+
+595
+00:41:10,40 --> 00:41:16,21
+Iar aici este foarte mic,
+iar dacă vin aici, la aproximativ
+
+596
+00:41:16,21 --> 00:41:21,17
+un metru şi jumătate,
+aproape că nu mai puteţi vedea unghiul.
+
+597
+00:41:21,17 --> 00:41:23,77
+Este de doar câteva grade.
+V-am arătat aşadar doar
+
+598
+00:41:23,77 --> 00:41:29,89
+calitativ că acest câmp electric
+scade extrem de rapid.
+
+599
+00:41:29,89 --> 00:41:35,88
+În vecinătatea unei sfere goale
+încărcate uniform cu sarcină electrică,
+
+600
+00:41:35,88 --> 00:41:39,27
+şi faptul că acesta nu scade 
+foarte rapid dacă ne aflăm
+
+601
+00:41:39,27 --> 00:41:48,08
+în vecinătatea unui plan.
+Al doilea lucru ce vreau să vi-l arăt
+
+602
+00:41:48,08 --> 00:41:52,03
+are legătură cu faptul că,
+câmpul electric din interiorul
+
+603
+00:41:52,03 --> 00:41:56,46
+unei sfere încărcate uniform
+este zero.
+
+604
+00:41:58,15 --> 00:42:02,64
+Am aici o sferă ce nu este
+complet închisă.
+
+605
+00:42:02,64 --> 00:42:05,49
+Nu o pot închide pentru că
+vrea să vă demonstrez
+
+606
+00:42:05,49 --> 00:42:08,40
+că nu există câmp electric
+în interiorul ei atunci când o încarc
+
+607
+00:42:08,40 --> 00:42:11,66
+uniform.
+Din moment ce trebuie să ajung înăuntru,
+
+608
+00:42:11,66 --> 00:42:14,18
+am nevoie de o deschizătură.
+Nu pot să fac nimic în legătură
+
+609
+00:42:14,18 --> 00:42:17,25
+cu acest lucru.
+Din moment ce există o deschizătură,
+
+610
+00:42:17,25 --> 00:42:21,11
+câmpul electric din interior
+nu este exact zero.
+
+611
+00:42:21,11 --> 00:42:23,91
+Acest lucru este adevărat doar dacă
+aceasta este o suprafaţa complet închisă,
+
+612
+00:42:23,91 --> 00:42:26,98
+şi dacă sarcina este
+uniform distribuită.
+
+613
+00:42:26,98 --> 00:42:32,07
+Dar este o bună aproximaţie.
+Deschizătura este destul de mică.
+
+614
+00:42:32,07 --> 00:42:36,18
+Voi încărca
+această sferă.
+
+615
+00:42:36,18 --> 00:42:41,07
+Pun sarcină în exterior.
+Voi folosi un dispozitiv ce nu l-am folosit înainte,
+
+616
+00:42:41,07 --> 00:42:47,50
+dar asta nu este atât de important.
+Aici este acea sferă goală.
+
+617
+00:42:47,50 --> 00:42:49,45
+Voi pune sarcină
+acolo.
+
+618
+00:42:49,45 --> 00:42:51,09
+Să presupunem
+că este sarcină
+
+619
+00:42:51,09 --> 00:42:53,29
+pozitivă.
+Aceasta va fi încărcată
+
+620
+00:42:53,29 --> 00:42:57,55
+pozitiv.
+Din moment ce este un conductor,
+
+621
+00:42:57,55 --> 00:43:00,01
+după cum vom învăţa,
+cred că în cursul următor,
+
+622
+00:43:00,01 --> 00:43:02,56
+sau cel puţin în această săptămână,
+această sarcină se va distribui
+
+623
+00:43:02,56 --> 00:43:05,28
+automat uniform,
+acest lucru se întâmplă doar
+
+624
+00:43:05,28 --> 00:43:09,57
+în cazul unui conductor.
+Pentru a vă demonstra că există
+
+625
+00:43:09,57 --> 00:43:15,78
+un câmp electric aici,
+voi utiliza inducţia.
+
+626
+00:43:15,78 --> 00:43:21,73
+Am două mingi de ping pong
+acoperite cu vopsea conductoare.
+
+627
+00:43:21,73 --> 00:43:25,60
+Se ating reciproc.
+Sub influenţa acestui
+
+628
+00:43:25,60 --> 00:43:28,50
+câmp electric,
+aceasta se va încărca negativ,
+
+629
+00:43:28,50 --> 00:43:30,84
+iar aceasta pozitiv,
+am discutat acest lucru
+
+630
+00:43:30,84 --> 00:43:33,41
+data trecută, creăm un dipol.
+Nu contează că este
+
+631
+00:43:33,41 --> 00:43:37,53
+un dipol.
+Le separ pe cele două.
+
+632
+00:43:37,53 --> 00:43:40,69
+Am sarcină negativă aici
+şi sarcină pozitivă acolo.
+
+633
+00:43:40,69 --> 00:43:45,03
+Voi atinge oricare dintre aceste mingi,
+nu contează care din ele
+
+634
+00:43:45,03 --> 00:43:47,41
+cu un
+electroscop,
+
+635
+00:43:47,41 --> 00:43:49,94
+şi veţi vedea că există
+sarcină pe ea.
+
+636
+00:43:49,94 --> 00:43:52,86
+Voi fi demonstrat prin urmare
+că există un câmp electric
+
+637
+00:43:52,86 --> 00:43:56,22
+în exteriorul sferei.
+Voi realiza apoi exact aceeaşi
+
+638
+00:43:56,22 --> 00:43:59,15
+demonstraţie,
+dar de data aceasta
+
+639
+00:43:59,15 --> 00:44:04,61
+voi pune bilele
+conductoare înăuntru,
+
+640
+00:44:04,61 --> 00:44:07,34
+aici sunt.
+Le aduc în contact,
+
+641
+00:44:07,34 --> 00:44:10,86
+va trebui să mă credeţi
+că le ating într-adevăr,
+
+642
+00:44:10,86 --> 00:44:15,01
+iar apoi le voi scoate.
+Dacă nu am greşit ceva,
+
+643
+00:44:15,01 --> 00:44:18,95
+dacă nu am atins marginea din greşeală,
+atunci vă voi arăta că
+
+644
+00:44:18,95 --> 00:44:22,96
+nu există câmp electric în interior,
+înseamnă că nu există inducţie,
+
+645
+00:44:22,96 --> 00:44:26,22
+iar aceste bile 
+nu au fost încărcate.
+
+646
+00:44:26,22 --> 00:44:28,87
+Vă voi arăta cu ajutorul electroscopului
+că într-adevăr nu există
+
+647
+00:44:28,87 --> 00:44:33,14
+sarcină pe ea.
+Acesta este aşadar
+
+648
+00:44:33,14 --> 00:44:38,49
+experimentul.
+Aici este electroscopul.
+
+649
+00:44:38,49 --> 00:44:42,33
+Aici este sfera.
+O voi încărca cu ajutorul,
+
+650
+00:44:42,33 --> 00:44:45,67
+are un nume frumos,
+cu ajutorul electroforului.
+
+651
+00:44:45,67 --> 00:44:51,22
+Greu de pronunţat.
+Frec pentru început o placă de sticIă
+
+652
+00:44:51,22 --> 00:44:56,34
+cu blană de pisică.
+Iau apoi o placă metalică,
+
+653
+00:44:56,34 --> 00:45:01,00
+o pun deasupra,
+şi o ating cu degetul.
+
+654
+00:45:01,00 --> 00:45:05,34
+Realizez apoi un transfer de sarcină.
+Gândiţi-vă de ce se întâmplă acest lucru.
+
+655
+00:45:05,34 --> 00:45:10,02
+O pun înapoi aici,
+o ating din nou cu degetul.
+
+656
+00:45:10,02 --> 00:45:13,28
+Realizez din nou un transfer de sarcină.
+O pun deasupra,
+
+657
+00:45:13,28 --> 00:45:16,88
+o ating din nou cu degetul.
+Mai vreau puţină
+
+658
+00:45:16,88 --> 00:45:22,59
+sarcină.
+Frec din nou placa de sticlă.
+
+659
+00:45:22,59 --> 00:45:26,56
+Pun asta deasupra.
+O ating cu degetul.
+
+660
+00:45:26,56 --> 00:45:30,22
+De fiecare dată când fac
+acest lucru, simt un mic şoc.
+
+661
+00:45:30,22 --> 00:45:32,87
+O pun acolo.
+O ating cu degetul.
+
+662
+00:45:32,87 --> 00:45:36,09
+Bine.
+Să sperăm că e suficient.
+
+663
+00:45:36,09 --> 00:45:38,60
+Urmează acum
+prima demonstraţie.
+
+664
+00:45:38,60 --> 00:45:42,99
+Aceste două sfere conductoare, 
+complet descărcate,
+
+665
+00:45:42,99 --> 00:45:47,43
+le aduc în apropierea
+acestei sfere.
+
+666
+00:45:47,43 --> 00:45:51,23
+Iată-le.
+Le separ.
+
+667
+00:45:51,23 --> 00:45:53,15
+Acum trebuie
+să fie încărcate.
+
+668
+00:45:53,15 --> 00:45:56,00
+Să ating electroscopul cu
+bila aceasta sau cu aceasta?
+
+669
+00:45:56,00 --> 00:45:58,62
+Mi-e indiferent.
+Mâna dreapta sau mâna stângă?
+
+670
+00:45:58,62 --> 00:46:02,04
+Cine vrea dreapta?
+Cine vrea stânga?
+
+671
+00:46:02,04 --> 00:46:06,25
+Dreapta să fie.
+Iată sarcina.
+
+672
+00:46:07,49 --> 00:46:08,80
+V-am arătat
+că există un
+
+673
+00:46:08,80 --> 00:46:12,11
+câmp electric acolo.
+Am creat sarcină electrică aici,
+
+674
+00:46:12,11 --> 00:46:17,29
+prin inducţie.
+Voi face acelaşi lucru în interior.
+
+675
+00:46:17,29 --> 00:46:20,55
+Experimentul este delicat pentru că,
+dacă ating marginea atunci
+
+676
+00:46:20,55 --> 00:46:23,00
+nu este zero.
+Aceasta trebuie să intre prima
+
+677
+00:46:23,00 --> 00:46:26,54
+pentru că deschizătura
+este prea mică.
+
+678
+00:46:26,54 --> 00:46:30,17
+Apoi intră 
+a doua bilă.
+
+679
+00:46:30,17 --> 00:46:33,34
+Acum trebuie să le ating,
+şi într-adevăr o fac.
+
+680
+00:46:33,34 --> 00:46:36,47
+Nu v-aş păcăli.
+Nu acum.
+
+681
+00:46:36,47 --> 00:46:40,02
+Acum se află
+în contact reciproc.
+
+682
+00:46:40,02 --> 00:46:47,09
+Scot acum una dintre ele.
+O scot şi pe cealaltă.
+
+683
+00:46:47,09 --> 00:46:49,40
+Pe care să o folosesc?
+Nu ar trebui să existe sarcină
+
+684
+00:46:49,40 --> 00:46:51,90
+pe niciuna din ele.
+Ce am avut înainte,
+
+685
+00:46:51,90 --> 00:46:54,02
+stânga sau dreapta?
+Să o folosim pe aceasta.
+
+686
+00:46:54,02 --> 00:46:56,33
+Pe aceasta?
+Cine vrea stânga?
+
+687
+00:46:56,33 --> 00:46:59,35
+Cine vrea dreapta?
+Stânga să fie.
+
+688
+00:46:59,35 --> 00:47:05,85
+Oh. [râsete]
+Ce s-a întâmplat?
+
+689
+00:47:05,85 --> 00:47:10,50
+Cred că am atins marginea.
+Nu putem evita asta.
+
+690
+00:47:10,50 --> 00:47:14,78
+Ma asigur că există 
+suficientă sarcină pe ea.
+
+691
+00:47:14,78 --> 00:47:18,22
+O mai încarc
+încă odată.
+
+692
+00:47:24,08 --> 00:47:29,14
+Le descarc.
+Bine.
+
+693
+00:47:29,14 --> 00:47:33,30
+Repetăm experimentul.
+O introduc înăuntru.
+
+694
+00:47:33,30 --> 00:47:38,41
+O introduc înăuntru.
+Le ating.
+
+695
+00:47:38,41 --> 00:47:42,58
+O scot afară.
+O scot afară.
+
+696
+00:47:42,58 --> 00:47:45,22
+Nimic.
+Nimic.
+
+697
+00:47:45,22 --> 00:47:47,58
+Poate puţin de tot,
+desigur, câmpul electric
+
+698
+00:47:47,58 --> 00:47:53,65
+din interior nu este exact zero.
+Dar este extrem de aproape.
+
+699
+00:47:53,65 --> 00:47:58,88
+Ultimul lucru ce vreau să vi-l arăt
+are legătură cu câmpul de margine
+
+700
+00:47:58,88 --> 00:48:07,05
+ce l-am văzut aici.
+Am aici două plăci paralele
+
+701
+00:48:07,05 --> 00:48:10,68
+ce le voi încărca cu
+un instrument ce nu l-am
+
+702
+00:48:10,68 --> 00:48:16,26
+mai văzut înainte,
+se cheamă Wimshurst.
+
+703
+00:48:16,26 --> 00:48:20,24
+Dacă învârt de această manetă
+pot produce sarcină pozitivă
+
+704
+00:48:20,24 --> 00:48:23,33
+şi negativă.
+Această placă se încarcă
+
+705
+00:48:23,33 --> 00:48:27,46
+pozitiv iar cealaltă placă
+se încarcă automat
+
+706
+00:48:27,46 --> 00:48:32,82
+cu sarcină negativă.
+Vă voi arăta acest lucru
+
+707
+00:48:32,82 --> 00:48:36,77
+acolo.
+Aceasta e ideea.
+
+708
+00:48:36,77 --> 00:48:37,85
+Da.
+
+709
+00:48:41,71 --> 00:48:43,95
+Vedeţi acolo aceste
+două plăci.
+
+710
+00:48:43,95 --> 00:48:48,98
+Şi vedeţi o minge de ping pong.
+Această minge de ping pong
+
+711
+00:48:48,98 --> 00:48:53,23
+este un conductor,
+am acoperit-o cu vopsea conductoare.
+
+712
+00:48:53,23 --> 00:48:57,89
+Ţineţi minte când am realizat
+experimentul cu balonul
+
+713
+00:48:57,89 --> 00:49:01,43
+ce ricoşa între capul meu
+şi Van der Graaff.
+
+714
+00:49:01,43 --> 00:49:03,91
+De fiecare dată când atingea
+Van der Graaff-ul lua întreaga
+
+715
+00:49:03,91 --> 00:49:05,91
+sarcină de pe Van der Graaff,
+iar când atingea capul meu
+
+716
+00:49:05,91 --> 00:49:08,57
+lua sarcina mea.
+Mergea prin urmare înainte şi înapoi,
+
+717
+00:49:08,57 --> 00:49:11,70
+de-a lungul liniilor de câmp.
+Acest lucru vreau să vi-l arăt
+
+718
+00:49:11,70 --> 00:49:14,22
+acum.
+Că această minge de ping pong
+
+719
+00:49:14,22 --> 00:49:18,96
+va testa acel câmp
+iniţial în afara condensatorului,
+
+720
+00:49:18,96 --> 00:49:21,68
+sau nu ar trebui să folosesc
+cuvântul condensator, ci aceste plăci.
+
+721
+00:49:21,68 --> 00:49:25,56
+Voi aduce apoi mingea de ping pong
+în interior şi veţi vedea
+
+722
+00:49:25,56 --> 00:49:28,18
+că acolo câmpul electric
+este mult mai intens.
+
+723
+00:49:28,18 --> 00:49:34,70
+Să punem nişte sarcină
+acolo pentru început.
+
+724
+00:49:34,70 --> 00:49:37,35
+Ascultaţi sunetele.
+De fiecare dată când le atinge,
+
+725
+00:49:37,35 --> 00:49:40,11
+se aude un pocnet.
+Urmăreşte aşadar cu aproximaţie
+
+726
+00:49:40,11 --> 00:49:46,08
+acele linii de câmp electric,
+şi transferă de fiecare dată
+
+727
+00:49:46,08 --> 00:49:50,32
+sarcină electrică
+de pe o placă pe cealaltă.
+
+728
+00:49:50,32 --> 00:49:52,57
+Se deplasează foarte frumos
+pe o traiectorie semicirculară,
+
+729
+00:49:52,57 --> 00:49:58,30
+aşa cum vedeţi acolo.
+Este evidentă existenţa
+
+730
+00:49:58,30 --> 00:50:01,86
+unui câmp electric în exterior.
+V-am demonstrat acest lucru.
+
+731
+00:50:01,86 --> 00:50:04,00
+Altfel, nu ar face niciodată
+ceea ce face.
+
+732
+00:50:04,00 --> 00:50:06,97
+Câmpul electric din exterior
+nu este prin urmare exact zero,
+
+733
+00:50:06,97 --> 00:50:09,58
+desigur că nu.
+Această placă nu este infinit
+
+734
+00:50:09,58 --> 00:50:12,99
+de mare.
+Voi pune acum această minge
+
+735
+00:50:12,99 --> 00:50:16,91
+de ping pong înăuntru,
+trebuie să măresc
+
+736
+00:50:16,91 --> 00:50:21,42
+distanţa puţin,
+şi o pun înăuntru.
+
+737
+00:50:21,42 --> 00:50:27,89
+Vedeţi că aici câmpul electric
+este mult mai intens.
+
+738
+00:50:27,89 --> 00:50:30,73
+Acum se deplasează înainte şi înapoi
+între acele linii de câmp
+
+739
+00:50:30,73 --> 00:50:34,59
+intense,
+un câmp electric foarte intens,
+
+740
+00:50:34,59 --> 00:50:37,94
+se deplasează înainte şi înapoi.
+De fiecare dată când atinge placa
+
+741
+00:50:37,94 --> 00:50:42,97
+polaritatea se inversează.
+Acest lucru nu este foarte diferit
+
+742
+00:50:42,97 --> 00:50:47,36
+de experimentul cu balonul,
+când acesta a ricoşat înainte şi înapoi
+
+743
+00:50:47,36 --> 00:50:51,66
+de pe Van der Graaff pe capul meu
+şi înapoi pe Van der Graaff.
+
+744
+00:50:51,66 --> 00:50:53,44
+Bine.
+Începeţi să lucraţi la tema
+
+745
+00:50:53,44 --> 00:50:56,32
+de casă.
+Nu este o temă uşoară.
+
+746
+00:50:56,32 --> 00:50:57,58
+Ne vedem miercuri.
+
+747
+00:50:57,58 --> 00:51:03,31
+(subtitrarea în limba română pentru 
+www.circuiteelectrice.ro)

@@ -1,0 +1,3394 @@
+﻿1
+00:00:21,005 --> 00:00:27,000
+Când sarcinile pozitive
+se deplasează în această direcţie,
+
+2
+00:00:27,000 --> 00:00:30,005
+atunci spunem că, prin definiţie,
+direcţia curentului este
+
+3
+00:00:30,005 --> 00:00:33,036
+aceasta.
+Când sarcinile negative se deplasează în
+
+4
+00:00:33,036 --> 00:00:36,003
+această direcţie,
+spunem de asemenea că direcţia curentului
+
+5
+00:00:36,003 --> 00:00:40,023
+este aceasta,
+e doar o convenţie.
+
+6
+00:00:40,023 --> 00:00:44,093
+Dacă aplicăm o diferenţă 
+de potenţial asupra unui conductor,
+
+7
+00:00:44,093 --> 00:00:47,052
+vom da naştere
+unui câmp electric în acel
+
+8
+00:00:47,052 --> 00:00:52,007
+conductor.
+Iar electronii -- într-un conductor
+
+9
+00:00:52,007 --> 00:00:55,007
+există electroni  liberi --
+se pot deplasa,
+
+10
+00:00:55,007 --> 00:00:59,000
+dar ionii nu se pot deplasa,
+pentru că sunt blocaţi în
+
+11
+00:00:59,000 --> 00:01:02,007
+solid, în cristal.
+Când un curent se deplasează
+
+12
+00:01:02,007 --> 00:01:06,003
+printr-un conductor,
+electronii sunt tot timpul cei responsabili
+
+13
+00:01:06,003 --> 00:01:08,058
+pentru existenţa curentului.
+Electronii se deplasează prin câmpul
+
+14
+00:01:08,058 --> 00:01:12,065
+electric şi încearcă
+să aducă valoarea câmpului electric
+
+15
+00:01:12,065 --> 00:01:16,006
+la zero. Desigur, nu reuşesc, 
+pentru că menţinem diferenţa
+
+16
+00:01:16,006 --> 00:01:21,005
+de potenţial asupra conductorului.
+Există adesea o relaţie
+
+17
+00:01:21,005 --> 00:01:25,002
+liniară între 
+curent şi potenţial,
+
+18
+00:01:25,002 --> 00:01:30,000
+caz în care
+vorbim de legea lui Ohm.
+
+19
+00:01:30,000 --> 00:01:32,000
+Voi încerca 
+să deduc legea lui Ohm
+
+20
+00:01:32,000 --> 00:01:34,004
+prin
+mijloace primitive,
+
+21
+00:01:34,004 --> 00:01:37,006
+vom face 
+unele simplificări,
+
+22
+00:01:37,006 --> 00:01:41,000
+am avea nevoie de mecanică cuantică,
+subiect ce nu-l vom aborda
+
+23
+00:01:41,000 --> 00:01:43,007
+în acest curs.
+Dar vom obţine totuşi
+
+24
+00:01:43,007 --> 00:01:49,003
+un rezultat interesant
+legat de legea lui Ohm.
+
+25
+00:01:49,003 --> 00:01:52,002
+Luăm pentru început
+un conductor, cupru
+
+26
+00:01:52,002 --> 00:01:58,065
+de exemplu, la temperatura camerei,
+300 de grade Kelvin.
+
+27
+00:01:58,065 --> 00:02:02,039
+În cupru, electronii liberi
+au o viteză
+
+28
+00:02:02,039 --> 00:02:07,051
+medie de aproximativ
+un milion de metri pe secundă.
+
+29
+00:02:07,051 --> 00:02:12,002
+Aceasta este viteza medie
+a acelor electroni liberi,
+
+30
+00:02:12,002 --> 00:02:15,003
+aproximativ
+un milion de metri pe secundă.
+
+31
+00:02:15,003 --> 00:02:20,072
+În toate direcţiile.
+Este o mişcare haotică.
+
+32
+00:02:20,072 --> 00:02:25,000
+Este o agitaţie termică,
+datorată temperaturii.
+
+33
+00:02:25,000 --> 00:02:32,090
+Durata de timp 
+dintre două coliziuni,
+
+34
+00:02:32,090 --> 00:02:36,007
+adică o coliziune
+între electronii liberi şi atomi,
+
+35
+00:02:36,007 --> 00:02:40,003
+este de aproximativ 
+-- o notăm cu tau --
+
+36
+00:02:40,003 --> 00:02:44,022
+este de aproximativ 3 ori
+10^-14 secunde.
+
+37
+00:02:44,022 --> 00:02:46,054
+Deloc surprinzător,
+pentru că viteza este enorm
+
+38
+00:02:46,054 --> 00:02:50,000
+de mare.
+Numărul electronilor
+
+39
+00:02:50,000 --> 00:02:59,067
+liber în cupru, pe metru cub,
+notăm acest număr cu n,
+
+40
+00:02:59,067 --> 00:03:04,000
+este de aproximativ
+10^29.
+
+41
+00:03:04,000 --> 00:03:07,003
+Pentru fiecare atom
+există un electron liber.
+
+42
+00:03:07,003 --> 00:03:10,000
+Există aşadar 10^29
+electroni liberi pe
+
+43
+00:03:10,000 --> 00:03:14,004
+metru cub.
+Imaginaţi-vă că aplic acum o
+
+44
+00:03:14,004 --> 00:03:19,006
+diferenţă de potenţial
+pe un fir de cupru sau pe oricare
+
+45
+00:03:19,006 --> 00:03:24,000
+alt conductor.
+Asupra electronilor se va exercita
+
+46
+00:03:24,000 --> 00:03:28,001
+o forţă egală cu
+sarcina electronilor, e,
+
+47
+00:03:28,001 --> 00:03:30,001
+ori valoarea
+câmpului electric creat,
+
+48
+00:03:30,001 --> 00:03:33,006
+deoarece aplic
+o diferenţă de potenţial.
+
+49
+00:03:33,006 --> 00:03:35,050
+Forţa şi
+şi câmpul electric sunt în
+
+50
+00:03:35,050 --> 00:03:38,017
+direcţii opuse în cazul electronilor,
+dar acestea sunt detalii,
+
+51
+00:03:38,017 --> 00:03:41,073
+mă interesează
+doar valorile.
+
+52
+00:03:41,073 --> 00:03:46,000
+Aceşti elecroni
+vor suferi acum o acceleraţie
+
+53
+00:03:46,000 --> 00:03:48,097
+egală cu raportul dintre forţa
+şi masa electronului.
+
+54
+00:03:48,097 --> 00:03:52,099
+Viteza lor dintre coliziuni
+va creşte.
+
+55
+00:03:52,099 --> 00:03:55,052
+Această viteză poartă numele
+de viteză de drift,
+
+56
+00:03:55,052 --> 00:03:59,062
+egală cu a ori tau,
+mecanică clasică.
+
+57
+00:03:59,062 --> 00:04:04,081
+a-ul este egal cu F împărţit la m_e,
+F-ul îl regăsim în a,
+
+58
+00:04:04,081 --> 00:04:10,006
+obţinem aşadar e ori E
+împărţit la masa electronului
+
+59
+00:04:10,006 --> 00:04:14,007
+ori tau.
+Aceasta este
+
+60
+00:04:14,007 --> 00:04:19,001
+viteza de drift.
+Când câmpul electric
+
+61
+00:04:19,001 --> 00:04:23,006
+creşte, viteza de drift creşte,
+iar electronii se deplasează mai rapid
+
+62
+00:04:23,006 --> 00:04:26,009
+în direcţia 
+opusă curentului.
+
+63
+00:04:26,009 --> 00:04:31,000
+Dacă timpul 
+dintre coliziuni creşte,
+
+64
+00:04:31,000 --> 00:04:35,005
+acceleraţia durează mai mult,
+iar viteza electronilor va fi mai
+
+65
+00:04:35,005 --> 00:04:41,003
+mare,
+ceea ce este intuitiv.
+
+66
+00:04:41,003 --> 00:04:46,049
+Dacă luăm un caz particular,
+şi aplic asupra
+
+67
+00:04:46,049 --> 00:04:58,009
+unui conductor
+de cupru de 10 metri lungime,
+
+68
+00:04:58,009 --> 00:05:07,078
+aplic o diferenţă 
+de potenţial delta V de 10 volţi,
+
+69
+00:05:07,078 --> 00:05:11,052
+atunci câmpul
+electric din interiorul conductorului
+
+70
+00:05:11,052 --> 00:05:16,058
+va fi de aproximativ
+1 volt pe metru.
+
+71
+00:05:16,058 --> 00:05:21,000
+Pot calcula
+viteza de drift
+
+72
+00:05:21,000 --> 00:05:24,005
+pentru
+acest caz particular.
+
+73
+00:05:24,005 --> 00:05:28,004
+Viteza de drift
+a electronilor liberi va fi egală cu
+
+74
+00:05:28,004 --> 00:05:31,005
+sarcina electronului,
+egală cu 1,6 ori
+
+75
+00:05:31,005 --> 00:05:34,002
+10^-19
+coulombi.
+
+76
+00:05:34,002 --> 00:05:37,003
+Câmpul electric E 
+este egal cu 1.
+
+77
+00:05:37,003 --> 00:05:41,000
+Tau este egal cu 3 ori
+10^-14
+
+78
+00:05:41,000 --> 00:05:45,004
+dacă suntem la temperatura camerei,
+iar masa
+
+79
+00:05:45,004 --> 00:05:49,001
+electronului este egală cu
+10^-30 kilograme.
+
+80
+00:05:49,001 --> 00:05:53,008
+Prin urmare, dacă nu am greşit cu nimic,
+găsim că viteza este egală cu 5 ori
+
+81
+00:05:53,008 --> 00:05:59,000
+10^-3 metri pe secundă,
+adică o jumătate de
+
+82
+00:05:59,000 --> 00:06:03,073
+centimetru pe secundă.
+Datorită agitaţiei
+
+83
+00:06:03,073 --> 00:06:07,004
+termice, aceşti electroni liberi
+se deplasează cu un milion de metri pe
+
+84
+00:06:07,004 --> 00:06:10,024
+secundă.
+Dar, datorită acestui câmp electric,
+
+85
+00:06:10,024 --> 00:06:17,003
+avansează foarte lent
+de-a lungul conductorului, precum un melc,
+
+86
+00:06:17,003 --> 00:06:21,000
+cu o vitează medie 
+de o jumătate de centimetru pe secundă.
+
+87
+00:06:21,000 --> 00:06:23,003
+Acest lucru nu este
+deloc intuitiv,
+
+88
+00:06:23,003 --> 00:06:26,004
+dar acesta este adevărul.
+Chiar şi o broască ţestoasă s-ar deplasa
+
+89
+00:06:26,004 --> 00:06:31,005
+mai rapid decât aceşti electroni.
+Pentru a traversa un fir de 10 metri
+
+90
+00:06:31,005 --> 00:06:34,006
+ar avea nevoie de o jumătate de oră.
+Nu v-aţi gândit niciodată
+
+91
+00:06:34,006 --> 00:06:37,005
+la acest lucru,
+că electronii ar necesita
+
+92
+00:06:37,005 --> 00:06:44,004
+o jumătate de oră să 
+traverseze firul dacă aplicăm o diferenţă
+
+93
+00:06:44,004 --> 00:06:50,000
+de potenţial de 10 volţi,
+cupru, 10 metri lungime.
+
+94
+00:06:50,000 --> 00:06:53,001
+Vreau să 
+aprofundez această analiză
+
+95
+00:06:53,001 --> 00:06:56,005
+pentru a vedea dacă
+putem deduce cumva legea lui Ohm,
+
+96
+00:06:56,006 --> 00:06:59,006
+adică o relaţie liniară
+între potenţial şi
+
+97
+00:06:59,006 --> 00:07:08,022
+curent.
+Să începem cu un fir
+
+98
+00:07:08,022 --> 00:07:19,007
+cu o secţiune transversală A
+şi lungime l.
+
+99
+00:07:19,007 --> 00:07:21,004
+Aplicăm o
+diferenţă de potenţial
+
+100
+00:07:21,004 --> 00:07:24,005
+asupra firului
+plus aici şi minus acolo,
+
+101
+00:07:24,005 --> 00:07:28,006
+un potenţial V.
+Obţinem un curent în
+
+102
+00:07:28,006 --> 00:07:30,005
+această direcţie,
+aceasta este definiţia
+
+103
+00:07:30,005 --> 00:07:33,002
+curentului,
+de la plus la minus.
+
+104
+00:07:33,002 --> 00:07:35,008
+Desigur,
+electronii se deplasează în această
+
+105
+00:07:35,008 --> 00:07:40,005
+direcţie
+cu viteza de drift.
+
+106
+00:07:40,005 --> 00:07:42,058
+Câmpul electric din interior,
+îndreptat în această
+
+107
+00:07:42,058 --> 00:07:48,009
+direcţie, este aproximativ 
+egal cu V împărţit la l,
+
+108
+00:07:48,009 --> 00:07:53,028
+raportul dintre
+diferenţa de potenţial şi distanţă.
+
+109
+00:07:57,000 --> 00:08:02,005
+Într-o singură secundă,
+aceşti electroni liberi se vor deplasa
+
+110
+00:08:02,005 --> 00:08:08,001
+de la stânga la dreapta
+cu v_d metri.
+
+111
+00:08:08,001 --> 00:08:11,003
+Dacă luăm o secţiune
+transversală prin acest fir,
+
+112
+00:08:11,003 --> 00:08:14,063
+oriunde, putem calcula
+numărul de electroni ce trec prin acea
+
+113
+00:08:14,063 --> 00:08:19,008
+secţiune transversală într-o secundă.
+Într-o singură secundă,
+
+114
+00:08:19,008 --> 00:08:26,027
+volumul ce trece pe aici
+este egal cu v_d ori A,
+
+115
+00:08:30,001 --> 00:08:33,006
+dar numărul de electroni liberi
+pe metru cub
+
+116
+00:08:33,006 --> 00:08:37,066
+este n, iar acesta este
+numărul de electroni liberi ce
+
+117
+00:08:37,066 --> 00:08:41,000
+trece printr-o secţiune 
+transversală într-un interval de o secundă.
+
+118
+00:08:41,000 --> 00:08:45,034
+Sarcina fiecărui electron este e,
+prin urmare, aceasta este
+
+119
+00:08:45,034 --> 00:08:49,006
+valoarea curentului.
+Desigur, curentul
+
+120
+00:08:49,006 --> 00:08:55,001
+se deplasează în această direcţie,
+dar acestea sunt detalii.
+
+121
+00:08:55,001 --> 00:09:03,003
+Dacă înlocuiesc cu viteza de drift,
+cea de aici,
+
+122
+00:09:03,003 --> 00:09:07,011
+o înlocuiesc acolo,
+curentul va fi
+
+123
+00:09:07,011 --> 00:09:13,002
+egal cu e la pătrat,
+sarcina la pătrat,
+
+124
+00:09:13,002 --> 00:09:17,007
+ori n ori tau,
+la numitor
+
+125
+00:09:17,007 --> 00:09:24,002
+masa electronului,
+totul înmulţit cu A ori
+
+126
+00:09:24,002 --> 00:09:27,004
+câmpul electric E.
+Pentru că avem aici
+
+127
+00:09:27,004 --> 00:09:36,002
+acest câmp electric E.
+Dacă ne uităm aici,
+
+128
+00:09:36,002 --> 00:09:40,009
+raportul depinde doar
+de proprietăţile materialului,
+
+129
+00:09:40,009 --> 00:09:45,002
+pentru o anumită temperatură.
+Acesta poartă
+
+130
+00:09:45,002 --> 00:09:53,074
+numele de σ (sigma),
+conductivitatea electrică.
+
+131
+00:09:53,074 --> 00:10:01,003
+Conductivitatea.
+Putem calcula
+
+132
+00:10:01,003 --> 00:10:05,006
+foarte uşor conductivitatea
+cuprului la
+
+133
+00:10:05,006 --> 00:10:08,002
+temperatura camerei.
+Cunoaştem valoarea
+
+134
+00:10:08,002 --> 00:10:11,000
+lui n, este acolo,
+10^29,
+
+135
+00:10:11,000 --> 00:10:13,069
+îl cunoaştem pe tau 
+la temperatura camerei, 3 ori
+
+136
+00:10:13,069 --> 00:10:18,004
+10^-14.
+Aşadar, pentru cupru
+
+137
+00:10:18,004 --> 00:10:23,002
+la temperatura camerei
+conductivitatea este egală cu
+
+138
+00:10:23,002 --> 00:10:26,003
+10^8.
+Vom vedea şi alte valori pentru
+
+139
+00:10:26,003 --> 00:10:28,043
+σ
+în acest curs.
+
+140
+00:10:28,043 --> 00:10:33,000
+Aceasta este în unităţi SI.
+Pot duce analiza
+
+141
+00:10:33,000 --> 00:10:37,061
+şi mai departe.
+E este egal cu V împărţit la l.
+
+142
+00:10:37,061 --> 00:10:45,001
+Pot scrie curentul
+ca fiind egal cu σ ori A
+
+143
+00:10:45,001 --> 00:10:52,007
+ori V împărţit la l.
+Pot scrie această relaţie
+
+144
+00:10:52,007 --> 00:10:55,004
+puţin diferit.
+Pot spune că V
+
+145
+00:10:55,004 --> 00:11:03,000
+este egal cu l împărţit
+la σ A ori I.
+
+146
+00:11:03,000 --> 00:11:06,004
+Aceasta este 
+legea lui Ohm, fie că vă place
+
+147
+00:11:06,004 --> 00:11:10,094
+fie că nu, pentru că 
+acest raport poartă numele de
+
+148
+00:11:10,094 --> 00:11:18,000
+rezistenţă electrică,
+R.
+
+149
+00:11:18,000 --> 00:11:25,007
+Raportul 1/σ se notează
+adesea cu ρ (rho),
+
+150
+00:11:25,007 --> 00:11:35,000
+ρ fiind rezistivitatea electrică.
+Putem folosi oricare dintre ele.
+
+151
+00:11:35,000 --> 00:11:41,004
+Putem de asemenea scrie
+că V este egal cu I ori R,
+
+152
+00:11:41,004 --> 00:11:48,003
+iar acest R este
+fie l împărţit la σ ori A,
+
+153
+00:11:48,003 --> 00:11:55,002
+fie l ori ρ
+împărţit la A.
+
+154
+00:11:55,002 --> 00:12:03,000
+E acelaşi lucru.
+Unitatea rezistenţei este
+
+155
+00:12:03,000 --> 00:12:09,003
+volt pe amper,
+adică ohm-ul.
+
+156
+00:12:09,003 --> 00:12:18,007
+Unitatea de măsură pentru R este ohm-ul.
+Dacă vrem să aflăm
+
+157
+00:12:18,007 --> 00:12:20,043
+unităţile de măsură
+pentru ρ şi σ,
+
+158
+00:12:20,043 --> 00:12:23,001
+le putem deduce 
+imediat din ecuaţii.
+
+159
+00:12:23,001 --> 00:12:27,000
+Unitatea de măsură
+pentru ρ este aşadar ohm-metru.
+
+160
+00:12:27,000 --> 00:12:32,001
+Am determinat
+rezistenţa în funcţie de
+
+161
+00:12:32,001 --> 00:12:36,001
+dimensiuni,
+adică lungimea şi
+
+162
+00:12:36,001 --> 00:12:39,006
+secţiunea transversală, 
+dar şi în funcţie de legile fizicii
+
+163
+00:12:39,006 --> 00:12:41,009
+la scară microscopică,
+ceea ce
+
+164
+00:12:41,009 --> 00:12:47,001
+este destul de interesant.
+Dacă analizăm rezistenţa,
+
+165
+00:12:47,001 --> 00:12:48,076
+vedem că este
+proporţională cu
+
+166
+00:12:48,076 --> 00:12:53,002
+lungimea firului
+prin care trece curent.
+
+167
+00:12:53,002 --> 00:12:56,008
+Gândiţi-vă că este
+apa printr-o conductă.
+
+168
+00:12:56,008 --> 00:12:59,002
+Dacă facem conducta mai lungă,
+rezistenţa creşte,
+
+169
+00:12:59,002 --> 00:13:01,046
+extrem de 
+intuitiv.
+
+170
+00:13:01,046 --> 00:13:03,040
+Observaţi că avem
+A la numitor.
+
+171
+00:13:03,040 --> 00:13:07,003
+Asta înseamnă că în cazul în care
+conducta este mai groasă
+
+172
+00:13:07,003 --> 00:13:09,007
+deplasarea curentului
+se realizează mai uşor,
+
+173
+00:13:09,007 --> 00:13:11,006
+apa curge
+mai uşor prin conductă.
+
+174
+00:13:11,006 --> 00:13:18,001
+De asemenea intuitiv.
+Legea lui Ohm este
+
+175
+00:13:18,001 --> 00:13:21,009
+de multe ori valabilă pentru izolatori,
+ce nu sunt conductori,
+
+176
+00:13:21,009 --> 00:13:24,009
+chiar dacă am determinat-o
+aici pentru conductori,
+
+177
+00:13:24,009 --> 00:13:27,004
+ce posedă
+electroni liberi.
+
+178
+00:13:27,004 --> 00:13:30,007
+Vom face o
+comparaţie între conductori
+
+179
+00:13:30,007 --> 00:13:35,000
+foarte buni şi
+izolatori foarte buni.
+
+180
+00:13:37,045 --> 00:13:46,067
+Vom începe cu 
+o bucată de material,
+
+181
+00:13:46,067 --> 00:13:51,007
+aria secţiunii transversale A,
+1 milimetru pe 1
+
+182
+00:13:51,007 --> 00:13:59,001
+milimetru, A este atunci
+10^-6 metri pătraţi.
+
+183
+00:14:03,022 --> 00:14:06,033
+Aceasta este bucata
+de material, cu lungimea
+
+184
+00:14:06,033 --> 00:14:15,054
+l egală cu 1 metru.
+Aplicăm o diferenţă de potenţial,
+
+185
+00:14:15,054 --> 00:14:20,031
+aici plus,
+şi aici minus.
+
+186
+00:14:20,031 --> 00:14:24,039
+Curentul se va
+deplasa în această direcţie,
+
+187
+00:14:24,039 --> 00:14:27,064
+electronii se vor deplasa
+în această direcţie.
+
+188
+00:14:27,064 --> 00:14:33,003
+Întrebarea este acum,
+care este valoarea rezistenţei acestei
+
+189
+00:14:33,003 --> 00:14:37,005
+bucăţi de material?
+Păi, e foarte simplu.
+
+190
+00:14:37,005 --> 00:14:39,008
+Aplicăm aceste ecuaţii,
+cunoaştem l-ul şi A-ul,
+
+191
+00:14:39,008 --> 00:14:42,007
+dacă vă dau valoarea lui σ,
+puteţi calcula
+
+192
+00:14:42,007 --> 00:14:44,007
+imediat
+valoarea rezistenţei.
+
+193
+00:14:44,007 --> 00:14:50,035
+Să luăm pentru început
+un conductor bun.
+
+194
+00:14:50,035 --> 00:14:54,008
+Argintul, aurul
+şi cuprul sunt
+
+195
+00:14:54,008 --> 00:14:59,000
+conductori foarte buni.
+Valorile σ pentru aceste
+
+196
+00:14:59,000 --> 00:15:02,009
+materiale sunt de 10^8,
+tocmai am calculat σ pentru cupru,
+
+197
+00:15:02,009 --> 00:15:05,003
+tocmai
+aţi văzut asta.
+
+198
+00:15:05,003 --> 00:15:09,006
+Asta înseamnă că
+ρ va fi egal cu 10^-8,
+
+199
+00:15:09,006 --> 00:15:14,009
+adică 1/σ.
+În acest caz particular aşadar,
+
+200
+00:15:14,009 --> 00:15:25,008
+din moment ce A este egal cu 10^-6,
+rezistenţa R este pur şi simplu
+
+201
+00:15:25,008 --> 00:15:29,007
+egală cu 
+10^6 ori ρ.
+
+202
+00:15:29,007 --> 00:15:33,009
+Pentru că l este 1 metru.
+Este foarte simplu aşadar.
+
+203
+00:15:33,009 --> 00:15:39,001
+Prin urmare, rezistenţa 
+este egală cu 10^-2 ohmi.
+
+204
+00:15:39,001 --> 00:15:42,001
+0,01 ohmi,
+dacă acest material ar fi
+
+205
+00:15:42,001 --> 00:15:45,003
+cupru.
+Să considerăm acum un izolator
+
+206
+00:15:45,003 --> 00:15:49,034
+foarte bun.
+Un exemplu este sticla.
+
+207
+00:15:49,034 --> 00:15:54,071
+Cuarţul, porţelanul,
+foarte buni izolatori.
+
+208
+00:15:54,071 --> 00:16:00,002
+De data aceasta,
+conductivitatea, σ, este extrem de mică.
+
+209
+00:16:00,002 --> 00:16:03,004
+Aceasta variază între 
+10^-12 şi
+
+210
+00:16:03,004 --> 00:16:07,008
+10^-16.
+Rezistivitatea, ρ,
+
+211
+00:16:07,008 --> 00:16:11,000
+este aproximativ
+între
+
+212
+00:16:11,000 --> 00:16:14,009
+10^12 şi 10^16.
+Dacă luăm de exemplu
+
+213
+00:16:14,009 --> 00:16:17,004
+10^14, 
+aleg pur şi simplu
+
+214
+00:16:17,004 --> 00:16:23,003
+o valoare,
+atunci R este egal cu
+
+215
+00:16:23,003 --> 00:16:29,001
+10^20 ohmi.
+Un unu urmat de 20 de zerouri.
+
+216
+00:16:29,001 --> 00:16:31,047
+O rezistenţă enormă.
+Vedeţi aşadar o diferenţă
+
+217
+00:16:31,047 --> 00:16:34,006
+de 22 de ordine de mărime
+între un conductor
+
+218
+00:16:34,006 --> 00:16:39,001
+bun şi un izolator bun.
+Dacă diferenţa de
+
+219
+00:16:39,001 --> 00:16:43,045
+potenţial asupra firului
+este de un volt,
+
+220
+00:16:43,045 --> 00:16:47,063
+şi aplic legea lui Ohm,
+V egal cu I ori R,
+
+221
+00:16:47,063 --> 00:16:52,059
+pot calcula şi valoarea curentului
+ce se va deplasa prin fir.
+
+222
+00:16:52,059 --> 00:16:57,001
+Dacă I ori R este unu,
+atunci acest curent este egal cu
+
+223
+00:16:57,001 --> 00:17:00,072
+100 de amperi,
+iar acest curent este egal cu
+
+224
+00:17:00,072 --> 00:17:06,007
+10^-20 amperi,
+un curent infim,
+
+225
+00:17:06,007 --> 00:17:11,003
+10^-20
+amperi.
+
+226
+00:17:15,005 --> 00:17:23,059
+Vreau să vă demonstrez 
+că legea lui Ohm este doar câteodată
+
+227
+00:17:23,059 --> 00:17:29,000
+valabilă,
+voi realiza un experiment
+
+228
+00:17:29,000 --> 00:17:35,020
+în care avem o sursă de tensiune,
+pun un V aici,
+
+229
+00:17:35,020 --> 00:17:39,001
+iar tensiunea variază
+în decurs de câteva secunde de la
+
+230
+00:17:39,001 --> 00:17:46,006
+zero la patru volţi.
+Aici este borna pozitivă,
+
+231
+00:17:46,006 --> 00:17:52,004
+aici este borna negativă.
+O conectez la un
+
+232
+00:17:52,004 --> 00:17:57,000
+rezistor de 50 Ω --
+folosim acest simbol pentru
+
+233
+00:17:57,000 --> 00:18:03,003
+rezistori --
+şi aici avem un ampermetru.
+
+234
+00:18:03,003 --> 00:18:05,073
+Rezistenţa
+ampermetrului este neglijabilă,
+
+235
+00:18:05,073 --> 00:18:09,007
+o putem ignora.
+Folosind un osciloscop --
+
+236
+00:18:09,007 --> 00:18:12,002
+nu am discutat
+până acum de osciloscoape,
+
+237
+00:18:12,002 --> 00:18:15,006
+dar poate în viitor vom discuta
+-- vă voi arăta
+
+238
+00:18:15,006 --> 00:18:18,009
+graficul tensiune-curent,
+unde tensiunea
+
+239
+00:18:18,009 --> 00:18:22,004
+merge de la 
+zero la patru.
+
+240
+00:18:22,004 --> 00:18:25,006
+Va porni de aici,
+iar în momentul în care ajunge la patru
+
+241
+00:18:25,006 --> 00:18:31,004
+volţi, 
+curentul va fi egal cu patru
+
+242
+00:18:31,004 --> 00:18:35,004
+împărţit la 50,
+conform legii lui Ohm.
+
+243
+00:18:35,004 --> 00:18:38,002
+Notez aici 
+cei 4/50 amperi,
+
+244
+00:18:38,002 --> 00:18:40,041
+adică
+0,08 amperi.
+
+245
+00:18:40,041 --> 00:18:43,006
+Dacă legea lui Ohm este valabilă,
+vom vedea o linie
+
+246
+00:18:43,006 --> 00:18:46,000
+dreaptă.
+Aceasta este ideea
+
+247
+00:18:46,000 --> 00:18:49,002
+legii lui Ohm, 
+că diferenţa de potenţial este direct
+
+248
+00:18:49,002 --> 00:18:52,000
+proporţională cu valoarea curentului.
+Dublăm diferenţa
+
+249
+00:18:52,000 --> 00:18:55,051
+de potenţial,
+curentul se dublează.
+
+250
+00:18:58,002 --> 00:19:03,009
+Să facem acesta experiment,
+să vedem acest grafic,
+
+251
+00:19:03,009 --> 00:19:07,006
+îl veţi vedea acolo --
+trebuie să ajustez
+
+252
+00:19:07,006 --> 00:19:15,004
+lumina că să-l
+puteţi vedea mai bine --
+
+253
+00:19:15,004 --> 00:19:19,000
+oh, funcţionează deja.
+Pe orizontală
+
+254
+00:19:19,000 --> 00:19:21,042
+avem curentul,
+iar pe verticală
+
+255
+00:19:21,042 --> 00:19:25,000
+avem tensiunea.
+Durează aproximativ o secundă
+
+256
+00:19:25,000 --> 00:19:29,060
+de la zero la 
+patru volţi,
+
+257
+00:19:29,060 --> 00:19:32,095
+şi vedeţi liniaritatea
+perfectă a curentului.
+
+258
+00:19:32,095 --> 00:19:35,003
+O blochez, oh, nu
+este reflexia mea,
+
+259
+00:19:35,003 --> 00:19:39,003
+interesant.
+Legea lui Ohm nu permite
+
+260
+00:19:39,003 --> 00:19:41,005
+aşa ceva.
+Vedeţi ce linie perfectă
+
+261
+00:19:41,005 --> 00:19:44,000
+am obţinut.
+S-ar putea ca acum să aveţi
+
+262
+00:19:44,000 --> 00:19:49,005
+încredere absolută în legea lui Ohm.
+Să nu aveţi deloc încredere în
+
+263
+00:19:49,005 --> 00:19:58,002
+legea lui Ohm!
+Conductivitatea, σ,
+
+264
+00:19:58,002 --> 00:20:01,004
+depinde 
+puternic de temperatură.
+
+265
+00:20:01,004 --> 00:20:06,023
+Dacă mărim temperatura,
+durata de timp, tau,
+
+266
+00:20:06,023 --> 00:20:09,049
+dintre coliziuni, scade,
+pentru că viteza acestor electroni
+
+267
+00:20:09,049 --> 00:20:13,001
+liberi creşte.
+Depinde puternic
+
+268
+00:20:13,001 --> 00:20:19,002
+de temperatură.
+Dacă tau scade,
+
+269
+00:20:19,002 --> 00:20:23,034
+atunci, evident, 
+şi conductivitatea
+
+270
+00:20:23,034 --> 00:20:27,002
+va scădea.
+Asta înseamnă că ρ va creşte.
+
+271
+00:20:27,002 --> 00:20:30,003
+Rezistenţa va creşte prin urmare.
+Aşadar, încălzirea unei
+
+272
+00:20:30,003 --> 00:20:33,002
+substanţe duce la 
+creşterea rezistenţei acesteia.
+
+273
+00:20:33,002 --> 00:20:37,002
+O temperatură mai mare,
+o rezistenţă mai mare.
+
+274
+00:20:37,002 --> 00:20:44,004
+În momentul în care
+rezistenţa R depinde de temperatură,
+
+275
+00:20:44,004 --> 00:20:50,001
+numesc acest lucru 
+sfârşitul legii „V egal I ori R”,
+
+276
+00:20:50,001 --> 00:20:54,003
+sfârşitul legii lui Ohm.
+Dacă vă uitaţi în carte,
+
+277
+00:20:54,003 --> 00:20:56,045
+aceasta spune,
+„Oh, nu, nu, nu, asta nu înseamnă
+
+278
+00:20:56,045 --> 00:20:59,003
+că legea nu e valabilă.
+Trebuie doar să ajustăm
+
+279
+00:20:59,003 --> 00:21:02,004
+rezistenţa pentru 
+o temperatură diferită”. Păi,
+
+280
+00:21:02,004 --> 00:21:08,002
+da, un mod patetic
+da a salva o lege
+
+281
+00:21:08,002 --> 00:21:11,008
+foarte proastă.
+Pentru că temperatura însăşi
+
+282
+00:21:11,008 --> 00:21:14,001
+depinde de curent,
+cu cât curentul este mai mare,
+
+283
+00:21:14,001 --> 00:21:17,004
+cu atât temperatura este mai mare.
+Avem acum un raport,
+
+284
+00:21:17,004 --> 00:21:22,000
+V împărţit la I,
+ce nu mai este constant.
+
+285
+00:21:22,000 --> 00:21:25,001
+Depinde 
+de curent.
+
+286
+00:21:25,001 --> 00:21:29,091
+Acesta este sfârşitul legii lui Ohm.
+Vreau acum să vă arăt că,
+
+287
+00:21:29,091 --> 00:21:34,001
+dacă repet experimentul anterior,
+dar înlocuiesc
+
+288
+00:21:34,001 --> 00:21:37,008
+rezistorul cu un bec de 50 Ω,
+un bec foarte
+
+289
+00:21:37,008 --> 00:21:42,008
+mic, când e cald,
+rezistenţa acestuia este de 50 Ω,
+
+290
+00:21:42,008 --> 00:21:46,001
+iar când e rece,
+este egală cu 7 Ω.
+
+291
+00:21:46,001 --> 00:21:51,019
+R_rece pentru bec
+este aproximativ 7 Ω, cred,
+
+292
+00:21:51,019 --> 00:21:55,000
+dar când este cald,
+rezistenţa este foarte apropiată de
+
+293
+00:21:55,000 --> 00:21:59,006
+50 Ω.
+Cred că este puţin mai mică.
+
+294
+00:21:59,006 --> 00:22:03,007
+La ce să ne aşteptăm acum?
+Păi, acum,
+
+295
+00:22:03,007 --> 00:22:06,007
+când iniţial
+rezistenţa este mică,
+
+296
+00:22:06,007 --> 00:22:09,005
+obţinem asta,
+iar când rezistenţa
+
+297
+00:22:09,005 --> 00:22:12,002
+creşte,
+vom obţine asta.
+
+298
+00:22:12,002 --> 00:22:14,005
+Curentul final s-ar putea 
+să fie mai mare, întrucât cred că
+
+299
+00:22:14,005 --> 00:22:17,040
+rezistenţa este 
+ceva mai mică de 50 Ω.
+
+300
+00:22:17,040 --> 00:22:21,005
+O astfel de curbă
+nu mai este liniară.
+
+301
+00:22:21,005 --> 00:22:26,004
+Acesta este sfârşitul legii lui Ohm.
+Asta e ceea ce vreau
+
+302
+00:22:26,004 --> 00:22:29,002
+să vă arăt.
+Am
+
+303
+00:22:29,002 --> 00:22:31,004
+aici acest bec mic,
+cei care staţi
+
+304
+00:22:31,004 --> 00:22:35,001
+în faţă,
+îl puteţi vedea cum se aprinde,
+
+305
+00:22:35,001 --> 00:22:38,001
+dar nu asta e important.
+Vreau să vedeţi că graficul
+
+306
+00:22:38,001 --> 00:22:42,001
+tensiune-curent nu mai este liniar.
+Iată.
+
+307
+00:22:42,001 --> 00:22:44,000
+De fiecare
+dată când becul
+
+308
+00:22:44,000 --> 00:22:48,002
+se aprinde, se încălzeşte,
+şi în timpul încălzirii
+
+309
+00:22:48,002 --> 00:22:51,009
+rezistenţa
+acestuia creşte.
+
+310
+00:22:51,009 --> 00:22:54,001
+Acesta este sfârşitul
+legii lui Ohm, pentru acest bec
+
+311
+00:22:54,001 --> 00:22:56,000
+cel puţin.
+Era valabilă pentru celălalt
+
+312
+00:22:56,000 --> 00:23:00,001
+rezistor,
+dar nu şi pentru acest bec.
+
+313
+00:23:10,004 --> 00:23:12,032
+Mai există 
+o metodă prin care vă pot
+
+314
+00:23:12,032 --> 00:23:21,004
+arăta că legea lui Ohm
+nu stă prea bine.
+
+315
+00:23:21,004 --> 00:23:26,064
+Am o sursă de tensiune
+de 125 de volţi,
+
+316
+00:23:26,064 --> 00:23:31,009
+V este egal cu 125 de volţi,
+aceasta este diferenţa
+
+317
+00:23:31,009 --> 00:23:38,006
+de potenţial, şi am un bec,
+îl vedeţi aici,
+
+318
+00:23:38,006 --> 00:23:44,076
+acesta este becul.
+Rece, rezistenţa becului
+
+319
+00:23:44,076 --> 00:23:46,087
+este de 
+25 Ω,
+
+320
+00:23:46,087 --> 00:23:54,000
+iar cald, 
+este de aproximativ 250 Ω.
+
+321
+00:23:54,000 --> 00:24:02,002
+O diferenţă uriaşă.
+În cazul
+
+322
+00:24:02,002 --> 00:24:06,000
+rezistenţei reci
+obţin un curent de 5 amperi,
+
+323
+00:24:06,000 --> 00:24:08,010
+dar pe măsură 
+ce becul devine fierbinte, curentul
+
+324
+00:24:08,010 --> 00:24:11,005
+scade la o jumătate de amper.
+O diferenţă imensă.
+
+325
+00:24:11,005 --> 00:24:16,006
+Folosind din nou osciloscopul,
+vreau să vă arăt
+
+326
+00:24:16,006 --> 00:24:20,000
+graficul curentului
+în funcţie de timp.
+
+327
+00:24:20,000 --> 00:24:24,004
+Când porniţi un bec,
+dacă legea lui Ohm
+
+328
+00:24:24,004 --> 00:24:27,005
+este valabilă,
+când daţi drumul
+
+329
+00:24:27,005 --> 00:24:31,002
+la curent, 
+sau la tensiune mai bine zis,
+
+330
+00:24:31,002 --> 00:24:36,004
+v-aţi aştepta să vedeţi asta.
+Aceştia sunt cei 5 amperi.
+
+331
+00:24:36,004 --> 00:24:39,007
+V-aţi aştepta să rămână acolo.
+Aceasta e ideea.
+
+332
+00:24:39,007 --> 00:24:42,004
+Şi anume, că raportul
+tensiune curent este
+
+333
+00:24:42,004 --> 00:24:45,008
+constant.
+Totuşi, veţi
+
+334
+00:24:45,008 --> 00:24:48,007
+vedea aşa ceva.
+Curentul creşte,
+
+335
+00:24:48,007 --> 00:24:51,006
+dar rezistenţa
+creşte apoi,
+
+336
+00:24:51,006 --> 00:24:54,002
+când curentul creşte,
+rezistenţa creşte,
+
+337
+00:24:54,002 --> 00:24:56,008
+prin urmare, 
+curentul va descreşte,
+
+338
+00:24:56,008 --> 00:24:59,002
+şi se va stabiliza 
+la un nivel mult sub
+
+339
+00:24:59,002 --> 00:25:01,000
+acesta.
+Aceasta este
+
+340
+00:25:01,000 --> 00:25:06,001
+dovada că legea lui Ohm
+nu este valabilă.
+
+341
+00:25:06,001 --> 00:25:10,009
+Vă voi arăta
+acest lucru acum.
+
+342
+00:25:17,058 --> 00:25:22,001
+Avem nevoie de 
+125 de volţi, vedeţi
+
+343
+00:25:22,001 --> 00:25:26,007
+acolo becul.
+La închiderea acestui întrerupător,
+
+344
+00:25:26,007 --> 00:25:30,002
+veţi vedea graficul
+curent-tensiune,
+
+345
+00:25:30,002 --> 00:25:34,025
+îl veţi vedea doar odată,
+pentru că îl vom îngheţa pe osciloscop.
+
+346
+00:25:36,040 --> 00:25:39,057
+Fiţi atenţi.
+Iată-l.
+
+347
+00:25:39,057 --> 00:25:42,006
+Ignoraţi aceste 
+ondulaţii ce le vedeţi,
+
+348
+00:25:42,006 --> 00:25:44,040
+ele se datorează
+modului de producere al celor
+
+349
+00:25:44,040 --> 00:25:47,000
+125 de volţi.
+Pe orizontală
+
+350
+00:25:47,000 --> 00:25:49,004
+avem timpul,
+timpul dintre două
+
+351
+00:25:49,004 --> 00:25:52,005
+linii verticale adiacente
+este de 20 de milisecunde.
+
+352
+00:25:52,005 --> 00:25:54,006
+Într-adevăr,
+curentul
+
+353
+00:25:54,006 --> 00:25:57,004
+a crescut iniţial
+la o valoare foarte mare.
+
+354
+00:25:57,004 --> 00:26:01,005
+Filamentul se încălzeşte apoi
+ducând la creşterea rezistenţei
+
+355
+00:26:01,005 --> 00:26:03,006
+becului,
+iar curentul scade
+
+356
+00:26:03,006 --> 00:26:06,004
+apoi.
+Din extremitatea stângă în extremitatea
+
+357
+00:26:06,004 --> 00:26:10,006
+dreaptă a ecranului
+sunt aproximativ 200 de milisecunde.
+
+358
+00:26:10,006 --> 00:26:13,003
+Asta înseamnă
+0,2 secunde.
+
+359
+00:26:13,003 --> 00:26:16,000
+Valoarea curentului final
+este mult mai mică decât
+
+360
+00:26:16,000 --> 00:26:20,004
+a curentului iniţial.
+Aceasta este o încălcare a legii
+
+361
+00:26:20,004 --> 00:26:28,078
+lui Ohm.
+De fapt, este foarte bine că
+
+362
+00:26:28,078 --> 00:26:32,005
+rezistenţa becurilor
+creşte
+
+363
+00:26:32,005 --> 00:26:35,006
+la creşterea temperaturii,
+pentru că, să presupunem
+
+364
+00:26:35,006 --> 00:26:38,003
+că ar fi exact invers.
+Să presupunem că pornim
+
+365
+00:26:38,003 --> 00:26:41,001
+un bec, 
+iar rezistenţa descreşte.
+
+366
+00:26:41,001 --> 00:26:43,009
+Becul se încălzeşte,
+rezistenţa descreşte,
+
+367
+00:26:43,009 --> 00:26:46,001
+asta înseamnă un curent mai mare,
+şi nu mai mic,
+
+368
+00:26:46,001 --> 00:26:48,007
+curentul creşte. Asta înseamnă 
+că becul se încălzeşte şi mai tare.
+
+369
+00:26:48,007 --> 00:26:51,003
+Rezistenţa 
+va scădea şi mai mult.
+
+370
+00:26:51,003 --> 00:26:53,003
+Curentul va creşte
+şi mai mult.
+
+371
+00:26:53,003 --> 00:26:55,003
+Asta ar înseamna că
+de fiecare dată când am porni
+
+372
+00:26:55,003 --> 00:26:57,004
+un bec,
+ar exploda
+
+373
+00:26:57,004 --> 00:27:00,002
+pe loc.
+Acest lucru nu se întâmplă.
+
+374
+00:27:00,002 --> 00:27:02,007
+Este chiar invers.
+Într-un fel,
+
+375
+00:27:02,007 --> 00:27:04,008
+avem noroc 
+că rezistenţa creşte
+
+376
+00:27:04,008 --> 00:27:11,027
+odată cu încălzirea becului.
+Bine.
+
+377
+00:27:11,027 --> 00:27:20,004
+Să analizăm
+acum câteva reţele de
+
+378
+00:27:20,004 --> 00:27:28,003
+rezistori,
+veţi avea şi câteva probleme de rezolvat.
+
+379
+00:27:28,003 --> 00:27:32,003
+În naivitatea noastră, vom 
+presupune că legea lui Ohm este valabilă.
+
+380
+00:27:32,003 --> 00:27:34,003
+Cu alte cuvinte,
+vom presupune că
+
+381
+00:27:34,003 --> 00:27:40,000
+valorile rezistenţelor utilizate
+nu se vor modifica niciodată.
+
+382
+00:27:40,000 --> 00:27:45,007
+Vom presupune aşadar că,
+căldura produsă nu va juca
+
+383
+00:27:45,007 --> 00:27:50,009
+niciun rol.
+Vom aplica pentru moment legea
+
+384
+00:27:50,009 --> 00:27:54,009
+lui Ohm şi vom sublinia
+cazurile în care
+
+385
+00:27:54,009 --> 00:27:59,002
+nu o putem aplica.
+Să presupunem că
+
+386
+00:27:59,002 --> 00:28:07,000
+între punctele A şi B
+avem doi rezistori,
+
+387
+00:28:07,000 --> 00:28:13,003
+R1 şi R2.
+Aplicăm o diferenţă
+
+388
+00:28:13,003 --> 00:28:18,003
+de potenţial între A şi B,
+aici este plus,
+
+389
+00:28:18,003 --> 00:28:20,046
+şi aici minus.
+Diferenţa de potenţial este
+
+390
+00:28:20,046 --> 00:28:24,005
+V.
+Cunoaştem V-ul,
+
+391
+00:28:24,005 --> 00:28:26,007
+valoarea
+lui V este dată.
+
+392
+00:28:26,007 --> 00:28:30,005
+Cunoaştem valorile
+celor două rezistenţe.
+
+393
+00:28:30,005 --> 00:28:34,000
+Întrebarea este,
+care este valoarea
+
+394
+00:28:34,000 --> 00:28:38,032
+curentului?
+Pot să vă mai întreb
+
+395
+00:28:38,032 --> 00:28:41,009
+care este diferenţa
+de potenţial la bornele acestui
+
+396
+00:28:41,009 --> 00:28:44,005
+rezistor,
+notată cu V1, şi
+
+397
+00:28:44,005 --> 00:28:47,069
+care este diferenţa de potenţial 
+la bornele rezistorului al doilea,
+
+398
+00:28:47,069 --> 00:28:53,001
+notată cu V2?
+O întrebare directă.
+
+399
+00:28:53,001 --> 00:28:56,004
+Aplicăm
+legea lui Ohm.
+
+400
+00:28:56,004 --> 00:28:58,086
+Între punctele A şi B
+avem doi rezistori
+
+401
+00:28:58,086 --> 00:29:03,005
+în serie.
+Curentul trebuie să se deplaseze
+
+402
+00:29:03,005 --> 00:29:07,005
+aşadar prin ambii.
+Diferenţa de potenţial
+
+403
+00:29:07,005 --> 00:29:12,001
+V, în legea lui Ohm,
+este egală cu valoarea curentului total ori
+
+404
+00:29:12,001 --> 00:29:18,007
+R1 plus R2.
+Să presupunem că aceşti doi rezistori
+
+405
+00:29:18,007 --> 00:29:21,002
+sunt identici,
+aceeaşi lungime,
+
+406
+00:29:21,002 --> 00:29:24,005
+aceeaşi secţiune transversală.
+Dacă îi legăm în serie,
+
+407
+00:29:24,005 --> 00:29:28,002
+avem o lungime dublă.
+Dacă dublăm lungimea,
+
+408
+00:29:28,002 --> 00:29:30,006
+ţineţi minte, rezistenţa
+este direct proporţională cu
+
+409
+00:29:30,006 --> 00:29:35,001
+lungimea firului.
+Prin urmare, trebuie să le adunăm.
+
+410
+00:29:35,001 --> 00:29:38,007
+Îl ştim pe R1,
+îl ştim pe R2 şi ştim V,
+
+411
+00:29:38,007 --> 00:29:41,085
+şi putem afla deja curentul,
+foarte simplu.
+
+412
+00:29:41,085 --> 00:29:45,068
+Putem de asemenea aplica
+legea lui Ohm
+
+413
+00:29:45,068 --> 00:29:51,002
+doar pentru acest rezistor.
+Obţinem că V1
+
+414
+00:29:51,002 --> 00:29:54,009
+este egal cu I ori R1.
+Avem acum căderea de tensiune
+
+415
+00:29:54,009 --> 00:29:56,008
+pe acest rezistor.
+Desigur,
+
+416
+00:29:56,008 --> 00:30:01,005
+V2 trebuie să fie egal 
+cu I ori R2.
+
+417
+00:30:01,005 --> 00:30:03,003
+Cu asta 
+am rezolvat problema.
+
+418
+00:30:03,003 --> 00:30:10,001
+Am răspuns
+la toate întrebările.
+
+419
+00:30:10,001 --> 00:30:15,004
+Putem modifica
+puţin problema.
+
+420
+00:30:15,004 --> 00:30:19,007
+Punctul A este aici,
+dar acum avem un rezistor
+
+421
+00:30:19,007 --> 00:30:24,005
+aici,
+R1,
+
+422
+00:30:24,005 --> 00:30:28,000
+şi unul aici,
+R2.
+
+423
+00:30:28,000 --> 00:30:32,001
+Acesta este punctul B,
+şi acesta este R2.
+
+424
+00:30:32,001 --> 00:30:34,005
+Cunoaştem
+diferenţa de
+
+425
+00:30:34,005 --> 00:30:41,007
+potenţial, V, iar întrebarea este,
+care este valoarea acestui
+
+426
+00:30:41,007 --> 00:30:46,003
+curent?
+De asemenea,
+
+427
+00:30:46,003 --> 00:30:49,009
+care este curentul
+prin rezistorul unu,
+
+428
+00:30:49,009 --> 00:30:52,000
+şi care 
+este curentul prin
+
+429
+00:30:52,000 --> 00:30:57,000
+rezistorul doi?
+Presupunem că putem aplica
+
+430
+00:30:57,000 --> 00:31:01,003
+legea lui Ohm.
+Veţi spune,
+
+431
+00:31:01,003 --> 00:31:03,078
+„Aha!
+Diferenţa de potenţial dintre A
+
+432
+00:31:03,078 --> 00:31:08,004
+şi B,
+pe această ramură,
+
+433
+00:31:08,004 --> 00:31:16,000
+este egală cu V-ul dat.
+V trebuie să fie egal cu I1 ori R1.
+
+434
+00:31:16,000 --> 00:31:21,008
+Legea lui Ohm
+pentru ramura de sus.
+
+435
+00:31:21,008 --> 00:31:23,042
+Dar, desigur,
+putem analiza şi ramura
+
+436
+00:31:23,042 --> 00:31:29,004
+de jos.
+Acelaşi V este de asemenea egal cu I2
+
+437
+00:31:29,004 --> 00:31:35,076
+ori R2.
+Dar curentul care intră pe aici
+
+438
+00:31:35,076 --> 00:31:41,000
+trebuie să se despartă pe cele două ramuri,
+gândiţi-vă că este apă.
+
+439
+00:31:41,000 --> 00:31:45,004
+Nu putem scăpa de sarcini.
+Numărul de sarcini
+
+440
+00:31:45,004 --> 00:31:49,000
+ce se intră în această articulaţie,
+trebuie să treacă mai departe.
+
+441
+00:31:49,000 --> 00:31:54,068
+Prin urmare, curentul total I,
+este egal cu I1 plus I2.
+
+442
+00:31:54,068 --> 00:31:58,001
+Avem
+acum toate
+
+443
+00:31:58,001 --> 00:32:01,009
+datele necesare
+pentru aflarea
+
+444
+00:32:01,009 --> 00:32:06,045
+curentului I1
+şi a curentului I2.
+
+445
+00:32:06,045 --> 00:32:10,006
+Putem crea o adevărată industrie,
+putem realiza reţele de rezistori
+
+446
+00:32:10,006 --> 00:32:14,067
+extrem de complicate.
+În
+
+447
+00:32:14,067 --> 00:32:19,095
+cursul 6, pe care îl veţi îndrăgi
+-- mie nu-mi place deloc,
+
+448
+00:32:19,095 --> 00:32:22,034
+nu vă faceţi griji,
+nu veţi vedea
+
+449
+00:32:22,034 --> 00:32:24,055
+reţele foarte
+complicate de rezistori
+
+450
+00:32:24,055 --> 00:32:27,006
+de la mine 
+-- dar în cursul 6, veţi vedea
+
+451
+00:32:27,006 --> 00:32:32,026
+o groază.
+Vi le vor băga pe gât.
+
+452
+00:32:39,001 --> 00:32:42,028
+Conductivitatea unei 
+substanţe
+
+453
+00:32:42,028 --> 00:32:47,002
+creşte dacă
+putem creşte numărul de purtători
+
+454
+00:32:47,002 --> 00:32:55,059
+de sarcină.
+Pentru aer uscat
+
+455
+00:32:55,059 --> 00:33:01,007
+şi rece 
+la o atmosferă,
+
+456
+00:33:01,007 --> 00:33:06,003
+unde rece
+înseamnă temperatura camerei,
+
+457
+00:33:06,003 --> 00:33:20,037
+rezistivitatea, ρ,
+este aproximativ egală cu 4 ori
+
+458
+00:33:20,037 --> 00:33:31,084
+10^13.
+Aceasta este rezistivitatea aerului.
+
+459
+00:33:31,084 --> 00:33:35,007
+Este cam aceeaşi cu
+cea din această încăpere, poate puţin
+
+460
+00:33:35,007 --> 00:33:38,033
+mai mică,
+pentru că temperatura este puţin mai mare.
+
+461
+00:33:38,033 --> 00:33:45,004
+Dacă încălzesc aerul,
+atunci conductivitatea
+
+462
+00:33:45,004 --> 00:33:49,006
+va creşte.
+Rezistivitatea va scădea,
+
+463
+00:33:49,006 --> 00:33:52,001
+pentru că acum
+creez ioni de oxigen şi
+
+464
+00:33:52,001 --> 00:33:56,003
+azot prin încălzirea aerului.
+Ţineţi minte că în cazul
+
+465
+00:33:56,003 --> 00:33:59,006
+fulgerului,
+descărcarea preliminară crează
+
+466
+00:33:59,006 --> 00:34:05,002
+un canal plin de ioni şi de electroni,
+cu o rezistivitatea foarte
+
+467
+00:34:05,002 --> 00:34:09,019
+mică,
+o conductivitate foarte mare.
+
+468
+00:34:09,019 --> 00:34:12,001
+Ceea ce vreau
+să vă demonstrez,
+
+469
+00:34:12,001 --> 00:34:18,007
+este că atunci când creez 
+ioni în această sală, pot creşte
+
+470
+00:34:18,007 --> 00:34:22,002
+enorm de mult
+conductivitatea aerului.
+
+471
+00:34:22,002 --> 00:34:25,009
+Nu doar electroni se vor deplasa acum,
+ci vor începe
+
+472
+00:34:25,009 --> 00:34:30,030
+să se deplaseze şi ionii.
+Voi realiza acest lucru
+
+473
+00:34:30,030 --> 00:34:37,000
+prin amplasarea 
+unei sarcini pe electroscop -- oh,
+
+474
+00:34:37,000 --> 00:34:40,003
+asta nu e bine --
+nu s-a întâmplat nimic.
+
+475
+00:34:40,003 --> 00:34:43,062
+Vom amplasa
+sarcină pe electroscop,
+
+476
+00:34:43,062 --> 00:34:50,007
+şi veţi observa că conductivitatea
+aerului este atât de slabă
+
+477
+00:34:50,007 --> 00:34:55,005
+încât sarcinile
+vor sta acolo cu orele.
+
+478
+00:34:59,005 --> 00:35:02,001
+Apoi,
+voi crea ioni în
+
+479
+00:35:02,001 --> 00:35:07,003
+vecinătatea electroscopului.
+Dar să punem prima dată nişte sarcină
+
+480
+00:35:07,003 --> 00:35:14,067
+pe electroscop.
+Am aici o baghetă de sticlă
+
+481
+00:35:14,067 --> 00:35:24,001
+pe care voi pune nişte sarcină.
+E suficientă.
+
+482
+00:35:26,003 --> 00:35:33,004
+Aerul este uscat,
+conductivitatea este foarte,
+
+483
+00:35:33,004 --> 00:35:38,009
+foarte mică, 
+iar sarcina nu se poate deplasa prin aer
+
+484
+00:35:38,009 --> 00:35:41,003
+şi în împrejurimi,
+spre pământ.
+
+485
+00:35:41,003 --> 00:35:44,007
+Dar acum voi crea
+acolo ioni, prin încălzire,
+
+486
+00:35:44,007 --> 00:35:48,001
+şi voi folosi o lumânare pentru asta,
+pentru că o lumânare este
+
+487
+00:35:48,001 --> 00:35:51,006
+foarte romantică,
+după cum ştim.
+
+488
+00:35:51,006 --> 00:35:56,007
+Aici este lumânarea  --
+uitaţi ce bine se simte
+
+489
+00:35:56,007 --> 00:36:00,065
+sarcina, eh?
+-- aceasta e lumânarea.
+
+490
+00:36:00,065 --> 00:36:04,005
+Voi aduce lumânarea la o 
+distanţă de aproximativ 20 de centimetri
+
+491
+00:36:04,005 --> 00:36:08,003
+de electroscop.
+Uitaţi-vă la ea,
+
+492
+00:36:08,003 --> 00:36:11,006
+deja se împrăştie.
+Este la aproximativ 15
+
+493
+00:36:11,006 --> 00:36:15,001
+centimetri.
+Îndepărtez lumânarea,
+
+494
+00:36:15,001 --> 00:36:18,061
+şi se opreşte din nou.
+Toate aceste lucruri se datorează faptului
+
+495
+00:36:18,061 --> 00:36:22,061
+că ionizez aerul,
+creând electroni liberi precum
+
+496
+00:36:22,061 --> 00:36:26,001
+şi ioni, şi ambii participă 
+acum la formarea curentului.
+
+497
+00:36:26,001 --> 00:36:29,005
+Sarcina se poate deplasa
+dinspre electroscop, prin
+
+498
+00:36:29,005 --> 00:36:32,005
+pământ, pentru că 
+conductivitatea este acum cu mult mai
+
+499
+00:36:32,005 --> 00:36:35,001
+mare.
+O îndepărtez din nou,
+
+500
+00:36:35,001 --> 00:36:38,007
+şi se opreşte.
+Vedeţi cu ochii voştri
+
+501
+00:36:38,007 --> 00:36:45,001
+cât de importantă
+este temperatura în acest caz,
+
+502
+00:36:45,001 --> 00:36:49,007
+prezenţa
+ionilor în aer.
+
+503
+00:36:55,035 --> 00:36:59,009
+Dacă avem apă
+curată, distilată -- mă refer
+
+504
+00:36:59,009 --> 00:37:01,009
+la apă curată,
+nu la chestia
+
+505
+00:37:01,009 --> 00:37:05,005
+ce curge în Cambridge,
+mai ales nu la chestia
+
+506
+00:37:05,005 --> 00:37:08,008
+din râul Charles.
+Mă refer la apă curată,
+
+507
+00:37:08,008 --> 00:37:12,004
+cu un pH egal cu şapte.
+Asta înseamnă că una din
+
+508
+00:37:12,004 --> 00:37:17,009
+10^7 din moleculele
+de apă este ionizată , H+ şi
+
+509
+00:37:17,009 --> 00:37:21,009
+OH-.
+Apropo,
+
+510
+00:37:21,009 --> 00:37:25,007
+conductivitatea
+nu se datorează
+
+511
+00:37:25,007 --> 00:37:28,009
+electronilor liberi în acest caz,
+ci este rezultatul
+
+512
+00:37:28,009 --> 00:37:33,001
+acestor ioni H+ şi OH-.
+Este unul din acele cazuri în care
+
+513
+00:37:33,001 --> 00:37:36,002
+nu electroni sunt
+principalii responsabili
+
+514
+00:37:36,002 --> 00:37:40,001
+pentru existenţa curentului.
+Dacă adăugăm 3%
+
+515
+00:37:40,001 --> 00:37:45,004
+sare, 3% din masa totală,
+atunci întreaga sare se va ioniza.
+
+516
+00:37:45,004 --> 00:37:50,007
+Obţinem ioni de Na+ şi Cl-,
+numărul ionilor
+
+517
+00:37:50,007 --> 00:37:55,000
+creşte
+extraordinar de mult.
+
+518
+00:37:55,000 --> 00:37:58,006
+Conductivitatea 
+va creşte
+
+519
+00:37:58,006 --> 00:38:01,007
+de 300.000 de ori
+sau chiar de un milion de ori,
+
+520
+00:38:01,007 --> 00:38:05,009
+pentru că numărul ionilor
+creşte cu această valoare.
+
+521
+00:38:05,009 --> 00:38:10,005
+Nu ar trebui să fiţi surprinşi atunci,
+că conductivitatea
+
+522
+00:38:10,005 --> 00:38:14,004
+apei de mare este
+de 1 milion de ori mai mare -- imaginaţi-vă,
+
+523
+00:38:14,004 --> 00:38:17,009
+de un milion de ori mai mare --
+decât conductivitatea apei
+
+524
+00:38:17,009 --> 00:38:20,004
+distilate.
+Vă voi da
+
+525
+00:38:20,004 --> 00:38:27,003
+rezistivitatea apei,
+apă distilată aşadar,
+
+526
+00:38:30,003 --> 00:38:35,008
+este aproximativ 
+2 ori 10^5 ohm-metri.
+
+527
+00:38:40,063 --> 00:38:44,006
+Aceasta este
+rezistivitatea,
+
+528
+00:38:44,006 --> 00:38:51,001
+2 ori
+10^5 ohm-metri.
+
+529
+00:38:51,001 --> 00:38:57,004
+Am aici
+un recipient cu apă distilată.
+
+530
+00:38:57,004 --> 00:39:05,002
+Să desenez
+şi pe tablă.
+
+531
+00:39:05,002 --> 00:39:11,003
+Aici este recipientul
+cu apă distilată,
+
+532
+00:39:11,003 --> 00:39:15,005
+iar înăuntru
+este o placă de cupru,
+
+533
+00:39:15,005 --> 00:39:20,006
+şi încă o placă de cupru.
+Aici este un bec
+
+534
+00:39:20,006 --> 00:39:30,075
+care va fi conectat
+direct la priză,
+
+535
+00:39:30,075 --> 00:39:34,086
+îl introducem în priză,
+110 volţi.
+
+536
+00:39:34,086 --> 00:39:39,006
+Rezistenţa becului, când este cald,
+este egală cu
+
+537
+00:39:39,006 --> 00:39:45,005
+800 Ω.
+Vedeţi aici acest bec.
+
+538
+00:39:52,001 --> 00:39:54,062
+Putem calcula
+rezistenţa dintre cele două
+
+539
+00:39:54,062 --> 00:39:57,002
+plăci, este uşor,
+avem toate datele acum.
+
+540
+00:39:57,002 --> 00:40:00,007
+Dacă ştim distanţa,
+este de aproximativ 20 de centimetri,
+
+541
+00:40:00,007 --> 00:40:02,000
+şi ştim aria
+suprafeţei plăcilor,
+
+542
+00:40:02,000 --> 00:40:04,002
+pentru că, ţineţi minte,
+rezistenţa este invers
+
+543
+00:40:04,002 --> 00:40:06,007
+proporţională cu A,
+trebuie să luăm aşadar aria
+
+544
+00:40:06,007 --> 00:40:09,009
+în considerare.
+Rezistivitatea apei
+
+545
+00:40:09,009 --> 00:40:13,006
+o cunoaştem.
+Este un calcul simplu aşadar,
+
+546
+00:40:13,006 --> 00:40:16,090
+putem calcula 
+rezistenţa acestei porţiuni.
+
+547
+00:40:16,090 --> 00:40:20,002
+Şi am calculat că
+rezistenţa acesteia este de aproximativ
+
+548
+00:40:20,002 --> 00:40:26,006
+2 MΩ.
+Două milioane de ohmi.
+
+549
+00:40:26,006 --> 00:40:30,001
+Când introduc becul în priză,
+valoarea curentului
+
+550
+00:40:30,001 --> 00:40:32,059
+va fi foarte mică,
+pentru că trebuie să treacă prin
+
+551
+00:40:32,059 --> 00:40:35,033
+cei 800 Ω
+şi prin cei 2 MΩ.
+
+552
+00:40:35,033 --> 00:40:40,038
+Nu veţi vedea nimic,
+becul nu va lumina.
+
+553
+00:40:40,038 --> 00:40:46,001
+Dar, dacă pun sare înăuntru,
+dacă reuşesc să adaug
+
+554
+00:40:46,001 --> 00:40:50,000
+3% sare din masa totală,
+atunci aceşti 2 MΩ
+
+555
+00:40:50,000 --> 00:40:55,037
+vor scădea până la 2 Ω,
+un milion de ori mai puţin.
+
+556
+00:40:55,037 --> 00:40:58,069
+Acum 
+becul va fi foarte fericit,
+
+557
+00:40:58,069 --> 00:41:01,007
+pentru că avem 2 Ω aici,
+plus cei 800 Ω,
+
+558
+00:41:01,007 --> 00:41:05,005
+2-ul este neglijabil.
+Asta e ceea ce vreau
+
+559
+00:41:05,005 --> 00:41:07,003
+să vă demonstrez acum,
+importanţa
+
+560
+00:41:07,003 --> 00:41:10,008
+majoră a 
+creşterii numărului de ioni.
+
+561
+00:41:10,008 --> 00:41:13,004
+Aici, numărul de ioni
+a crescut prin încălzirea aerului,
+
+562
+00:41:13,004 --> 00:41:19,064
+dar acum voi creşte
+numărul de ioni adăugând sare.
+
+563
+00:41:19,064 --> 00:41:26,002
+Voi introduce
+prima dată asta
+
+564
+00:41:26,002 --> 00:41:30,003
+în priză.
+Becul este acolo.
+
+565
+00:41:30,003 --> 00:41:36,004
+Voi face o previziune curajoasă
+şi voi spune că nu veţi vedea nimic.
+
+566
+00:41:36,004 --> 00:41:40,000
+Îi dăm drumul.
+Nimic.
+
+567
+00:41:40,000 --> 00:41:42,087
+Incredibil, nu?
+Nu v-aţi aşteptat la asta,
+
+568
+00:41:42,087 --> 00:41:44,067
+nu?
+Fizica funcţionează.
+
+569
+00:41:44,067 --> 00:41:53,003
+Nu vedeţi nimic.
+Dacă scot plăcile
+
+570
+00:41:53,003 --> 00:41:57,005
+şi le ating una de cealaltă,
+ce se va întâmpla?
+
+571
+00:41:57,005 --> 00:42:01,006
+Uitaţi.
+Dar rezistenţa acestei ape
+
+572
+00:42:01,006 --> 00:42:07,007
+este atât de mare,
+încât curentul este mult prea mic.
+
+573
+00:42:07,007 --> 00:42:15,067
+Să adăugăm atunci -- nu
+piper -- să adăugăm nişte sare.
+
+574
+00:42:15,067 --> 00:42:20,006
+Da, asta e sarea.
+Cam atâta sare
+
+575
+00:42:20,006 --> 00:42:27,001
+aş pune dimineaţa la ouă,
+agităm puţin,
+
+576
+00:42:27,001 --> 00:42:31,007
+hei, uitaţi-vă la asta.
+E incredibil, nu?
+
+577
+00:42:31,007 --> 00:42:35,000
+Dacă le aduc mai aproape,
+becul va lumina
+
+578
+00:42:35,000 --> 00:42:37,077
+şi mai intens, pentru că l este mai mic,
+distanţa este mai
+
+579
+00:42:37,077 --> 00:42:41,056
+mică.
+Dacă măresc distanţa,
+
+580
+00:42:41,056 --> 00:42:44,001
+incredibil.
+Doar o cantitate
+
+581
+00:42:44,001 --> 00:42:47,000
+infimă de sare,
+nu mai mult decât pun
+
+582
+00:42:47,000 --> 00:42:51,006
+pe ou, ca să nu mai vorbim, -- ah,
+ce naiba, s-o punem pe toată --
+
+583
+00:42:51,006 --> 00:42:53,079
+ca să nu mai vorbim că,
+dacă o pun pe toată, atunci
+
+584
+00:42:53,079 --> 00:42:56,076
+rezistenţa
+scade spre 2 Ω,
+
+585
+00:42:56,076 --> 00:43:01,042
+iar becul
+va funcţiona normal.
+
+586
+00:43:01,042 --> 00:43:03,082
+Dar chiar şi cu acea
+cantitate infimă de sare, aţi văzut o
+
+587
+00:43:03,082 --> 00:43:11,007
+diferenţă uriaşă.
+Corpul meu este un conductor
+
+588
+00:43:11,007 --> 00:43:18,003
+suficient de bun -- al vostru de asemenea,
+cu toţii ne-am născut din mare --
+
+589
+00:43:18,003 --> 00:43:23,002
+suntem în mare parte apă.
+Prin urmare,
+
+590
+00:43:23,002 --> 00:43:26,000
+când realizăm
+experimente cu sarcini infime,
+
+591
+00:43:26,000 --> 00:43:29,001
+precum Van der Graaff-ul
+sau batem studenţii,
+
+592
+00:43:29,001 --> 00:43:32,004
+trebuie să 
+ne izolăm foarte atenţi,
+
+593
+00:43:32,004 --> 00:43:36,003
+punem plăci de sticlă sub noi,
+sau băncuţe de plastic
+
+594
+00:43:36,003 --> 00:43:41,051
+pentru a preveni
+scurgerea sarcinii în pământ.
+
+595
+00:43:41,051 --> 00:43:47,000
+De fapt, rezistenţa
+dintre corpul meu
+
+596
+00:43:47,000 --> 00:43:51,006
+şi pământ,
+se datorează în principal tălpii
+
+597
+00:43:51,006 --> 00:43:55,003
+încălţămintei mele,
+nu corpului meu,
+
+598
+00:43:55,003 --> 00:44:01,004
+nu pielii.
+Dar dacă analizăm talpa,
+
+599
+00:44:01,004 --> 00:44:07,000
+este ceva de genul,
+cu o anumită
+
+600
+00:44:07,000 --> 00:44:13,002
+grosime,
+aproximativ un centimetru.
+
+601
+00:44:13,002 --> 00:44:16,001
+Când calculez rezistenţa,
+acesta va fi l-ul,
+
+602
+00:44:16,001 --> 00:44:19,005
+pentru că deplasarea
+curentului va fi în această direcţie,
+
+603
+00:44:19,005 --> 00:44:23,008
+acela este l-ul aşadar.
+Cât de mare este piciorul meu?
+
+604
+00:44:23,008 --> 00:44:29,007
+Să zicem că lungimea 
+este de un picior, şi să spunem că
+
+605
+00:44:29,007 --> 00:44:33,060
+lăţimea este de 10 centimetri.
+Putem acum calcula
+
+606
+00:44:33,060 --> 00:44:40,001
+aria suprafeţei, A,
+ştim l-ul,
+
+607
+00:44:40,001 --> 00:44:43,077
+şi ştim valoarea
+rezistivităţi pentru această
+
+608
+00:44:43,077 --> 00:44:48,008
+talpă.
+Am căutat acest material,
+
+609
+00:44:48,008 --> 00:44:51,006
+şi am găsit 
+că rezistivitatea este aproximativ
+
+610
+00:44:51,006 --> 00:44:56,000
+10^10.
+Pot acum calcula
+
+611
+00:44:56,000 --> 00:44:59,003
+rezistenţa
+în această direcţie.
+
+612
+00:44:59,003 --> 00:45:02,023
+După ce introducem valorile,
+obţinem că
+
+613
+00:45:02,023 --> 00:45:07,094
+rezistenţa este de aproximativ
+10 miliarde de ohmi.
+
+614
+00:45:07,094 --> 00:45:10,001
+Veţi spune,
+„Uau!” Oh, este 4
+
+615
+00:45:10,001 --> 00:45:11,066
+de fapt.
+Ei, mare lucru.
+
+616
+00:45:11,066 --> 00:45:14,006
+Patru miliarde de ohmi.
+Veţi spune,
+
+617
+00:45:14,006 --> 00:45:21,007
+„Asta e o rezistenţă enormă!”
+Păi, pentru început,
+
+618
+00:45:21,007 --> 00:45:25,001
+stau pe două picioare,
+nu pe unul, dacă
+
+619
+00:45:25,001 --> 00:45:27,043
+aş sta într-un singur picior,
+rezistenţa ar fi probabil egală cu
+
+620
+00:45:27,043 --> 00:45:29,079
+patru miliarde, 
+dar am două picioare pe pământ.
+
+621
+00:45:29,079 --> 00:45:32,013
+Rezistenţa este aşadar 2 miliarde.
+Veţi spune,
+
+622
+00:45:32,013 --> 00:45:35,000
+„Păi, şi asta 
+este extrem de mare!”
+
+623
+00:45:35,000 --> 00:45:37,018
+Pare mare,
+dar în realitate nu este,
+
+624
+00:45:37,018 --> 00:45:40,007
+pentru că în toate
+experimentele ce le realizăm
+
+625
+00:45:40,007 --> 00:45:45,003
+în această sală de curs,
+avem de-a face cu cantităţi
+
+626
+00:45:45,003 --> 00:45:47,007
+foarte mici de sarcină.
+Chiar şi în cazul Van der
+
+627
+00:45:47,007 --> 00:45:52,008
+Graaff-ului, 
+ce se află la 200.000
+
+628
+00:45:52,008 --> 00:45:56,007
+de volţi, şi să presupunem 
+că rezistenţa mea este egală cu 2 ori
+
+629
+00:45:56,007 --> 00:45:59,003
+10^9 ohmi,
+cu două picioare pe pământ.
+
+630
+00:45:59,003 --> 00:46:01,007
+Când ating
+Van der Graaff-ul,
+
+631
+00:46:01,007 --> 00:46:05,075
+valoarea curentului,
+conform legii lui Ohm,
+
+632
+00:46:05,075 --> 00:46:09,034
+va fi egală cu 100 μA.
+Asta înseamnă că, într-o singură secundă,
+
+633
+00:46:09,034 --> 00:46:12,000
+pot lua 
+100 de μC de pe Van der
+
+634
+00:46:12,000 --> 00:46:15,006
+Graaff, dar sarcina de pe Van der Graaff 
+este de doar 10 μC.
+
+635
+00:46:15,006 --> 00:46:20,045
+Aşadar, o rezistenţă
+de 4 sau 2 miliarde de ohmi, este
+
+636
+00:46:20,045 --> 00:46:23,006
+mult prea mică
+pentru experimentele ce le derulăm
+
+637
+00:46:23,006 --> 00:46:27,001
+în această sală.
+De aceea folosim aceste
+
+638
+00:46:27,001 --> 00:46:30,005
+băncuţe de plastic
+şi aceste plăci de sticlă,
+
+639
+00:46:30,005 --> 00:46:33,000
+pentru a ne asigura
+că nu există un curent
+
+640
+00:46:33,000 --> 00:46:39,002
+care să folosească 
+întreaga sarcină necesară pentru
+
+641
+00:46:39,002 --> 00:46:47,096
+experimente.
+Vreau să vă demonstrez
+
+642
+00:46:47,096 --> 00:46:52,002
+că într-adevăr,
+chiar şi încălţat, adică
+
+643
+00:46:52,002 --> 00:46:56,070
+şi în cazul unei rezistenţe
+de 2 miliarde de ohmi între mine şi pământ,
+
+644
+00:46:56,070 --> 00:47:00,004
+îmi va fi foarte
+greu
+
+645
+00:47:00,004 --> 00:47:03,065
+să menţin
+o anumită sarcină pe electroscop.
+
+646
+00:47:03,065 --> 00:47:08,001
+Voi pune sarcină
+pe acest electroscop prin frecarea
+
+647
+00:47:08,001 --> 00:47:12,006
+picioarelor.
+Dar datorită faptului că
+
+648
+00:47:12,006 --> 00:47:16,006
+am doar încălţămintea în picioare,
+nu stau pe o placă de sticlă,
+
+649
+00:47:16,006 --> 00:47:19,000
+sarcina
+se va deplasa prin mine.
+
+650
+00:47:19,000 --> 00:47:22,007
+Putem aplica legea lui Ohm.
+Veţi vedea că pe măsură ce fac
+
+651
+00:47:22,007 --> 00:47:29,002
+asta, îmi frec picioarele acum,
+voi putea menţine sarcină pe
+
+652
+00:47:29,002 --> 00:47:32,004
+electroscop doar atâta
+timp cât continui cu frecarea.
+
+653
+00:47:32,004 --> 00:47:36,005
+În momentul în care
+nu-mi mai frec picioarele, sarcina dispare.
+
+654
+00:47:36,005 --> 00:47:40,006
+Le frec din nou,
+acum e bine,
+
+655
+00:47:40,006 --> 00:47:43,000
+dar când încetez
+frecarea,
+
+656
+00:47:43,000 --> 00:47:46,001
+sarcina dispare,
+chiar dacă această rezistenţă este
+
+657
+00:47:46,001 --> 00:47:51,002
+undeva la 2 miliarde de ohmi.
+Iar dacă îmi dau jos
+
+658
+00:47:51,002 --> 00:47:55,004
+încălţămintea,
+mă scuzaţi pentru asta,
+
+659
+00:47:55,004 --> 00:47:59,002
+şi îmi frec acum picioarele,
+nu pot nici măcar să pun
+
+660
+00:47:59,002 --> 00:48:01,001
+sarcină pe electroscop,
+pentru că acum,
+
+661
+00:48:01,001 --> 00:48:03,000
+rezistenţa este
+într-atât de mică,
+
+662
+00:48:03,000 --> 00:48:05,007
+nu am nici măcar
+cei două miliarde de ohmi,
+
+663
+00:48:05,007 --> 00:48:12,062
+nu pot nici măcar
+să aduc sarcină pe electroscop.
+
+664
+00:48:12,062 --> 00:48:14,086
+Aceste experimente
+sunt foarte greu de realizat
+
+665
+00:48:14,086 --> 00:48:18,003
+dacă nu folosim
+o izolaţie corespunzătoare.
+
+666
+00:48:18,003 --> 00:48:22,007
+Iar dacă 
+vremea este umedă,
+
+667
+00:48:22,007 --> 00:48:28,000
+apar pelicule subţiri
+de apă pe instrumente,
+
+668
+00:48:28,000 --> 00:48:31,001
+iar curentul se poate
+deplasa prin aceste straturi
+
+669
+00:48:31,001 --> 00:48:34,005
+foarte subţiri de apă.
+De aceea ne place să realizăm
+
+670
+00:48:34,005 --> 00:48:39,001
+aceste experimente iarna,
+pentru că conductivitatea
+
+671
+00:48:39,001 --> 00:48:43,022
+aerului este foarte scăzută,
+nu există apă niciunde.
+
+672
+00:48:46,009 --> 00:48:52,038
+Vedeţi aici o
+imagine de la un jaf.
+
+673
+00:48:52,038 --> 00:48:57,000
+„Mi-am frecat picioarele
+de covor, şi sunt înarmat
+
+674
+00:48:57,000 --> 00:49:00,007
+cu electricitate statică.
+Daţi-mi toţi banii,
+
+675
+00:49:00,007 --> 00:49:04,002
+sau vă ating nasul!”
+Această persoană fie nu a urmat
+
+676
+00:49:04,002 --> 00:49:06,007
+acest curs,
+fie poartă încălţăminte
+
+677
+00:49:06,007 --> 00:49:08,085
+foarte,
+foarte specială.
+
+678
+00:49:08,085 --> 00:49:10,093
+Ne vedem
+miercuri.
+
+679
+00:49:10,093 --> 00:49:16,023
+( subtitrarea în limba română
+pentru www.circuiteelectrice.ro )

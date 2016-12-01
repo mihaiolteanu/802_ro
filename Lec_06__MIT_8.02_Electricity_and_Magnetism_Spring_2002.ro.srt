@@ -1,0 +1,4184 @@
+﻿1
+00:00:10,075 --> 00:00:16,023
+Data trecută v-am spus
+că sarcina se distribuie
+
+2
+00:00:16,023 --> 00:00:19,092
+la suprafaţa conductorilor solizi,
+dar că aceasta nu este distribuită
+
+3
+00:00:19,092 --> 00:00:21,085
+uniform.
+Probabil vă amintiţi acest lucru,
+
+4
+00:00:21,085 --> 00:00:24,008
+doar dacă 
+conductorul nu este o sferă.
+
+5
+00:00:24,008 --> 00:00:26,046
+Vreau să dezvolt
+acest subiect astăzi.
+
+6
+00:00:26,046 --> 00:00:33,034
+Dacă am un conductor solid,
+de forma aceasta, vă voi
+
+7
+00:00:33,034 --> 00:00:37,030
+convinge astăzi că în acest punct,
+densitatea superficială
+
+8
+00:00:37,031 --> 00:00:40,040
+de sarcină
+este mai mare decât acolo.
+
+9
+00:00:40,040 --> 00:00:45,085
+Pentru că această curbură 
+este mai accentuată decât aici.
+
+10
+00:00:45,085 --> 00:00:49,053
+Voi demonstra
+acest lucru astfel.
+
+11
+00:00:49,053 --> 00:00:57,061
+Să presupunem că am aici 
+un conductor solid A cu raza Ra,
+
+12
+00:00:57,061 --> 00:01:02,088
+iar la o distanţă foarte foarte mare,
+la câţiva zeci de metri,
+
+13
+00:01:02,088 --> 00:01:08,079
+am un conductor solid B
+cu raza Rb, iar cei doi sunt
+
+14
+00:01:08,079 --> 00:01:10,076
+conectaţi
+printr-un fir conductor.
+
+15
+00:01:10,076 --> 00:01:12,070
+Acest lucru este esenţial.
+Dacă sunt
+
+16
+00:01:12,070 --> 00:01:16,043
+conectaţi printr-un fir conductor,
+aceştia sunt un echipotenţial.
+
+17
+00:01:16,043 --> 00:01:20,079
+Ambii conductori
+se află la acelaşi potenţial.
+
+18
+00:01:20,079 --> 00:01:24,045
+Îi voi încărca pe ambii
+până când voi obţine o distribuţie
+
+19
+00:01:24,045 --> 00:01:31,070
+de sarcină Qa aici
+şi Qb acolo.
+
+20
+00:01:31,070 --> 00:01:39,026
+Potenţialul lui A este aproximativ
+acelaşi dacă B
+
+21
+00:01:39,026 --> 00:01:43,031
+nu s-ar afla acolo.
+Pentru că B este într-atât de departe încât,
+
+22
+00:01:43,031 --> 00:01:44,092
+dacă am o sarcină
+electrică în buzunar,
+
+23
+00:01:44,092 --> 00:01:48,040
+şi mă apropii dinspre infinit,
+lucrul mecanic ce trebuie să-l efectuez pentru
+
+24
+00:01:48,040 --> 00:01:53,067
+a ajunge în punctul A, pe unitate de sarcină,
+nu depinde de existenţa sau absenţa lui B,
+
+25
+00:01:53,067 --> 00:01:55,062
+pentru că B se află foarte departe,
+zeci de metri,
+
+26
+00:01:55,062 --> 00:01:58,004
+putem considera
+ca fiind un kilometru, dacă vreţi.
+
+27
+00:01:58,004 --> 00:02:02,042
+Potenţialul lui A aşadar,
+este egal cu raportul dintre sarcina lui A şi
+
+28
+00:02:02,042 --> 00:02:06,020
+4piε0
+ori raza lui A.
+
+29
+00:02:06,020 --> 00:02:08,056
+Dar din moment ce acesta
+este un echipotenţial, pentru că
+
+30
+00:02:08,056 --> 00:02:12,093
+este conductor,
+acesta trebuie să fie şi potenţialul
+
+31
+00:02:12,093 --> 00:02:16,015
+sferei B,
+potenţial egal cu sarcina lui B
+
+32
+00:02:16,015 --> 00:02:21,013
+împărţită la
+4piε0 ori raza lui B.
+
+33
+00:02:21,013 --> 00:02:26,081
+Putem observa imediat că Q,
+sarcina lui B,
+
+34
+00:02:26,081 --> 00:02:31,024
+împărţită la raza lui B,
+este egală cu sarcina lui A împărţită la
+
+35
+00:02:31,024 --> 00:02:37,009
+raza lui A.
+Iar dacă raza lui B ar fi
+
+36
+00:02:37,009 --> 00:02:43,096
+de 5 ori mai mare decât
+raza lui A,
+
+37
+00:02:43,096 --> 00:02:47,006
+sarcina existentă pe B 
+ar fi de 5 ori mai mare decât sarcina
+
+38
+00:02:47,006 --> 00:02:52,059
+existentă pe A.
+Dar dacă raza lui B este de 5 ori
+
+39
+00:02:52,059 --> 00:03:00,075
+mai mare, atunci aria suprafeţei
+sale este de 25 de ori mai mare,
+
+40
+00:03:00,075 --> 00:03:08,040
+iar din moment ce densitatea superficială
+de sarcină, σ, este egală cu sarcina de pe sferă
+
+41
+00:03:08,040 --> 00:03:13,080
+împărţită la aria suprafeţei sferei,
+este evidentă că,
+
+42
+00:03:13,080 --> 00:03:18,025
+dacă raza lui B
+este de 5 ori mai mare decât A,
+
+43
+00:03:18,025 --> 00:03:22,078
+este adevărat că
+sarcina de pe B este de 5 ori
+
+44
+00:03:22,078 --> 00:03:26,053
+sarcina de pe A,
+dar densitatea superficială de sarcină
+
+45
+00:03:26,053 --> 00:03:31,053
+de pe B este doar 1/5 
+din densitatea superficială de sarcină de pe A
+
+46
+00:03:31,053 --> 00:03:34,093
+pentru că aria lui B este de 25
+de ori mai mare şi obţinem
+
+47
+00:03:34,093 --> 00:03:40,008
+că densitatea superficială de sarcină
+este mai mare pe A
+
+48
+00:03:40,008 --> 00:03:43,024
+decât pe B.
+O densitate superficială de sarcină
+
+49
+00:03:43,024 --> 00:03:47,021
+de 5 ori mai mare aici decât acolo.
+Sper că acest lucru vă convinge
+
+50
+00:03:47,021 --> 00:03:50,003
+că în cazul unui astfel
+de conductor solid,
+
+51
+00:03:50,003 --> 00:03:53,013
+chiar dacă nu este ideal
+precum în cazul celor două
+
+52
+00:03:53,013 --> 00:03:55,028
+sfere aflate la distanţă mare,
+că densitatea
+
+53
+00:03:55,028 --> 00:03:59,055
+superficială de sarcină de aici
+va fi mai mare decât acolo, pentru că
+
+54
+00:03:59,055 --> 00:04:05,041
+raza sa este mai mică.
+Este aceeaşi idee în principiu.
+
+55
+00:04:05,041 --> 00:04:10,059
+Ne aşteptăm aşadar că cea mai mare
+densitate superficială de sarcină se află acolo
+
+56
+00:04:10,059 --> 00:04:16,011
+unde curbura este cea mai accentuată,
+cea mai mică rază.
+
+57
+00:04:16,011 --> 00:04:19,048
+Acest lucru înseamnă că şi
+câmpul electric va fi mai intens
+
+58
+00:04:19,048 --> 00:04:22,008
+acolo.
+Acest lucru este o consecinţă imediată
+
+59
+00:04:22,008 --> 00:04:26,000
+a legii lui Gauss.
+Dacă aceasta este suprafaţa unui
+
+60
+00:04:26,000 --> 00:04:30,006
+conductor, orice conductor,
+un conductor solid,
+
+61
+00:04:30,006 --> 00:04:34,000
+unde câmpul E este zero
+în interiorul conductorului,
+
+62
+00:04:34,000 --> 00:04:37,081
+şi există sarcină superficială aici,
+pot alege
+
+63
+00:04:37,081 --> 00:04:41,051
+o cutie Gaussiană,
+această suprafaţă este
+
+64
+00:04:41,051 --> 00:04:47,043
+paralelă cu conductorul,
+intru în conductor,
+
+65
+00:04:47,043 --> 00:04:53,058
+iar aceasta este acum suprafaţa
+mea Gaussiană. Notăm această arie
+
+66
+00:04:53,058 --> 00:04:57,080
+cu A, şi să presupunem că 
+avem sarcină pozitivă, astfel încât
+
+67
+00:04:57,080 --> 00:05:00,086
+liniile de câmp electric
+ies din
+
+68
+00:05:00,086 --> 00:05:05,087
+suprafaţă astfel,
+perpendicular pe suprafaţă.
+
+69
+00:05:05,087 --> 00:05:08,067
+Tot timpul perpendicular
+pe echipotenţial.
+
+70
+00:05:08,067 --> 00:05:15,024
+Dacă aplic acum legea lui Gauss,
+ce spune că integrala de suprafaţă
+
+71
+00:05:15,024 --> 00:05:19,029
+a fluxului electric
+prin întreaga suprafaţă,
+
+72
+00:05:19,029 --> 00:05:22,061
+păi, fluxul iese
+doar prin această suprafaţă de aici,
+
+73
+00:05:22,061 --> 00:05:25,056
+pot aduce acea suprafaţă 
+cât de aproape vreau de conductor.
+
+74
+00:05:25,056 --> 00:05:27,051
+Atât de aproape
+încât aproape că atinge
+
+75
+00:05:27,051 --> 00:05:29,062
+conductorul.
+Întregul flux iese doar
+
+76
+00:05:29,062 --> 00:05:34,006
+prin această suprafaţă,
+iar acest flux este egal cu
+
+77
+00:05:34,006 --> 00:05:39,032
+aria suprafeţei A ori
+câmpul electric E.
+
+78
+00:05:39,032 --> 00:05:42,075
+A şi E sunt pe aceeaşi direcţie,
+pentru că ţineţi minte, E este
+
+79
+00:05:42,075 --> 00:05:46,092
+perpendicular pe suprafaţa
+echipotenţialelor.
+
+80
+00:05:46,092 --> 00:05:49,091
+Acesta este rezultatul
+integralei de suprafaţă,
+
+81
+00:05:49,091 --> 00:05:53,039
+şi este egal cu întreaga
+sarcină din interior, dar sarcina din interior
+
+82
+00:05:53,039 --> 00:05:57,055
+este egală desigur cu densitatea 
+superficială de sarcină ori aria A,
+
+83
+00:05:57,055 --> 00:06:01,022
+totul împărţit la ε0,
+aceasta este legea lui Gauss.
+
+84
+00:06:01,022 --> 00:06:05,022
+De aici găsim imediat că
+valoarea câmpului electric este σ
+
+85
+00:06:05,022 --> 00:06:07,095
+împărţit la ε0.
+Ori de câte ori avem un
+
+86
+00:06:07,095 --> 00:06:12,001
+conductor, dacă ştim densitatea
+superficială de sarcină locală,
+
+87
+00:06:12,001 --> 00:06:15,049
+cunoaştem tot timpul
+câmpul electric local.
+
+88
+00:06:15,049 --> 00:06:19,037
+Din moment ce densitatea 
+superficială de sarcină va fi
+
+89
+00:06:19,037 --> 00:06:21,087
+cea mai mare aici,
+chiar dacă întregul conductor este
+
+90
+00:06:21,087 --> 00:06:24,080
+un echipotenţial,
+câmpul electric va fi
+
+91
+00:06:24,080 --> 00:06:29,028
+mai mare aici
+decât acolo.
+
+92
+00:06:31,025 --> 00:06:33,066
+Vă pot demonstra 
+foarte uşor
+
+93
+00:06:33,066 --> 00:06:38,052
+acest lucru.
+Am aici o oală de gătit,
+
+94
+00:06:38,052 --> 00:06:41,085
+oală ce am folosit-o
+pentru fierberea racilor,
+
+95
+00:06:41,085 --> 00:06:44,072
+este o oală mare.
+Voi încărca această
+
+96
+00:06:44,072 --> 00:06:50,038
+oală. Oala are aici
+o anumită rază,
+
+97
+00:06:50,038 --> 00:06:54,000
+probabil 20 de centimetri,
+dar uitaţi-vă aici la mâner,
+
+98
+00:06:54,000 --> 00:06:56,089
+cât de mică este raza.
+Vom pune aşadar sarcină
+
+99
+00:06:56,089 --> 00:07:01,044
+acolo şi vă voi convinge
+că pot lua mai multă
+
+100
+00:07:01,044 --> 00:07:07,012
+sarcină de aici, unde raza este mică,
+decât pot lua de aici.
+
+101
+00:07:07,012 --> 00:07:11,006
+Am aici o lingură mică,
+şi voi aduce această lingură
+
+102
+00:07:11,006 --> 00:07:13,089
+în contact cu suprafaţa asta
+şi cu suprafaţa asta,
+
+103
+00:07:13,089 --> 00:07:19,066
+şi vom vedea de unde
+putem lua mai multă sarcină.
+
+104
+00:07:19,066 --> 00:07:22,052
+Încă este încărcat
+de la cursul precedent.
+
+105
+00:07:22,052 --> 00:07:24,070
+Vedem electroscopul
+ce l-am mai văzut
+
+106
+00:07:24,070 --> 00:07:27,006
+şi înainte.
+Voi încărca această
+
+107
+00:07:27,006 --> 00:07:31,019
+oală de gătit cu metoda 
+mea preferată, cu
+
+108
+00:07:31,019 --> 00:07:34,087
+electroforul.
+Avem blana de pisică şi
+
+109
+00:07:34,087 --> 00:07:37,088
+avem
+placa de sticlă.
+
+110
+00:07:37,088 --> 00:07:44,036
+Voi freca prima data
+asta cu blana de pisică,
+
+111
+00:07:44,036 --> 00:07:47,072
+o pun aici, pun degetul pe ea,
+simt un mic şoc,
+
+112
+00:07:47,072 --> 00:07:50,043
+încarc oala,
+pun degetul pe ea,
+
+113
+00:07:50,043 --> 00:07:53,089
+mai simt un şoc,
+încarc oala,
+
+114
+00:07:53,089 --> 00:07:57,068
+încă odată
+încarc oala,
+
+115
+00:07:57,068 --> 00:08:00,011
+mă asigur că am
+suficientă sarcină acolo,
+
+116
+00:08:00,011 --> 00:08:04,086
+mai frec odată sticla,
+o pun deasupra,
+
+117
+00:08:04,086 --> 00:08:11,087
+pun degetul pe ea,
+încarc, încă odată,
+
+118
+00:08:11,087 --> 00:08:14,018
+şi încă odată.
+Să presupunem că avem suficientă
+
+119
+00:08:14,018 --> 00:08:16,017
+sarcină acolo
+acum.
+
+120
+00:08:16,017 --> 00:08:20,020
+Aici este lingura mea.
+Ating exteriorul oalei
+
+121
+00:08:20,020 --> 00:08:25,017
+aici.
+Mă duc la electroscop şi
+
+122
+00:08:25,017 --> 00:08:28,057
+vedeţi o mică sarcină.
+Foarte clar.
+
+123
+00:08:28,057 --> 00:08:31,039
+Ceea ce vreau să vă arăt acum
+este foarte calitativ,
+
+124
+00:08:31,039 --> 00:08:36,016
+când ating mânerul aici,
+are o rază foarte mică,
+
+125
+00:08:36,016 --> 00:08:38,046
+pot lua
+mai multă sarcină.
+
+126
+00:08:38,046 --> 00:08:41,023
+Să vedem.
+Mult mai multă.
+
+127
+00:08:41,023 --> 00:08:42,059
+Asta-i tot
+ceea ce am vrut să vă arăt.
+
+128
+00:08:42,059 --> 00:08:45,025
+Aţi văzut acum cu ochii voştri,
+pentru prima dată,
+
+129
+00:08:45,025 --> 00:08:48,028
+că deşi acesta este un conductor,
+adică un
+
+130
+00:08:48,028 --> 00:08:51,050
+echipotenţial,
+densitatea superficială de sarcină
+
+131
+00:08:51,050 --> 00:08:56,048
+de aici este mai mare decât
+densitatea superficială de sarcină
+
+132
+00:08:56,048 --> 00:08:59,075
+de aici.
+Doar dacă este o sferă, desigur,
+
+133
+00:08:59,075 --> 00:09:03,000
+datorită simetriei sferice,
+sarcina va fi
+
+134
+00:09:03,000 --> 00:09:08,002
+distribuită uniform.
+În cazul în care câmpul electric devine
+
+135
+00:09:08,002 --> 00:09:11,087
+prea mare, avem de-a face 
+cu fenomenul de străpungere dielectrică.
+
+136
+00:09:11,087 --> 00:09:14,078
+Obţinem
+o descărcare în aer.
+
+137
+00:09:14,078 --> 00:09:18,086
+Motivul 
+este destul de simplu.
+
+138
+00:09:18,086 --> 00:09:23,089
+Dacă am aici un electron
+iar acesta este câmpul electric,
+
+139
+00:09:23,089 --> 00:09:29,002
+electronul va fi 
+accelerat în această direcţie.
+
+140
+00:09:29,002 --> 00:09:33,078
+Electronul se va ciocni cu
+moleculele de azot şi oxigen din
+
+141
+00:09:33,078 --> 00:09:39,060
+aer, iar dacă electronul posedă
+suficientă energie cinetică pentru a ioniza
+
+142
+00:09:39,060 --> 00:09:45,071
+acea moleculă, atunci un electron
+va deveni doi electroni.
+
+143
+00:09:45,071 --> 00:09:50,007
+Electronul original plus
+electronul ionului.
+
+144
+00:09:50,007 --> 00:09:53,022
+Dacă aceştia sunt acum
+acceleraţi în acest câmp
+
+145
+00:09:53,022 --> 00:09:56,060
+electric şi se ciocnesc
+cu moleculele
+
+146
+00:09:56,060 --> 00:10:01,067
+ducând la formarea unui ion,
+atunci fiecare electron va deveni doi
+
+147
+00:10:01,067 --> 00:10:04,065
+electroni,
+şi obţinem astfel o avalanşă.
+
+148
+00:10:04,065 --> 00:10:08,008
+Această avalanşă reprezintă
+o străpungere dielectrică însoţită
+
+149
+00:10:08,008 --> 00:10:11,064
+de o scânteie.
+Când ionii formaţi
+
+150
+00:10:11,064 --> 00:10:15,096
+devin din nou neutri,
+aceştia produc lumină şi asta e ceea ce
+
+151
+00:10:15,096 --> 00:10:18,046
+vedeţi.
+Aceasta reprezintă lumina ce o vedeţi
+
+152
+00:10:18,046 --> 00:10:21,074
+în cazul
+unei scântei.
+
+153
+00:10:21,074 --> 00:10:26,062
+Scânteile au loc 
+de obicei în punctele
+
+154
+00:10:26,062 --> 00:10:32,029
+ascuţite -- în locurile unde
+curbura este accentuată,
+
+155
+00:10:32,029 --> 00:10:35,041
+unde raza este foarte mică,
+acolo fiind locul unde câmpurile
+
+156
+00:10:35,041 --> 00:10:40,017
+electrice sunt cele mai intense.
+Cât de intens trebuie să fie
+
+157
+00:10:40,017 --> 00:10:43,035
+câmpul electric?
+Păi, putem face un
+
+158
+00:10:43,035 --> 00:10:46,051
+calcul aproximativ.
+Dacă presiunea aerului este de o
+
+159
+00:10:46,051 --> 00:10:50,017
+atmosferă,
+aer uscat, la temperatura camerei,
+
+160
+00:10:50,017 --> 00:10:55,084
+atunci electronul,
+în medie,
+
+161
+00:10:55,084 --> 00:10:59,077
+va trebui să se deplaseze 
+aproximativ un micron, adică 10 la puterea
+
+162
+00:10:59,077 --> 00:11:03,041
+-6 metri,
+între două coliziuni succesive cu
+
+163
+00:11:03,041 --> 00:11:06,007
+moleculele.
+În medie.
+
+164
+00:11:06,007 --> 00:11:07,086
+Câteodată mai mult,
+câteodată mai puţin.
+
+165
+00:11:07,086 --> 00:11:12,051
+Pentru că este 
+un proces aleator, desigur.
+
+166
+00:11:12,051 --> 00:11:16,075
+Pentru ionizarea azotului,
+pentru ionizarea oxigenului,
+
+167
+00:11:16,075 --> 00:11:21,025
+este nevoie de energie.
+Pentru ionizarea unei molecule de oxigen
+
+168
+00:11:21,025 --> 00:11:24,015
+este nevoie de
+12,5 electron-volţi.
+
+169
+00:11:24,015 --> 00:11:28,090
+Iar pentru ionizarea azotului este nevoie
+de aproximativ 15 electron-volţi.
+
+170
+00:11:28,090 --> 00:11:32,052
+Ce este un electron-volt?
+Un electron-volt reprezintă
+
+171
+00:11:32,052 --> 00:11:35,012
+o cantitate
+foarte mică de energie.
+
+172
+00:11:35,012 --> 00:11:39,060
+Reprezintă 1,6 ori 10
+la puterea -19 jouli.
+
+173
+00:11:39,060 --> 00:11:44,070
+Electron-voltul reprezintă
+o unitate de energie foarte utilă.
+
+174
+00:11:44,070 --> 00:11:50,000
+Pentru că dacă avem un electron
+ce se deplasează peste
+
+175
+00:11:50,000 --> 00:11:53,017
+o diferenţă de potenţial
+de un volt,
+
+176
+00:11:53,017 --> 00:11:56,032
+energia sa cinetică creşte,
+aceasta este definiţia unui
+
+177
+00:11:56,032 --> 00:11:59,045
+electron-volt,
+creşte cu un electron-volt.
+
+178
+00:11:59,045 --> 00:12:01,064
+Este sarcina electronului,
+egală cu 1,6
+
+179
+00:12:01,064 --> 00:12:05,028
+ori 10 la -19 coulombi,
+ori un
+
+180
+00:12:05,028 --> 00:12:08,042
+volt.
+Obţinem astfel
+
+181
+00:12:08,042 --> 00:12:13,046
+energia, un electron-volt.
+Acest lucru înseamnă atunci că --
+
+182
+00:12:13,046 --> 00:12:16,023
+să presupunem că acest număr
+este 10 electron-volţi.
+
+183
+00:12:16,023 --> 00:12:18,097
+Vream doar 
+un calcul aproximativ.
+
+184
+00:12:18,097 --> 00:12:23,041
+Vrem aşadar ca electronul
+să se deplaseze peste o diferenţă de potenţial
+
+185
+00:12:23,041 --> 00:12:29,085
+delta V, egală cu aproximativ 10 V,
+şi vrem să realizeze acest lucru
+
+186
+00:12:29,085 --> 00:12:34,061
+pe o distanţă delta x
+egală cu 10 la -6 metri,
+
+187
+00:12:34,061 --> 00:12:39,015
+adică un micron.
+Dacă se întâmplă acest lucru,
+
+188
+00:12:39,015 --> 00:12:43,042
+energia cinetică a electronului
+va fi suficientă pentru a crea un ion.
+
+189
+00:12:43,042 --> 00:12:47,003
+Câmpul electric
+necesar pentru acest lucru
+
+190
+00:12:47,003 --> 00:12:49,062
+este egal cu delta V,
+diferenţa de potenţial,
+
+191
+00:12:49,062 --> 00:12:55,000
+împărţit la delta x,
+egal cu 10 împărţit la 10
+
+192
+00:12:55,000 --> 00:12:58,000
+la puterea -6,
+adică 10 la puterea
+
+193
+00:12:58,000 --> 00:13:02,037
+7 volţi pe metru.
+Un câmp electric
+
+194
+00:13:02,037 --> 00:13:07,007
+foarte intens.
+În realitate, atunci când măsurăm
+
+195
+00:13:07,007 --> 00:13:10,075
+câmpurile electrice în zona de străpungere,
+valoarea lor este mai degrabă 3 milioane
+
+196
+00:13:10,075 --> 00:13:12,066
+de volţi pe metru.
+Dar este o valoare apropiată.
+
+197
+00:13:12,066 --> 00:13:15,062
+Am realizat 
+doar un calcul aproximativ.
+
+198
+00:13:15,062 --> 00:13:20,029
+Foarte aproximativ,
+la temperatura camerei şi o atmosferă,
+
+199
+00:13:20,029 --> 00:13:23,034
+atunci când aerul este uscat,
+străpungerea dielectrică are loc la aproximativ
+
+200
+00:13:23,034 --> 00:13:28,069
+3 milioane de volţi pe metru.
+Odată cu neutralizarea ionilor
+
+201
+00:13:28,069 --> 00:13:30,064
+se emite lumină,
+de aceea scânteile
+
+202
+00:13:30,064 --> 00:13:33,025
+pot fi văzute.
+Aceştia încălzesc aerul,
+
+203
+00:13:33,025 --> 00:13:35,089
+produc o undă de presiune,
+astfel că puteţi auzi
+
+204
+00:13:35,089 --> 00:13:43,011
+şi un sunet.
+Dacă avem două plăci paralele
+
+205
+00:13:43,011 --> 00:13:46,095
+pe care le aducem foarte aproape
+una de cealaltă, şi presupunând
+
+206
+00:13:46,095 --> 00:13:50,073
+că diferenţa lor de potenţial
+este de 300 de volţi,
+
+207
+00:13:50,073 --> 00:13:53,067
+atunci vom avea
+un câmp electric de 3 milioane
+
+208
+00:13:53,067 --> 00:13:59,002
+de volţi pe metru atunci când
+distanţa d este de aproximativ o zecime
+
+209
+00:13:59,002 --> 00:14:01,098
+de milimetru.
+Aceasta este distanţa la care vom avea
+
+210
+00:14:01,098 --> 00:14:04,099
+o descărcare spontană
+între aceste două plăci.
+
+211
+00:14:04,099 --> 00:14:10,044
+Practic, acest lucru se va întâmpla
+probabil la o distanţă mai mare
+
+212
+00:14:10,044 --> 00:14:14,037
+de o zecime 
+de milimetru.
+
+213
+00:14:14,037 --> 00:14:17,046
+Motivul este
+inexistenţa
+
+214
+00:14:17,046 --> 00:14:20,091
+plăcilor perfecte.
+Plăcile au imperfecţiuni.
+
+215
+00:14:20,091 --> 00:14:23,037
+Vor exista tot timpul zone
+pe placă ce nu sunt
+
+216
+00:14:23,037 --> 00:14:26,087
+plate, ci aproximativ 
+precum ceea ce vedeţi acolo,
+
+217
+00:14:26,087 --> 00:14:28,082
+rază mică,
+acela fiind desigur locul în care
+
+218
+00:14:28,082 --> 00:14:31,044
+câmpul electric 
+va fi cel mai intens, şi unde
+
+219
+00:14:31,044 --> 00:14:35,049
+va avea loc 
+prima dată descărcarea.
+
+220
+00:14:35,049 --> 00:14:41,024
+Totuşi, dacă atingeţi
+clanţa şi obţineţi o scânteie,
+
+221
+00:14:41,024 --> 00:14:45,017
+simţiţi o scânteie,
+şi vă uitaţi la scânteie,
+
+222
+00:14:45,017 --> 00:14:47,028
+şi vedeţi că ia naştere
+atunci când sunteţi
+
+223
+00:14:47,028 --> 00:14:51,075
+la 3 milimetri de clanţă.
+Puteţi fi siguri
+
+224
+00:14:51,075 --> 00:14:54,082
+că diferenţa de potenţial
+dintre voi şi uşă a fost de
+
+225
+00:14:54,082 --> 00:14:57,079
+ordinul a zece mii de volţi,
+câteva mii de volţi,
+
+226
+00:14:57,079 --> 00:15:01,079
+pe puţin.
+Pentru că peste 3 milimetri
+
+227
+00:15:01,079 --> 00:15:05,090
+este nevoie de 10.000 de volţi
+pentru a obţine 3 milioane de volţi
+
+228
+00:15:05,090 --> 00:15:08,050
+pe metru.
+Când vă pieptănaţi părul, sau când
+
+229
+00:15:08,050 --> 00:15:11,025
+vă scoateţi tricoul,
+obţineţi nişte
+
+230
+00:15:11,025 --> 00:15:13,017
+scântei,
+le puteţi auzi, iar dacă este
+
+231
+00:15:13,017 --> 00:15:16,069
+întuneric, le puteţi vedea.
+Puteţi fi siguri în acel moment că
+
+232
+00:15:16,069 --> 00:15:19,046
+la capetele ascuţite ale firelor,
+a materialului,
+
+233
+00:15:19,046 --> 00:15:21,086
+aveţi un
+câmp electric de
+
+234
+00:15:21,086 --> 00:15:25,045
+3 milioane de volţi pe metru.
+În acel moment are loc automat
+
+235
+00:15:25,045 --> 00:15:29,084
+străpungerea dielectrică.
+Desigur, de una singură, tensiunea înaltă
+
+236
+00:15:29,084 --> 00:15:33,049
+nu conduce
+neapărat la deces.
+
+237
+00:15:33,049 --> 00:15:38,008
+Pentru a cauza decesul,
+nu este aşa de importantă tensiunea
+
+238
+00:15:38,008 --> 00:15:41,084
+cât curentul
+ce trece prin tine.
+
+239
+00:15:41,084 --> 00:15:49,026
+Iar curentul reprezintă
+sarcina pe unitate de timp.
+
+240
+00:15:49,026 --> 00:15:54,005
+În unităţi SI aceasta se traduce
+prin coulombi pe secundă.
+
+241
+00:15:54,005 --> 00:15:57,087
+Simbolul pentru curent este A,
+de la Ampere,
+
+242
+00:15:57,087 --> 00:16:02,023
+cel care a efectuat
+cercetări importante în acest domeniu,
+
+243
+00:16:02,023 --> 00:16:05,027
+francez.
+Aşadar, dacă atingeţi
+
+244
+00:16:05,027 --> 00:16:10,008
+clanţa, valoarea instantanee
+a curentului s-ar putea să fie
+
+245
+00:16:10,008 --> 00:16:12,066
+foarte mare.
+S-ar putea să fie chiar şi un amper,
+
+246
+00:16:12,066 --> 00:16:15,030
+dar durează doar
+o milisecundă.
+
+247
+00:16:15,030 --> 00:16:18,060
+Acest lucru
+nu vă va omorî.
+
+248
+00:16:18,060 --> 00:16:22,012
+Ştim cu toţii că atunci când vă pieptănaţi,
+nu muriţi şi
+
+249
+00:16:22,012 --> 00:16:24,046
+ştiţi de asemenea că atunci când
+vă dezbrăcaţi, chiar dacă
+
+250
+00:16:24,046 --> 00:16:29,015
+auziţi scântei,
+acest lucru nu este letal.
+
+251
+00:16:29,015 --> 00:16:33,027
+Probabil vom discuta 
+într-un curs viitor în detaliu
+
+252
+00:16:33,027 --> 00:16:36,094
+valorile necesare pentru
+a executa o persoană prin electrocutare,
+
+253
+00:16:36,094 --> 00:16:40,026
+lucru extrem de neplăcut, 
+dar cu toate acestea, va trebui să
+
+254
+00:16:40,026 --> 00:16:42,067
+determinăm durata de aplicare
+a curentului,
+
+255
+00:16:42,067 --> 00:16:45,086
+intensitatea acestuia,
+şi în care parte
+
+256
+00:16:45,086 --> 00:16:52,051
+a corpului
+va cauza cele mai letale reacţii.
+
+257
+00:16:52,051 --> 00:16:56,075
+Vreau acum să fiu puţin
+mai cantitativ, şi vom trece
+
+258
+00:16:56,075 --> 00:17:00,078
+la o înţelegere 
+mai profundă a Van der Graaff-ului.
+
+259
+00:17:00,078 --> 00:17:03,004
+Încet-încet, vom înţelege
+modul de funcţionare al
+
+260
+00:17:03,004 --> 00:17:06,002
+Van der Graaff-ului.
+Astăzi vom calcula
+
+261
+00:17:06,002 --> 00:17:11,006
+câtă sarcină putem
+pune pe Van der Graaff şi care este
+
+262
+00:17:11,006 --> 00:17:15,023
+potenţialul maxim
+la suprafaţă.
+
+263
+00:17:15,023 --> 00:17:17,054
+Dacă încărcăm
+Van der Graaff-ul,
+
+264
+00:17:17,054 --> 00:17:23,026
+cu sarcina Q,
+atunci potenţialul
+
+265
+00:17:23,026 --> 00:17:27,073
+suprafeţei -- suprafaţa este un echipotenţial,
+este Q împărţit la
+
+266
+00:17:27,073 --> 00:17:32,029
+4piε0R.
+Iar câmp electric chiar
+
+267
+00:17:32,029 --> 00:17:38,093
+aici la suprafaţă
+va fi Q împărţit la 4piε0
+
+268
+00:17:38,093 --> 00:17:42,045
+ori R la pătrat.
+În acest caz de simetrie
+
+269
+00:17:42,045 --> 00:17:49,065
+sferică obţinem că
+potenţialul V este egal cu E ori R.
+
+270
+00:17:49,065 --> 00:17:51,061
+Dar ştim că E nu poate
+depăşi valoarea de
+
+271
+00:17:51,061 --> 00:17:55,000
+3 milioane de volţi pe metru.
+Acest lucru impune o
+
+272
+00:17:55,000 --> 00:17:58,056
+limită asupra potenţialului
+Van def Graaff-ului.
+
+273
+00:17:58,056 --> 00:18:04,056
+Dacă introducem aici
+3 milioane de volţi pe metru,
+
+274
+00:18:04,056 --> 00:18:08,039
+putem calcula care
+este valoarea maximă a potenţialului
+
+275
+00:18:08,039 --> 00:18:12,001
+pentru o anumită sferă
+cu o anumită rază.
+
+276
+00:18:12,001 --> 00:18:16,029
+Dacă avem aici raza,
+şi aici avem tensiunea,
+
+277
+00:18:16,029 --> 00:18:20,014
+atunci dacă raza 
+sferei ar fi de 3 milimetri,
+
+278
+00:18:20,014 --> 00:18:22,034
+atunci nu am putea
+depăşi o tensiune
+
+279
+00:18:22,034 --> 00:18:24,094
+de 10 kilovolţi.
+Dacă o depăşim,
+
+280
+00:18:24,094 --> 00:18:29,033
+va avea loc automat o străpungere 
+dielectrică. Vom obţine o scânteie.
+
+281
+00:18:29,033 --> 00:18:33,007
+Pentru o sferă de 3 centimetri,
+tensiunea va fi de
+
+282
+00:18:33,007 --> 00:18:37,048
+100 de kilovolţi,
+iar Van der Graaff-ul nostru, ce are o rază
+
+283
+00:18:37,048 --> 00:18:42,005
+de 30 de centimetri,
+va fi aşadar la un milion
+
+284
+00:18:42,005 --> 00:18:43,063
+de volţi.
+Nu putem depăşi această valoare.
+
+285
+00:18:43,063 --> 00:18:46,075
+Practic, acesta
+nici măcar nu ajunge la un
+
+286
+00:18:46,075 --> 00:18:49,050
+milion de volţi.
+Sfera nu este perfectă.
+
+287
+00:18:49,050 --> 00:18:51,073
+Există imperfecţiuni
+ale sferei.
+
+288
+00:18:51,073 --> 00:18:55,044
+Există zone ce conţin
+puncte ascuţite,
+
+289
+00:18:55,044 --> 00:18:57,085
+şi nu vom putea
+atinge un milion de volţi.
+
+290
+00:18:57,085 --> 00:19:00,088
+Străpungerea are loc probabil
+la câteva sute de mii,
+
+291
+00:19:00,088 --> 00:19:03,099
+probabil 300.000
+de volţi.
+
+292
+00:19:03,099 --> 00:19:07,065
+Putem calcula acum şi
+care este sarcina maximă de pe
+
+293
+00:19:07,065 --> 00:19:10,005
+Van der Graaff.
+Pentru că potenţialul
+
+294
+00:19:10,005 --> 00:19:12,090
+maxim este de 
+300.000 de volţi,
+
+295
+00:19:12,090 --> 00:19:15,068
+iar raza este de 
+0,3 metri,
+
+296
+00:19:15,068 --> 00:19:19,041
+putem calcula
+sarcina maximă ce
+
+297
+00:19:19,041 --> 00:19:22,067
+o putem plasa pe Van der Graaff
+aplicând acea ecuaţie.
+
+298
+00:19:22,067 --> 00:19:24,090
+Rezultatul este de
+10 microcoulombi.
+
+299
+00:19:24,090 --> 00:19:27,035
+Potenţialul maxim
+pentru
+
+300
+00:19:27,035 --> 00:19:31,067
+Van der Graaff-ul nostru
+este de 300.000 de volţi.
+
+301
+00:19:31,067 --> 00:19:34,036
+Vă puteţi face acum o impresie,
+o impresie cantitativă,
+
+302
+00:19:34,036 --> 00:19:37,054
+numerică, pentru valoarea --
+pot să pun asta jos?
+
+303
+00:19:37,054 --> 00:19:43,052
+Vă puteţi face aşadar
+o idee asupra Van der Graaff-ului,
+
+304
+00:19:43,052 --> 00:19:46,040
+iar mai târziu vom înţelege
+modul în care ajunge sarcina acolo.
+
+305
+00:19:46,040 --> 00:19:48,072
+Dar cel puţin acum aveţi
+o idee legată de potenţiale,
+
+306
+00:19:48,072 --> 00:19:54,040
+şi de sarcinile
+implicate.
+
+307
+00:19:54,040 --> 00:19:58,072
+Dacă am aici Van der Graaff-ul
+şi vin în apropierea acestuia
+
+308
+00:19:58,072 --> 00:20:02,013
+cu o sferă conectată
+la pământ, iar dacă sarcina
+
+309
+00:20:02,013 --> 00:20:05,069
+acestui Van der Graaff este pozitivă,
+atunci sfera se va
+
+310
+00:20:05,069 --> 00:20:08,069
+încărca negativ
+prin inducţie şi obţinem
+
+311
+00:20:08,069 --> 00:20:13,043
+linii de câmp, dinspre
+Van der Graaff pe acest obiect,
+
+312
+00:20:13,043 --> 00:20:17,030
+tot timpul perpendiculare
+pe echipotenţiale,
+
+313
+00:20:17,030 --> 00:20:21,055
+astfel,
+iar câmpul electric va fi
+
+314
+00:20:21,055 --> 00:20:25,010
+probabil cel mai intens aici,
+iar scânteia va lua naştere
+
+315
+00:20:25,010 --> 00:20:28,075
+între această sferă
+şi Van der Graaff cu condiţia
+
+316
+00:20:28,075 --> 00:20:33,042
+că suntem suficient de aproape,
+astfel încât să obţinem
+
+317
+00:20:33,042 --> 00:20:38,017
+un câmp electric în apropierea
+acestei sfere de aproximativ 3 milioane
+
+318
+00:20:38,017 --> 00:20:41,025
+de volţi pe metru.
+Vă voi arăta acest lucru mai târziu,
+
+319
+00:20:41,025 --> 00:20:44,054
+veţi vedea mai multe scântei astăzi
+decât aţi văzut
+
+320
+00:20:44,054 --> 00:20:48,023
+vreodată, dar vreau să
+înţelegeţi mai bine
+
+321
+00:20:48,023 --> 00:20:52,061
+scânteile, fulgerele,
+înainte să vă demonstrez acest lucru.
+
+322
+00:20:52,061 --> 00:20:55,019
+Ca să puteţi 
+înţelege mai bine.
+
+323
+00:20:55,019 --> 00:20:59,093
+Dacă vin în apropierea Van der Graaff-ului
+nu cu o sferă, ci mă îndrept
+
+324
+00:20:59,093 --> 00:21:03,053
+înspre Van der Graaff 
+cu foarte mult curaj,
+
+325
+00:21:03,053 --> 00:21:05,069
+şi eu sunt 
+un conductor destul de bun,
+
+326
+00:21:05,069 --> 00:21:09,056
+şi eu sunt conectat la pământ,
+s-ar putea atunci ca
+
+327
+00:21:09,056 --> 00:21:12,014
+scânteia să ia naştere prima dată
+între nasul meu şi
+
+328
+00:21:12,014 --> 00:21:15,031
+Van der Graaff, pentru că
+aceasta este cea mai mică rază,
+
+329
+00:21:15,031 --> 00:21:17,047
+cea mai accentuată
+curbură,
+
+330
+00:21:17,047 --> 00:21:20,081
+sau cu siguranţă capul meu
+va fi lovit
+
+331
+00:21:20,081 --> 00:21:24,048
+prima dată.
+Dacă vin în apropierea Van der Graaff-ului
+
+332
+00:21:24,048 --> 00:21:27,066
+astfel, cu mâna întinsă,
+atunci mai mult ca sigur
+
+333
+00:21:27,066 --> 00:21:30,016
+că scânteile vor lua
+naştere la vârful
+
+334
+00:21:30,016 --> 00:21:32,032
+degetelor.
+Pentru că au o rază
+
+335
+00:21:32,032 --> 00:21:35,023
+foarte mică şi sunt
+foarte aproape de Van der Graaff,
+
+336
+00:21:35,023 --> 00:21:37,007
+acolo fiind locul
+unde va avea loc
+
+337
+00:21:37,007 --> 00:21:41,066
+descărcarea electrică.
+Înainte de a ne delecta
+
+338
+00:21:41,066 --> 00:21:46,008
+cu aceste lucruri, voi vă veţi delecta,
+eu mai puţin,
+
+339
+00:21:46,008 --> 00:21:51,061
+vreau să vă vorbesc
+puţin despre fulgere.
+
+340
+00:21:51,061 --> 00:21:54,096
+Pentru că ceea ce veţi vedea
+este într-un anumit fel un tip
+
+341
+00:21:54,096 --> 00:21:58,084
+de fulger.
+În fiecare zi au loc un număr de
+
+342
+00:21:58,084 --> 00:22:02,000
+400.000 de furtuni pe pământ,
+în medie.
+
+343
+00:22:02,000 --> 00:22:04,091
+400.000 de
+furtuni.
+
+344
+00:22:04,091 --> 00:22:06,081
+Au loc aproximativ
+100 de descărcări
+
+345
+00:22:06,081 --> 00:22:13,024
+luminoase în fiecare secundă.
+Partea superioară a unui nor de furtună
+
+346
+00:22:13,024 --> 00:22:17,038
+devine pozitivă iar partea
+inferioară devine negativă.
+
+347
+00:22:17,038 --> 00:22:22,041
+Fizica acestui fenomen nu este uşoară,
+şi probabil incompletă,
+
+348
+00:22:22,041 --> 00:22:24,096
+şi nu voi intra
+în astfel de detalii,
+
+349
+00:22:24,096 --> 00:22:28,041
+dar are legătură cu
+deplasarea picăturilor de apă.
+
+350
+00:22:28,041 --> 00:22:30,084
+Acestea se alungesc,
+se încarcă electric datorită
+
+351
+00:22:30,084 --> 00:22:34,039
+frecării, se pot rupe
+transportând astfel
+
+352
+00:22:34,039 --> 00:22:38,050
+sarcină.
+Vă voi prezenta pur şi simplu câteva
+
+353
+00:22:38,050 --> 00:22:41,022
+date.
+Vom accepta faptul
+
+354
+00:22:41,022 --> 00:22:43,075
+că norul
+va fi
+
+355
+00:22:43,075 --> 00:22:48,022
+încărcat.
+Acesta este norul.
+
+356
+00:22:48,022 --> 00:22:51,063
+Pozitiv sus
+şi negativ jos.
+
+357
+00:22:51,063 --> 00:22:55,014
+Aici este pământul.
+Datorită inducţiei,
+
+358
+00:22:55,014 --> 00:22:58,019
+pământul se va încărca
+desigur cu sarcină
+
+359
+00:22:58,019 --> 00:23:01,025
+pozitivă aici,
+şi vom vedea linii
+
+360
+00:23:01,025 --> 00:23:05,095
+de câmp, linii de câmp electric,
+dinspre pământ înspre
+
+361
+00:23:05,095 --> 00:23:11,066
+nor, perpendiculare 
+tot timpul pe echipotenţiale,
+
+362
+00:23:11,066 --> 00:23:16,094
+aproximativ astfel.
+Vă dau şi câteva valori,
+
+363
+00:23:16,094 --> 00:23:24,040
+această distanţă este
+de 5 kilometri,
+
+364
+00:23:24,040 --> 00:23:30,000
+această distanţă verticală d,
+este de aproximativ 1 kilometru.
+
+365
+00:23:30,000 --> 00:23:31,069
+Acestea sunt valori tipice,
+dar desigur, ele pot varia
+
+366
+00:23:31,069 --> 00:23:35,000
+enorm de la
+o furtună la alta.
+
+367
+00:23:35,000 --> 00:23:41,075
+Iar această înălţime este
+în general de 10 kilometri.
+
+368
+00:23:41,075 --> 00:23:43,034
+Acest lucru
+ne permite acum să realizăm
+
+369
+00:23:43,034 --> 00:23:46,024
+nişte calcule foarte interesante
+pentru a determina cu aproximaţie
+
+370
+00:23:46,024 --> 00:23:50,026
+diferenţa de potenţial
+dintre nor şi pământ.
+
+371
+00:23:50,026 --> 00:23:51,094
+Acesta este primul
+lucru ce-l putem face.
+
+372
+00:23:51,094 --> 00:23:54,072
+Dacă simplificăm problema
+şi considerăm câmpul
+
+373
+00:23:54,072 --> 00:23:58,018
+electric ca fiind mai mult sau 
+mai puţin constant aici, ca şi cum am avea două
+
+374
+00:23:58,018 --> 00:24:00,067
+plăci paralele,
+caz în care câmpul electric este
+
+375
+00:24:00,067 --> 00:24:03,077
+constant între ele,
+atunci diferenţa de potenţial
+
+376
+00:24:03,077 --> 00:24:08,047
+delta V, între baza 
+norului şi pământ,
+
+377
+00:24:08,047 --> 00:24:12,010
+este pur şi simplu câmpul electric
+ori distanţa d.
+
+378
+00:24:12,010 --> 00:24:17,042
+Aceasta devine aşadar E ori d.
+Dar dacă străpungerea are loc la
+
+379
+00:24:17,042 --> 00:24:22,009
+3 milioane de volţi pe metru --
+apropo, aceasta este pentru aer uscat,
+
+380
+00:24:22,009 --> 00:24:24,032
+în cazul unei furtuni,
+probabil că nu este
+
+381
+00:24:24,032 --> 00:24:27,081
+aşa de uscat, dar să luăm
+3 milioane de volţi pe metru,
+
+382
+00:24:27,081 --> 00:24:31,010
+şi obţinem 3 ori 10
+la puterea 6, acesta este E-ul,
+
+383
+00:24:31,010 --> 00:24:33,076
+iar distanţa dintre
+nor şi pământ să o luăm
+
+384
+00:24:33,076 --> 00:24:36,021
+un kilometru,
+adică 10 la puterea 3
+
+385
+00:24:36,021 --> 00:24:41,043
+metri, obţinem astfel
+3 miliarde de volţi între
+
+386
+00:24:41,043 --> 00:24:44,095
+pământ şi nori.
+Practic,
+
+387
+00:24:44,095 --> 00:24:46,093
+valorile măsurate
+sunt de câteva milioane
+
+388
+00:24:46,093 --> 00:24:50,007
+până la un miliard de volţi,
+rezultatul nostru nu este aşadar foarte
+
+389
+00:24:50,007 --> 00:24:54,040
+diferit.
+Ne aşteptăm ca potenţialul
+
+390
+00:24:54,040 --> 00:24:57,089
+să fie probabil mai mic decât
+ceea ce am calculat, pentru că evident,
+
+391
+00:24:57,089 --> 00:25:01,034
+acestea nu sunt suprafeţe plane,
+există şi copaci,
+
+392
+00:25:01,034 --> 00:25:02,089
+aici pe pământ,
+există şi clădiri
+
+393
+00:25:02,089 --> 00:25:05,035
+pe pământ, ce sunt precum
+nişte puncte ascuţite, unde câmpul electric
+
+394
+00:25:05,035 --> 00:25:09,043
+va avea o valoare locală mai mare,
+determinând apariţia unei descărcări
+
+395
+00:25:09,043 --> 00:25:12,045
+în aceste puncte ascuţite prima dată.
+Iar acest lucru înseamnă că diferenţa
+
+396
+00:25:12,045 --> 00:25:15,063
+de potenţial dintre nor şi
+pământ ar putea fi mai mică
+
+397
+00:25:15,063 --> 00:25:19,085
+decât cele 3 miliarde
+obţinute aici.
+
+398
+00:25:19,085 --> 00:25:24,038
+Este doar
+un calcul aproximativ.
+
+399
+00:25:24,038 --> 00:25:28,004
+Fizica acestor descărcări
+este foarte complicată.
+
+400
+00:25:28,004 --> 00:25:31,093
+Vreau însă să vă prezint
+câteva date, fără a intra
+
+401
+00:25:31,093 --> 00:25:36,016
+în detalii.
+Începutul unui fulger
+
+402
+00:25:36,016 --> 00:25:39,078
+are loc atunci când electronii
+încep să se deplaseze dinspre nor înspre
+
+403
+00:25:39,078 --> 00:25:42,043
+pământ.
+Aceştia formează un tunel,
+
+404
+00:25:42,043 --> 00:25:45,068
+cu un diametru între
+1 şi 10 metri, iar acesta poartă numele
+
+405
+00:25:45,068 --> 00:25:49,045
+de descărcare preliminară.
+Descărcarea preliminară se deplasează
+
+406
+00:25:49,045 --> 00:25:53,083
+cu aproximativ 150 de kilometri pe secundă,
+astfel că ajunge pe pământ în aproximativ
+
+407
+00:25:53,083 --> 00:25:57,006
+5 milisecunde.
+5 milisecunde de aici până
+
+408
+00:25:57,006 --> 00:26:01,073
+aici şi transportă aproximativ
+o jumătate de coulomb spre pământ.
+
+409
+00:26:01,073 --> 00:26:04,027
+O jumătate de coulomb,
+în aproximativ 5 milisecunde,
+
+410
+00:26:04,027 --> 00:26:09,073
+asta înseamnă ca valoarea curentului
+este de aproximativ 100 de amperi.
+
+411
+00:26:09,073 --> 00:26:13,019
+Descărcarea preliminară creează 
+un canal de aer ionizat,
+
+412
+00:26:13,019 --> 00:26:16,021
+plin de ioni şi de electroni,
+ce este un conductor
+
+413
+00:26:16,021 --> 00:26:18,090
+extrem de bun.
+În momentul în care această descărcare
+
+414
+00:26:18,090 --> 00:26:22,032
+preliminară atinge pământul,
+va exista acest
+
+415
+00:26:22,032 --> 00:26:26,018
+canal cu o conductivitate extrem de mare,
+iar electronii se pot deplasa acum
+
+416
+00:26:26,018 --> 00:26:29,076
+rapid din acest canal
+înspre pământ.
+
+417
+00:26:29,076 --> 00:26:33,068
+Tot acest scenariu porneşte
+aici, la suprafaţa
+
+418
+00:26:33,068 --> 00:26:35,055
+pământului.
+Acela este locul în care electronii
+
+419
+00:26:35,055 --> 00:26:41,025
+se vor deplasa prima dată înspre pământ.
+Iar apoi, electronii
+
+420
+00:26:41,025 --> 00:26:44,034
+ce se află în partea superioară
+a canalului vor coborî înspre
+
+421
+00:26:44,034 --> 00:26:47,075
+pământ.
+Vom avea aşadar o deplasare
+
+422
+00:26:47,075 --> 00:26:52,015
+a electronilor prin canal
+înspre pământ, dar iniţial
+
+423
+00:26:52,015 --> 00:26:54,092
+electronii sunt mai aproape
+de pământ decât
+
+424
+00:26:54,092 --> 00:26:59,000
+electronii mai îndepărtaţi
+şi apoi chiar şi mai îndepărtaţi.
+
+425
+00:26:59,000 --> 00:27:01,058
+Aici are loc de fapt
+toată acţiunea.
+
+426
+00:27:01,058 --> 00:27:05,094
+Curentul este acum extrem de mare,
+între 10.000 şi
+
+427
+00:27:05,094 --> 00:27:09,047
+100.000 de amperi,
+aerul se încălzeşte,
+
+428
+00:27:09,047 --> 00:27:15,015
+se obţine o lumină extrem de puternică,
+ionii se recombină şi
+
+429
+00:27:15,015 --> 00:27:18,058
+se produce o presiune,
+căldura poate produce presiune,
+
+430
+00:27:18,058 --> 00:27:23,073
+şi apoi vedem fulgerul.
+Prin urmare, mare parte din acţiune
+
+431
+00:27:23,073 --> 00:27:26,080
+nu se petrece în descărcarea preliminară,
+ci în cel de al doilea
+
+432
+00:27:26,080 --> 00:27:29,049
+fenomen,
+ce poartă numele de descărcare principală.
+
+433
+00:27:29,049 --> 00:27:33,047
+Descărcare ce are loc
+dinspre pământ înspre nor.
+
+434
+00:27:33,047 --> 00:27:36,023
+Viteza descărcării principale
+este de aproximativ 10 până la 20
+
+435
+00:27:36,023 --> 00:27:41,023
+la sută din viteza luminii.
+În timpul descărcării principale
+
+436
+00:27:41,023 --> 00:27:44,090
+exista un schimb de sarcină de
+aproximativ 5 coulombi între nor şi pământ.
+
+437
+00:27:44,090 --> 00:27:47,066
+5 coulombi este o fracţiune importantă
+din sarcina totală
+
+438
+00:27:47,066 --> 00:27:50,080
+existentă iniţial 
+pe nor.
+
+439
+00:27:53,083 --> 00:27:55,021
+După o descărcare
+principală,
+
+440
+00:27:55,021 --> 00:27:57,049
+probabil
+20 de milisecunde mai târziu,
+
+441
+00:27:57,049 --> 00:27:59,076
+întregul proces
+poate reîncepe din nou.
+
+442
+00:27:59,076 --> 00:28:01,089
+Putem avea o descărcare preliminară.
+Iar apoi o descărcare
+
+443
+00:28:01,089 --> 00:28:03,099
+principală.
+Totuşi, descărcarea preliminară
+
+444
+00:28:03,099 --> 00:28:08,076
+va urma exact acelaşi drum
+precum precedenta, pentru că
+
+445
+00:28:08,076 --> 00:28:11,043
+aici aerul este ionizat,
+iar conductivitatea
+
+446
+00:28:11,043 --> 00:28:13,049
+este extrem de mare,
+prin urmare, este cel mai uşor drum
+
+447
+00:28:13,049 --> 00:28:16,002
+de urmat.
+Acest proces poate avea loc
+
+448
+00:28:16,002 --> 00:28:20,058
+de 5, 10, chiar şi de 15 ori.
+Ceea ce ne apare
+
+449
+00:28:20,058 --> 00:28:26,008
+ca un singur fulger,
+ar putea fi 10 descărcări, înainte şi înapoi
+
+450
+00:28:26,008 --> 00:28:28,075
+între nor
+şi pământ.
+
+451
+00:28:28,075 --> 00:28:31,044
+Iar adevărata descărcare luminoasă
+nu se află în descărcarea preliminară,
+
+452
+00:28:31,044 --> 00:28:33,073
+acea lumină este foarte slabă,
+adevărata descărcare luminoasă se află
+
+453
+00:28:33,073 --> 00:28:36,058
+în descărcările principale.
+Aşadar, 10 descărcări principale,
+
+454
+00:28:36,058 --> 00:28:38,084
+ce pot fi la o distanţă de
+20, 30 sau 40 de milisecunde,
+
+455
+00:28:38,084 --> 00:28:43,006
+ne pot apărea ca fiind
+o singură descărcare
+
+456
+00:28:43,006 --> 00:28:45,039
+ce are loc în, să zicem,
+o zecime
+
+457
+00:28:45,039 --> 00:28:48,066
+de secundă.
+În timpul acestor 5 sau 10
+
+458
+00:28:48,066 --> 00:28:52,042
+descărcări principale,
+sarcina transportată între
+
+459
+00:28:52,044 --> 00:28:55,015
+nor şi pământ poate ajunge la
+25 până la 50 de coulombi,
+
+460
+00:28:55,015 --> 00:28:57,075
+ceea ce va duce, desigur,
+la descreşterea diferenţei de potenţial.
+
+461
+00:28:57,075 --> 00:29:01,035
+Iar dacă diferenţa de potenţial
+devine prea mică, atunci procesul
+
+462
+00:29:01,035 --> 00:29:04,000
+ia sfârşit.
+Trebui să aşteptăm acum ca
+
+463
+00:29:04,000 --> 00:29:07,015
+norii să se încarce din nou.
+Şi fulgerul va lovi
+
+464
+00:29:07,015 --> 00:29:09,054
+din nou.
+Acest proces poate dura
+
+465
+00:29:09,054 --> 00:29:12,014
+patru, cinci, zece,
+douăzeci de secunde.
+
+466
+00:29:12,014 --> 00:29:17,022
+Iar apoi are loc
+un alt fulger.
+
+467
+00:29:17,022 --> 00:29:21,095
+Studiul acestor -- acestui proces,
+al descărcării preliminare şi
+
+468
+00:29:21,095 --> 00:29:26,089
+al descărcării principale
+se poate realiza cu o cameră
+
+469
+00:29:26,089 --> 00:29:29,015
+ce poartă numele
+de cameră Bors.
+
+470
+00:29:29,015 --> 00:29:32,046
+Vă voi explica prima dată
+principiul ei de
+
+471
+00:29:32,046 --> 00:29:37,056
+funcţionare.
+Dacă aceasta este suprafaţa filmului
+
+472
+00:29:37,056 --> 00:29:42,003
+expusă prin intermediul obiectivului,
+să presupunem că filmul se deplasează
+
+473
+00:29:42,003 --> 00:29:45,084
+cu o viteză foarte mare înspre stânga.
+În momentul descărcării preliminare,
+
+474
+00:29:45,084 --> 00:29:48,093
+atunci când vedem şi
+o descărcare luminoasă,
+
+475
+00:29:48,093 --> 00:29:53,029
+ceea ce vom vedea pe film
+este ceva de genul.
+
+476
+00:29:53,029 --> 00:29:57,054
+O iluminare.
+De aici până aici vom avea
+
+477
+00:29:57,054 --> 00:30:01,002
+cinci milisecunde,
+adică timpul
+
+478
+00:30:01,002 --> 00:30:04,082
+necesar pentru ca descărcarea
+preliminară să ajungă de la nor la pământ.
+
+479
+00:30:04,082 --> 00:30:09,042
+Descărcarea principală are loc
+cu o viteză mult mai mare,
+
+480
+00:30:09,042 --> 00:30:11,099
+vedem şi o descărcare luminoasă
+extrem de mare pentru că există multă
+
+481
+00:30:11,099 --> 00:30:15,000
+lumină în descărcarea principală.
+Panta aceasta este desigur foarte
+
+482
+00:30:15,000 --> 00:30:17,064
+abruptă.
+Pentru că se deplasează de 100 de ori
+
+483
+00:30:17,064 --> 00:30:21,039
+mai repede decât
+descărcarea preliminară.
+
+484
+00:30:21,039 --> 00:30:23,035
+Putem măsura aceste intervale
+de timp şi putem obţine
+
+485
+00:30:23,035 --> 00:30:26,093
+viteza descărcării principale.
+După o anumită perioadă de timp,
+
+486
+00:30:26,093 --> 00:30:28,080
+poate după 30
+sau 40 de secunde,
+
+487
+00:30:28,080 --> 00:30:30,066
+pe film,
+s-ar putea să vedem o altă
+
+488
+00:30:30,066 --> 00:30:33,068
+descărcare principală.
+Şi încă una.
+
+489
+00:30:33,068 --> 00:30:36,085
+Putem măsura apoi 
+durata de timp dintre
+
+490
+00:30:36,085 --> 00:30:43,028
+descărcările principale,
+şi putem calcula şi vitezele lor.
+
+491
+00:30:43,028 --> 00:30:46,011
+Cu o cameră reală,
+nu filmul este cel care se deplasează,
+
+492
+00:30:46,011 --> 00:30:49,067
+ci obiectivul.
+Aceste fotografii
+
+493
+00:30:49,067 --> 00:30:52,073
+se realizează astfel,
+vă voi arăta una,
+
+494
+00:30:52,073 --> 00:30:56,063
+dacă aceasta este placa fotografică,
+atunci camera este cea care
+
+495
+00:30:56,063 --> 00:31:01,067
+se deplasează peste placă
+cu o viteză foarte mare,
+
+496
+00:31:01,067 --> 00:31:05,017
+aproximativ 3.000 de
+rotaţii pe minut,
+
+497
+00:31:05,017 --> 00:31:09,027
+şi obţinem aceste
+rezultate nu sub formă
+
+498
+00:31:09,027 --> 00:31:13,022
+orizontală ci
+împrăştiate pe suprafaţa filmului.
+
+499
+00:31:13,022 --> 00:31:15,035
+Dar obţinem aceleaşi date,
+putem calcula
+
+500
+00:31:15,035 --> 00:31:21,014
+viteze şi intervale de timp.
+În ultima perioadă de timp
+
+501
+00:31:21,014 --> 00:31:25,042
+s-au descoperit noi forme 
+de descărcări electrice ce au loc cu mult
+
+502
+00:31:25,042 --> 00:31:31,064
+deasupra norilor.
+Mult mai sus.
+
+503
+00:31:31,064 --> 00:31:35,008
+S-au observat culori roşii.
+Acestea poartă numele de „red sprites”.
+
+504
+00:31:35,008 --> 00:31:37,073
+Şi „blue jets”, de asemenea.
+Lumina este
+
+505
+00:31:37,073 --> 00:31:42,009
+foarte slabă şi are loc
+pentru o perioadă foarte scurtă de timp.
+
+506
+00:31:42,009 --> 00:31:43,086
+Este foarte
+dificil de fotografiat.
+
+507
+00:31:43,086 --> 00:31:47,038
+Nu am reuşit să fac rost
+de poze bune astăzi.
+
+508
+00:31:47,038 --> 00:31:51,018
+Totuşi, am văzut
+câteva poze pe internet.
+
+509
+00:31:51,018 --> 00:31:54,011
+Când intraţi pe internet
+şi vizitaţi site-ul cursului,
+
+510
+00:31:54,011 --> 00:31:57,001
+ceea ce ar trebui să faceţi,
+veţi găsi poze
+
+511
+00:31:57,001 --> 00:32:01,059
+cu „red sprites”
+şi „blue jets”.
+
+512
+00:32:01,059 --> 00:32:04,002
+Fizica acestor fenomene
+nu este foarte bine
+
+513
+00:32:04,002 --> 00:32:06,025
+înţeleasă.
+Au loc însă cercetări intense
+
+514
+00:32:06,025 --> 00:32:11,042
+în acest domeniu.
+Dar au loc mult deasupra norilor.
+
+515
+00:32:11,042 --> 00:32:16,003
+Există şi alte forme de
+străpungere dielectrică,
+
+516
+00:32:16,003 --> 00:32:19,004
+de descărcare.
+Sunt diferite în sensul
+
+517
+00:32:19,004 --> 00:32:21,082
+că nu este vorba
+de o singură scânteie,
+
+518
+00:32:21,082 --> 00:32:27,042
+ci are loc o deplasare 
+continuă de sarcină.
+
+519
+00:32:27,042 --> 00:32:29,069
+Au loc tot timpul între
+capetele obiectelor ascuţite.
+
+520
+00:32:29,069 --> 00:32:33,075
+Acesta este de fapt
+un curent continuu.
+
+521
+00:32:33,075 --> 00:32:37,075
+Unele din aceste fenomene
+le-aţi văzut, dar probabil nu vi le amintiţi,
+
+522
+00:32:37,075 --> 00:32:42,018
+când am folosit o lampă cu arc electric.
+Am avut doi electrozi,
+
+523
+00:32:42,018 --> 00:32:45,020
+două tije de carbon
+şi o diferenţă
+
+524
+00:32:45,020 --> 00:32:48,086
+de potenţial între ele,
+ce a determinat o descărcare între ele,
+
+525
+00:32:48,086 --> 00:32:51,085
+ceea ce a dus la o descărcare
+luminoasă intensă ce am utilizat-o
+
+526
+00:32:51,085 --> 00:32:55,075
+pentru proiector.
+O descărcare a unei lămpi cu arc electric
+
+527
+00:32:55,075 --> 00:32:58,058
+este o astfel de descărcare în care
+avem un curent continuu.
+
+528
+00:32:58,058 --> 00:33:05,055
+Nu sunt doar scântei.
+Dacă luăm iarba sau copacii
+
+529
+00:33:05,055 --> 00:33:09,034
+sau tufişurile,
+în timpul furtunilor,
+
+530
+00:33:09,034 --> 00:33:13,052
+vârfurile lor ascuţite
+pot produce o descărcare electrică.
+
+531
+00:33:13,052 --> 00:33:15,050
+Iar această
+descărcare
+
+532
+00:33:15,050 --> 00:33:17,000
+poartă numele de 
+focului sfântului Elmo,
+
+533
+00:33:17,000 --> 00:33:18,090
+este acelaşi lucru,
+mai poartă şi denumirea de
+
+534
+00:33:18,090 --> 00:33:21,082
+descărcare corona.
+Eu de obicei îi spun descărcare
+
+535
+00:33:21,082 --> 00:33:24,078
+corona.
+Produce lumină pentru că
+
+536
+00:33:24,078 --> 00:33:27,059
+ionii, în procesul de neutralizare,
+produc lumină.
+
+537
+00:33:27,059 --> 00:33:31,007
+Căldura produce sunet,
+presiune, şi putem auzi
+
+538
+00:33:31,007 --> 00:33:35,044
+aceste pocnituri
+în cazul descărcărilor corona.
+
+539
+00:33:35,044 --> 00:33:38,041
+În cazul unui avion sau a unei
+maşini în mişcare, există frecare
+
+540
+00:33:38,041 --> 00:33:40,068
+cu aerul,
+şi orice formă de frecare poate
+
+541
+00:33:40,068 --> 00:33:44,033
+încărca lucrurile.
+Nu este neobişnuit ca
+
+542
+00:33:44,033 --> 00:33:47,073
+noaptea să vedem această
+descărcare corona pe vârful
+
+543
+00:33:47,073 --> 00:33:51,068
+aripilor unui avion.
+Am văzut acest lucru şi la maşini.
+
+544
+00:33:51,068 --> 00:33:54,034
+Descărcare corona de la maşini.
+Maşini ce se încarcă
+
+545
+00:33:54,034 --> 00:33:57,027
+prin simpla deplasare
+prin aer.
+
+546
+00:33:57,027 --> 00:34:00,073
+Fluxul de aer
+le încarcă.
+
+547
+00:34:00,073 --> 00:34:03,091
+O puteţi auzi,
+pocnituri, şi o puteţi vedea
+
+548
+00:34:03,091 --> 00:34:06,042
+câteodată dacă este suficient de întuneric,
+vedeţi nişte lumină.
+
+549
+00:34:06,042 --> 00:34:12,023
+În general e o lumină albăstruie.
+Ca şi o completare,
+
+550
+00:34:12,023 --> 00:34:15,017
+reîntorcându-ne
+la fulgere,
+
+551
+00:34:15,017 --> 00:34:17,038
+fulgerele,
+descărcarea,
+
+552
+00:34:17,038 --> 00:34:20,094
+deplasarea electronilor,
+poate produce unde radio.
+
+553
+00:34:20,094 --> 00:34:24,057
+Iar aceste unde radio le puteţi
+prinde la radioul din maşină.
+
+554
+00:34:24,057 --> 00:34:26,038
+Aţi păţit cu toţii
+acest lucru.
+
+555
+00:34:26,038 --> 00:34:29,030
+Conduceţi maşina,
+fulgere foarte îndepărtate,
+
+556
+00:34:29,030 --> 00:34:32,026
+le puteţi auzi la radio.
+Acest lucru vă spune că
+
+557
+00:34:32,026 --> 00:34:36,044
+există fulgere
+pe undeva.
+
+558
+00:34:36,044 --> 00:34:39,048
+După o furtună,
+ceva ce mulţi dintre voi
+
+559
+00:34:39,048 --> 00:34:43,021
+nu aţi constatat, 
+deoarece în oraşe există tot timpul
+
+560
+00:34:43,021 --> 00:34:46,057
+noxe de la maşini
+ce strică tot,
+
+561
+00:34:46,057 --> 00:34:49,028
+dar când sunteţi la ţară,
+după o furtună
+
+562
+00:34:49,028 --> 00:34:51,092
+există un miros special
+în aer.
+
+563
+00:34:51,092 --> 00:34:54,011
+Îl ador.
+Acela e ozon.
+
+564
+00:34:54,011 --> 00:34:59,017
+Oxigen doi, oxigen doi
+după un fulger devine oxigen trei.
+
+565
+00:34:59,017 --> 00:35:01,086
+Iar oxigenul trei are
+un miros excelent,
+
+566
+00:35:01,086 --> 00:35:04,026
+şi puteţi într-adevăr să-l mirosiţi.
+Este un miros tipic.
+
+567
+00:35:04,026 --> 00:35:07,017
+Sper că marea majoritate dintre voi,
+mai repede sau mai târziu,
+
+568
+00:35:07,017 --> 00:35:09,015
+veţi avea această experienţă.
+Mergeţi la ţară după
+
+569
+00:35:09,015 --> 00:35:14,008
+o furtună şi veţi putea
+mirosi acest ozon.
+
+570
+00:35:16,051 --> 00:35:21,021
+Să vedem acum câteva poze.
+Prima poză ce o veţi
+
+571
+00:35:21,021 --> 00:35:26,086
+vedea este o poză clasică
+realizată de Gary Ladd,
+
+572
+00:35:26,086 --> 00:35:30,084
+la observatorul Kitt Peak din
+Arizona, ce-mi place la
+
+573
+00:35:30,084 --> 00:35:34,046
+aceasta este că acestea
+sunt observatoarele,
+
+574
+00:35:34,046 --> 00:35:37,007
+telescoapele
+din cupole,
+
+575
+00:35:37,007 --> 00:35:40,030
+şi desigur, când eşti un astronom
+te descurci mai bine
+
+576
+00:35:40,030 --> 00:35:44,046
+fără o astfel de vreme.
+Totuşi, se întâmplă.
+
+577
+00:35:44,046 --> 00:35:48,038
+Vedeţi descărcările principale,
+lumina se datorează cu siguranţă
+
+578
+00:35:48,038 --> 00:35:51,007
+descărcărilor principale.
+Este foarte intensă.
+
+579
+00:35:51,007 --> 00:35:55,034
+Acestea sunt descărcări preliminare
+ce nu au ajuns până la pământ,
+
+580
+00:35:55,034 --> 00:35:57,019
+iar dacă o descărcare preliminară
+nu atinge pământul,
+
+581
+00:35:57,019 --> 00:36:01,028
+descărcarea principală nu are loc,
+iar lumina ce o vedeţi aici este
+
+582
+00:36:01,028 --> 00:36:04,032
+mult mai slabă.
+Ceea ce vedeţi aici ca fiind o singură
+
+583
+00:36:04,032 --> 00:36:07,075
+descărcare, sunt probabil
+zece, între cinci şi zece,
+
+584
+00:36:07,075 --> 00:36:10,036
+poate chiar 15
+descărcări.
+
+585
+00:36:10,036 --> 00:36:16,051
+Descărcări principale.
+Următoarea poză te rog.
+
+586
+00:36:16,051 --> 00:36:20,048
+Aici vedeţi rezultatul unei expuneri
+cu o cameră Bors.
+
+587
+00:36:20,048 --> 00:36:22,042
+Pentru cei care
+staţi în faţă, puteţi
+
+588
+00:36:22,042 --> 00:36:25,073
+recunoaşte aici 
+Empire State Building-ul.
+
+589
+00:36:25,073 --> 00:36:28,007
+Clădirea Empire State Building
+este lovită aici de fulger,
+
+590
+00:36:28,007 --> 00:36:31,007
+chiar în vârf, în cel mai ascuţit punct,
+acela este şi locul în care ne-am aştepta
+
+591
+00:36:31,007 --> 00:36:34,032
+să fie lovită.
+Această descărcare nu este fotografiată
+
+592
+00:36:34,032 --> 00:36:37,090
+cu camera în mişcare,
+ci este exact expunerea
+
+593
+00:36:37,090 --> 00:36:42,065
+ce am vedea-o în realitate.
+Dar aici
+
+594
+00:36:42,065 --> 00:36:45,082
+puteţi vedea rezultatul
+rotirii camerei Bors.
+
+595
+00:36:45,082 --> 00:36:49,015
+Aceasta este aceeaşi descărcare.
+Vedeţi aici descărcarea
+
+596
+00:36:49,015 --> 00:36:51,053
+principală, 
+lumina de la descărcarea
+
+597
+00:36:51,053 --> 00:36:54,065
+preliminară este prea slabă.
+Nu o puteţi vedea.
+
+598
+00:36:54,065 --> 00:36:58,005
+Aici este descărcarea principală,
+aceasta este durata de timp dintre ele,
+
+599
+00:36:58,005 --> 00:37:00,005
+30 sau 40
+de millisecunde,
+
+600
+00:37:00,005 --> 00:37:02,032
+vedem încă o descărcare,
+încă o descărcare,
+
+601
+00:37:02,032 --> 00:37:04,003
+şi încă una,
+şase în total,
+
+602
+00:37:04,003 --> 00:37:06,046
+s-ar putea să avem
+una dublă aici.
+
+603
+00:37:06,046 --> 00:37:09,096
+Există un număr de şase
+sau şapte descărcări principale.
+
+604
+00:37:09,096 --> 00:37:14,028
+Aceasta este modalitatea prin care
+putem studia vitezele şi cantitatea
+
+605
+00:37:14,028 --> 00:37:18,025
+de sarcină transportată
+între
+
+606
+00:37:18,025 --> 00:37:22,038
+nor şi în acest caz
+clădirea Empire State Building.
+
+607
+00:37:22,038 --> 00:37:25,055
+Următoarea poză este a unei
+descărcări corona în
+
+608
+00:37:25,055 --> 00:37:29,038
+laborator. Aceasta este o sursă
+de tensiune înaltă cu un vârf
+
+609
+00:37:29,038 --> 00:37:31,051
+ascuţit aici la capăt,
+punctul ascuţit,
+
+610
+00:37:31,051 --> 00:37:34,038
+şi în acest caz nu avem descărcări
+individuale, acesta nu este
+
+611
+00:37:34,038 --> 00:37:36,032
+un fulger,
+ci este focul
+
+612
+00:37:36,032 --> 00:37:39,032
+sfântului Elmo,
+descărcarea corona este de culoare
+
+613
+00:37:39,032 --> 00:37:42,051
+albăstruie.
+Când ne aflăm în apropierea
+
+614
+00:37:42,051 --> 00:37:46,032
+acestei surse de putere,
+putem mirosi ozonul.
+
+615
+00:37:46,032 --> 00:37:49,046
+Produce local ozon.
+Puteţi vedea descărcare.
+
+616
+00:37:49,046 --> 00:37:52,007
+Dacă este suficient
+de întuneric în laborator, puteţi vedea
+
+617
+00:37:52,007 --> 00:37:54,025
+o lumină albăstruie.
+Când eram la doctorat
+
+618
+00:37:54,025 --> 00:37:56,061
+a trebuit să construiesc
+surse de putere, surse de tensiune
+
+619
+00:37:56,061 --> 00:38:01,042
+înaltă, şi ţin minte că atunci când
+lipiturile mele nu erau foarte
+
+620
+00:38:01,042 --> 00:38:05,094
+reuşite, adică atunci când
+îndepărtam pistolul de lipit
+
+621
+00:38:05,094 --> 00:38:09,065
+cream şi un mic punct ascuţit,
+iar acel punct îmi dădea
+
+622
+00:38:09,065 --> 00:38:12,059
+mai târziu dureri de cap
+cu descărcarea  corona.
+
+623
+00:38:12,059 --> 00:38:16,019
+Trebuie să refac lipitura
+astfel încât raza
+
+624
+00:38:16,019 --> 00:38:24,000
+îmbinării să devină mai mare,
+fără puncte ascuţite prin urmare.
+
+625
+00:38:24,000 --> 00:38:27,023
+Suficiente poze
+pentru acum.
+
+626
+00:38:27,023 --> 00:38:32,063
+Benjamin Franklin
+a inventat paratrăsnetul.
+
+627
+00:38:32,063 --> 00:38:37,059
+Acesta s-a gândit că prin
+paratrăsnet s-ar obţine o
+
+628
+00:38:37,059 --> 00:38:40,040
+descărcare continuă,
+descărcare corona,
+
+629
+00:38:40,040 --> 00:38:43,030
+între nor şi
+clădire.
+
+630
+00:38:43,030 --> 00:38:46,038
+Şi ca urmare a acestui lucru,
+diferenţa de potenţial se va menţine scăzută.
+
+631
+00:38:46,038 --> 00:38:51,036
+Şi nu va exista niciun
+pericol ca fulgerul să lovească.
+
+632
+00:38:51,036 --> 00:38:54,044
+Acesta l-a sfătuit pe regele George
+al III-lea să pună aceste puncte
+
+633
+00:38:54,044 --> 00:38:58,057
+ascuţite pe palatul regal
+şi pe
+
+634
+00:38:58,057 --> 00:39:02,003
+depozitele de
+muniţie.
+
+635
+00:39:02,003 --> 00:39:05,071
+Mulţi s-au împotrivit
+ideei lui Franklin.
+
+636
+00:39:05,071 --> 00:39:09,050
+Aceştia susţineau că
+paratrăsnetul nu va face decât să atragă
+
+637
+00:39:09,050 --> 00:39:11,057
+fulgerele,
+iar efectul
+
+638
+00:39:11,057 --> 00:39:14,019
+descărcării,
+scăderea diferenţei de potenţial,
+
+639
+00:39:14,019 --> 00:39:17,069
+va fi neglijabil.
+Cu toate acestea, regele
+
+640
+00:39:17,069 --> 00:39:23,080
+a urmat sfaturile lui Franklin
+şi după instalarea
+
+641
+00:39:23,080 --> 00:39:26,057
+punctelor ascuţite,
+a paratrăsnetelor,
+
+642
+00:39:26,057 --> 00:39:30,015
+a existat un fulger ce 
+a lovit unul din depozitele de muniţie
+
+643
+00:39:30,015 --> 00:39:32,040
+de la
+Pearl Fleet,
+
+644
+00:39:32,040 --> 00:39:35,032
+dar pagubele 
+au fost minime.
+
+645
+00:39:35,032 --> 00:39:42,015
+Se ştie acum, pe de o parte,
+că descărcarea corona este într-adevăr
+
+646
+00:39:42,015 --> 00:39:45,048
+neglijabilă.
+Vocile care s-au opus
+
+647
+00:39:45,048 --> 00:39:47,088
+au avut dreptate.
+Şi chiar atragi
+
+648
+00:39:47,088 --> 00:39:51,084
+fulgerele, spre deosebire
+de ceea ce spera Franklin.
+
+649
+00:39:51,084 --> 00:39:55,044
+Totuşi, dacă paratrăsnetul 
+este suficient de gros încât să poată
+
+650
+00:39:55,044 --> 00:39:58,086
+conduce un curent mare,
+şi anume 10.000 sau
+
+651
+00:39:58,086 --> 00:40:01,001
+100.000 de amperi,
+atunci curentul se va deplasa
+
+652
+00:40:01,001 --> 00:40:03,055
+prin paratrăsnet
+şi nu va exista
+
+653
+00:40:03,055 --> 00:40:06,055
+nicio explozie.
+Nu va lovi aşadar
+
+654
+00:40:06,055 --> 00:40:08,057
+clădirea.
+Va lovi doar
+
+655
+00:40:08,057 --> 00:40:12,019
+paratrăsnetul.
+Acesta este eficient aşadar, dar
+
+656
+00:40:12,019 --> 00:40:15,088
+motivele sunt altele decât cele
+imaginate de Franklin, dar intuiţia
+
+657
+00:40:15,088 --> 00:40:19,092
+a fost una corecta.
+A fost un om de ştiinţă extraordinar,
+
+658
+00:40:19,092 --> 00:40:22,040
+un politician desăvârşit.
+Paratrăsnetul său
+
+659
+00:40:22,040 --> 00:40:28,075
+a supravieţuit până în zilele noastre.
+Vreau să ne întoarcem la
+
+660
+00:40:28,075 --> 00:40:33,007
+Van der Graaff pentru a vă arăta
+unele din lucrurile despre care am
+
+661
+00:40:33,007 --> 00:40:36,021
+vorbit.
+Primul lucru ce
+
+662
+00:40:36,021 --> 00:40:40,051
+vreau să-l fac
+este să creez nişte scântei.
+
+663
+00:40:40,051 --> 00:40:43,088
+Fulgere.
+Pornesc Van der Graaff-ul şi mă
+
+664
+00:40:43,088 --> 00:40:49,094
+voi apropia de el cu
+această sferă mică, rază mică,
+
+665
+00:40:49,094 --> 00:40:52,078
+şi pe măsură ce vin tot mai aproape,
+câmpul electric va
+
+666
+00:40:52,078 --> 00:40:57,009
+creşte în acest punct,
+şi pot spune cu siguranţă că primele scântei
+
+667
+00:40:57,009 --> 00:41:01,080
+vor avea loc între
+Van der Graaff şi această
+
+668
+00:41:01,080 --> 00:41:03,084
+sferă.
+Această sferă este legată la pământ.
+
+669
+00:41:03,084 --> 00:41:07,017
+Curentul existent
+nu se va deplasa prin
+
+670
+00:41:07,017 --> 00:41:11,017
+Walter Lewin ci prin pământ,
+prin urmare
+
+671
+00:41:11,017 --> 00:41:16,078
+sunt în siguranţă.
+Pe moment, cel puţin.
+
+672
+00:41:16,078 --> 00:41:18,080
+Puteţi auzi deja
+nişte pocnete.
+
+673
+00:41:18,080 --> 00:41:21,005
+Asta înseamnă că există
+deja scântei în
+
+674
+00:41:21,005 --> 00:41:23,053
+interior.
+Sunt foarte greu de evitat,
+
+675
+00:41:23,053 --> 00:41:26,053
+vor exista tot timpul câteva 
+puncte ascuţite ce nu pot fi
+
+676
+00:41:26,053 --> 00:41:28,015
+îndepărtate.
+Acesta nu este
+
+677
+00:41:28,015 --> 00:41:30,094
+un instrument ideal.
+Dar sunt sigur că
+
+678
+00:41:30,094 --> 00:41:37,055
+pot să vă arăt nişte fulgere.
+Dacă vin mai aproape.
+
+679
+00:41:37,055 --> 00:41:44,026
+Iată.
+Ceea ce credeţi că este o singură
+
+680
+00:41:44,026 --> 00:41:48,005
+scânteie, s-ar putea să fie
+câteva descărcări principale de fapt,
+
+681
+00:41:48,005 --> 00:41:53,040
+la fel precum
+în cazul fulgerelor.
+
+682
+00:41:53,040 --> 00:41:57,030
+Ceea ce vedeţi aici
+se datorează creşterii locale a
+
+683
+00:41:57,030 --> 00:42:01,015
+câmpului electric peste valoarea
+de 3 milioane de volţi pe metru,
+
+684
+00:42:01,015 --> 00:42:03,053
+ceea ce duce la acest 
+fenomen de descărcare ce
+
+685
+00:42:03,053 --> 00:42:06,021
+l-am discutat.
+Obţinem aşadar
+
+686
+00:42:06,021 --> 00:42:12,063
+fulgere.
+Aş vrea acum
+
+687
+00:42:12,063 --> 00:42:16,096
+să vedeţi --
+cu toate că s-ar putea să nu
+
+688
+00:42:16,096 --> 00:42:21,069
+vi se pară foarte fascinant --
+să vedeţi o descărcare corona
+
+689
+00:42:21,069 --> 00:42:27,034
+între un punct ascuţit,
+extrem de ascuţit,
+
+690
+00:42:27,034 --> 00:42:31,086
+şi Van der Graaff.
+Singura modalitate prin care
+
+691
+00:42:31,086 --> 00:42:34,051
+vă pot convinge că există
+într-adevăr o descărcare
+
+692
+00:42:34,051 --> 00:42:37,075
+între acest punct şi
+Van der Graaff,
+
+693
+00:42:37,075 --> 00:42:41,063
+este dacă vin în apropierea Van der Graaff-ului
+iar pocnetele ce
+
+694
+00:42:41,063 --> 00:42:46,048
+le auziţi acum vor înceta.
+Motivul pentru care vor
+
+695
+00:42:46,048 --> 00:42:49,036
+înceta, este că dacă am o
+descărcare corona între vârf
+
+696
+00:42:49,036 --> 00:42:51,098
+şi Van der Graaff,
+voi trage curent,
+
+697
+00:42:51,098 --> 00:42:55,009
+potenţialul va descreşte
+iar aceste pocnete
+
+698
+00:42:55,009 --> 00:42:57,019
+vor înceta.
+Scânteile ce există acum
+
+699
+00:42:57,019 --> 00:42:59,059
+în interior nu
+vor mai exista.
+
+700
+00:42:59,059 --> 00:43:01,048
+Nu veţi putea vedea
+nicio lumină.
+
+701
+00:43:01,048 --> 00:43:03,042
+Aveam prea
+multă lumină aici.
+
+702
+00:43:03,042 --> 00:43:08,075
+Cu toate că eu voi putea probabil
+să văd o lumină albastră pe vârf.
+
+703
+00:43:08,075 --> 00:43:12,007
+Mă voi apropia acum
+de Van der Graaff.
+
+704
+00:43:12,007 --> 00:43:15,075
+Este ca şi cum aş avea
+un paratrăsnet şi pot sta
+
+705
+00:43:15,075 --> 00:43:19,048
+liniştit, pentru că dacă 
+va exista un curent, acesta se va
+
+706
+00:43:19,048 --> 00:43:22,059
+deplasa prin această tijă,
+ce este similară unui paratrăsnet
+
+707
+00:43:22,059 --> 00:43:24,051
+legat la pământ.
+Nu-mi fac nicio grijă.
+
+708
+00:43:24,051 --> 00:43:27,048
+Sunt foarte viteaz,
+foarte curajos
+
+709
+00:43:27,048 --> 00:43:30,023
+pe măsură ce mă apropii de
+Van der Graaff, şi vreau să
+
+710
+00:43:30,023 --> 00:43:33,017
+ascultaţi aceste pocnete.
+Acestea vor
+
+711
+00:43:33,017 --> 00:43:36,051
+înceta când voi
+trage curent prin acest
+
+712
+00:43:36,051 --> 00:43:44,065
+punct ascuţit.
+Să încercăm.
+
+713
+00:43:44,065 --> 00:43:48,061
+Şi sunetul încetează.
+Observ aici într-adevăr
+
+714
+00:43:48,061 --> 00:43:50,065
+o descărcare incandescentă,
+albăstruie.
+
+715
+00:43:50,065 --> 00:43:53,001
+Este imposibil
+pentru voi ca să vedeţi.
+
+716
+00:43:53,001 --> 00:43:55,092
+Pot să mă apropii şi mai mult,
+nu-mi fac griji.
+
+717
+00:43:55,092 --> 00:44:00,078
+Îndepărtez aşadar sarcină
+de pe Van der Graaff,
+
+718
+00:44:00,078 --> 00:44:04,071
+reducând potenţialul
+Van der Graaff-ului, iar aceste
+
+719
+00:44:04,071 --> 00:44:08,015
+scântei ce au loc aici
+încetează.
+
+720
+00:44:08,015 --> 00:44:13,098
+Acum vor avea loc iarăşi.
+Le puteţi auzi?
+
+721
+00:44:13,098 --> 00:44:22,038
+Acum nu le mai puteţi.
+Dacă aş fi nebun aş
+
+722
+00:44:22,038 --> 00:44:26,090
+crea o descărcare corona
+între Van der Graaff şi
+
+723
+00:44:26,090 --> 00:44:30,011
+mine. O modalitate prin
+care aş putea face asta este
+
+724
+00:44:30,011 --> 00:44:33,069
+dacă vin în apropierea lui cu degetele, 
+precum am menţionat mai devreme,
+
+725
+00:44:33,069 --> 00:44:35,076
+dar acest lucru este prea periculos
+pentru că aş putea crea
+
+726
+00:44:35,076 --> 00:44:39,015
+o scânteie, s-ar putea să
+fiu lovit de fulger. Nu mi-am făcut
+
+727
+00:44:39,015 --> 00:44:45,003
+astfel de planuri pentru astăzi.
+Totuşi, o descărcare corona
+
+728
+00:44:45,003 --> 00:44:47,061
+folosind această
+beteală este mai puţin
+
+729
+00:44:47,061 --> 00:44:50,009
+periculoasă.
+Voi obţine o deplasare continuă
+
+730
+00:44:50,009 --> 00:44:53,094
+de sarcină, care de data aceasta
+din păcate, nu se va deplasa prin
+
+731
+00:44:53,094 --> 00:44:57,034
+paratrăsnet ci direct
+prin corpul meu.
+
+732
+00:44:57,034 --> 00:45:00,055
+Vă asigur că
+acest lucru se simte.
+
+733
+00:45:00,055 --> 00:45:02,017
+Este un curent
+foarte mic probabil.
+
+734
+00:45:02,017 --> 00:45:04,036
+De ordinul
+microamperilor.
+
+735
+00:45:04,036 --> 00:45:08,098
+Dar nu este distractiv.
+Nu este plăcut.
+
+736
+00:45:08,098 --> 00:45:13,001
+Dar fac orice pentru studenţii mei,
+ce naiba.
+
+737
+00:45:13,001 --> 00:45:20,063
+Să vedem.
+Da da da da.
+
+738
+00:45:20,063 --> 00:45:24,071
+Vedeţi beteala,
+mă aflu acum într-o descărcare corona
+
+739
+00:45:24,071 --> 00:45:28,073
+şi simt curentul prin degete,
+este o descărcare
+
+740
+00:45:28,073 --> 00:45:31,069
+continuă de data aceasta.
+Acesta este focul sfântului
+
+741
+00:45:31,069 --> 00:45:35,055
+Elmo.
+Nu putem -- ah,
+
+742
+00:45:35,055 --> 00:45:39,051
+acesta a fost un fulger.
+Măcar aţi primit ceva în schimbul
+
+743
+00:45:39,051 --> 00:45:44,086
+taxei de 27.000 de dolari.
+O, mamă.
+
+744
+00:45:44,086 --> 00:45:49,013
+Aţi văzut
+şi descărcarea
+
+745
+00:45:49,013 --> 00:45:54,048
+corona şi un fulger.
+Aţi fost mult mai norocoşi
+
+746
+00:45:54,048 --> 00:45:58,052
+decât grupa
+precedentă.
+
+747
+00:46:02,028 --> 00:46:06,088
+Fulgerele pot fi periculoase, desigur,
+acestea pot cauza
+
+748
+00:46:06,088 --> 00:46:11,055
+incendii, 
+pot duce la explozii.
+
+749
+00:46:11,055 --> 00:46:17,038
+Dacă vă alimentaţi maşina,
+simpla curgere a carburantului poate încărca
+
+750
+00:46:17,038 --> 00:46:21,023
+pompa, prin frecare lucrurile se pot
+pot încărca, de aceea pompa
+
+751
+00:46:21,023 --> 00:46:23,078
+este tot timpul legată la împământare,
+pentru că o simplă scânteie
+
+752
+00:46:23,078 --> 00:46:27,007
+poate produce o explozie mare.
+Dacă umpleţi un balon cu
+
+753
+00:46:27,007 --> 00:46:30,053
+hidrogen, atunci curgerea
+hidrogenului înseamnă frecare ce poate
+
+754
+00:46:30,053 --> 00:46:36,084
+încărca balonul, iar hidrogenul
+poate fi aprins de la o scânteie.
+
+755
+00:46:36,084 --> 00:46:41,088
+Acest lucru a condus
+la un accident deja clasic,
+
+756
+00:46:41,088 --> 00:46:45,067
+cu ceva timp în urmă.
+Dar este atât de cunoscut încât
+
+757
+00:46:45,067 --> 00:46:52,069
+trebuie să vi-l arăt.
+Hitler era foarte mândru de
+
+758
+00:46:52,069 --> 00:46:56,063
+dirijabilele sale.
+Acestea poartă numele lui Gar
+
+759
+00:46:56,063 --> 00:46:58,015
+Zeppelin,
+nemţii le-au numit
+
+760
+00:46:58,015 --> 00:47:01,050
+zepeline, noi le numit
+dirijabile sau „grăsane”.
+
+761
+00:47:01,050 --> 00:47:04,092
+Unul din cele mai mari dirijabile
+construite de Germania hitleristă
+
+762
+00:47:04,092 --> 00:47:08,038
+a fost Hindenburg-ul,
+245 de metri lungime
+
+763
+00:47:08,038 --> 00:47:11,071
+şi un volum de
+200.000 m^3 de hidrogen.
+
+764
+00:47:11,071 --> 00:47:15,096
+Nemţii nu puteau să-şi
+umple zepelinele cu heliu,
+
+765
+00:47:15,096 --> 00:47:19,044
+pentru că nu dispuneau de heliu.
+Iar americanii,
+
+766
+00:47:19,044 --> 00:47:23,055
+dintr-un motiv bine întemeiat,
+nu avea de gând să le vândă heliu.
+
+767
+00:47:23,055 --> 00:47:25,013
+Prin urmare au trebuit
+să le umple cu
+
+768
+00:47:25,013 --> 00:47:27,092
+hidrogen.
+Aşa că Hindenburg-ul, acesta era
+
+769
+00:47:27,092 --> 00:47:33,072
+numele acestui zepelin,
+a venit aici în mai, 1937,
+
+770
+00:47:33,072 --> 00:47:40,063
+şi când a ajuns în Lakehurst,
+New Jersey
+
+771
+00:47:40,063 --> 00:47:45,065
+a luat foc.
+Călătoria transatlantică
+
+772
+00:47:45,065 --> 00:47:51,032
+a durat 35 de ore.
+Puteţi vedea aici explozia.
+
+773
+00:47:51,032 --> 00:47:54,098
+6 mai, 
+ora 19:25.
+
+774
+00:47:54,098 --> 00:47:56,060
+Au fost 45
+de călători la
+
+775
+00:47:56,060 --> 00:47:59,011
+bord, şi 35 dintre ei
+au murit în acest foc.
+
+776
+00:47:59,011 --> 00:48:02,023
+S-a speculat că 
+a fost un sabotaj.
+
+777
+00:48:02,023 --> 00:48:05,088
+Este posibil.
+Cu toată că ancheta oficială
+
+778
+00:48:05,088 --> 00:48:08,084
+a stabilit că s-a datorat
+focului sfântului Elmo,
+
+779
+00:48:08,084 --> 00:48:15,075
+că pe măsură ce dirijabilul
+a ancorat pe acest pilon de aici,
+
+780
+00:48:15,075 --> 00:48:19,053
+a luat naştere o scânteie
+ce a dus la
+
+781
+00:48:19,053 --> 00:48:23,073
+o explozie, la foc.
+Acesta a fost sfârşitul
+
+782
+00:48:23,073 --> 00:48:29,034
+dirijabilelor pentru Germania.
+Napoleon, nici el
+
+783
+00:48:29,034 --> 00:48:33,086
+printre cei mai drăguţi oameni 
+de pe pământ, a suspectat
+
+784
+00:48:33,086 --> 00:48:41,034
+că îmbolnăvirile 
+soldaţilor din Egipt
+
+785
+00:48:41,034 --> 00:48:49,082
+se datorau gazului de mlaştină.
+Au suspectat că acest
+
+786
+00:48:49,082 --> 00:48:53,065
+miros urât ce-l puteau simţi
+când se aflau în apropierea mlaştinilor,
+
+787
+00:48:53,065 --> 00:48:57,032
+că acesta era cauza bolii.
+În franceză, aerul urât mirositor se traduce prin
+
+788
+00:48:57,032 --> 00:49:01,013
+„mal air”, prin urmarea
+boala a primit numele de malarie.
+
+789
+00:49:01,013 --> 00:49:03,090
+Francezii
+testau aerul
+
+790
+00:49:03,090 --> 00:49:07,046
+pentru a se asigura
+că soldaţii nu vor lua malarie
+
+791
+00:49:07,046 --> 00:49:13,090
+cu ajutorul unei 
+astfel de puşti, aceasta era o
+
+792
+00:49:13,090 --> 00:49:19,069
+ţeavă conductoare.
+Lăsau înăuntrul puşii
+
+793
+00:49:19,069 --> 00:49:23,065
+gazul de mlaştină,
+puneau un dop aici,
+
+794
+00:49:23,065 --> 00:49:31,090
+o închideau,
+iar aici exista un cui ascuţit,
+
+795
+00:49:31,090 --> 00:49:35,057
+acest cui fiind complet
+izolat faţă de ţeavă,
+
+796
+00:49:35,057 --> 00:49:38,044
+de această ţeavă conductoare,
+şi puneau apoi
+
+797
+00:49:38,044 --> 00:49:40,071
+o anumită sarcină aici,
+ceea ce producea o scânteie
+
+798
+00:49:40,071 --> 00:49:42,046
+înăuntru.
+Acesta este precursorul
+
+799
+00:49:42,046 --> 00:49:44,007
+bujiei 
+auto.
+
+800
+00:49:44,007 --> 00:49:47,044
+Este aceeaşi idee.
+Dacă într-adevăr exista
+
+801
+00:49:47,044 --> 00:49:49,098
+gaz de mlaştină înăuntru,
+se producea o explozie, acesta
+
+802
+00:49:49,098 --> 00:49:56,034
+fiind semnalul că 
+soldaţii s-ar putea afla
+
+803
+00:49:56,034 --> 00:50:01,023
+în pericol.
+Mergeam de dimineaţă
+
+804
+00:50:01,023 --> 00:50:06,001
+prin clădire,
+am trecut prin sala 7 şi
+
+805
+00:50:06,001 --> 00:50:08,082
+am simţit un miros ciudat,
+mirosea ciudat,
+
+806
+00:50:08,082 --> 00:50:11,000
+şi m-am întrebat 
+dacă nu cumva,
+
+807
+00:50:11,000 --> 00:50:14,092
+cine ştie, la MIT orice se poate
+întâmpla, dacă nu cumva era
+
+808
+00:50:14,092 --> 00:50:20,021
+ceva gaz 
+ce nu ar trebui să fie acolo.
+
+809
+00:50:20,021 --> 00:50:29,040
+Aşa că mi-am scos
+arma mea specială, ce se află aici,
+
+810
+00:50:29,040 --> 00:50:35,071
+construită după cea a lui Napoleon.
+Vedeţi aici
+
+811
+00:50:35,071 --> 00:50:40,042
+această sferă mică.
+Am deschis dopul
+
+812
+00:50:40,042 --> 00:50:43,071
+şi am lăsat să intre nişte
+aer înăuntru, din sala 7,
+
+813
+00:50:43,071 --> 00:50:47,023
+şi apoi m-am decis să facem
+testul împreună şi
+
+814
+00:50:47,023 --> 00:50:51,042
+să vedem dacă nu cumva
+acel gaz
+
+815
+00:50:51,042 --> 00:50:56,046
+este periculos.
+Va trebui să provoc
+
+816
+00:50:56,046 --> 00:51:01,019
+o descărcare în
+interiorul ţevii.
+
+817
+00:51:01,019 --> 00:51:05,011
+Pot încerca acest lucru
+dacă mă pieptăn, dar această
+
+818
+00:51:05,011 --> 00:51:07,086
+sarcină s-ar putea
+să nu fie suficientă.
+
+819
+00:51:07,086 --> 00:51:11,098
+Pot fi sigur că va exista
+o sarcină în interiorul puştii
+
+820
+00:51:11,098 --> 00:51:15,065
+dacă folosesc acest disc.
+Disc ce posedă puţin mai multă
+
+821
+00:51:15,065 --> 00:51:22,038
+pe el.
+Am aici înăuntru gazul
+
+822
+00:51:22,038 --> 00:51:26,046
+din sala 7.
+Acum, desigur,
+
+823
+00:51:26,046 --> 00:51:29,005
+s-ar putea să nu fie nimic
+rău cu aerul de acolo,
+
+824
+00:51:29,005 --> 00:51:31,063
+caz în care
+nu veţi vedea nimic.
+
+825
+00:51:31,063 --> 00:51:33,067
+Mai există şi posibilitatea
+ca aerul ce l-am luat
+
+826
+00:51:33,067 --> 00:51:40,013
+să nu fie de calitate,
+caz în care zgomotul va fi foarte mic.
+
+827
+00:51:40,013 --> 00:51:42,094
+Din
+acest motiv,
+
+828
+00:51:42,094 --> 00:51:46,076
+va trebui să faceţi linişte, 
+altfel nu veţi auzi nimic.
+
+829
+00:51:46,076 --> 00:51:49,061
+Să încercăm prima
+dată cu pieptenele.
+
+830
+00:51:49,061 --> 00:51:52,053
+Am pieptenele aici.
+Să vedem dacă pot da naştere
+
+831
+00:51:52,053 --> 00:51:57,055
+unei scântei în interiorul ţevii.
+S-ar putea să nu funcţioneze
+
+832
+00:51:57,055 --> 00:52:02,011
+pentru că nu sunt sigur
+că pot aduce suficientă sarcină pe el.
+
+833
+00:52:02,011 --> 00:52:05,017
+Nu, nu funcţionează deloc.
+Să vedem dacă putem
+
+834
+00:52:05,017 --> 00:52:08,025
+folosi
+acest instrument.
+
+835
+00:52:18,040 --> 00:52:22,036
+Sper că nu vom
+lua malarie.
+
+836
+00:52:22,036 --> 00:52:24,053
+Ne vedem
+mâine.
+
+837
+00:52:24,055 --> 00:52:35,039
+( subtitrarea în limba română pentru
+www.circuiteelectrice.ro )

@@ -1,0 +1,3128 @@
+﻿1
+00:00:04,91 --> 00:00:10,39
+Astăzi vom lucra la un nou concept,
+
+2
+00:00:11,65 --> 00:00:13,45
+şi anume,
+
+3
+00:00:17,47 --> 00:00:18,72
+câmpul electric.
+
+4
+00:00:18,72 --> 00:00:22,03
+Vom aloca un curs întreg câmpurilor electrice.
+
+5
+00:00:23,37 --> 00:00:28,00
+Dacă am o sarcină, de exemplu Q,
+
+6
+00:00:30,37 --> 00:00:34,95
+Q mare şi pozitiv într-un anumit punct
+
+7
+00:00:36,38 --> 00:00:40,80
+şi într-un alt punct am o altă sarcină, q mic.
+
+8
+00:00:40,80 --> 00:00:43,70
+q mic reprezintă sarcina de test.
+
+9
+00:00:43,70 --> 00:00:48,28
+Distanţa dintre cele două sarcini este r.
+
+10
+00:00:49,73 --> 00:00:56,95
+Vectorul unitate dinspre sarcina Q înspre sarcina q este acest vector.
+
+11
+00:00:57,60 --> 00:00:59,09
+Ştiu acum că,
+
+12
+00:00:59,09 --> 00:01:01,76
+cele două sarcini, dacă ambele sunt pozitive,
+
+13
+00:01:01,76 --> 00:01:06,40
+să presupunem că sarcina q este pozitivă, se vor respinge reciproc.
+
+14
+00:01:06,40 --> 00:01:10,05
+Dacă sarcina q este negativă, se vor atrage.
+
+15
+00:01:11,00 --> 00:01:14,07
+Notăm această forţă cu F.
+
+16
+00:01:16,21 --> 00:01:20,29
+La cursul precedent am introdus legea lui Coulomb,
+
+17
+00:01:20,29 --> 00:01:22,80
+ce spune că forţa este egală cu
+
+18
+00:01:22,80 --> 00:01:27,36
+q înmulţit cu Q şi cu constanta lui Coulomb, totul împărţit la r^2,
+
+19
+00:01:28,42 --> 00:01:30,98
+în direcţia vectorului unitate, r căciuliţă.
+
+20
+00:01:30,98 --> 00:01:33,46
+Dacă cele două au acelaşi semn, forţa e în această direcţie,
+
+21
+00:01:33,46 --> 00:01:37,13
+dacă au semne contrare, atunci forţa e în cealaltă direcţie.
+
+22
+00:01:37,91 --> 00:01:42,61
+Voi introduce acum ideea de câmp electric,
+
+23
+00:01:42,61 --> 00:01:45,98
+pentru care folosim simbolul E.
+
+24
+00:01:47,71 --> 00:01:53,40
+Iar E în punctul P, locaţia sarcinii de test q,
+
+25
+00:01:55,92 --> 00:02:00,54
+este forţa exercitată asupra sarcinii de test
+
+26
+00:02:00,54 --> 00:02:02,84
+împărţită la sarcina electrică a acesteia.
+
+27
+00:02:02,84 --> 00:02:07,37
+Elimin prin urmare sarcina de test. Obţin o ecuaţie similară
+
+28
+00:02:07,37 --> 00:02:09,63
+dar fără q în ea.
+
+29
+00:02:11,98 --> 00:02:14,91
+Şi acesta este un vector.
+
+30
+00:02:17,16 --> 00:02:22,80
+Prin convenţie, alegem forţa astfel încât,
+
+31
+00:02:25,00 --> 00:02:27,80
+dacă aceasta este o sarcină de test pozitivă,
+
+32
+00:02:29,97 --> 00:02:34,70
+câmpul electric E este dinspre Q în exterior, dacă Q este pozitivă.
+
+33
+00:02:34,70 --> 00:02:38,05
+Dacă Q este negativă, sensul forţei se inversează,
+
+34
+00:02:38,05 --> 00:02:39,78
+iar E este şi el în sens opus.
+
+35
+00:02:39,78 --> 00:02:44,10
+Adoptăm prin urmare convenţia că E se află tot timpul pe direcţia forţei
+
+36
+00:02:44,10 --> 00:02:47,26
+rezultate asupra unei sarcini de test pozitive.
+
+37
+00:02:47,26 --> 00:02:50,72
+Rezultatul final este că am eliminat q.
+
+38
+00:02:51,94 --> 00:02:56,13
+Cu alte cuvinte, forţa depinde de q.
+
+39
+00:02:57,19 --> 00:02:59,01
+Câmpul electric nu depinde de q.
+
+40
+00:02:59,01 --> 00:03:03,21
+Câmpul electric caracterizează spaţiul din jurul
+
+41
+00:03:03,21 --> 00:03:04,86
+sarcinii plus Q.
+Aceasta ar putea fi
+
+42
+00:03:04,86 --> 00:03:07,14
+configuraţie de sarcină foarte complicată.
+
+43
+00:03:07,14 --> 00:03:11,30
+Un câmp electric ne oferă informaţii legate de această configuraţie de sarcină.
+
+44
+00:03:11,30 --> 00:03:14,30
+Unitatea de măsură pentru câmpul electric, după cum puteţi vedea,
+
+45
+00:03:14,30 --> 00:03:18,08
+este newton pe coulomb, în unităţi SI.
+
+46
+00:03:21,15 --> 00:03:24,47
+Nu vom indica de obicei unitatea de măsură.
+
+47
+00:03:28,64 --> 00:03:32,53
+Putem reprezenta grafic câmpul electric.
+
+48
+00:03:34,47 --> 00:03:37,13
+Câmpul electric este un vector.
+
+49
+00:03:37,13 --> 00:03:40,12
+Vă puteţi aştepta aşadar la săgeţi.
+
+50
+00:03:40,87 --> 00:03:47,04
+Am aici un exemplu a unei sarcini electrice de +3.
+
+51
+00:03:49,28 --> 00:03:53,81
+Prin convenţie, sensul săgeţilor este dinspre sarcină înspre exterior,
+
+52
+00:03:53,81 --> 00:03:58,69
+în direcţia forţei ce ar fi exercitată asupra unei sarcini de test pozitive.
+
+53
+00:03:58,69 --> 00:04:02,55
+Observaţi că în imediata vecinătate
+
+54
+00:04:02,55 --> 00:04:05,73
+a sarcinii, săgeţile sunt mai mari decât în rest.
+
+55
+00:04:05,73 --> 00:04:07,67
+Acest lucru încearcă să reprezinte
+
+56
+00:04:07,67 --> 00:04:14,43
+relaţia inversă cu r^2.
+Desigur, nu este foarte cantitativ.
+
+57
+00:04:14,43 --> 00:04:16,20
+Dar ideea de bază este, aceasta are desigur
+
+58
+00:04:16,20 --> 00:04:18,33
+simetrie sferică,
+dacă aceasta este o sarcină punctiformă.
+
+59
+00:04:18,33 --> 00:04:23,84
+Ideea de bază este că puteţi vedea vectorii câmpului, iar
+
+60
+00:04:23,84 --> 00:04:29,17
+direcţia săgeţii ne indică direcţia forţei în cazul introducerii
+
+61
+00:04:29,17 --> 00:04:30,94
+unei sarcini de test pozitive.
+
+62
+00:04:30,94 --> 00:04:34,87
+Lungimea vectorului ne indică amplitudinea.
+
+63
+00:04:34,87 --> 00:04:37,52
+Am aici o altă sarcină, -1.
+
+64
+00:04:37,52 --> 00:04:40,57
+Nu contează dacă este -1 coulomb sau
+
+65
+00:04:40,57 --> 00:04:43,19
+-1 micro-coulomb.
+Este doar o reprezentare
+
+66
+00:04:43,19 --> 00:04:47,47
+relativă.
+Observaţi că vectorii câmpului electric E
+
+67
+00:04:48,39 --> 00:04:51,75
+au o direcţie opusă. Aceştia indică înspre sarcina negativă.
+
+68
+00:04:53,44 --> 00:04:55,93
+Pe măsură ce ne îndepărtăm de sarcină, sunt tot mai mici.
+
+69
+00:04:55,93 --> 00:05:00,15
+Desigur, ar trebui să mergem spre infinit pentru ca E
+
+70
+00:05:00,15 --> 00:05:05,09
+să devină zero. Pentru că E scade cu 1/r^2
+
+71
+00:05:05,09 --> 00:05:08,03
+ar trebui să fiţi infinit de departe
+
+72
+00:05:08,03 --> 00:05:15,22
+pentru a nu simţi, cel puţin în principiu, niciun efect datorită sarcinii.
+
+73
+00:05:17,46 --> 00:05:20,47
+Ce facem însă când avem mai mult de o singură sarcină?
+
+74
+00:05:21,87 --> 00:05:24,11
+Dacă avem câteva sarcini,
+
+75
+00:05:24,11 --> 00:05:25,88
+aici avem Q1,
+
+76
+00:05:27,56 --> 00:05:30,73
+aici avem Q2,
+
+77
+00:05:31,33 --> 00:05:33,80
+aici avem Q3,
+
+78
+00:05:33,80 --> 00:05:36,24
+şi să presupunem că aici avem Qi.
+
+79
+00:05:36,99 --> 00:05:38,40
+Avem prin urmare un număr de i sarcini.
+
+80
+00:05:38,40 --> 00:05:42,33
+Vrem acum să aflăm valoarea câmpului electric în punctul P.
+
+81
+00:05:44,33 --> 00:05:48,56
+Valoarea este independentă de sarcina de test ce o plasez aici.
+
+82
+00:05:48,56 --> 00:05:52,62
+Puteţi considera câmpul electric ca fiind forţa pe unitate de sarcină.
+
+83
+00:05:52,62 --> 00:05:56,29
+Am eliminat sarcina.
+
+84
+00:05:56,29 --> 00:06:02,42
+Pot acum întreba, care este câmpul electric datorită sarcinii Q1?
+
+85
+00:06:05,91 --> 00:06:08,43
+Dacă Q1 este pozitivă,
+
+86
+00:06:08,43 --> 00:06:12,00
+atunci putem reprezenta E1 astfel.
+
+87
+00:06:13,91 --> 00:06:19,93
+Dacă Q2 este negativă, atunci E2 arată astfel,
+
+88
+00:06:22,67 --> 00:06:24,66
+în direcţia sarcinii negative.
+
+89
+00:06:24,66 --> 00:06:26,37
+Iar dacă aceasta ar fi negativă,
+
+90
+00:06:26,37 --> 00:06:32,98
+aş avea aici o contribuţie E3, şi aşa mai departe.
+
+91
+00:06:33,87 --> 00:06:35,56
+Aplicăm acum principiul superpoziţiei,
+
+92
+00:06:35,56 --> 00:06:39,20
+la fel cum am făcut data trecută cu legea lui Coulomb.
+
+93
+00:06:39,20 --> 00:06:44,66
+Câmpul electric total în punctul P, este un vector,
+
+94
+00:06:47,66 --> 00:06:51,98
+este egal cu E1datorită sarcinii Q1,
+
+95
+00:06:51,98 --> 00:06:57,23
+plus E2 plus E3 şi aşa mai departe.
+
+96
+00:06:57,81 --> 00:07:04,52
+Dacă avem un număr i de sarcini, câmpul total este suma tuturor sarcinilor individuale i.
+
+97
+00:07:05,98 --> 00:07:09,18
+Este evident oare că principiul superpoziţiei funcţionează?
+
+98
+00:07:09,18 --> 00:07:11,28
+Nu.
+Funcţionează?
+
+99
+00:07:11,28 --> 00:07:13,24
+Da.
+De unde ştim că funcţionează?
+
+100
+00:07:13,24 --> 00:07:17,25
+Pentru că este consistent cu toate rezultatele experimentale.
+
+101
+00:07:19,14 --> 00:07:21,21
+Considerăm prin urmare că principiul superpoziţiei
+
+102
+00:07:21,21 --> 00:07:25,97
+este adevărat, ceea ce este acceptabil. Dar nu este evident.
+
+103
+00:07:27,99 --> 00:07:30,24
+Dacă ştiu valoarea câmpului electric în acest punct,
+
+104
+00:07:30,24 --> 00:07:33,83
+ce reprezintă suma vectorială
+
+105
+00:07:33,83 --> 00:07:37,72
+a câmpurilor electrice individuale, pot afla tot timpul
+
+106
+00:07:37,72 --> 00:07:42,48
+forţa exercitată asupra unei sarcini electrice aduse în acel punct.
+
+107
+00:07:42,48 --> 00:07:45,37
+Pot lua orice sarcină, o sarcină pe care aş purta-o tot timpul cu mine în buzunar,
+
+108
+00:07:45,37 --> 00:07:49,14
+aş scoate-o din buzunar şi aş pune-o în acel punct.
+
+109
+00:07:49,14 --> 00:07:52,13
+Sarcina ce o am în buzunar este q.
+
+110
+00:07:52,13 --> 00:07:57,97
+Forţa exercitată asupra acestei sarcini este tot timpul produsul dintre q şi E.
+
+111
+00:07:57,97 --> 00:08:00,74
+Nu contează dacă sarcina q este pozitivă.
+
+112
+00:08:00,74 --> 00:08:02,81
+Atunci forţa va fi în aceeaşi direcţie cu E.
+
+113
+00:08:02,81 --> 00:08:05,52
+Dacă sarcina este negativă, forţa va fi în direcţia opusă lui E.
+
+114
+00:08:07,01 --> 00:08:08,88
+Dacă q este mare, forţa va fi mare.
+
+115
+00:08:08,88 --> 00:08:11,57
+Dacă q este mică, forţa va fi mică.
+
+116
+00:08:11,57 --> 00:08:14,14
+Odată ce cunoaştem câmpul electric E, poate fi rezultatul
+
+117
+00:08:14,14 --> 00:08:17,45
+unei configuraţii de sarcină foarte complicate,
+
+118
+00:08:17,45 --> 00:08:21,07
+adevăratul secret din spatele conceptului de câmp electric este că,
+
+119
+00:08:21,07 --> 00:08:25,23
+indiferent de sarcina ce o aducem în acel punct, ştim valoarea forţei
+
+120
+00:08:25,23 --> 00:08:29,58
+exercitată asupra acelei sarcini în acel punct.
+
+121
+00:08:32,84 --> 00:08:36,64
+Dacă încercăm să fim mai cantitativi,
+
+122
+00:08:36,64 --> 00:08:41,01
+să presupunem că aş avea aici o sarcină +3
+
+123
+00:08:43,92 --> 00:08:47,45
+şi aici o sarcină  -1.
+
+124
+00:08:50,27 --> 00:08:52,49
+Aici e -1.
+
+125
+00:08:52,49 --> 00:08:54,73
+Şi vreau să ştiu configuraţia câmpului electric
+
+126
+00:08:54,73 --> 00:09:00,13
+datorită acestor două sarcini.
+În oricare punct din spaţiu
+
+127
+00:09:00,13 --> 00:09:02,38
+există un vector E
+
+128
+00:09:02,38 --> 00:09:07,03
+dinspre sarcina +3, şi unul înspre sarcina -1.
+
+129
+00:09:07,03 --> 00:09:09,84
+Realizăm suma vectorială a celor doi vectori.
+
+130
+00:09:12,77 --> 00:09:16,58
+Dacă suntem foarte aproape de -1, este evident că,
+
+131
+00:09:16,58 --> 00:09:19,48
+datorită relaţiei 1/r^2, sarcina -1
+
+132
+00:09:19,48 --> 00:09:21,94
+va predomina mai mult ca sigur.
+
+133
+00:09:21,94 --> 00:09:25,47
+Să luăm acum o sarcină de test pozitivă.
+
+134
+00:09:25,93 --> 00:09:29,06
+Plasăm o sarcină de test pozitivă foarte aproape de sarcina -1,
+
+135
+00:09:29,06 --> 00:09:32,39
+să zicem aici.
+Chiar dacă +3 încearcă
+
+136
+00:09:32,39 --> 00:09:36,32
+să o împingă afară, este evident că sarcina -1
+
+137
+00:09:36,32 --> 00:09:40,72
+va câştiga.
+Prin urmare, asupra sarcinii mele de test va exista probabil
+
+138
+00:09:40,72 --> 00:09:43,53
+o forţă în această direcţie.
+
+139
+00:09:43,53 --> 00:09:46,98
+Rezultatul net al efectelor celor două sarcini.
+
+140
+00:09:46,98 --> 00:09:50,29
+Să presupunem că iau aceeaşi sarcină de test pozitivă şi o pun aici,
+
+141
+00:09:50,29 --> 00:09:55,25
+foarte departe, mult mai departe decât distanţa aceasta.
+
+142
+00:09:56,47 --> 00:09:57,77
+Care credeţi că este acum
+
+143
+00:09:57,77 --> 00:10:01,36
+direcţia forţei exercitată asupra sarcinii mele de test?
+
+144
+00:10:01,36 --> 00:10:02,96
+Foarte departe.
+
+145
+00:10:04,92 --> 00:10:06,27
+Poftim?
+
+146
+00:10:06,81 --> 00:10:08,54
+De ce crezi că este înspre stânga?
+
+147
+00:10:08,54 --> 00:10:11,35
+Crezi că sarcina -1 va câştiga?
+
+148
+00:10:16,12 --> 00:10:18,11
+Crezi într-adevăr că sarcina -1 este mai puternică decât
+
+149
+00:10:18,11 --> 00:10:20,57
+sarcina +3, pentru că sarcina +3 o va împinge în exterior
+
+150
+00:10:20,57 --> 00:10:25,68
+iar sarcina -1 încearcă să o ademenească înspre ea, nu, dacă sarcina de test este pozitivă ?
+
+151
+00:10:28,41 --> 00:10:31,97
+Imaginează-ţi că sarcina de test este la mama naibii.
+
+152
+00:10:31,97 --> 00:10:35,20
+Crezi că această distanţă este semnificativă?
+
+153
+00:10:39,52 --> 00:10:42,24
+Cine crede că forţa este în direcţia aceasta?
+
+154
+00:10:42,24 --> 00:10:44,51
+Cine crede că este în direcţia cealaltă?
+
+155
+00:10:44,51 --> 00:10:46,52
+Foarte bine. L-aţi ajutat de fapt.
+
+156
+00:10:46,52 --> 00:10:50,47
+Forţa este evident în acea direcţie, pentru că dacă suntem foarte departe,
+
+157
+00:10:50,47 --> 00:10:56,21
+câmpul este similar unei configuraţii +3 cu -1 undeva pe aici, ceea ce înseamnă +2.
+
+158
+00:10:56,21 --> 00:10:57,71
+Prin urmare, dacă suntem foarte departe
+
+159
+00:10:57,71 --> 00:11:00,45
+faţă de o configuraţie ca aceasta, chiar dacă eşti aici,
+
+160
+00:11:00,45 --> 00:11:02,21
+sau acolo, sau chiar şi acolo,
+
+161
+00:11:02,21 --> 00:11:06,15
+evident, câmpul este cel al unei sarcini +2.
+
+162
+00:11:06,15 --> 00:11:08,82
+Şi scade cu 1/r^2.
+
+163
+00:11:09,35 --> 00:11:12,05
+Aşadar, dacă suntem foarte departe, forţa este în această direcţie.
+
+164
+00:11:12,05 --> 00:11:13,73
+Uitaţi-vă ce interesant este.
+
+165
+00:11:13,73 --> 00:11:16,33
+Aici, dacă suntem foarte aproape de -1, forţa
+
+166
+00:11:16,33 --> 00:11:19,13
+este în direcţia această. Aici, când suntem foarte departe,
+
+167
+00:11:19,13 --> 00:11:22,28
+poate ar trebui să mă duc până aici, este în această direcţie.
+
+168
+00:11:22,28 --> 00:11:25,87
+Înseamnă că trebuie să existe un punct între cele două
+
+169
+00:11:25,87 --> 00:11:28,57
+unde E este zero.
+
+170
+00:11:28,57 --> 00:11:32,07
+Pentru că, dacă forţa este aici în direcţia asta, dar se întoarce până la urmă
+
+171
+00:11:32,07 --> 00:11:35,06
+în direcţia aceea, trebuie să existe undeva un punct
+
+172
+00:11:35,06 --> 00:11:39,39
+unde E este zero.
+Această demonstraţie face parte din tema voastră.
+
+173
+00:11:39,39 --> 00:11:40,90
+Vreau să găsiţi acel punct
+
+174
+00:11:40,90 --> 00:11:44,03
+pentru o anumită configuraţie de sarcini.
+
+175
+00:11:46,51 --> 00:11:52,00
+Să ne concentrăm acum atenţia asupra unor reprezentări grafice
+
+176
+00:11:52,00 --> 00:11:57,33
+a configuraţiei +3 cu -1.
+
+177
+00:11:59,42 --> 00:12:02,67
+Să facem ceva cu lumina.
+
+178
+00:12:03,06 --> 00:12:06,25
+Să urmărim direcţia vectorilor câmpului electric,
+
+179
+00:12:06,25 --> 00:12:13,33
+cum arată în vecinătatea celor două sarcini.
+
+180
+00:12:15,16 --> 00:12:18,18
+Vedeţi aici sarcina +3 şi -1,
+
+181
+00:12:18,18 --> 00:12:23,47
+în unităţi relative. Să analizăm această situaţie în detaliu.
+
+182
+00:12:26,18 --> 00:12:28,65
+În primul rând, lungimea săgeţilor
+
+183
+00:12:28,65 --> 00:12:31,50
+indică din nou intensitatea câmpului.
+
+184
+00:12:31,88 --> 00:12:34,36
+Nu este foarte cantitativ, desigur.
+
+185
+00:12:34,36 --> 00:12:37,25
+Să urmărim prima dată sarcina +3, sarcină
+
+186
+00:12:37,25 --> 00:12:40,03
+ce este foarte puternică.
+Puteţi vedea că toate aceste săgeţi
+
+187
+00:12:40,03 --> 00:12:43,49
+sunt dinspre +3. Când suntem mai aproape de +3,
+
+188
+00:12:43,49 --> 00:12:46,33
+sunt mai puternice. Acest lucru reprezintă relaţia inversă cu distanţa la pătrat (1/r^2)
+
+189
+00:12:46,33 --> 00:12:51,24
+a câmpului electric.
+Dacă suntem foarte aproape de sarcina -1
+
+190
+00:12:51,24 --> 00:12:54,79
+săgeţile indică înspre -1,
+
+191
+00:12:54,79 --> 00:12:58,15
+întrucât, datorită relatiei 1/r^2, sarcina -1 predomină.
+
+192
+00:12:59,52 --> 00:13:04,41
+Vedeţi foarte clar că săgeţile sunt înspre sarcina -1.
+
+193
+00:13:06,04 --> 00:13:09,51
+Între cele două sarcini, pe linia aceasta,
+
+194
+00:13:09,51 --> 00:13:11,06
+direcţia câmpului E va fi tot timpul
+
+195
+00:13:11,06 --> 00:13:12,98
+dinspre plus spre minus.
+
+196
+00:13:12,98 --> 00:13:15,33
+Deoarece sarcina plus împinge în exterior iar sarcina minus atrage către ea.
+
+197
+00:13:15,33 --> 00:13:18,20
+Cele două se ajută reciproc.
+
+198
+00:13:19,49 --> 00:13:25,31
+Dar dacă mergem foarte departe de aceste două sarcini,
+
+199
+00:13:25,31 --> 00:13:27,01
+oriunde, dar foarte departe,
+
+200
+00:13:27,01 --> 00:13:29,79
+mult mai departe decât distanţa dintre cele două sarcini,
+
+201
+00:13:29,79 --> 00:13:31,44
+undeva aici, sau undeva acolo,
+
+202
+00:13:31,44 --> 00:13:34,41
+sau acolo, sau aici, observaţi că
+
+203
+00:13:34,41 --> 00:13:39,15
+săgeţile indică tot timpul în exterior.
+Motivul este că +3 şi -1
+
+204
+00:13:39,15 --> 00:13:41,30
+este tot una cu +2 dacă suntem
+
+205
+00:13:41,30 --> 00:13:43,97
+foarte foarte departe.
+Dar desigur, când suntem foarte aproape,
+
+206
+00:13:43,97 --> 00:13:47,96
+configuraţia câmpului poate fi foarte foarte complicată.
+
+207
+00:13:48,91 --> 00:13:52,87
+Dar vedeţi foarte clar că toate aceste săgeţi indică înspre exterior.
+
+208
+00:13:52,87 --> 00:13:55,10
+Niciuna dintre ele nu se reîntoarce înspre -1.
+
+209
+00:13:55,10 --> 00:13:58,00
+Niciuna dintre ele nu indică înspre -1.
+
+210
+00:13:58,00 --> 00:14:01,71
+Asta pentru că sarcina +3 este mult mai puternică.
+
+211
+00:14:01,71 --> 00:14:07,00
+Există apoi aici, acest punct unic unde câmpul electric este zero.
+
+212
+00:14:07,00 --> 00:14:10,07
+Dacă punem o sarcină de test pozitivă aici,
+
+213
+00:14:10,07 --> 00:14:14,04
+sarcina -1 o va atrage, sarcina +3 o va respinge
+
+214
+00:14:14,04 --> 00:14:18,93
+şi există un punct în care cele două se anulează reciproc.
+
+215
+00:14:20,98 --> 00:14:23,72
+Există o altă modalitate
+
+216
+00:14:23,72 --> 00:14:27,07
+de reprezentare a câmpului electric, unul mai organizat.
+
+217
+00:14:27,07 --> 00:14:32,75
+Numim acestea linii de câmp. 
+Observaţi din nou sarcina +3
+
+218
+00:14:32,75 --> 00:14:35,23
+şi sarcina -1.
+
+219
+00:14:38,87 --> 00:14:46,09
+Dacă las aici, sau plasez aici o sarcină de test pozitivă,
+
+220
+00:14:46,09 --> 00:14:52,83
+tot ceea ce ştiu este că forţa va fi tangentă pe liniile de câmp electric.
+
+221
+00:14:52,83 --> 00:14:55,65
+Aceasta este semnificaţia acestor linii.
+
+222
+00:14:56,70 --> 00:15:00,52
+Dacă mă aflu aici, forţa va fi în această direcţie.
+
+223
+00:15:00,52 --> 00:15:03,36
+Dacă pun o sarcină de test pozitivă aici,
+
+224
+00:15:03,36 --> 00:15:05,43
+forţa va fi în această direcţie, şi, desigur,
+
+225
+00:15:05,43 --> 00:15:09,87
+dacă sarcina de test e negativă, forţa se inversează.
+
+226
+00:15:11,34 --> 00:15:14,63
+Semnificaţia liniilor de câmp este că ne spun tot timpul
+
+227
+00:15:14,63 --> 00:15:19,03
+direcţia forţei exercitate asupra unei sarcini.
+
+228
+00:15:20,18 --> 00:15:23,21
+Pentru o sarcină pozitivă forţa este tot timpul în direcţia săgeţilor,
+
+229
+00:15:23,21 --> 00:15:26,17
+tangentă la liniile de câmp, iar pentru o sarcină negativă,
+
+230
+00:15:26,17 --> 00:15:28,76
+forţa este în direcţia opusă.
+
+231
+00:15:28,76 --> 00:15:30,43
+Câte linii de câmp există în spaţiu?
+
+232
+00:15:30,45 --> 00:15:32,49
+Desigur, o infinitate.
+
+233
+00:15:32,49 --> 00:15:35,28
+La fel precum săgeţile de dinainte,
+
+234
+00:15:35,28 --> 00:15:37,74
+am reprezentat doar câteva, dar desigur,
+
+235
+00:15:37,74 --> 00:15:42,05
+în fiecare punct există un câmp electric.
+
+236
+00:15:42,05 --> 00:15:45,64
+Putem pune o infinitate de linii de câmp, iar
+
+237
+00:15:45,64 --> 00:15:49,07
+această reprezentare va deveni, desigur, inutilă.
+
+238
+00:15:49,07 --> 00:15:54,00
+Ne limităm aşadar tot timpul la un anumit număr de linii.
+
+239
+00:15:54,00 --> 00:15:57,38
+Observăm că în apropierea sarcinii -1
+
+240
+00:15:57,38 --> 00:16:00,39
+toate liniile de câmp vin înspre sarcină.
+
+241
+00:16:00,39 --> 00:16:03,16
+Înţelegem acest lucru, desigur, pentru că o sarcină pozitivă
+
+242
+00:16:03,16 --> 00:16:07,47
+este atrasă de -1.
+Dacă suntem foarte aproape de plus,
+
+243
+00:16:07,47 --> 00:16:11,50
+liniile ies dinspre plus deoarece sunt respinse.
+
+244
+00:16:13,40 --> 00:16:15,37
+Vă puteţi imagina aceste linii,
+
+245
+00:16:15,37 --> 00:16:19,19
+dacă vreţi să vă imaginaţi această configuraţie,
+
+246
+00:16:19,19 --> 00:16:21,14
+vă puteţi gândi că sarcinile pozitive
+
+247
+00:16:21,14 --> 00:16:24,50
+suflă aerul precum un uscător de păr,
+
+248
+00:16:24,50 --> 00:16:29,26
+iar cele negative trag aerul precum un aspirator.
+
+249
+00:16:30,31 --> 00:16:33,47
+Vă puteţi imagina aşadar că în partea stângă
+
+250
+00:16:33,47 --> 00:16:36,13
+avem un uscător de păr ce suflă sarcinile în exterior
+
+251
+00:16:36,13 --> 00:16:39,66
+iar aici un aspirator ce vrea să tragă sarcinile înăuntru.
+
+252
+00:16:39,66 --> 00:16:41,99
+Reuşeşte într-o anumită măsură, dar nu este la fel de puternic
+
+253
+00:16:41,99 --> 00:16:44,30
+precum +3 pe de altă parte.
+
+254
+00:16:46,16 --> 00:16:48,58
+Am pierdut oare informaţia legată de amplitudinea câmpului?
+
+255
+00:16:48,58 --> 00:16:54,05
+Mai devreme am reprezentat amplitudinea câmpului prin mărimea săgeţilor.
+
+256
+00:16:54,99 --> 00:16:57,64
+Da, am pierdut acest lucru, dar avem totuşi
+
+257
+00:16:57,64 --> 00:16:59,84
+o anumită informaţie legată de amplitudinea câmpului.
+
+258
+00:16:59,84 --> 00:17:04,30
+Dacă liniile sunt mai apropiate unele de celelalte, dacă densitatea liniilor este mare,
+
+259
+00:17:04,30 --> 00:17:07,92
+câmpul electric este mai puternic decât în locul unde densitatea este mică.
+
+260
+00:17:08,47 --> 00:17:10,05
+Dacă ne uităm de exemplu aici,
+
+261
+00:17:10,05 --> 00:17:15,15
+uitaţi-vă câte linii există pe o lungime de câţiva milimetri,
+
+262
+00:17:15,15 --> 00:17:18,64
+iar când ne îndepărtăm aceste linii se împrăştie.
+
+263
+00:17:18,64 --> 00:17:20,71
+Acest lucru ne spune că E descreşte,
+
+264
+00:17:20,71 --> 00:17:22,49
+amplitudinea câmpului E descreşte.
+
+265
+00:17:22,49 --> 00:17:25,32
+Este câmpul 1/r^2, desigur.
+
+266
+00:17:26,86 --> 00:17:30,37
+Dacă vrem să facem astfel de desene, pentru a arăta bine
+
+267
+00:17:30,37 --> 00:17:32,48
+putem pune de trei ori mai multe linii de câmp
+
+268
+00:17:32,48 --> 00:17:38,11
+ce ies dinspre plus, în acest caz, decât linii ce se reîntorc la -1.
+
+269
+00:17:39,71 --> 00:17:42,06
+Liniile de câmp sunt aşadar foarte utile.
+
+270
+00:17:42,06 --> 00:17:47,89
+Vom lucra adesea cu câmpuri electrice şi configuraţii de linii de câmp.
+
+271
+00:17:47,89 --> 00:17:52,48
+Veţi avea câteva probleme ca şi temă
+
+272
+00:17:52,48 --> 00:17:57,15
+ce implică linii de câmp şi câmpuri electrice.
+
+273
+00:18:01,58 --> 00:18:05,90
+Dacă o linie de câmp electric este dreaptă,
+
+274
+00:18:07,20 --> 00:18:13,13
+am prin urmare câmpuri electrice, să iau o cretă roşie,
+
+275
+00:18:13,13 --> 00:18:17,42
+să presupunem că avem linii de câmp electric, astfel. Linii de câmp electric drepte,
+
+276
+00:18:17,42 --> 00:18:23,75
+şi pun o sarcină acolo, de exemplu o sarcină pozitivă,
+
+277
+00:18:23,75 --> 00:18:25,56
+atunci asupra sarcinii pozitive se va exercita
+
+278
+00:18:25,56 --> 00:18:28,32
+o forţă în exact aceeaşi direcţie cu liniile de câmp,
+
+279
+00:18:28,32 --> 00:18:31,26
+întrucât tangenta se află acum în direcţia liniei de câmp.
+
+280
+00:18:31,26 --> 00:18:33,49
+Sarcina va fi accelerată în această direcţie
+
+281
+00:18:33,49 --> 00:18:35,62
+şi va rămâne tot timpul pe liniile de câmp.
+
+282
+00:18:35,62 --> 00:18:38,90
+Dacă viteza iniţială este zero, va accelera
+
+283
+00:18:38,90 --> 00:18:41,80
+şi va rămâne pe liniile de câmp.
+
+284
+00:18:41,80 --> 00:18:44,66
+Similar, considerând că pământul
+
+285
+00:18:44,66 --> 00:18:47,41
+posedă un câmp gravitaţional, în cursul 8.01
+
+286
+00:18:47,41 --> 00:18:50,44
+probabil că nu am utilizat niciodată acest cuvânt, câmp gravitaţional,
+
+287
+00:18:50,44 --> 00:18:55,54
+dar în fizică considerăm gravitaţia ca fiind un câmp.
+
+288
+00:18:55,54 --> 00:18:59,00
+Dacă am aici o bucată de cretă,
+
+289
+00:18:59,00 --> 00:19:02,00
+liniile de câmp, liniile de câmp gravitaţional,
+
+290
+00:19:02,00 --> 00:19:06,19
+aici în sala 26100 sunt paralele şi drepte.
+
+291
+00:19:06,19 --> 00:19:09,46
+Dacă las această cretă cu o viteză iniţială zero,
+
+292
+00:19:09,46 --> 00:19:11,97
+se va deplasa pe direcţia liniilor de câmp,
+
+293
+00:19:11,97 --> 00:19:14,41
+şi va rămâne pe liniile de câmp.
+
+294
+00:19:16,04 --> 00:19:21,34
+Vă puteţi acum întreba, dacă las o sarcină,
+
+295
+00:19:21,34 --> 00:19:23,97
+se va deplasa tot timpul pe liniile de câmp?
+
+296
+00:19:23,97 --> 00:19:28,77
+Răspunsul este nu. 
+Doar în acest caz foarte special.
+
+297
+00:19:28,77 --> 00:19:32,40
+Să presupunem acum că liniile de câmp sunt curbe.
+
+298
+00:19:32,40 --> 00:19:37,92
+Acestea sunt linii de câmp precum aţi văzut în acele configuraţii.
+
+299
+00:19:37,92 --> 00:19:39,48
+E un lucru obişnuit.
+
+300
+00:19:39,48 --> 00:19:43,67
+Dacă las acum o sarcină aici,
+
+301
+00:19:44,75 --> 00:19:46,99
+să presupunem că am o sarcină punctiformă aici,
+
+302
+00:19:46,99 --> 00:19:50,04
+forţa exercitată asupra ei va fi în această direcţie.
+
+303
+00:19:50,04 --> 00:19:52,26
+Va obţine o acceleraţie în această direcţie
+
+304
+00:19:52,26 --> 00:19:55,55
+şi va părăsi imediat acea linie de câmp.
+
+305
+00:19:55,55 --> 00:19:57,38
+Dacă mă întrebaţi acum care este
+
+306
+00:19:57,38 --> 00:20:00,37
+traiectoria sarcinii, ei bine,
+
+307
+00:20:00,37 --> 00:20:02,73
+aceasta poate deveni foarte complicată, chiar nu am nicio idee.
+
+308
+00:20:02,73 --> 00:20:05,35
+S-ar putea să meargă aşa,
+
+309
+00:20:05,35 --> 00:20:08,90
+iar în momentul în care ajunge în acest punct, ceea ce ştiu este că
+
+310
+00:20:08,90 --> 00:20:11,99
+forţa va fi tangentă pe această linie de câmp,
+
+311
+00:20:11,99 --> 00:20:17,07
+în această direcţie, prin urmare. 
+Pe măsura ce se deplasează şi prinde viteză,
+
+312
+00:20:17,07 --> 00:20:20,01
+local, forţele exercitate asupra ei
+
+313
+00:20:20,01 --> 00:20:21,84
+sunt reprezentate de acele linii de câmp, iar
+
+314
+00:20:21,84 --> 00:20:25,51
+traiectoria poate fi extrem de complicată.
+
+315
+00:20:25,51 --> 00:20:28,62
+Aşadar, liniile de câmp nu sunt traiectorii,
+
+316
+00:20:28,62 --> 00:20:34,12
+nici chiar atunci când plasăm o sarcină cu viteză iniţială zero.
+
+317
+00:20:34,12 --> 00:20:38,95
+Doar în cazul în care liniile de câmp sunt linii drepte.
+
+318
+00:20:40,51 --> 00:20:43,35
+Să considerăm acum o configuraţie de câmp
+
+319
+00:20:43,35 --> 00:20:49,71
+pe care Maxwell însuşi, marele maestru, a introdus-o în unele din publicaţiile sale.
+
+320
+00:20:49,71 --> 00:20:52,55
+Este un raport de unu la patru.
+
+321
+00:20:54,43 --> 00:21:01,13
+Dacă este +4, +1 sau -4, -1, nu este important, pentru că
+
+322
+00:21:02,30 --> 00:21:05,14
+acest lucru afectează doar direcţia săgeţilor.
+
+323
+00:21:05,14 --> 00:21:08,86
+Dar Maxwell nu a folosit săgeţi.
+
+324
+00:21:08,86 --> 00:21:09,93
+Rămâne să faceţi voi acest lucru.
+
+325
+00:21:09,93 --> 00:21:14,25
+Dacă este +4 şi +1 trebuie să puneţi săgeţi ce indică înspre exterior.
+
+326
+00:21:14,25 --> 00:21:16,98
+Ceea ce vedeţi aici este efectul uscătorului de păr.
+
+327
+00:21:16,98 --> 00:21:19,40
+Imaginaţi-vă că ambele sunt pozitive.
+
+328
+00:21:19,40 --> 00:21:20,98
+Aici este sarcina +4
+
+329
+00:21:20,98 --> 00:21:23,54
+ce încearcă să sufle aer precum un uscător de păr, iar aici sarcina +1
+
+330
+00:21:23,54 --> 00:21:27,42
+încercând să facă acelaşi lucru. Obţinem prin urmare o configuraţie de câmp,
+
+331
+00:21:27,42 --> 00:21:28,81
+linii de câmp,
+
+332
+00:21:28,81 --> 00:21:33,32
+care nu sunt chiar simple, dar vă puteţi imagina
+
+333
+00:21:33,32 --> 00:21:36,99
+de ce are această formă neobişnuită.
+
+334
+00:21:38,29 --> 00:21:44,11
+Dacă punem o sarcină de test pozitivă între unu şi patru,
+
+335
+00:21:45,84 --> 00:21:50,24
+atunci sarcina patru o va respinge, dar sarcina unu o va respinge şi ea.
+
+336
+00:21:50,24 --> 00:21:52,31
+Va exista prin urmare un punct, undeva,
+
+337
+00:21:52,31 --> 00:21:56,43
+probabil aproape de unu, unde cele două forţe se anulează reciproc.
+
+338
+00:21:56,43 --> 00:21:59,70
+Câmpul E va fi prin urmare zero acolo.
+
+339
+00:22:01,16 --> 00:22:03,89
+Similar, între lună şi pământ,
+
+340
+00:22:03,89 --> 00:22:06,67
+există un punct nu foarte îndepărtat de lună, unde
+
+341
+00:22:06,67 --> 00:22:10,63
+atracţia gravitaţională a pământului şi atracţia gravitaţională
+
+342
+00:22:10,63 --> 00:22:13,66
+a lunii se anulează reciproc.
+
+343
+00:22:13,68 --> 00:22:16,55
+Situaţia de faţă nu este foarte diferită.
+
+344
+00:22:16,55 --> 00:22:21,23
+Atunci când avem sarcini de aceeaşi polaritate,
+
+345
+00:22:21,23 --> 00:22:24,19
+există tot timpul un punct între ele
+
+346
+00:22:24,19 --> 00:22:27,28
+unde câmpul electric este zero.
+
+347
+00:22:29,06 --> 00:22:31,77
+Să trecem acum la un caz foarte special
+
+348
+00:22:31,77 --> 00:22:39,11
+în care cele două sarcini sunt egale dar de semn contrar.
+
+349
+00:22:39,51 --> 00:22:44,78
+Avem şi un nume pentru această configuraţie, şi anume, dipol.
+
+350
+00:22:46,91 --> 00:22:47,98
+Sarcina plus este aici
+
+351
+00:22:47,98 --> 00:22:51,46
+iar sarcina minus este acolo.
+Situaţia este extrem de simetrică,
+
+352
+00:22:51,46 --> 00:22:54,46
+după cum v-aţi aştepta, întrucât puterea lor este egală.
+
+353
+00:22:54,46 --> 00:22:57,94
+Avem un uscător de păr sus şi un aspirator jos.
+
+354
+00:23:00,25 --> 00:23:01,78
+Dacă suntem în vecinătatea sarcinii plus,
+
+355
+00:23:01,78 --> 00:23:04,77
+toate liniile de câmp pleacă dinspre plus.
+
+356
+00:23:04,77 --> 00:23:07,36
+Dacă suntem aproape de minus, observaţi că toate liniile de câmp
+
+357
+00:23:07,36 --> 00:23:10,50
+vin înspre minus, vă aşteptaţi la acest lucru.
+
+358
+00:23:13,25 --> 00:23:19,04
+Dacă suntem departe de acest
+
+359
+00:23:19,04 --> 00:23:23,75
+dipol, avem o problemă.
+Înainte am avut +3 şi
+
+360
+00:23:23,75 --> 00:23:27,86
+-1, iar la distanţă mare sarcina +3 câştigă.
+
+361
+00:23:28,46 --> 00:23:30,99
+E ca şi cum am avea o sarcină +2.
+
+362
+00:23:30,99 --> 00:23:36,24
+Dacă suntem departe, câmpul electric pleacă dinspre
+
+363
+00:23:36,24 --> 00:23:39,36
+sarcina echivalentă +2 înspre exterior.
+
+364
+00:23:39,36 --> 00:23:41,59
+Dar dacă adunăm plus şi minus, iar valoarea lor este
+
+365
+00:23:41,59 --> 00:23:43,19
+egală, să spunem +1
+
+366
+00:23:43,19 --> 00:23:47,07
+şi -1, obţinem zero. 
+Niciuna din sarcini nu câştigă aşadar
+
+367
+00:23:47,07 --> 00:23:50,36
+dacă suntem foarte departe. Observaţi că, într-adevăr, dacă suntem foarte
+
+368
+00:23:50,36 --> 00:23:56,55
+departe, nu observăm săgeţi care să indice nici în exterior nici în interior.
+
+369
+00:23:56,55 --> 00:23:58,30
+Natura nu se poate decide.
+
+370
+00:23:58,30 --> 00:24:00,30
+Niciuna nu este mai puternică decât cealaltă.
+
+371
+00:24:00,30 --> 00:24:03,92
+Câmpurile dipolare sunt din această cauză foarte, foarte speciale.
+
+372
+00:24:03,92 --> 00:24:07,45
+În cazul sarcinilor +3 şi -1,
+
+373
+00:24:07,45 --> 00:24:09,94
+dacă suntem foarte departe, este ca şi cum am avea
+
+374
+00:24:09,94 --> 00:24:16,56
+o sarcină +2 iar câmpul E, cu cât de îndepărtăm mai mult, descreşte cu 1/r^2.
+
+375
+00:24:16,56 --> 00:24:20,79
+În cazul unui dipol, intuiţia ne spune că, probabil,
+
+376
+00:24:20,79 --> 00:24:24,74
+câmpul descreşte mai rapid decât 1/r^2.
+
+377
+00:24:24,74 --> 00:24:28,31
+Acest lucru vă rămâne ca temă pentru această săptămână.
+
+378
+00:24:28,31 --> 00:24:30,08
+De fapt, pot să vă ofer deja răspunsul.
+
+379
+00:24:30,08 --> 00:24:31,18
+Voi trebuie să-l demonstraţi.
+
+380
+00:24:31,18 --> 00:24:34,17
+Dacă sunteţi departe de un dipol electric, câmpul
+
+381
+00:24:34,17 --> 00:24:37,04
+electric scade cu 1/r^3.
+
+382
+00:24:37,04 --> 00:24:40,45
+Scade mai rapid decât 1/r^2.
+
+383
+00:24:41,39 --> 00:24:44,69
+Nu există niciun punct în spaţiu unde câmpul
+
+384
+00:24:44,69 --> 00:24:49,86
+electric este zero.
+Vă puteţi gândi care este motivul.
+
+385
+00:24:51,84 --> 00:24:54,41
+Prin urmare, aceste configuraţii de câmp
+
+386
+00:24:54,41 --> 00:24:59,81
+pot fi foarte complicate, foarte interesante
+
+387
+00:24:59,81 --> 00:25:03,87
+şi fiecare are propriile sale aplicaţii.
+
+388
+00:25:06,24 --> 00:25:08,88
+Sunt dipolii rari în fizică?
+
+389
+00:25:08,88 --> 00:25:11,28
+Deloc.
+De fapt, sunt extrem de răspândiţi.
+
+390
+00:25:11,28 --> 00:25:13,41
+Nu-i puteţi evita.
+
+391
+00:25:13,41 --> 00:25:15,71
+Vă amintiţi de data trecută, v-am spus că dacă avem
+
+392
+00:25:15,71 --> 00:25:19,93
+un atom sferic sau o moleculă sferică,
+
+393
+00:25:19,93 --> 00:25:24,31
+şi o aducem în apropierea unei sarcini -- să spunem acum că o aducem într-un
+
+394
+00:25:24,31 --> 00:25:27,90
+câmp electric, este un alt mod de a spune acelaşi lucru.
+
+395
+00:25:27,90 --> 00:25:29,10
+Avem prin urmare un atom
+
+396
+00:25:29,10 --> 00:25:31,78
+sferic sau o moleculă sferică şi o introducem într-un
+
+397
+00:25:31,78 --> 00:25:36,44
+câmp electric.
+Electronii vor să se deplaseze
+
+398
+00:25:36,44 --> 00:25:39,91
+în direcţia contrară a vectorilor câmpului electric, împotriva direcţiei
+
+399
+00:25:39,91 --> 00:25:46,50
+câmpului electric.
+Sarcina pozitivă vrea să meargă în direcţia câmpului.
+
+400
+00:25:46,50 --> 00:25:48,32
+Care este rezultatul prin urmare?
+
+401
+00:25:48,32 --> 00:25:51,29
+Electronii vor petrece un timp puţin mai îndelungat într-o parte
+
+402
+00:25:51,29 --> 00:25:55,57
+a nucleului decât ar face-o în absenţa câmpului electric.
+
+403
+00:25:55,57 --> 00:26:00,25
+Transformăm aşadar acest atom sau această moleculă
+
+404
+00:26:00,25 --> 00:26:03,33
+într-un dipol, prin intermediul inducţiei.
+
+405
+00:26:04,34 --> 00:26:05,86
+Dacă avem puţin mai multă sarcină
+
+406
+00:26:05,86 --> 00:26:08,09
+în această parte, ca şi valoare medie în timp,
+
+407
+00:26:08,09 --> 00:26:10,69
+avem aceeaşi cantitate de sarcină adiţională plus în cealaltă parte,
+
+408
+00:26:10,69 --> 00:26:14,48
+ca şi valoare medie în timp.
+Realizăm aşadar dipoli foarte des,
+
+409
+00:26:14,48 --> 00:26:18,03
+fie că ne place, fie că nu.
+Vom învăţa mai târziu în acest curs
+
+410
+00:26:18,03 --> 00:26:22,68
+mai multe despre polarizarea atomilor
+
+411
+00:26:22,68 --> 00:26:26,93
+şi a moleculelor şi crearea dipolilor, atunci când vom vorbi de dielectrici.
+
+412
+00:26:26,93 --> 00:26:29,44
+Veţi vedea că acest lucru are
+
+413
+00:26:29,44 --> 00:26:34,96
+un impact major asupra proprietăţilor materialelor.
+
+414
+00:26:35,91 --> 00:26:37,96
+Aş putea oare să realizez un dipol aici, la curs?
+
+415
+00:26:37,96 --> 00:26:40,86
+Oh da, este foarte uşor.
+
+416
+00:26:40,86 --> 00:26:45,00
+Realizarea unuia din non-conductori nu este foarte uşor la curs.
+
+417
+00:26:45,00 --> 00:26:49,77
+Realizarea unui dipol din conductori este foarte uşor.
+
+418
+00:26:49,77 --> 00:26:54,50
+Voi realiza acest lucru cu aceste două sfere.
+
+419
+00:26:54,50 --> 00:26:57,51
+Priviţi aceste două sfere de metal.
+
+420
+00:26:58,29 --> 00:27:01,14
+Conductori.
+Electroni liberi.
+
+421
+00:27:01,14 --> 00:27:05,25
+Este foarte uşor pentru aceştia să se deplaseze.
+
+422
+00:27:06,19 --> 00:27:11,69
+Voi aduce această baghetă de cauciuc pe care o voi freca şi care
+
+423
+00:27:11,69 --> 00:27:14,43
+va deveni încărcată negativ, cred, dacă ţin bine minte,
+
+424
+00:27:14,43 --> 00:27:20,61
+o voi aduce aproape de aceste două sfere, ce se află în contact una cu cealaltă.
+
+425
+00:27:20,61 --> 00:27:23,42
+Aici este o sferă metalică
+
+426
+00:27:23,42 --> 00:27:26,07
+şi aici este cealaltă sferă metalică şi
+
+427
+00:27:26,07 --> 00:27:30,44
+aici este cauciucul. 
+Încărcat negativ.
+
+428
+00:27:32,58 --> 00:27:34,08
+Ce se va întâmpla acum?
+
+429
+00:27:34,08 --> 00:27:36,17
+Electronii vor să se îndepărteze, iar aceasta se încarcă
+
+430
+00:27:36,17 --> 00:27:39,50
+negativ, iar cealaltă rămâne încărcată pozitiv.
+
+431
+00:27:40,70 --> 00:27:41,83
+Pentru fiecare electron
+
+432
+00:27:41,83 --> 00:27:45,10
+în exces aici,
+la început sfera este neutră,
+
+433
+00:27:45,10 --> 00:27:47,02
+va exista un exces de sarcină pozitivă acolo, pentru că
+
+434
+00:27:47,02 --> 00:27:50,99
+sarcina se conservă.
+Nu putem crea sarcină din nimic.
+
+435
+00:27:50,99 --> 00:27:54,43
+Acum, cât timp cauciucul este încă aici,
+
+436
+00:27:54,43 --> 00:27:56,13
+cât timp bagheta de cauciuc este acolo,
+
+437
+00:27:56,13 --> 00:27:57,34
+separ sferele.
+
+438
+00:27:57,34 --> 00:27:59,15
+Iniţial cele două se află în contact, trebuie
+
+439
+00:27:59,15 --> 00:28:03,31
+să se afle în contact.
+Uau, avem vizitatori.
+
+440
+00:28:03,31 --> 00:28:07,00
+[clap-clap] Nu întârzia,
+mă refer la tine, drăguţule.
+
+441
+00:28:07,00 --> 00:28:09,11
+Sunt impresionat.
+
+442
+00:28:09,11 --> 00:28:10,46
+Mulţumesc.
+
+443
+00:28:13,76 --> 00:28:18,89
+Acum, cât timp bagheta de cauciuc se află acolo,
+
+444
+00:28:18,89 --> 00:28:20,29
+despart cele două sfere.
+
+445
+00:28:20,29 --> 00:28:23,07
+Când le despart, această sarcină negativă este blocată iar
+
+446
+00:28:23,07 --> 00:28:26,93
+această sarcină pozitivă este blocată.
+Am creat prin urmare
+
+447
+00:28:26,93 --> 00:28:31,36
+sarcină negativă pe aceasta.
+Sarcină pozitivă pe aceasta, de aceeaşi valoare,
+
+448
+00:28:31,36 --> 00:28:33,97
+prin urmare am un dipol.
+
+449
+00:28:35,00 --> 00:28:37,66
+Vreau să vă demonstrez că am într-adevăr
+
+450
+00:28:37,66 --> 00:28:40,33
+sarcină pozitivă aici şi sarcină negativă aici, şi că
+
+451
+00:28:40,33 --> 00:28:42,77
+există o diferenţa de polaritate între acestea două.
+
+452
+00:28:42,77 --> 00:28:45,92
+Acesta este scopul experimentului.
+
+453
+00:28:47,36 --> 00:28:51,19
+Nu vă voi arăta că valoarea sarcinii este exact aceeaşi
+
+454
+00:28:51,19 --> 00:28:54,62
+pe fiecare sferă, ceea ce desigur, trebuie să fie adevărat.
+
+455
+00:28:54,62 --> 00:28:58,55
+Să punem o lumină mai bună.
+
+456
+00:29:01,76 --> 00:29:04,08
+Vedeţi acolo, pentru prima dată, un electroscop.
+
+457
+00:29:04,08 --> 00:29:09,02
+L-am discutat data trecută, este o bucată de folie de aluminiu,
+
+458
+00:29:09,02 --> 00:29:12,68
+foarte subţire, cu o bară metalică lângă ea.
+
+459
+00:29:12,68 --> 00:29:17,52
+Dacă pun sarcină electrică pe bară, sarcina se va deplasa pe folia de aluminiu
+
+460
+00:29:17,52 --> 00:29:21,72
+iar cele două se vor respinge reciproc. 
+Prin urmare, beteala de aluminiu
+
+461
+00:29:21,72 --> 00:29:25,17
+se va deplasa în dreapta, şi cu cât este mai multă sarcină pe ea,
+
+462
+00:29:25,17 --> 00:29:27,84
+cu atât mai mult se va deplasa în dreapta.
+
+463
+00:29:27,84 --> 00:29:32,50
+Să pun prima data acestea două împreună, să mă asigur
+
+464
+00:29:32,50 --> 00:29:39,46
+că sunt complet descărcate.
+Voi plasa acum aceste două sfere
+
+465
+00:29:39,46 --> 00:29:44,53
+într-un câmp electric produs de această
+
+466
+00:29:44,53 --> 00:29:49,23
+baghetă de cauciuc. Trebuie să o frec cu blană de pisică, şi cred că
+
+467
+00:29:49,23 --> 00:29:52,92
+este negativă, dar nu trebuie să ţineţi minte niciodată dacă
+
+468
+00:29:52,92 --> 00:29:55,30
+este negativă sau pozitivă, nu este atât de
+
+469
+00:29:55,30 --> 00:29:57,64
+important. Ce înseamnă un nume, până la urmă?
+
+470
+00:29:57,64 --> 00:30:00,40
+Dar se întâmplă să fie negativă.
+
+471
+00:30:00,40 --> 00:30:02,89
+Acum venim aici.
+
+472
+00:30:02,89 --> 00:30:05,40
+O aduc aici. 
+Sper să nu existe scântei
+
+473
+00:30:05,40 --> 00:30:08,68
+pentru că experimentul nu va reuşi.
+
+474
+00:30:09,63 --> 00:30:14,50
+Observaţi ce fac acum. Bagheta se află încă aici şi separ sferele.
+
+475
+00:30:16,76 --> 00:30:18,68
+Când ţineam bagheta acolo,
+
+476
+00:30:18,68 --> 00:30:21,16
+s-au întâmplat lucruri pe care eu şi voi nu le putem vedea, dar
+
+477
+00:30:21,16 --> 00:30:24,87
+electronii, bagheta de cauciuc este negativă, electronii s-au deplasat
+
+478
+00:30:24,87 --> 00:30:27,45
+în această direcţie iar aceasta este acum pozitivă iar
+
+479
+00:30:27,45 --> 00:30:30,87
+aceasta este acum negativă.
+Dacă o iau pe aceasta şi o ating
+
+480
+00:30:30,87 --> 00:30:36,47
+cu electroscopul,
+puteţi vedea foarte clar că există sarcină pe ea.
+
+481
+00:30:37,68 --> 00:30:40,57
+Cum vă pot arăta că există sarcină
+
+482
+00:30:40,57 --> 00:30:43,56
+de o polaritate diferită pe cealaltă sferă?
+
+483
+00:30:45,69 --> 00:30:51,12
+Voi aduce sfera foarte aproape de electroscop.
+
+484
+00:30:52,84 --> 00:30:54,96
+Dacă sarcina este diferită
+
+485
+00:30:54,96 --> 00:30:57,10
+faţă de sarcina de pe electroscop,
+
+486
+00:30:57,10 --> 00:31:00,99
+indicaţia va deveni mai mică.
+
+487
+00:31:02,64 --> 00:31:05,58
+De ce se întâmplă acest lucru? De ce va descreşte indicaţia?
+
+488
+00:31:07,98 --> 00:31:11,51
+Aici este starea actuală a electroscopului.
+
+489
+00:31:12,48 --> 00:31:16,62
+Aici este bila ce o vedeţi deasupra,
+
+490
+00:31:19,07 --> 00:31:21,90
+este invers acolo.
+Dacă acesta este negativ,
+
+491
+00:31:24,33 --> 00:31:28,84
+de aceea se resping,
+şi dacă aduc în apropiere
+
+492
+00:31:28,84 --> 00:31:32,51
+un obiect încărcat pozitiv -- spun că acesta
+
+493
+00:31:32,51 --> 00:31:34,89
+este încărcat pozitiv acum, pentru că celălalt a fost
+
+494
+00:31:34,89 --> 00:31:38,66
+încărcat negativ - atunci electronilor le este frică
+
+495
+00:31:38,66 --> 00:31:42,22
+de sarcina pozitivă,
+
+496
+00:31:42,39 --> 00:31:46,42
+pardon, electronii îndrăgesc sarcina pozitivă, prin urmare vor dori să vină
+
+497
+00:31:46,42 --> 00:31:51,26
+înspre sarcina pozitivă. 
+Aceşti electroni se vor veni în jos,
+
+498
+00:31:51,26 --> 00:31:54,10
+iar dacă vin în jos, aici vor rămâne mai puţini,
+
+499
+00:31:54,10 --> 00:31:59,13
+şi veţi vedea asta.
+Pe de altă parte, dacă pun aici
+
+500
+00:31:59,13 --> 00:32:01,82
+o baghetă negativă, atunci electronii ce se află
+
+501
+00:32:01,82 --> 00:32:05,18
+aici vor fi respinşi, vor urca în sus,
+
+502
+00:32:06,12 --> 00:32:08,10
+iar indicaţia electroscopului va fi mai mare.
+
+503
+00:32:08,10 --> 00:32:11,11
+Putem aşadar verifica tot timpul polaritatea sarcini
+
+504
+00:32:11,11 --> 00:32:15,23
+folosind inducţia.
+Să sperăm că această sferă
+
+505
+00:32:15,23 --> 00:32:17,77
+şi-a păstrat sarcina în timp ce vorbeam.
+
+506
+00:32:17,77 --> 00:32:20,95
+Afirm acum că, dacă polaritatea acesteia este diferită, şi dacă
+
+507
+00:32:20,95 --> 00:32:23,60
+mai este încă acolo atunci când o aduc în apropierea electroscopului,
+
+508
+00:32:23,60 --> 00:32:25,81
+foarte aproape, atunci indicaţia ar trebui
+
+509
+00:32:25,81 --> 00:32:28,18
+să devină mai mică fără ca măcar să-l ating.
+
+510
+00:32:28,18 --> 00:32:32,00
+Să vedem dacă funcţionează
+Vedeţi, merge în jos.
+
+511
+00:32:32,00 --> 00:32:34,33
+Vedeţi, scade. Scade.
+
+512
+00:32:35,97 --> 00:32:38,66
+Am demonstrat aşadar prin inducţie că aceasta posedă într-adevăr
+
+513
+00:32:38,66 --> 00:32:40,93
+o polaritate diferită de aceasta.
+
+514
+00:32:40,93 --> 00:32:44,39
+Dacă mă apropii cu aceasta, se va deplasa în dreapta,
+
+515
+00:32:44,39 --> 00:32:45,87
+asta dacă nu se află deja la maxim.
+
+516
+00:32:45,87 --> 00:32:50,82
+Să încercăm asta. Vedeţi, se îndepărtează şi mai mult.
+
+517
+00:32:50,82 --> 00:32:55,19
+Am demonstrat aşadar că am creat un dipol,
+
+518
+00:32:55,19 --> 00:33:01,30
+şi aţi văzut de asemenea că putem demonstra prin intermediul inducţiei
+
+519
+00:33:01,30 --> 00:33:06,06
+că există o diferenţă de polaritate între cele două sfere.
+
+520
+00:33:09,92 --> 00:33:13,32
+Dacă realizez un dipol
+
+521
+00:33:14,92 --> 00:33:18,84
+şi plasez acel dipol într-un câmp electric,
+
+522
+00:33:20,43 --> 00:33:23,09
+dipolul se va roti.
+
+523
+00:33:26,20 --> 00:33:28,07
+Să discutăm prima dată despre acest lucru.
+De ce se roteşte.
+
+524
+00:33:28,07 --> 00:33:31,87
+Voi încerca apoi să demonstrez acest lucru prin realizarea unui
+
+525
+00:33:31,87 --> 00:33:34,98
+dipol, unul mare, atât de mare.
+
+526
+00:33:34,98 --> 00:33:38,41
+Chiar în faţa voastră, aproape la fel de mare precum cel de acolo.
+
+527
+00:33:38,41 --> 00:33:42,49
+Să consideram un câmp electric, astfel,
+
+528
+00:33:48,38 --> 00:33:52,23
+şi aduc un dipol în acest câmp electric,
+
+529
+00:33:53,87 --> 00:33:56,38
+unul mare, aici, acesta este dipolul ce-l voi folosi
+
+530
+00:33:56,38 --> 00:34:00,11
+pentru această demonstraţie.
+Mingi de ping pong pe fiecare parte,
+
+531
+00:34:00,11 --> 00:34:02,47
+acestea sunt conductoare, şi sunt conectate
+
+532
+00:34:02,47 --> 00:34:05,39
+printr-o bară non-conductoare.
+
+533
+00:34:06,94 --> 00:34:10,60
+Aici este acest dipol.
+
+534
+00:34:10,60 --> 00:34:14,03
+Această bară este non-conductoare, 
+acesta este conductor
+
+535
+00:34:14,03 --> 00:34:15,41
+şi acesta este un conductor.
+
+536
+00:34:15,41 --> 00:34:18,90
+Să presupunem că aceasta este pozitivă şi aceasta este negativă.
+
+537
+00:34:18,90 --> 00:34:22,28
+Vă voi arăta cum punem sarcină  pe ele.
+
+538
+00:34:22,28 --> 00:34:24,25
+Asupra sarcinii pozitive se va exercita
+
+539
+00:34:24,25 --> 00:34:26,24
+o forţă în această direcţie, tot timpul
+
+540
+00:34:26,24 --> 00:34:30,16
+în direcţia câmpului electric, iar asupra sarcinii negative se va exercita
+
+541
+00:34:30,16 --> 00:34:33,15
+o forţă în direcţia opusă.
+
+542
+00:34:33,15 --> 00:34:36,11
+Obţinem un cuplu, obţinem un cuplu
+
+543
+00:34:36,11 --> 00:34:37,67
+pe acest dipol.
+Va începe să se rotească în
+
+544
+00:34:37,67 --> 00:34:41,95
+sensul acelor de ceasornic.
+Desigur, dacă depăşeşte
+
+545
+00:34:41,95 --> 00:34:44,86
+liniile de câmp, când este în această direcţie, cuplul
+
+546
+00:34:44,86 --> 00:34:47,95
+se va inversa.
+Este foarte uşor de observat.
+
+547
+00:34:47,95 --> 00:34:50,78
+Vom observa că va oscila, iar dacă există
+
+548
+00:34:50,78 --> 00:34:53,91
+suficientă amortizare se va stabiliza, mai mult sau mai puţin,
+
+549
+00:34:53,91 --> 00:34:56,25
+pe direcţia liniilor de câmp.
+
+550
+00:34:57,59 --> 00:35:00,56
+Vă pot demonstra acest lucru.
+
+551
+00:35:00,56 --> 00:35:07,36
+Pentru început trebuie să realizez un astfel de dipol, în felul următor.
+
+552
+00:35:08,49 --> 00:35:11,08
+Aceasta este o bară metalică,
+
+553
+00:35:11,08 --> 00:35:14,26
+acesta este un izolator.
+
+554
+00:35:14,26 --> 00:35:20,46
+Aici sunt cele două mingi de ping pong.
+Cea de aici are
+
+555
+00:35:20,46 --> 00:35:22,95
+un semn galben, cea din partea aceea
+
+556
+00:35:22,95 --> 00:35:29,80
+are un semn portocaliu. 
+Le voi ataşa pe această bară metalică.
+
+557
+00:35:30,68 --> 00:35:37,07
+Cu alte cuvinte, aici este acest dipol,
+
+558
+00:35:37,07 --> 00:35:39,19
+încă nu este un dipol,
+
+559
+00:35:39,19 --> 00:35:44,66
+metal metal şi aici este o bară metalică, 
+acesta este un conductor ce le conectează.
+
+560
+00:35:46,75 --> 00:35:49,38
+Voi porni Van der Graaff-ul de aici.
+
+561
+00:35:50,07 --> 00:35:52,84
+Van der Graaff-ul creează un câmp electric.
+
+562
+00:35:53,76 --> 00:35:56,68
+Avem aici Van der Graaff-ul.
+
+563
+00:35:56,68 --> 00:35:59,93
+Să presupunem că acest Van der Graaff
+creează o sarcină pozitivă.
+
+564
+00:35:59,93 --> 00:36:02,20
+Un Van der Graaff creează câteodată
+
+565
+00:36:02,20 --> 00:36:04,72
+sarcină pozitivă pe cupolă, altele pot fi 
+construite pentru a crea
+
+566
+00:36:04,72 --> 00:36:07,09
+sarcină negativă pe cupolă.
+
+567
+00:36:07,09 --> 00:36:10,22
+Ţineţi minte, pentru moment presupun că este pozitivă.
+
+568
+00:36:11,28 --> 00:36:14,48
+Ce se va întâmpla acum?
+Electronii vor dori să se deplaseze
+
+569
+00:36:14,48 --> 00:36:17,38
+în această direcţie.
+Aceasta devine negativă.
+
+570
+00:36:17,38 --> 00:36:20,53
+Protonii, sarcina pozitivă, rămân în urmă.
+
+571
+00:36:20,53 --> 00:36:23,73
+Iar acesta devine, prin inducţie, un dipol.
+
+572
+00:36:23,73 --> 00:36:25,50
+Pentru că le-am conectat împreună.
+
+573
+00:36:25,50 --> 00:36:28,10
+Le-am conectat cu această bară metalică.
+
+574
+00:36:28,10 --> 00:36:30,96
+Electronii se pot deplasa prin această bară şi ajung
+
+575
+00:36:30,96 --> 00:36:33,99
+aici. 
+Îndepărtez acum bara.
+
+576
+00:36:35,22 --> 00:36:39,16
+După ce îndepărtez bara, obţin un dipol.
+
+577
+00:36:40,34 --> 00:36:45,12
+Am aici un fir izolator şi o undiţă,
+
+578
+00:36:45,12 --> 00:36:48,76
+iar la capătul undiţei am acum un dipol permanent.
+
+579
+00:36:50,67 --> 00:36:54,31
+Cu ajutorul acestui dipol permanent voi verifica câmpul electric
+
+580
+00:36:54,31 --> 00:36:58,16
+din jurul acestui Van der Graaff.
+Aş fi putut alege acelaşi
+
+581
+00:36:58,16 --> 00:37:01,33
+Van der Graaff, dar există un motiv pentru care l-am ales pe acesta.
+
+582
+00:37:01,33 --> 00:37:06,40
+Pe măsură ce mă plimb în jurul acestui 
+Van der Graaff, veţi vedea că această undiţă
+
+583
+00:37:06,40 --> 00:37:08,51
+cu acest dipol la capăt, veţi vedea că dipolul
+
+584
+00:37:08,51 --> 00:37:12,05
+se va deplasa tot timpul radial în interior sau în exterior, în funcţie de
+
+585
+00:37:12,05 --> 00:37:15,45
+cum privim acest câmp. Pot verifica prin urmare acest câmp
+
+586
+00:37:15,45 --> 00:37:19,67
+şi veţi vedea pentru prima dată că există aici într-adevăr
+
+587
+00:37:19,67 --> 00:37:23,33
+un câmp radial intens generat de către
+
+588
+00:37:23,33 --> 00:37:26,78
+Van der Graaff.
+Şi acum un lucru foarte interesant,
+
+589
+00:37:26,78 --> 00:37:30,32
+ceva ce am descoperit azi dimineaţă, pe când derulam experimentul.
+
+590
+00:37:32,56 --> 00:37:39,19
+Dacă celălalt Van der Graaff, de acolo,
+este de asemenea pozitiv când îl pornesc,
+
+591
+00:37:39,19 --> 00:37:43,97
+cum credeţi că se va alinia acest dipol când mă voi apropia de el?
+
+592
+00:37:43,97 --> 00:37:46,49
+Care dintre bile va fi mai apropiata de Van der Graaff,
+
+593
+00:37:46,49 --> 00:37:50,76
+cea negativă, sau cea pozitivă?
+
+594
+00:37:53,25 --> 00:37:55,20
+Vă las 30 de secunde să vă gândiţi.
+
+595
+00:37:55,20 --> 00:37:56,83
+Realizez dipolul precum este
+
+596
+00:37:56,83 --> 00:38:00,10
+cel de aici. Să presupunem că acest Van der Graaff este pozitiv.
+
+597
+00:38:00,10 --> 00:38:04,24
+Partea aceasta devine negativă, o notez cu A,
+
+598
+00:38:04,24 --> 00:38:07,49
+iar partea aceasta devine pozitivă, o notez cu B.
+
+599
+00:38:07,49 --> 00:38:12,68
+Ma plimb acum cu acest dipol şi îl aduc în acest câmp.
+
+600
+00:38:13,36 --> 00:38:15,49
+Să presupunem că şi acela este tot pozitiv.
+
+601
+00:38:15,49 --> 00:38:19,11
+Încă nu ştim acest lucru.
+Cum se va alinia acum dipolul?
+
+602
+00:38:19,11 --> 00:38:22,36
+A va merge în interior sau va merge în exterior?
+
+603
+00:38:23,99 --> 00:38:27,22
+Cine crede că A merge în interior?
+Foarte bine.
+
+604
+00:38:27,22 --> 00:38:29,17
+Cine crede că A merge în exterior?
+Bine.
+
+605
+00:38:29,17 --> 00:38:33,46
+A se va îndrepta în interior, 
+dacă cele două Van der Graaff-uri au
+
+606
+00:38:33,46 --> 00:38:38,66
+aceeaşi polaritate.
+Dacă acest lucru nu se întâmplă, nu înseamnă
+
+607
+00:38:38,66 --> 00:38:40,26
+că fizica nu funcţionează,
+
+608
+00:38:40,26 --> 00:38:43,10
+înseamnă că cele două Van der Graaff-uri
+au polarităţi diferite.
+
+609
+00:38:43,10 --> 00:38:49,71
+Şi vom vedea ce se întâmplă.
+Voi realiza pentru început un dipol.
+
+610
+00:38:49,71 --> 00:38:52,66
+Aici este dipolul.
+
+611
+00:38:52,66 --> 00:38:57,44
+Este scurt-circuitat acum.
+Pornesc Van der Graaff-ul.
+
+612
+00:38:58,48 --> 00:38:59,73
+Are loc o inducţie.
+
+613
+00:38:59,73 --> 00:39:04,47
+Ţineţi că galbenul indică înspre Van der Graaff iar portocaliul
+
+614
+00:39:04,47 --> 00:39:07,63
+indică dinspre Van der Graaff în exterior.
+
+615
+00:39:08,99 --> 00:39:10,27
+Bine.
+
+616
+00:39:10,27 --> 00:39:12,46
+Induc prin urmare un dipol. Oh.
+
+617
+00:39:12,46 --> 00:39:15,13
+Ar trebui să refac asta.
+Nu ştiu ce se întâmplă
+
+618
+00:39:15,13 --> 00:39:20,64
+când - trebuie să îndepărtez câmpul prima dată.
+
+619
+00:39:22,60 --> 00:39:25,29
+Galbenul a fost spre interior. 
+Aşa a fost, nu? Bine.
+
+620
+00:39:26,38 --> 00:39:30,58
+Galben în interior.
+Să-i dăm drumul.
+
+621
+00:39:32,04 --> 00:39:36,70
+Acum creează un dipol prin intermediul acestei bare metalice.
+
+622
+00:39:40,03 --> 00:39:44,97
+Întrerup contactul şi acesta ar trebui acum să fie un dipol.
+
+623
+00:39:44,97 --> 00:39:47,66
+Pornesc acum câmpul,
+
+624
+00:39:50,84 --> 00:39:56,55
+dacă polaritatea este aceeaşi, galbenul va merge în interior.
+
+625
+00:40:00,75 --> 00:40:03,69
+Voi încerca să îl balansez puţin.
+
+626
+00:40:03,69 --> 00:40:07,80
+Observaţi două lucruri. 
+Se va alinia foarte frumos radial, dar
+
+627
+00:40:07,80 --> 00:40:10,96
+galbenul nu este în interior, ci este în exterior.
+
+628
+00:40:10,96 --> 00:40:14,12
+Cele două Van der Graaff-uri au prin urmare polarităţi diferite.
+
+629
+00:40:14,12 --> 00:40:16,61
+Dar vedeţi ce frumos se rotesc.
+
+630
+00:40:16,61 --> 00:40:20,26
+Se aliniază până la urmă radial şi când mă duc
+
+631
+00:40:20,26 --> 00:40:28,29
+aici, se balansează puţin, oscilează
+
+632
+00:40:28,29 --> 00:40:32,30
+puţin, dar prin atenuare vor ajunge la un echilibru şi priviţi,
+
+633
+00:40:32,30 --> 00:40:37,88
+câmpul este într-adevăr radial iar galbenul este, ca să spunem aşa,
+
+634
+00:40:37,88 --> 00:40:41,28
+în partea greşită.
+Cele două Van der Graaff-uri
+
+635
+00:40:41,28 --> 00:40:42,78
+au polarităţi diferite.
+
+636
+00:40:45,13 --> 00:40:48,02
+Aţi văzut aşadar cum putem realiza un dipol
+
+637
+00:40:48,02 --> 00:40:53,74
+şi aţi putut vedea cum putem analiza polaritatea.
+
+638
+00:41:02,61 --> 00:41:08,55
+Pot verifica un câmp electric folosind seminţe de iarbă în ulei.
+
+639
+00:41:12,18 --> 00:41:18,38
+Seminţele de iarbă sunt alungite şi, prin urmare, când pun o sămânţă de iarba
+
+640
+00:41:18,38 --> 00:41:21,33
+într-un câmp electric, aceasta va fi polarizată.
+
+641
+00:41:21,33 --> 00:41:23,13
+Nu putem face nimic în această privinţă.
+
+642
+00:41:23,13 --> 00:41:27,88
+Aici este o sămânţă de iarbă, iar câmpul electric este aşa.
+
+643
+00:41:30,31 --> 00:41:34,55
+Electronii vor să se deplaseze cât de departe pot în această direcţie,
+
+644
+00:41:34,55 --> 00:41:37,76
+datorită inducţiei. 
+Partea aceasta rămâne prin urmare pozitivă,
+
+645
+00:41:37,76 --> 00:41:39,73
+şi ce va face această sămânţă de iarbă acum?
+
+646
+00:41:39,73 --> 00:41:43,59
+Se va roti.
+Se va alinia pe direcţia câmpului electric.
+
+647
+00:41:44,55 --> 00:41:46,11
+Aceasta este modalitatea în care
+
+648
+00:41:46,11 --> 00:41:47,96
+vă voi arăta configuraţii de câmp
+
+649
+00:41:47,96 --> 00:41:51,56
+în vecinătatea unui dipol.
+Vă voi arăta apoi
+
+650
+00:41:51,56 --> 00:41:56,49
+configuraţii de câmp în vecinătatea a două sarcini cu aceeaşi polaritate.
+
+651
+00:41:59,38 --> 00:42:01,98
+Probabil că aţi mai văzut acest lucru în liceu
+
+652
+00:42:01,98 --> 00:42:04,30
+cu câmpuri magnetice,
+cu pilitură de fier,
+
+653
+00:42:04,30 --> 00:42:06,91
+aceea e joacă de copii.
+Acela este cel mai uşor lucru de făcut.
+
+654
+00:42:06,91 --> 00:42:09,23
+Acesta este însă adevăratul experiment, 
+aici avem câmpuri electrice.
+
+655
+00:42:09,23 --> 00:42:13,64
+Pun pariu că nu aţi văzut niciodată 
+câmpuri electrice trasate cu
+
+656
+00:42:13,64 --> 00:42:17,39
+ajutorul acestor seminţe misterioase.
+
+657
+00:42:19,18 --> 00:42:26,52
+Punem puţină lumină pentru optimizarea demonstraţiei.
+
+658
+00:42:29,61 --> 00:42:34,24
+Aceste seminţe trebuiesc orientate iniţial astfel încât să fie haos.
+
+659
+00:42:40,89 --> 00:42:44,59
+Primul lucru ce-l vedeţi, îl voi face
+
+660
+00:42:44,59 --> 00:42:46,33
+cred că va fi un dipol prima dată.
+
+661
+00:42:47,36 --> 00:42:50,75
+Mai mult ca sigur.
+Unul va fi încărcat pozitiv
+
+662
+00:42:50,75 --> 00:42:52,67
+iar celălalt negativ.
+
+663
+00:42:52,67 --> 00:42:57,36
+Şi vom vedea apoi cum se aranjează aceste seminţe.
+
+664
+00:42:57,36 --> 00:42:59,46
+Urmăriţi cu atenţie.
+
+665
+00:43:01,16 --> 00:43:02,07
+Iată.
+
+666
+00:43:02,72 --> 00:43:06,16
+Dumnezeule. 
+Ce câmp dipolar frumos.
+
+667
+00:43:07,82 --> 00:43:10,46
+Desigur, nu ştim care este plus sau minus pentru că
+
+668
+00:43:10,46 --> 00:43:13,94
+seminţele de iarbă nu au săgeţi pe ele.
+
+669
+00:43:13,94 --> 00:43:18,43
+Dar puteţi vedea foarte clar aceste linii incredibile,
+
+670
+00:43:19,43 --> 00:43:23,69
+radial în interior sau în exterior pe fiecare dintre sarcini, şi vedeţi
+
+671
+00:43:23,69 --> 00:43:28,05
+aceste bolte frumoase între ele.
+Cine a putut vedea cu uşurinţă acest lucru?
+
+672
+00:43:28,05 --> 00:43:31,73
+Bine, aţi primit ceva în schimbul taxei de studiu de 20.000 de dolari.
+
+673
+00:43:33,11 --> 00:43:36,64
+Mai punem eventual puţină sarcină. 
+Foarte clar.
+
+674
+00:43:38,79 --> 00:43:44,08
+Acum, ceea ce este şi mai interesant, vă voi arăta
+
+675
+00:43:44,08 --> 00:43:49,59
+câmpul din jurul a două sarcini, 
+dar de data aceasta sarcinile
+
+676
+00:43:49,59 --> 00:43:51,50
+au aceeaşi polaritate.
+
+677
+00:43:55,39 --> 00:43:59,31
+Trebuie să ştergem memoria seminţelor de iarbă.
+
+678
+00:44:04,08 --> 00:44:08,33
+Acum vom încerca să le facem 
+pe ambele de aceeaşi polaritate.
+
+679
+00:44:08,33 --> 00:44:12,25
+Urmăriţi efectul uscătorului de păr despre care v-am vorbit.
+
+680
+00:44:16,25 --> 00:44:22,65
+Poate că nu fac - nu sunt sigur dacă au făcut contact.
+
+681
+00:44:24,43 --> 00:44:26,90
+Vom încerca din nou.
+
+682
+00:44:30,74 --> 00:44:31,80
+Haide.
+
+683
+00:44:34,08 --> 00:44:37,97
+E foarte interesant, se pare că există ceva sarcină ascunsă
+
+684
+00:44:37,97 --> 00:44:41,69
+pentru că nu arată aşa de frumos precum în diagrama
+
+685
+00:44:41,69 --> 00:44:47,06
+lui Maxwell.
+Aparent există ceva aici într-o parte.
+
+686
+00:44:47,06 --> 00:44:50,72
+Iar câmpul electric este distorsionat.
+
+687
+00:44:50,72 --> 00:44:55,75
+Să încerc să-l descarc.
+Sunt un conductor destul de bun,
+
+688
+00:44:55,75 --> 00:44:58,61
+ar trebui să pot lua jos orice sarcină parazită.
+
+689
+00:45:03,50 --> 00:45:06,48
+Oh, staţi puţin.
+Ha!
+
+690
+00:45:06,48 --> 00:45:10,41
+L-am pus invers.
+[râsete] Oh doamne.
+
+691
+00:45:12,78 --> 00:45:15,39
+I se poate întâmpla oricui.
+
+692
+00:45:15,39 --> 00:45:17,75
+Contactul dintre ele nu a fost foarte bun.
+
+693
+00:45:17,75 --> 00:45:22,10
+Sunteţi pregătiţi acum?
+Ah, priviţi asta.
+
+694
+00:45:22,10 --> 00:45:25,49
+Perfect.
+Puteţi vedea acum foarte clar
+
+695
+00:45:25,49 --> 00:45:28,20
+aceste linii de câmp, şi puteţi vedea cum între ele
+
+696
+00:45:28,20 --> 00:45:31,85
+competiţia dintre cele două „uscătoare de păr”.
+
+697
+00:45:31,85 --> 00:45:35,57
+Foarte impresionant.
+Acesta este modul în care
+
+698
+00:45:35,57 --> 00:45:38,28
+vedem liniile de câmp,
+liniile de câmp electric.
+
+699
+00:45:38,28 --> 00:45:44,28
+Unii dintre voi aţi văzut probabil linii de câmp magnetic cu pilitură de fier.
+
+700
+00:45:48,24 --> 00:45:53,15
+Dacă am un Van der Graaff aici,
+
+701
+00:45:56,21 --> 00:45:58,38
+să presupunem că Van der Graaff-ul este pozitiv.
+
+702
+00:45:58,38 --> 00:46:00,84
+Nu ştiu dacă este pozitiv sau negativ, să presupunem
+
+703
+00:46:00,84 --> 00:46:04,02
+că-l folosesc pe cel de acolo.
+
+704
+00:46:04,02 --> 00:46:10,85
+Voi sta aici, pe pământ, Walter Lewin.
+
+705
+00:46:13,81 --> 00:46:15,40
+Ce se va întâmpla cu mine?
+
+706
+00:46:15,40 --> 00:46:18,91
+Prin inducţie,
+electronii sunt aspiraţi
+
+707
+00:46:18,91 --> 00:46:20,96
+din pământ şi vin în sus datorită faptului că vor să fie
+
+708
+00:46:20,96 --> 00:46:26,17
+aproape de sarcina pozitivă.
+Mă voi încărca aşadar cu sarcină negativă.
+
+709
+00:46:27,93 --> 00:46:29,40
+Cum vor arăta liniile de câmp?
+
+710
+00:46:29,40 --> 00:46:32,23
+Oh, vor fi extrem de complicate.
+
+711
+00:46:32,23 --> 00:46:36,39
+Foarte complicate.
+Dar probabil că vor arăta astfel.
+
+712
+00:46:37,46 --> 00:46:42,54
+Probabil aşa.
+Câteva ar putea să iasă pe aici.
+
+713
+00:46:42,54 --> 00:46:45,32
+Unele pe gâtul meu, aici.
+
+714
+00:46:45,32 --> 00:46:47,89
+Unele vor merge aici.
+Aşa.
+
+715
+00:46:48,95 --> 00:46:51,68
+Configuraţii de câmp foarte complicate.
+
+716
+00:46:53,08 --> 00:46:56,40
+Dar vreau să verific acest câmp.
+Cumva, puţin.
+
+717
+00:46:56,40 --> 00:46:59,51
+Vreau să obţin o idee despre cum arată acest câmp.
+
+718
+00:46:59,51 --> 00:47:01,65
+Pentru a realiza acest lucru, voi folosi
+
+719
+00:47:01,65 --> 00:47:04,35
+un balon încărcat electric.
+Vedeţi acolo balonul.
+
+720
+00:47:04,35 --> 00:47:07,36
+Este un conductor.
+Voi pune un balon încărcat electric,
+
+721
+00:47:07,36 --> 00:47:11,50
+să spunem, aici.
+Dacă este un balon încărcat
+
+722
+00:47:11,50 --> 00:47:14,86
+pozitiv, se va deplasa în acea direcţie.
+
+723
+00:47:14,86 --> 00:47:16,44
+Nu?
+Forţa este tot timpul tangentă
+
+724
+00:47:16,44 --> 00:47:19,58
+pe liniile de câmp.
+Va abandona liniile de câmp,
+
+725
+00:47:19,58 --> 00:47:22,36
+nu va rămâne pe liniile de câmp. Balonul este
+
+726
+00:47:22,36 --> 00:47:25,02
+amortizat puternic, de aceea aleg balonul.
+
+727
+00:47:25,02 --> 00:47:29,04
+Se va deplasa prin urmare relativ încet, şi va ajunge într-un final
+
+728
+00:47:29,04 --> 00:47:31,60
+pe capul meu, probabil aici.
+
+729
+00:47:32,65 --> 00:47:35,46
+Odată ce ajunge pe capul meu, poate vine aşa,
+
+730
+00:47:35,46 --> 00:47:40,01
+va acumula sarcina negativă de pe capul meu şi va deveni
+
+731
+00:47:40,01 --> 00:47:42,79
+imediat încărcat cu sarcină negativă.
+
+732
+00:47:42,79 --> 00:47:47,19
+Acum forţa se va inversa şi va fi în această direcţie,
+
+733
+00:47:47,19 --> 00:47:50,53
+tangentă pe această linie de câmp, prin urmare, se va duce înapoi.
+
+734
+00:47:50,53 --> 00:47:54,01
+Când va atinge Van der Graaff-ul din nou, se va încărca cu sarcină pozitivă,
+
+735
+00:47:54,01 --> 00:47:56,90
+îşi va inversa polaritate, şi se va duce înapoi.
+
+736
+00:47:56,90 --> 00:47:59,49
+Balonul va ricoşa astfel între mine şi
+
+737
+00:47:59,49 --> 00:48:03,06
+Van der Graaff. Obţinem astfel cu aproximaţie
+
+738
+00:48:03,06 --> 00:48:07,16
+configuraţia acestui câmp.
+Cu toate acestea, trebuie să vă reamintesc
+
+739
+00:48:07,16 --> 00:48:11,32
+că sarcina nu urmăreşte exact liniile de câmp.
+
+740
+00:48:11,32 --> 00:48:15,65
+Voi sta aici şi voi face parte din acest experiment.
+
+741
+00:48:15,65 --> 00:48:18,06
+Acela va fi probabil pozitiv, eu mă voi încărca automat
+
+742
+00:48:18,06 --> 00:48:20,78
+negativ, nu trebuie să fac nimic în această privinţă.
+
+743
+00:48:20,78 --> 00:48:23,57
+Pornesc doar Van der Graaff-ul şi trebuie să pun puţină
+
+744
+00:48:23,57 --> 00:48:26,36
+sarcină pe acel balon.
+Probabil că va face acest lucru singur,
+
+745
+00:48:26,36 --> 00:48:29,29
+dar pot să-l ajut puţin să meargă înspre Van der Graaff.
+
+746
+00:48:29,29 --> 00:48:31,27
+Iată-l că merge.
+
+747
+00:48:35,40 --> 00:48:37,20
+[râsete]
+
+748
+00:48:39,26 --> 00:48:41,76
+Pentru că ochelarii mei sunt
+
+749
+00:48:41,76 --> 00:48:44,57
+un bun izolator. Ar trebui să-i dau jos,
+
+750
+00:48:44,57 --> 00:48:48,68
+astfel că, de fiecare dată când mă loveşte,
+
+751
+00:48:51,34 --> 00:48:53,62
+îşi modifică polaritatea.
+
+752
+00:49:07,48 --> 00:49:11,43
+Aceasta este o modalitate 
+de a face fizică şi de a te distra în acelaşi timp.
+
+753
+00:49:11,43 --> 00:49:12,88
+Ne vedem luni.
+
+754
+00:49:12,88 --> 00:49:24,20
+(subtitrarea în limba română pentru www.circuiteelectrice.ro)

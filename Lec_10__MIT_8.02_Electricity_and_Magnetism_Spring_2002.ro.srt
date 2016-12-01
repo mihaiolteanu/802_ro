@@ -1,0 +1,3684 @@
+﻿1
+00:00:00,006 --> 00:00:02,044
+Am vorbit adesea
+despre surse de tensiune,
+
+2
+00:00:02,044 --> 00:00:06,007
+dispozitive ce menţin
+o diferenţă de potenţial
+
+3
+00:00:06,007 --> 00:00:10,002
+constantă.
+Aceasta este o astfel de sursă
+
+4
+00:00:10,002 --> 00:00:18,002
+de tensiune, diferenţă de potenţial V,
+borna pozitivă aici,
+
+5
+00:00:18,002 --> 00:00:24,007
+borna negativă aici.
+Conectăm această sursă la
+
+6
+00:00:24,007 --> 00:00:29,009
+un rezistor R,
+şi în acest moment
+
+7
+00:00:29,009 --> 00:00:35,008
+curentul se va deplasa
+în această direcţie,
+
+8
+00:00:35,008 --> 00:00:38,003
+această direcţie,
+această direcţie.
+
+9
+00:00:38,003 --> 00:00:41,003
+În interiorul sursei,
+curentul se deplasează în această
+
+10
+00:00:41,003 --> 00:00:43,003
+direcţie.
+Prin rezistor,
+
+11
+00:00:43,003 --> 00:00:46,000
+curentul se deplasează
+în această direcţie.
+
+12
+00:00:46,000 --> 00:00:49,001
+Care este direcţia
+câmpului electric?
+
+13
+00:00:49,001 --> 00:00:51,043
+Direcţia câmpului electric 
+este tot timpul dinspre potenţialul
+
+14
+00:00:51,043 --> 00:00:55,004
+pozitiv înspre cel negativ.
+Aici, în rezistor,
+
+15
+00:00:55,004 --> 00:01:00,007
+câmpul electric are
+această direcţie, de la plus la minus.
+
+16
+00:01:00,007 --> 00:01:04,056
+Dar în interiorul sursei trebuie 
+să fie de asemenea de la plus la minus.
+
+17
+00:01:04,056 --> 00:01:09,005
+În interiorul sursei aşadar,
+direcţia câmpului electric
+
+18
+00:01:09,005 --> 00:01:14,001
+este opusă
+direcţiei curentului.
+
+19
+00:01:14,001 --> 00:01:17,076
+Trebuie să existe aşadar
+un mecanism de pompare ce forţează
+
+20
+00:01:17,076 --> 00:01:23,001
+curentul în direcţia opusă
+a câmpului electric, în interiorul sursei.
+
+21
+00:01:23,001 --> 00:01:25,004
+Un bolovan
+nu poate să se deplaseze
+
+22
+00:01:25,004 --> 00:01:29,000
+singur la deal.
+Este nevoie de ceva care să-l
+
+23
+00:01:29,000 --> 00:01:31,064
+împingă.
+Ţineţi minte că,
+
+24
+00:01:31,064 --> 00:01:34,053
+în cazul Van der Graaff-ului,
+transferăm sarcină pe o
+
+25
+00:01:34,053 --> 00:01:38,006
+curea rotativă,
+iar cureaua forţează
+
+26
+00:01:38,006 --> 00:01:42,007
+sarcinile să se deplaseze pe cupolă.
+Acestea trebuie să învingă
+
+27
+00:01:42,007 --> 00:01:49,000
+forţa de respingere a cupolei.
+Trebuie să efectuăm aşadar lucru mecanic.
+
+28
+00:01:49,000 --> 00:01:51,002
+Energia trebuie
+să vină de undeva.
+
+29
+00:01:51,002 --> 00:01:53,002
+În cazul Van der Graaff-ului,
+era evident că
+
+30
+00:01:53,002 --> 00:01:55,004
+această curea
+era acţionata de motor.
+
+31
+00:01:55,004 --> 00:01:59,001
+În cazul Wimshurst-ului,
+eu am fost cel care a rotit manivela,
+
+32
+00:01:59,001 --> 00:02:01,015
+eu am efectuat lucru mecanic.
+În cazul bateriilor
+
+33
+00:02:01,015 --> 00:02:04,002
+obişnuite, cele pe care
+le cumpărăm de la magazin,
+
+34
+00:02:04,002 --> 00:02:07,009
+lucrul mecanic
+este efectuat de energia
+
+35
+00:02:07,009 --> 00:02:11,083
+chimică.
+Vom discuta şi demonstra acum
+
+36
+00:02:11,083 --> 00:02:16,000
+un anumit tip
+de energie chimică,
+
+37
+00:02:16,000 --> 00:02:25,009
+în care avem 
+o placă de zinc şi una de cupru într-o
+
+38
+00:02:25,009 --> 00:02:29,080
+soluţie.
+Avem aici
+
+39
+00:02:29,080 --> 00:02:33,066
+H2SO4,
+iar aici
+
+40
+00:02:33,066 --> 00:02:40,004
+o placă de zinc
+şi o placă de cupru.
+
+41
+00:02:40,004 --> 00:02:44,009
+Aceasta va fi pozitivă,
+iar aceasta
+
+42
+00:02:44,009 --> 00:02:51,002
+negativă.
+Vom obţine o diferenţă
+
+43
+00:02:51,002 --> 00:02:55,000
+de potenţial
+între cele două plăci.
+
+44
+00:02:55,000 --> 00:02:58,023
+Pentru înţelegerea fenomenului
+este nevoie de mecanică cuantică,
+
+45
+00:02:58,023 --> 00:03:02,001
+ceea ce nu vom face în acest curs.
+Dar diferenţa de potenţial
+
+46
+00:03:02,001 --> 00:03:06,002
+este de obicei
+de un volt.
+
+47
+00:03:06,002 --> 00:03:08,009
+Secretul
+nu este neapărat
+
+48
+00:03:08,009 --> 00:03:11,001
+soluţia folosită,
+pentru că dacă luăm doi
+
+49
+00:03:11,001 --> 00:03:14,005
+conductori diferiţi
+şi îi aducem în contact,
+
+50
+00:03:14,005 --> 00:03:17,004
+metal pe metal,
+va exista de asemenea o diferenţă
+
+51
+00:03:17,004 --> 00:03:20,007
+de potenţial.
+Să analizăm această baterie
+
+52
+00:03:20,007 --> 00:03:28,001
+în detaliu.
+Avem o barieră poroasă
+
+53
+00:03:28,001 --> 00:03:32,001
+prin care ionii se pot
+deplasa liberi dintr-o parte în cealaltă.
+
+54
+00:03:32,001 --> 00:03:37,006
+Conectăm plăcile
+cu un rezistor,
+
+55
+00:03:37,006 --> 00:03:41,000
+şi avem acum
+un curent.
+
+56
+00:03:41,000 --> 00:03:44,072
+Prin rezistor, curentul se
+deplasează în această direcţie,
+
+57
+00:03:44,072 --> 00:03:48,008
+dinspre borna pozitivă 
+a bateriei înspre cea negativă,
+
+58
+00:03:48,008 --> 00:03:51,067
+asta înseamnă că în interiorul bateriei,
+direcţia curentului este
+
+59
+00:03:51,067 --> 00:03:57,009
+aceasta. Direcţia
+câmpului electric este aşa aici,
+
+60
+00:03:57,009 --> 00:04:01,000
+de la plus la minus,
+dar şi în interiorul bateriei
+
+61
+00:04:01,000 --> 00:04:03,034
+câmpul electric trebuie
+să fie de la plus la minus.
+
+62
+00:04:03,034 --> 00:04:06,008
+Vedem din nou,
+după cum am văzut aici,
+
+63
+00:04:06,008 --> 00:04:10,005
+că direcţia câmpului
+electric este opusă direcţiei
+
+64
+00:04:10,005 --> 00:04:17,006
+curentului.
+Vom avea aici ioni
+
+65
+00:04:17,006 --> 00:04:22,006
+SO4--,
+şi ioni Cu++
+
+66
+00:04:22,006 --> 00:04:28,001
+în această soluţie,
+iar aici Zn++ şi
+
+67
+00:04:28,001 --> 00:04:34,005
+SO4--.
+După apariţia curentului,
+
+68
+00:04:34,005 --> 00:04:37,008
+ionii SO4--,
+adică purtătorii
+
+69
+00:04:37,008 --> 00:04:41,074
+de sarcină din interiorul acestei baterii,
+se vor deplasa
+
+70
+00:04:41,074 --> 00:04:44,050
+de la dreapta
+spre stânga.
+
+71
+00:04:44,050 --> 00:04:49,002
+De ce s-ar deplasa ionii SO4--
+printr-un câmp
+
+72
+00:04:49,002 --> 00:04:54,001
+electric ce li se opune,
+ce este opus direcţiei lor de deplasare?
+
+73
+00:04:54,001 --> 00:04:56,074
+Motivul este că,
+prin această deplasare,
+
+74
+00:04:56,074 --> 00:05:00,007
+are loc o reacţie chimică
+ce produce mai multă
+
+75
+00:05:00,007 --> 00:05:06,000
+energie decât energia consumată 
+pentru depăşirea barierei electrice.
+
+76
+00:05:06,000 --> 00:05:12,000
+Pe măsura deplasării curentului,
+pe măsură ce ionii SO4-- se deplasează
+
+77
+00:05:12,000 --> 00:05:16,005
+de la dreapta la stânga,
+vor rămâne mai puţini ioni SO4--
+
+78
+00:05:16,005 --> 00:05:19,039
+aici,
+lichidul de aici rămâne
+
+79
+00:05:19,039 --> 00:05:22,088
+neutru, 
+iar Cu++ trebuie să dispară.
+
+80
+00:05:22,088 --> 00:05:25,057
+Îl vom regăsi ca şi
+precipitat pe această bară de cupru.
+
+81
+00:05:25,057 --> 00:05:29,034
+Este precum procesul
+de placare cu cupru.
+
+82
+00:05:29,034 --> 00:05:34,005
+Aici, numărul ionilor SO4-- va creşte,
+prin urmare, va creşte
+
+83
+00:05:34,005 --> 00:05:37,004
+şi numărul ionilor Zn++,
+pentru că, din nou,
+
+84
+00:05:37,004 --> 00:05:41,007
+lichidul de aici devine neutru,
+ceea ce înseamnă că
+
+85
+00:05:41,007 --> 00:05:46,000
+o parte din zinc se dizolvă,
+obţinând o
+
+86
+00:05:46,000 --> 00:05:50,088
+creştere a 
+concentraţiei de zinc.
+
+87
+00:05:50,090 --> 00:05:53,025
+Purtătorii de sarcină
+din interiorul acestei baterii,
+
+88
+00:05:53,025 --> 00:05:56,039
+ionii SO4-,
+se deplasează prin această barieră,
+
+89
+00:05:56,039 --> 00:06:00,008
+de aici, aici.
+Se deplasează aşadar printr-un
+
+90
+00:06:00,008 --> 00:06:03,042
+câmp electric
+opus direcţiei lor de deplasare.
+
+91
+00:06:03,042 --> 00:06:07,004
+Acest lucru are loc
+prin consum de energie chimică.
+
+92
+00:06:07,004 --> 00:06:12,004
+Când soluţia de cupru
+devine foarte diluată,
+
+93
+00:06:12,004 --> 00:06:16,004
+datorită precipitaţiei
+cuprului pe bara de cupru,
+
+94
+00:06:16,004 --> 00:06:18,010
+iar soluţia de zinc
+devine
+
+95
+00:06:18,010 --> 00:06:22,002
+foarte concentrată, 
+bateria se opreşte. Putem acum
+
+96
+00:06:22,002 --> 00:06:24,026
+aplica un curent
+în direcţia opusă,
+
+97
+00:06:24,026 --> 00:06:27,001
+adică un
+curent în această direcţie,
+
+98
+00:06:27,001 --> 00:06:29,007
+putem forţa un curent
+cu ajutorul unei surse de tensiune
+
+99
+00:06:29,007 --> 00:06:34,008
+externe. 
+Reacţiile chimice se vor inversa,
+
+100
+00:06:34,008 --> 00:06:38,006
+cuprul 
+va reveni în soluţie,
+
+101
+00:06:38,006 --> 00:06:43,003
+se va dizolva,
+şi zincul se va
+
+102
+00:06:43,003 --> 00:06:46,006
+precipita pe bara de zinc.
+Dacă aplicăm acest curent
+
+103
+00:06:46,006 --> 00:06:51,009
+suficient de mult,
+putem readuce bateria la starea iniţială.
+
+104
+00:06:51,009 --> 00:06:54,009
+O baterie de maşină
+este un astfel de tip de baterie,
+
+105
+00:06:54,009 --> 00:06:57,074
+doar că avem plumb şi 
+oxid de plumb în loc de zinc şi
+
+106
+00:06:57,074 --> 00:07:00,054
+cupru, 
+dar există şi acolo acid sulfuric
+
+107
+00:07:00,054 --> 00:07:05,002
+precum în acest caz.
+Bateria de nichel-cadmiu este
+
+108
+00:07:05,002 --> 00:07:08,007
+un exemplu binecunoscut,
+se poate reîncărca, acestea sunt bateriile
+
+109
+00:07:08,007 --> 00:07:11,005
+ce le găsiţi în magazine.
+Puteţi folosi aceste baterii
+
+110
+00:07:11,005 --> 00:07:18,000
+de nichel-cadmiu pentru
+alimentarea lanternelor.
+
+111
+00:07:18,000 --> 00:07:22,006
+Simbolul bateriei
+utilizat în diagrame este
+
+112
+00:07:22,006 --> 00:07:26,004
+acesta,
+aceasta este borna pozitivă,
+
+113
+00:07:26,004 --> 00:07:30,003
+aceasta este borna negativă,
+acesta este simbolul
+
+114
+00:07:30,003 --> 00:07:35,004
+care ne spune
+că avem de-a face cu o baterie.
+
+115
+00:07:35,004 --> 00:07:40,008
+Notăm acest punct cu B,
+acesta cu A,
+
+116
+00:07:40,008 --> 00:07:45,074
+iar aici 
+avem un rezistor R.
+
+117
+00:07:47,087 --> 00:07:59,037
+Avem un curent, I,
+în această direcţie.
+
+118
+00:08:01,007 --> 00:08:04,007
+Acesta poate fi un bec,
+un laptop,
+
+119
+00:08:04,007 --> 00:08:12,001
+un uscător de păr,
+orice aparat ce-l alimentaţi.
+
+120
+00:08:12,001 --> 00:08:15,028
+Dacă R-ul acesta nu este aici,
+înseamnă că rezistenţa
+
+121
+00:08:15,028 --> 00:08:19,003
+este infinit de mare,
+asta înseamnă că valoarea curentului
+
+122
+00:08:19,003 --> 00:08:25,005
+este egală cu zero,
+iar tensiunea
+
+123
+00:08:25,005 --> 00:08:32,005
+măsurată la bornele acestei baterii,
+adică VB minus VA, pentru care
+
+124
+00:08:32,005 --> 00:08:36,004
+voi scrie simplu Vb,
+această
+
+125
+00:08:36,004 --> 00:08:41,004
+tensiune o notăm cu E rond,
+şi înseamnă TEM,
+
+126
+00:08:41,004 --> 00:08:49,000
+adică tensiune electromotoare.
+Voi reveni asupra acestui lucru.
+
+127
+00:08:49,000 --> 00:08:52,004
+Dacă introducem o rezistenţă R,
+ce nu este infinit de
+
+128
+00:08:52,004 --> 00:08:57,005
+mare,
+va exista acum un curent, dar,
+
+129
+00:08:57,005 --> 00:09:01,006
+nu trebuie niciodată să uităm,
+că între punctele A şi
+
+130
+00:09:01,006 --> 00:09:04,005
+B,
+invizibil ochiului nostru,
+
+131
+00:09:04,005 --> 00:09:07,007
+există tot timpul o
+rezistenţă internă ce o voi nota cu
+
+132
+00:09:07,007 --> 00:09:12,094
+ri,
+iar curentul se va deplasa
+
+133
+00:09:12,094 --> 00:09:15,024
+nu doar prin R mare,
+dar şi prin
+
+134
+00:09:15,024 --> 00:09:19,000
+acest r mic.
+Conform legii lui Ohm,
+
+135
+00:09:19,000 --> 00:09:25,001
+TEM este acum egală cu
+I ori rezistenţa externă plus
+
+136
+00:09:25,001 --> 00:09:31,060
+cea internă.
+Tensiunea măsurată
+
+137
+00:09:31,060 --> 00:09:36,006
+între punctele
+B şi A
+
+138
+00:09:36,006 --> 00:09:39,005
+se va modifica acum.
+Acea tensiune,
+
+139
+00:09:39,005 --> 00:09:43,001
+conform legii lui Ohm,
+este I ori R, prin urmare este egală
+
+140
+00:09:43,001 --> 00:09:48,007
+şi cu TEM minus I ori ri.
+Observaţi că este puţin mai mică
+
+141
+00:09:48,007 --> 00:09:53,004
+decât TEM.
+Acest lucru se datorează acestei
+
+142
+00:09:53,004 --> 00:09:59,047
+rezistenţe interne.
+Dacă aş scurtcircuita această baterie,
+
+143
+00:09:59,047 --> 00:10:04,001
+un lucru stupid,
+dar dacă îl reduc pe R la zero,
+
+144
+00:10:04,001 --> 00:10:07,074
+iau această baterie aşadar,
+şi o scurtcircuitez,
+
+145
+00:10:07,074 --> 00:10:17,001
+atunci curentul maxim 
+ce-l pot obţine, acest R este zero acum,
+
+146
+00:10:17,001 --> 00:10:21,007
+puteţi vedea că I maxim
+este egal cu E rond împărţit
+
+147
+00:10:21,007 --> 00:10:28,000
+la ri, iar Vb,
+tensiunea măsurată
+
+148
+00:10:28,000 --> 00:10:32,002
+între punctele B şi A
+descreşte la zero.
+
+149
+00:10:32,002 --> 00:10:35,003
+Nu înseamnă că
+nu există deloc curent,
+
+150
+00:10:35,003 --> 00:10:39,000
+ci, că între aceste puncte,
+diferenţa de
+
+151
+00:10:39,000 --> 00:10:42,004
+potenţial
+scade la zero.
+
+152
+00:10:42,004 --> 00:10:44,070
+Scurtcircuitarea unei baterii,
+desigur, nu este o idee
+
+153
+00:10:44,070 --> 00:10:49,005
+foarte bună.
+Putem conecta bateriile în
+
+154
+00:10:49,005 --> 00:10:56,009
+serie, obţinând
+o diferenţă de potenţial mai mare,
+
+155
+00:10:56,009 --> 00:11:00,000
+aceasta este borna negativă,
+aceasta cea pozitivă,
+
+156
+00:11:00,000 --> 00:11:03,005
+am încă o baterie,
+negativă, pozitivă,
+
+157
+00:11:03,005 --> 00:11:07,004
+şi încă una,
+negativă, pozitivă,
+
+158
+00:11:07,004 --> 00:11:12,008
+fiecare cu o tensiune electromotoare, E,
+şi conectez borna
+
+159
+00:11:12,008 --> 00:11:15,008
+pozitivă a unei baterii
+cu borna negativă a celeilalte,
+
+160
+00:11:15,008 --> 00:11:19,000
+printr-un simplu fir conductor,
+borna pozitivă a acesteia
+
+161
+00:11:19,000 --> 00:11:22,007
+cu borna negativă a celeilalte,
+iar acum diferenţa
+
+162
+00:11:22,007 --> 00:11:27,001
+de potenţial dintre aceste 
+două  puncte este egală cu 3 ori E,
+
+163
+00:11:27,001 --> 00:11:30,083
+circuit deschis,
+dacă nu avem niciun curent.
+
+164
+00:11:30,083 --> 00:11:32,094
+Dacă avem un curent,
+atunci, desigur,
+
+165
+00:11:32,094 --> 00:11:39,006
+avem de-a face
+cu rezistenţa internă.
+
+166
+00:11:39,006 --> 00:11:47,009
+Voi construi aici
+o baterie de cupru-zinc
+
+167
+00:11:47,009 --> 00:11:51,006
+precum cea
+despre care am discutat.
+
+168
+00:11:51,006 --> 00:12:01,010
+O vedeţi aici.
+Aici este soluţia de H2SO4,
+
+169
+00:12:04,032 --> 00:12:09,004
+aici sunt plăcile,
+aceasta este placa de zinc,
+
+170
+00:12:09,004 --> 00:12:19,031
+aceasta este placa de cupru,
+şi veţi vedea tensiunea acolo.
+
+171
+00:12:24,031 --> 00:12:26,020
+Nu avem nicio
+diferenţă de potenţial acum,
+
+172
+00:12:26,020 --> 00:12:31,004
+pentru că nu sunt asamblate încă.
+Introduc plăcile
+
+173
+00:12:31,004 --> 00:12:38,002
+de zinc şi de cupru
+în soluţie,
+
+174
+00:12:38,002 --> 00:12:42,001
+şi vedeţi aproximativ un volt.
+Aceste diferenţe de potenţial
+
+175
+00:12:42,001 --> 00:12:46,084
+sunt de obicei
+de un volt. 0,95.
+
+176
+00:12:48,033 --> 00:12:59,068
+Voi realiza o baterie dublă,
+am două baterii independente,
+
+177
+00:12:59,068 --> 00:13:10,021
+o baterie de
+cupru şi zinc aici,
+
+178
+00:13:10,021 --> 00:13:16,003
+şi o alta în care
+am cupru şi zinc.
+
+179
+00:13:16,003 --> 00:13:20,007
+Le voi conecta,
+şi veţi vedea că
+
+180
+00:13:20,007 --> 00:13:27,034
+E-ul se va dubla.
+Dacă sunteţi pregătiţi,
+
+181
+00:13:27,034 --> 00:13:29,065
+asta e a doua baterie,
+complet
+
+182
+00:13:29,065 --> 00:13:33,065
+independentă, 
+introduc cele două plăci,
+
+183
+00:13:33,065 --> 00:13:38,031
+trebuie să fiu sigur
+că nu încurc cele două plăci,
+
+184
+00:13:38,031 --> 00:13:41,039
+gata, ar trebui acum
+să vedeţi o diferenţă dublă de potenţial,
+
+185
+00:13:41,039 --> 00:13:43,058
+ceea ce şi vedeţi.
+Este un circuit deschis,
+
+186
+00:13:43,058 --> 00:13:46,006
+nu avem niciun curent.
+Există de fapt un curent
+
+187
+00:13:46,006 --> 00:13:48,009
+extrem de mic
+prin voltmetru,
+
+188
+00:13:48,009 --> 00:13:51,007
+dar este
+atât de mic, încât
+
+189
+00:13:51,007 --> 00:13:54,000
+îl putem ignora.
+Vedeţi că avem o TEM
+
+190
+00:13:54,000 --> 00:13:57,009
+dublă.
+Acum
+
+191
+00:13:57,009 --> 00:14:03,003
+că avem cei doi 
+volţi între aceste plăci,
+
+192
+00:14:03,003 --> 00:14:14,017
+două baterii în serie,
+vom aprinde un bec.
+
+193
+00:14:14,017 --> 00:14:17,002
+Veţi vedea acum
+că această tensiune ce
+
+194
+00:14:17,002 --> 00:14:20,002
+o măsurăm aici,
+asta e tot ce putem face, tensiunea
+
+195
+00:14:20,002 --> 00:14:24,001
+poate fi măsurată doar pe plăcile bateriei,
+această tensiune
+
+196
+00:14:24,001 --> 00:14:26,005
+va scădea, datorită 
+rezistenţei interne
+
+197
+00:14:26,005 --> 00:14:28,005
+a bateriei.
+Pe lângă asta, veţi vedea o
+
+198
+00:14:28,005 --> 00:14:30,096
+lumină, dar nu acesta
+este scopul meu.
+
+199
+00:14:30,096 --> 00:14:33,000
+Pentru cei care
+staţi aproape,
+
+200
+00:14:33,000 --> 00:14:35,009
+veţi vedea că becul
+se va aprinde.
+
+201
+00:14:35,009 --> 00:14:38,005
+Să-i dăm drumul,
+văd becul,
+
+202
+00:14:38,005 --> 00:14:41,002
+luminează puţin,
+şi observaţi că tensiunea
+
+203
+00:14:41,002 --> 00:14:44,004
+scade.
+Tensiunea ce o
+
+204
+00:14:44,004 --> 00:14:49,008
+măsurăm acum, Vb,
+este mai mica decât cei
+
+205
+00:14:49,008 --> 00:14:54,008
+1,9 volţi, datorită acestui termen.
+Datorită rezistenţei interne,
+
+206
+00:14:54,008 --> 00:14:59,001
+pierdem din diferenţa
+de potenţial.
+
+207
+00:15:05,046 --> 00:15:09,009
+Să le deconectăm
+pentru că emană
+
+208
+00:15:09,009 --> 00:15:12,065
+un
+miros urât.
+
+209
+00:15:23,044 --> 00:15:26,069
+Dacă o sarcină
+se deplasează din punctul A
+
+210
+00:15:26,069 --> 00:15:32,049
+în punctul B,
+iar aici potenţialul este VA,
+
+211
+00:15:32,049 --> 00:15:39,003
+iar aici VB,
+şi o sarcină dq se deplasează, şi
+
+212
+00:15:39,003 --> 00:15:42,006
+să presupunem,
+pentru simplitate,
+
+213
+00:15:42,006 --> 00:15:49,006
+că VB minus VA, 
+da, să spunem că VA este mai mare
+
+214
+00:15:49,006 --> 00:15:51,084
+decât VB, 
+este mai uşor aşa,
+
+215
+00:15:51,084 --> 00:15:53,087
+dar nu este
+necesar, desigur.
+
+216
+00:15:53,087 --> 00:15:56,045
+Să spunem aşadar 
+că VA este mai mare decât
+
+217
+00:15:56,045 --> 00:16:00,001
+VB, câmpul electric
+este aşadar de la A la B.
+
+218
+00:16:00,001 --> 00:16:03,007
+Dacă sarcina electrică
+se deplasează de la A la B,
+
+219
+00:16:03,007 --> 00:16:07,005
+atunci câmpul electric
+efectuează lucru mecanic.
+
+220
+00:16:07,005 --> 00:16:09,050
+Lucrul mecanic 
+pe care câmpul electric îl efectuează,
+
+221
+00:16:09,050 --> 00:16:15,004
+dW, este egal cu sarcina
+ori diferenţa de potenţial,
+
+222
+00:16:15,004 --> 00:16:24,092
+adică VA minus VB.
+Acest lucru mecanic poate fi pozitiv,
+
+223
+00:16:24,092 --> 00:16:27,024
+dacă sarcina este pozitivă,
+poate fi negativ, dacă
+
+224
+00:16:27,024 --> 00:16:29,077
+sarcina este negativă,
+pentru că am presupus că acest termen
+
+225
+00:16:29,077 --> 00:16:34,000
+este pozitiv
+în acest caz.
+
+226
+00:16:34,000 --> 00:16:37,007
+Voi face acum ceva
+ce nu ar trebui să spuneţi profesorilor
+
+227
+00:16:37,007 --> 00:16:40,000
+voştri de matematică,
+dar fizicienii fac acest lucru
+
+228
+00:16:40,000 --> 00:16:45,006
+tot timpul, împărţim la dt,
+şi spunem,
+
+229
+00:16:45,006 --> 00:16:48,000
+„Aha!
+În partea stângă
+
+230
+00:16:48,000 --> 00:16:51,009
+avem lucru mecanic pe unitate de timp,
+adică putere,
+
+231
+00:16:51,009 --> 00:16:57,005
+jouli pe secundă.”
+Aceasta este puterea,
+
+232
+00:16:57,005 --> 00:17:00,009
+dq/dt este curentul,
+numărul de coulombi pe
+
+233
+00:17:00,009 --> 00:17:03,001
+pe secundă.
+Acesta este curentul,
+
+234
+00:17:03,001 --> 00:17:06,002
+I.
+Iar diferenţa de potenţial,
+
+235
+00:17:06,002 --> 00:17:09,049
+folosesc pur şi simplu
+simbolul V.
+
+236
+00:17:09,049 --> 00:17:15,001
+Vedeţi aşadar că puterea
+furnizată de o sursă de
+
+237
+00:17:15,001 --> 00:17:21,004
+de tensiune este produsul
+dintre curentul ce-l produce şi
+
+238
+00:17:21,004 --> 00:17:25,003
+diferenţa de potenţial.
+Acest lucru este independent de
+
+239
+00:17:25,003 --> 00:17:32,002
+legea lui Ohm, este tot timpul valabil.
+Dacă includem şi legea lui Ohm,
+
+240
+00:17:32,002 --> 00:17:37,002
+atunci când este valabilă,
+am discutat data trecută limitele
+
+241
+00:17:37,002 --> 00:17:40,003
+legii lui Ohm, dar dacă o putem aplica,
+atunci V egal cu I ori R,
+
+242
+00:17:40,003 --> 00:17:42,092
+şi putem scrie
+că puterea
+
+243
+00:17:42,092 --> 00:17:48,009
+este de asemenea egală
+cu I la pătrat ori R, sau V la pătrat
+
+244
+00:17:48,009 --> 00:17:56,009
+împărţit la R.
+Puterea se măsoară în jouli pe secundă,
+
+245
+00:17:56,009 --> 00:18:03,026
+raport cunoscut
+sub numele de watt,
+
+246
+00:18:03,026 --> 00:18:06,001
+notat 
+cu W,
+
+247
+00:18:06,001 --> 00:18:10,018
+şi poartă numele
+fizicianului Watt.
+
+248
+00:18:10,018 --> 00:18:14,052
+Puterea este tot timpul
+exprimată aşadar în waţi.
+
+249
+00:18:14,052 --> 00:18:20,007
+Să presupunem că avem 
+un rezistor R prin care
+
+250
+00:18:20,007 --> 00:18:28,001
+trece curent, acesta e rezistorul,
+şi curentul prin el.
+
+251
+00:18:28,001 --> 00:18:32,005
+Să luăm un exemplu
+în care curentul, I, este egal cu un
+
+252
+00:18:32,005 --> 00:18:39,004
+amper, iar rezistenţa
+este egală cu 100 Ω.
+
+253
+00:18:39,004 --> 00:18:44,008
+Puterea disipată 
+pe acest rezistor, ce trebuie
+
+254
+00:18:44,008 --> 00:18:47,000
+să fie furnizată
+de baterie,
+
+255
+00:18:47,000 --> 00:18:52,007
+această putere, P, 
+este egală cu 100 W.
+
+256
+00:18:52,007 --> 00:18:56,003
+I^2 ori R, 
+dacă aplicăm această formulă.
+
+257
+00:18:56,003 --> 00:18:59,005
+Dacă I este egal cu 2 A,
+iar rezistenţa rămâne
+
+258
+00:18:59,005 --> 00:19:04,005
+aceeaşi, atunci puterea
+devine 400 W.
+
+259
+00:19:04,005 --> 00:19:07,099
+Pentru că este egală cu I^2 ori R.
+Dacă I este dublu, atunci puterea
+
+260
+00:19:07,099 --> 00:19:12,008
+este de patru ori mai mare.
+Această energie se disipă
+
+261
+00:19:12,008 --> 00:19:17,004
+sub formă de căldură.
+Dacă devine suficient de fierbinte,
+
+262
+00:19:17,004 --> 00:19:20,003
+putem produce lumină,
+aceasta fiind ideea
+
+263
+00:19:20,003 --> 00:19:23,003
+becului cu incandescenţă.
+Filamentul
+
+264
+00:19:23,003 --> 00:19:26,008
+unui bec de tungsten 
+se încălzeşte extrem de tare,
+
+265
+00:19:26,008 --> 00:19:29,078
+2.500 de grade celsius,
+poate chiar
+
+266
+00:19:29,078 --> 00:19:33,002
+3.000, dar nu suficient de tare
+încât tungstenul să se
+
+267
+00:19:33,002 --> 00:19:38,042
+topească, 
+moment în care luminează.
+
+268
+00:19:38,042 --> 00:19:46,040
+De exemplu,
+un bec de 100 W,
+
+269
+00:19:46,040 --> 00:19:50,099
+dacă aveţi un bec 
+de 100 W în cameră,
+
+270
+00:19:55,032 --> 00:19:59,009
+iar tensiunea este de 110 V,
+şi îl introduceţi în
+
+271
+00:19:59,009 --> 00:20:06,083
+priză, curentul va fi
+egal cu 0,9 A.
+
+272
+00:20:09,052 --> 00:20:11,083
+P este egal cu
+V ori I.
+
+273
+00:20:11,083 --> 00:20:18,037
+Acest produs trebuie să fie 100.
+Rezistenţa becului
+
+274
+00:20:18,037 --> 00:20:23,005
+este de aproximativ
+120 Ω.
+
+275
+00:20:23,005 --> 00:20:33,007
+V egal cu I ori R.
+Cu toate că becul este
+
+276
+00:20:33,007 --> 00:20:37,001
+foarte fierbinte, 
+cantitatea de lumină ce o produce,
+
+277
+00:20:37,001 --> 00:20:41,007
+în general, este aproximativ 
+egală cu 20% din puterea sa.
+
+278
+00:20:41,007 --> 00:20:43,008
+Becul cu incandescenţă
+nu este foarte
+
+279
+00:20:43,008 --> 00:20:45,053
+eficient.
+Un tub fluorescent este mult
+
+280
+00:20:45,053 --> 00:20:48,009
+mai bun.
+Folosind un tub fluorescent
+
+281
+00:20:48,009 --> 00:20:50,057
+de 40 W,
+putem produce mult mai multă
+
+282
+00:20:50,057 --> 00:20:56,000
+lumină decât un bec cu 
+incandescenţă de 40 W.
+
+283
+00:20:56,000 --> 00:21:00,004
+Dacă luăm radiatoarele
+ce le aveţi în camere,
+
+284
+00:21:00,004 --> 00:21:02,003
+2 kW de obicei,
+dar să luăm
+
+285
+00:21:02,003 --> 00:21:07,002
+2.200 W,
+pentru că este mai uşor de împărţit
+
+286
+00:21:07,002 --> 00:21:10,004
+la cei 110 V,
+am avea un curent de
+
+287
+00:21:10,004 --> 00:21:14,057
+20 A,
+mulţi amperi.
+
+288
+00:21:14,057 --> 00:21:17,011
+În cazul în care camera 
+este foarte veche, s-ar putea ca
+
+289
+00:21:17,011 --> 00:21:20,005
+siguranţele fuzibile să sară.
+20 A este peste capacitatea
+
+290
+00:21:20,005 --> 00:21:24,009
+multor locuinţe.
+În zilele noastre,
+
+291
+00:21:24,009 --> 00:21:29,006
+cred că majoritatea prizelor
+suportă curenţi de 25 A.
+
+292
+00:21:29,006 --> 00:21:35,000
+Dar nu mai mult.
+Valoarea rezistenţei
+
+293
+00:21:35,000 --> 00:21:40,003
+radiatoarelor
+este de aproximativ 5,5 Ω.
+
+294
+00:21:40,003 --> 00:21:44,002
+Doar ca să
+vă faceţi o mică impresie.
+
+295
+00:21:44,002 --> 00:21:46,059
+Desigur că doriţi căldură 
+de la radiator şi lumină
+
+296
+00:21:46,059 --> 00:21:49,005
+de la bec.
+Vreţi să menţineţi
+
+297
+00:21:49,005 --> 00:21:52,014
+temperatura radiatorului la o 
+limită normală,
+
+298
+00:21:52,016 --> 00:21:54,026
+să nu fie prea mare, 
+altfel, dezvoltă
+
+299
+00:21:54,026 --> 00:21:56,040
+prea multă lumină.
+Dacă ar fi de 2.000 sau
+
+300
+00:21:56,040 --> 00:21:59,000
+2.500 de grade,
+aţi obţine o lumină
+
+301
+00:21:59,000 --> 00:22:02,093
+prea mare de la radiator.
+Să presupunem că jumătate
+
+302
+00:22:02,093 --> 00:22:05,040
+din această putere 
+este transformată în lumină.
+
+303
+00:22:05,040 --> 00:22:08,005
+Dacă porniţi radiatorul noaptea,
+este ca şi cum aţi avea
+
+304
+00:22:08,005 --> 00:22:11,084
+un bec de 1.000 W în cameră,
+şi nu vreţi asta.
+
+305
+00:22:11,084 --> 00:22:13,058
+Ce este de făcut
+în acest caz?
+
+306
+00:22:13,058 --> 00:22:16,000
+Păi, trebuie să menţinem 
+temperatura la aproximativ
+
+307
+00:22:16,000 --> 00:22:18,016
+1.000 de grade celsius,
+se înroşeşte
+
+308
+00:22:18,016 --> 00:22:21,009
+puţin, dar lumina produsă este mică.
+Cum putem menţine
+
+309
+00:22:21,009 --> 00:22:23,081
+temperatura scăzută?
+Îl putem răci cu
+
+310
+00:22:23,081 --> 00:22:27,003
+aer, unele radiatoare au
+ventilatoare pentru răcire,
+
+311
+00:22:27,003 --> 00:22:29,086
+fie creştem rezistenţa
+la o valoare
+
+312
+00:22:29,086 --> 00:22:33,002
+foarte mare, o suprafaţă 
+foarte mare a rezistorului,
+
+313
+00:22:33,002 --> 00:22:36,011
+nu mică, ci mare.
+Cu o suprafaţă
+
+314
+00:22:36,011 --> 00:22:40,005
+mare, rezistorii pot radia
+căldura, iar
+
+315
+00:22:40,005 --> 00:22:45,073
+temperatura rămâne scăzută.
+Dacă vă uitaţi la
+
+316
+00:22:45,073 --> 00:22:48,000
+lucrurile ce le aveţi în casă,
+aveţi becuri,
+
+317
+00:22:48,000 --> 00:22:51,001
+de la 40 la 200 W,
+prăjitorul de pâine,
+
+318
+00:22:51,001 --> 00:22:54,005
+undeva la 300 W.
+Soba electrică şi
+
+319
+00:22:54,005 --> 00:22:56,056
+radiatoarele,
+undeva la 2 kW,
+
+320
+00:22:56,056 --> 00:23:01,001
+televizorul, câteva sute de waţi,
+periuţa de dinţi electrică,
+
+321
+00:23:01,001 --> 00:23:04,025
+doar 4 W, probabil,
+modest.
+
+322
+00:23:04,025 --> 00:23:08,002
+Corpul vostru produce
+o căldură de aproximativ 100 W,
+
+323
+00:23:08,002 --> 00:23:11,001
+adică energie.
+Aria suprafeţei corpului este
+
+324
+00:23:11,001 --> 00:23:14,006
+foarte mare,
+nu vă veţi încălzi precum un bec
+
+325
+00:23:14,006 --> 00:23:17,007
+de 100 W. Pentru că suprafaţă
+este atât de mare, temperatura este
+
+326
+00:23:17,007 --> 00:23:20,000
+de doar 37 C,
+asta dacă nu
+
+327
+00:23:20,000 --> 00:23:24,004
+aveţi febră.
+Nu produceţi aşadar lumină,
+
+328
+00:23:24,004 --> 00:23:27,097
+pentru că nu sunteţi suficient
+de fierbinte pentru asta, dar produceţi
+
+329
+00:23:27,097 --> 00:23:30,065
+radiaţie în infraroşu,
+ceea ce se poate
+
+330
+00:23:30,065 --> 00:23:33,001
+observa.
+Dacă ţineţi pe cineva în braţe
+
+331
+00:23:33,001 --> 00:23:35,000
+simţiţi căldura corpului, 
+un sentiment plăcut.
+
+332
+00:23:35,000 --> 00:23:37,081
+Aceasta este radiaţia infraroşu.
+Corpul radiază aproximativ
+
+333
+00:23:37,081 --> 00:23:42,000
+100 de jouli pe secundă.
+100 W.
+
+334
+00:23:42,000 --> 00:23:45,009
+O pătură electrică
+are doar 50 W.
+
+335
+00:23:45,009 --> 00:23:48,003
+Un partener este aşadar 
+de două ori mai eficient decât
+
+336
+00:23:48,003 --> 00:23:58,004
+o pătura electrică.
+Probabil că este şi mai distractiv.
+
+337
+00:23:58,004 --> 00:24:05,058
+Puterea furnizată de o baterie 
+este egală cu valoarea curentului
+
+338
+00:24:05,058 --> 00:24:12,001
+furnizat ori E,
+adică tensiunea electromotoare.
+
+339
+00:24:12,001 --> 00:24:17,048
+Când avem un curent aşadar,
+puterea este egală cu I^2
+
+340
+00:24:17,048 --> 00:24:23,005
+ori suma celor două rezistenţe.
+Cea externă plus
+
+341
+00:24:23,005 --> 00:24:26,075
+cea internă,
+pe care nu o putem evita niciodată.
+
+342
+00:24:26,075 --> 00:24:28,047
+Căldura produsă
+în rezistorul
+
+343
+00:24:28,047 --> 00:24:31,065
+extern este egală cu I^2 ori R,
+dar căldura
+
+344
+00:24:31,065 --> 00:24:36,000
+produsă în interiorul bateriei
+este egală cu I^2 ori r,
+
+345
+00:24:36,000 --> 00:24:42,082
+nu putem evita acest lucru.
+Dacă îl facem pe R zero,
+
+346
+00:24:42,082 --> 00:24:47,003
+prin scurtcircuitarea bateriei,
+obţinem curentul
+
+347
+00:24:47,003 --> 00:24:53,000
+maxim posibil,
+adică TEM împărţit la
+
+348
+00:24:53,000 --> 00:24:57,007
+ri, 
+am scăpat de R,
+
+349
+00:24:57,007 --> 00:25:06,074
+R-ul este zero acum.
+Obţinem aşadar puterea
+
+350
+00:25:06,074 --> 00:25:13,005
+maximă posibilă,
+egală cu E^2 împărţit
+
+351
+00:25:13,005 --> 00:25:19,005
+la ri.
+I maxim la pătrat ori ri.
+
+352
+00:25:19,005 --> 00:25:23,008
+E acelaşi lucru,
+curentul maxim
+
+353
+00:25:23,008 --> 00:25:26,009
+la pătrat ori ri,
+toată această putere se consumă
+
+354
+00:25:26,009 --> 00:25:32,002
+în interiorul bateriei.
+Nimic nu se consumă în exterior.
+
+355
+00:25:32,002 --> 00:25:34,004
+Dacă avem o baterie
+Duracell
+
+356
+00:25:34,004 --> 00:25:39,017
+de 9 V, 
+cele cu care suntem obişnuiţi,
+
+357
+00:25:39,017 --> 00:25:47,000
+atunci E-ul este 9 V, TEM-ul.
+Rezistenţa
+
+358
+00:25:47,000 --> 00:25:51,097
+internă a unei astfel
+de baterii este de aproximativ 2 Ω,
+
+359
+00:25:51,097 --> 00:25:55,005
+iar curentul maxim
+ce-l putem obţine
+
+360
+00:25:55,005 --> 00:25:58,067
+de la o baterie Duracell,
+ar fi de aproximativ 4,5 A,
+
+361
+00:25:58,067 --> 00:26:05,060
+adică Imax
+este egal cu 4,5 A,
+
+362
+00:26:05,060 --> 00:26:09,004
+iar Pmax
+va fi aproximativ egal cu
+
+363
+00:26:09,004 --> 00:26:12,066
+40 W.
+Dacă scurtcircuităm aşadar
+
+364
+00:26:12,066 --> 00:26:18,009
+o baterie de 9 V,
+bateria se va
+
+365
+00:26:18,009 --> 00:26:22,004
+încălzi, pentru că toată această căldură,
+toţi cei 40 W sunt
+
+366
+00:26:22,004 --> 00:26:27,004
+consumaţi în interiorul bateriei.
+Valoarea măsurată pentru Vb
+
+367
+00:26:27,004 --> 00:26:31,052
+se va apropia de zero,
+dacă într-adevăr putem scurtcircuita
+
+368
+00:26:31,052 --> 00:26:35,005
+bateria cu un rezistor
+cu o rezistenţă zero.
+
+369
+00:26:35,005 --> 00:26:38,005
+Trebuie 
+să fii idiot
+
+370
+00:26:38,005 --> 00:26:43,001
+ca să scurtcircuitezi o baterie,
+dar nu este periculos.
+
+371
+00:26:43,001 --> 00:26:45,003
+40 W,
+bateria se încălzeşte puţin,
+
+372
+00:26:45,003 --> 00:26:47,053
+mare lucru.
+S-o scurtcircuităm aşadar.
+
+373
+00:26:47,053 --> 00:26:50,007
+Veţi vedea 
+aici tensiunea
+
+374
+00:26:50,007 --> 00:26:56,002
+ce o măsurăm
+la bornele unei baterii
+
+375
+00:26:56,002 --> 00:26:59,002
+Duracell de 9 V,
+bateria este aici.
+
+376
+00:26:59,002 --> 00:27:02,001
+Puteţi citi tensiunea aici.
+Sper că vedeţi şi zecimalele,
+
+377
+00:27:02,001 --> 00:27:05,004
+dar este de aproximativ
+9,6 V.
+
+378
+00:27:05,004 --> 00:27:07,005
+Voi face 
+acum o idioţenie,
+
+379
+00:27:07,005 --> 00:27:09,066
+dar, din nou,
+nu este periculos,
+
+380
+00:27:09,066 --> 00:27:14,004
+voi utiliza cheile de la 
+maşină pentru scurtcircuitarea
+
+381
+00:27:14,004 --> 00:27:17,002
+bateriei.
+Conectez pur şi simplu punctul A cu
+
+382
+00:27:17,002 --> 00:27:20,037
+punctul B. 
+Tensiunea ce o veţi vedea,
+
+383
+00:27:20,037 --> 00:27:23,089
+poate nu va scădea exact la zero,
+pentru că rezistenţa cheii
+
+384
+00:27:23,089 --> 00:27:27,005
+s-ar putea să nu fie zero,
+dar scade foarte mult.
+
+385
+00:27:27,005 --> 00:27:29,080
+Nu veţi putea simţi,
+însă
+
+386
+00:27:29,080 --> 00:27:33,005
+bateria se va încălzi.
+Aceşti 40 de waţi sunt
+
+387
+00:27:33,005 --> 00:27:36,001
+generaţi în interiorul ei.
+Este posibil
+
+388
+00:27:36,001 --> 00:27:38,049
+totuşi, ca atunci când bateria
+se încălzeşte, rezistenţa
+
+389
+00:27:38,049 --> 00:27:41,000
+internă 
+să crească puţin,
+
+390
+00:27:41,000 --> 00:27:43,009
+pentru că, ţineţi minte,
+rezistenţa creşte odată cu
+
+391
+00:27:43,009 --> 00:27:45,006
+creşterea temperaturii,
+caz în care,
+
+392
+00:27:45,006 --> 00:27:47,045
+puterea va scădea.
+S-ar putea aşadar să nu avem
+
+393
+00:27:47,045 --> 00:27:49,080
+toţi cei 40 de waţi.
+Dar vă asigur că
+
+394
+00:27:49,082 --> 00:27:52,009
+o simt cum se încălzeşte.
+O voi scurtcircuita
+
+395
+00:27:52,009 --> 00:27:55,006
+acum.
+Am scurtcircuitat-o.
+
+396
+00:27:55,006 --> 00:27:57,004
+Citiţi tensiunea,
+o pot vedea
+
+397
+00:27:57,004 --> 00:28:00,004
+şi eu aici,
+nu este aşa uşor să facem
+
+398
+00:28:00,004 --> 00:28:03,005
+acest lucru cu o cheie, 
+uitaţi, este foarte mică.
+
+399
+00:28:03,005 --> 00:28:06,003
+Uitaţi-vă.
+Este aproximativ 0,1 V,
+
+400
+00:28:06,003 --> 00:28:09,002
+şi simt
+cum se încălzeşte.
+
+401
+00:28:09,002 --> 00:28:13,063
+E într-adevăr
+caldă acum.
+
+402
+00:28:13,063 --> 00:28:16,006
+Distrug 
+astfel bateria.
+
+403
+00:28:16,006 --> 00:28:19,006
+Este un lucru îngrozitor,
+bateriilor nu le place asta.
+
+404
+00:28:19,006 --> 00:28:22,000
+Dar, atunci când
+îndepărtez rezistenţa externă,
+
+405
+00:28:22,000 --> 00:28:24,009
+s-ar putea ca o parte din 
+tensiune să revină la normal,
+
+406
+00:28:24,009 --> 00:28:27,001
+s-ar putea să nu fie distrusă permanent,
+vedeţi, este deja 8,5
+
+407
+00:28:27,001 --> 00:28:33,000
+volţi.
+Este imposibil să
+
+408
+00:28:33,000 --> 00:28:37,002
+porniţi o maşină
+cu o baterie Duracell de 9 V,
+
+409
+00:28:37,002 --> 00:28:39,000
+pentru că nu putem obţine
+curentul necesar
+
+410
+00:28:39,000 --> 00:28:41,080
+pentru motorul de pornire.
+Motorul de pornire necesită câteva
+
+411
+00:28:41,080 --> 00:28:49,061
+sute de amperi.
+Dacă luăm o baterie de maşină,
+
+412
+00:28:49,061 --> 00:28:54,001
+ce are 12 V,
+rezistenţa internă a acesteia
+
+413
+00:28:54,001 --> 00:29:00,000
+este foarte mică,
+0,02 Ω.
+
+414
+00:29:00,000 --> 00:29:02,088
+Asta înseamnă că 
+valoarea maximă a curentului,
+
+415
+00:29:02,088 --> 00:29:06,000
+dacă o scurtcircuităm,
+este de
+
+416
+00:29:06,000 --> 00:29:11,002
+600 A.
+Iar puterea maximă,
+
+417
+00:29:11,002 --> 00:29:14,000
+dacă aţi fi într-atât de 
+idioţi încât să o scurtcircuitaţi,
+
+418
+00:29:14,000 --> 00:29:16,000
+puterea maximă
+generată în interiorul
+
+419
+00:29:16,000 --> 00:29:18,000
+acestei bateri
+ar fi de
+
+420
+00:29:18,000 --> 00:29:25,033
+7 kW.
+Dacă lucraţi la maşină,
+
+421
+00:29:25,033 --> 00:29:29,002
+fiţi atenţi să nu scăpaţi
+niciodată cheia
+
+422
+00:29:29,002 --> 00:29:33,000
+ce o folosiţi pe baterie.
+Dacă se întâmplă acest lucru,
+
+423
+00:29:33,000 --> 00:29:37,002
+atunci, în interiorul bateriei
+se vor produce aproximativ
+
+424
+00:29:37,002 --> 00:29:40,000
+7 kW, 
+7.000 de jouli pe secundă
+
+425
+00:29:40,000 --> 00:29:44,003
+sub formă de căldură.
+Acidul sulfuric va
+
+426
+00:29:44,003 --> 00:29:49,009
+fierbe, carcasa se va topi,
+iar asta nu e de bine.
+
+427
+00:29:49,009 --> 00:29:56,004
+Nu este doar o idioţenie,
+dar este şi foarte periculos.
+
+428
+00:29:56,004 --> 00:29:59,004
+S-o facem aşadar.
+Am aici
+
+429
+00:29:59,004 --> 00:30:03,008
+această baterie,
+şi aici
+
+430
+00:30:03,008 --> 00:30:12,003
+o cheie.
+Pentru siguranţă.
+
+431
+00:30:12,003 --> 00:30:16,008
+Voi scurtcircuita bateria,
+şi pe măsură ce fac asta,
+
+432
+00:30:16,008 --> 00:30:21,000
+veţi vedea foarte clar
+că bateriei nu-i face plăcere.
+
+433
+00:30:21,000 --> 00:30:25,002
+Voi fi atent să
+nu ţin cheia acolo prea mult,
+
+434
+00:30:25,002 --> 00:30:28,001
+pentru că s-ar suda de baterie,
+s-ar putea să se sudeze
+
+435
+00:30:28,001 --> 00:30:30,066
+şi să rămână acolo.
+Curentul este într-atât de mare,
+
+436
+00:30:30,066 --> 00:30:33,001
+poate creşte la 600 A,
+încât se poate suda
+
+437
+00:30:33,001 --> 00:30:35,085
+de ea, şi apoi
+nu o mai putem dezlipi.
+
+438
+00:30:35,085 --> 00:30:40,007
+În caz că se va întâmpla asta,
+voi fugi de aici.
+
+439
+00:30:40,007 --> 00:30:45,003
+V-aş sfătui să
+faceţi şi voi acelaşi lucru.
+
+440
+00:30:45,003 --> 00:30:49,004
+Sunteţi pregătiţi?
+Bine.
+
+441
+00:30:49,004 --> 00:30:53,072
+Îi dau drumul.
+Vedeţi?
+
+442
+00:30:53,072 --> 00:30:56,088
+Asta se întâmplă,
+un curent foarte mare,
+
+443
+00:30:56,088 --> 00:31:00,008
+iar dacă faceţi
+acest lucru des,
+
+444
+00:31:00,008 --> 00:31:04,013
+bateriile nu vor trăi prea mult,
+nu le place.
+
+445
+00:31:04,013 --> 00:31:06,088
+Dar nu am glumit.
+Dacă lucraţi la maşină,
+
+446
+00:31:06,088 --> 00:31:10,013
+evitaţi acest lucru,
+pentru că am văzut situaţii
+
+447
+00:31:10,013 --> 00:31:19,006
+în care cheile s-au
+sudat de terminali.
+
+448
+00:31:19,006 --> 00:31:21,073
+Compania electrică
+vă taxează pentru
+
+449
+00:31:21,073 --> 00:31:25,008
+energia consumată,
+nu le pasă de putere,
+
+450
+00:31:25,008 --> 00:31:28,001
+câţi jouli pe secundă folosiţi,
+dar le pasă de câtă
+
+451
+00:31:28,001 --> 00:31:31,003
+energie consumaţi.
+Vă taxează
+
+452
+00:31:31,003 --> 00:31:35,004
+aşadar pentru jouli,
+aţi crede.
+
+453
+00:31:35,004 --> 00:31:37,082
+Aceştia reprezintă energie.
+Totuşi, dacă vă uitaţi
+
+454
+00:31:37,082 --> 00:31:43,060
+pe factură, compania vă taxează 
+de fapt pentru kilowaţi-oră (kWh).
+
+455
+00:31:43,060 --> 00:31:47,002
+Un kilo este 1.000,
+iar o oră este
+
+456
+00:31:47,002 --> 00:31:51,001
+3.600 de secunde,
+aşadar unitatea de energie
+
+457
+00:31:51,001 --> 00:31:55,003
+pentru care sunteţi
+taxaţi este aceasta, în jouli.
+
+458
+00:31:55,003 --> 00:31:58,006
+O sobă electrică
+de 2.000 W,
+
+459
+00:31:58,006 --> 00:32:03,003
+o folosiţi pentru două ore,
+asta înseamnă 4 kWh.
+
+460
+00:32:03,003 --> 00:32:06,006
+Vă taxează probabil
+cu 10 cenţi pe kWh.
+
+461
+00:32:06,006 --> 00:32:09,021
+Cu aceeaşi bani,
+puteţi folosi becul
+
+462
+00:32:09,021 --> 00:32:13,006
+de 100 W timp de 40 de ore.
+Din nou, acesta ar consuma aceeaşi
+
+463
+00:32:13,006 --> 00:32:16,005
+4 kWh,
+sau v-aţi putea spăla pe dinţi
+
+464
+00:32:16,005 --> 00:32:25,004
+cu periuţa electrică
+timp de 1.000 de ore.
+
+465
+00:32:25,004 --> 00:32:32,002
+Vom analiza acum
+o reţea electrică formată
+
+466
+00:32:32,002 --> 00:32:39,004
+din rezistori şi baterii.
+Acestea sunt genul de probleme
+
+467
+00:32:39,004 --> 00:32:43,021
+ce le veţi 
+primi ca temă de casă, şi,
+
+468
+00:32:43,021 --> 00:32:52,001
+probabil, la examene.
+Începem cu un
+
+469
+00:32:52,001 --> 00:32:56,007
+circuit foarte simplu.
+Avem un
+
+470
+00:32:56,007 --> 00:33:05,070
+rezistor R1,
+un rezistor R2,
+
+471
+00:33:05,070 --> 00:33:12,000
+şi R3,
+o baterie
+
+472
+00:33:12,000 --> 00:33:17,066
+aici, 
+borna pozitivă în stânga,
+
+473
+00:33:17,066 --> 00:33:21,005
+borna pozitivă,
+borna negativă,
+
+474
+00:33:21,005 --> 00:33:25,008
+iar diferenţa de potenţial
+a bateriei este V2.
+
+475
+00:33:25,008 --> 00:33:28,007
+Aceasta este TEM-ul de fapt,
+dar vom ignora
+
+476
+00:33:28,007 --> 00:33:31,006
+rezistenţele interne ale bateriilor,
+o putem ignora
+
+477
+00:33:31,006 --> 00:33:38,000
+cu totul în această problemă.
+Aici avem o altă baterie,
+
+478
+00:33:38,000 --> 00:33:42,000
+borna negativă aici,
+şi borna pozitivă aici.
+
+479
+00:33:42,000 --> 00:33:46,006
+Diferenţa
+de potenţial este V1.
+
+480
+00:33:46,006 --> 00:33:49,006
+Cunoaştem aşadar
+V1, V2, R1, R2,
+
+481
+00:33:49,006 --> 00:33:54,011
+şi R3.
+Se cere acum
+
+482
+00:33:54,011 --> 00:33:57,002
+să se afle I1,
+I2,
+
+483
+00:33:57,002 --> 00:34:01,001
+şi I3.
+Vreau atât valoarea
+
+484
+00:34:01,001 --> 00:34:04,040
+cât şi
+direcţia.
+
+485
+00:34:04,040 --> 00:34:07,005
+La o primă vedere,
+direcţia curentului
+
+486
+00:34:07,005 --> 00:34:09,024
+prin acest rezistor 
+nu este
+
+487
+00:34:09,024 --> 00:34:12,002
+deloc evidentă.
+Depinde de
+
+488
+00:34:12,002 --> 00:34:18,073
+valorile lui V1 şi V2,
+precum şi de rezistenţe.
+
+489
+00:34:18,073 --> 00:34:23,005
+Ideea de bază pentru rezolvarea 
+acestor probleme constă în
+
+490
+00:34:23,005 --> 00:34:31,001
+aplicarea legilor lui Kirchhoff.
+Prima lege a lui Kirchhoff spune că
+
+491
+00:34:31,001 --> 00:34:37,077
+integrală liniară închisă
+din E punct dl este
+
+492
+00:34:37,077 --> 00:34:40,036
+egală cu zero.
+Dar am mai văzut asta înainte.
+
+493
+00:34:40,036 --> 00:34:43,003
+Nu ştiu de ce 
+poartă numele lui Kirchhoff.
+
+494
+00:34:43,003 --> 00:34:45,073
+Acest lucru este tot timpul
+adevărat atunci când avem de-a face cu
+
+495
+00:34:45,073 --> 00:34:48,020
+câmpuri conservative.
+Când plecăm dintr-un anumit
+
+496
+00:34:48,020 --> 00:34:51,074
+punct, şi parcurgem traseul E punct dl,
+ne reîntoarcem la acelaşi
+
+497
+00:34:51,074 --> 00:34:55,001
+potenţial de la care am plecat.
+Această integrală trebuie să fie zero,
+
+498
+00:34:55,001 --> 00:34:58,000
+atâta timp cât avem
+de-a face cu câmpuri conservative.
+
+499
+00:34:58,000 --> 00:35:02,005
+Aceasta este prima regulă.
+Putem aplica această integrală închisă
+
+500
+00:35:02,005 --> 00:35:05,007
+oriunde.
+O putem aplica chiar şi aici.
+
+501
+00:35:05,007 --> 00:35:07,030
+Rezultatul este tot zero.
+O putem aplica aici.
+
+502
+00:35:07,030 --> 00:35:09,025
+Tot zero.
+Sau acolo.
+
+503
+00:35:09,025 --> 00:35:11,080
+Indiferent unde o aplicăm,
+acea integrală închisă trebuie
+
+504
+00:35:11,080 --> 00:35:14,058
+să fie egală cu zero.
+Cea de-a doua
+
+505
+00:35:14,058 --> 00:35:20,004
+legea a lui Kirchhoff
+se referă la conservarea
+
+506
+00:35:20,004 --> 00:35:27,005
+sarcinii.
+Dacă avem un regim
+
+507
+00:35:27,005 --> 00:35:32,004
+staţionar, atunci,
+indiferent de nodul
+
+508
+00:35:32,004 --> 00:35:36,035
+analizat, curentul care intră
+trebuie să fie egal cu cel care iese.
+
+509
+00:35:36,035 --> 00:35:40,002
+Nu putem avea o acumulare de sarcină.
+Aceasta este cea de-a doua regulă.
+
+510
+00:35:40,002 --> 00:35:42,002
+V-am dat şi o problemă,
+3.7,
+
+511
+00:35:42,002 --> 00:35:45,001
+să o rezolvaţi.
+Vă puteţi uita în carte
+
+512
+00:35:45,001 --> 00:35:50,004
+să vedeţi cum se face.
+Totuşi, voi rezolva
+
+513
+00:35:50,004 --> 00:35:54,005
+această problemă puţin 
+diferit faţă de
+
+514
+00:35:54,005 --> 00:35:58,004
+carte.
+Personal, îmi place mai mult.
+
+515
+00:35:58,004 --> 00:36:01,058
+Dar s-ar putea să vă inducă în eroare.
+Va atenţionez dinainte aşadar,
+
+516
+00:36:01,058 --> 00:36:07,006
+s-ar putea să 
+nu vreţi să utilizaţi metoda mea.
+
+517
+00:36:07,006 --> 00:36:13,005
+Metoda este următoarea.
+Presupun că există
+
+518
+00:36:13,005 --> 00:36:18,026
+o buclă închisă de curent aici,
+I1,
+
+519
+00:36:18,026 --> 00:36:20,059
+şi o buclă închisă
+de curent aici,
+
+520
+00:36:20,059 --> 00:36:24,006
+I2.
+Că le iau în sensul acelor de ceasornic,
+
+521
+00:36:24,006 --> 00:36:27,005
+sau în sens invers,
+nu este important.
+
+522
+00:36:27,005 --> 00:36:29,005
+Aş fi putut alege pe una
+în sensul acelor de ceasornic,
+
+523
+00:36:29,005 --> 00:36:31,006
+iar pe cealaltă invers,
+neimportant.
+
+524
+00:36:31,006 --> 00:36:34,002
+Totuşi, odată ce aleg o direcţie,
+există unele consecinţe,
+
+525
+00:36:34,002 --> 00:36:40,003
+după cum veţi vedea.
+Acestea sunt toate modificările.
+
+526
+00:36:40,003 --> 00:36:43,000
+Un curent astfel,
+şi un curent independent
+
+527
+00:36:43,000 --> 00:36:46,009
+astfel.
+Dacă fac astfel de supoziţii,
+
+528
+00:36:46,009 --> 00:36:51,005
+atunci trebuie
+să mă supun automat
+
+529
+00:36:51,005 --> 00:36:56,000
+celei de-a doua legi,
+pentru că un curent ce se deplasează
+
+530
+00:36:56,000 --> 00:36:58,003
+pe o buclă închisă
+înseamnă conservare de sarcină,
+
+531
+00:36:58,003 --> 00:37:00,069
+nu?
+Nu avem acumulare de sarcină.
+
+532
+00:37:00,069 --> 00:37:07,065
+A doua lege a lui Kirchhoff
+este aşadar îndeplinită.
+
+533
+00:37:07,065 --> 00:37:11,003
+Mă întorc la prima lege,
+pot începe cu
+
+534
+00:37:11,003 --> 00:37:14,063
+orice punct din circuit,
+şi parcurg bucla.
+
+535
+00:37:14,063 --> 00:37:17,002
+O pot parcurge 
+în sensul acelor de ceasornic,
+
+536
+00:37:17,002 --> 00:37:18,093
+sau o pot parcurge
+în sens invers,
+
+537
+00:37:18,093 --> 00:37:21,059
+nu are nicio importanţă,
+atâta timp cât mă reîntorc în acelaşi punct,
+
+538
+00:37:21,059 --> 00:37:24,049
+integrală din E punct dl
+trebuie să fie egală cu zero.
+
+539
+00:37:24,049 --> 00:37:27,061
+Mă reîntorc 
+la acelaşi potenţial.
+
+540
+00:37:27,061 --> 00:37:35,005
+Cât este integrală din 
+E punct dl, de la punctul 1 la
+
+541
+00:37:35,005 --> 00:37:38,002
+la punctul 2?
+Este egală cu diferenţa
+
+542
+00:37:38,002 --> 00:37:43,063
+de potenţial 
+dintre punctul 1 şi punctul 2.
+
+543
+00:37:43,063 --> 00:37:51,052
+Să parcurgem
+bucla din acest punct.
+
+544
+00:37:51,052 --> 00:37:55,000
+Trebuie să adoptăm
+o anumită convenţie, şi anume,
+
+545
+00:37:55,000 --> 00:37:58,006
+atunci când creştem în potenţial,
+respectiv, scădem în potenţial.
+
+546
+00:37:58,006 --> 00:38:01,008
+Din nou, suntem liberi
+să alegem convenţia de semn.
+
+547
+00:38:01,008 --> 00:38:03,070
+Dar voi spune,
+atunci când creştem în potenţial,
+
+548
+00:38:03,070 --> 00:38:06,077
+vom avea plus,
+iar când scădem în potenţial,
+
+549
+00:38:06,077 --> 00:38:12,001
+vom avea minus.
+Încep de aici.
+
+550
+00:38:12,001 --> 00:38:14,001
+Aş fi putut începe de aici,
+Aş fi putut începe de aici,
+
+551
+00:38:14,001 --> 00:38:16,002
+e indiferent,
+atâta timp cât nu încep de aici,
+
+552
+00:38:16,002 --> 00:38:19,003
+n-ar avea niciun sens.
+Încep aici,
+
+553
+00:38:19,003 --> 00:38:22,094
+şi parcurg bucla astfel.
+Aici,
+
+554
+00:38:22,094 --> 00:38:26,004
+avem o scădere în potenţial,
+V1.
+
+555
+00:38:26,004 --> 00:38:32,003
+Scriu aşadar -V1.
+Continui cu I1 în
+
+556
+00:38:32,003 --> 00:38:35,007
+această direcţie,
+de la stânga la dreapta,
+
+557
+00:38:35,007 --> 00:38:38,011
+asta înseamnă că potenţialul 
+de aici trebuie să fie mai mare
+
+558
+00:38:38,011 --> 00:38:40,038
+decât acolo.
+V este egal cu I ori R.
+
+559
+00:38:40,038 --> 00:38:42,050
+Aici, potenţialul 
+trebuie să fie mai mare decât acolo.
+
+560
+00:38:42,050 --> 00:38:45,066
+Avem o scădere în potenţial aşadar,
+şi scriu -I1 ori
+
+561
+00:38:45,066 --> 00:38:53,004
+R1.
+Parcurg R3-ul acum.
+
+562
+00:38:53,004 --> 00:38:56,003
+Curentul I1
+se deplasează în jos,
+
+563
+00:38:56,003 --> 00:38:58,004
+acest punct are un potenţial
+mai mare decât acesta, avem o
+
+564
+00:38:58,004 --> 00:39:05,041
+scădere de potenţial aşadar, 
+şi scriu -I1 ori R3.
+
+565
+00:39:05,041 --> 00:39:10,008
+Dar acum, am un
+curent independent, I2,
+
+566
+00:39:10,008 --> 00:39:14,001
+ce vine înspre mine
+când mă deplasez în jos.
+
+567
+00:39:14,001 --> 00:39:18,003
+Dacă vine înspre mine,
+acel curent îmi va da
+
+568
+00:39:18,003 --> 00:39:20,003
+o creştere în potenţial.
+Acest punct ar trebui să aibă
+
+569
+00:39:20,003 --> 00:39:22,096
+un potenţial mai mare decât acesta,
+pentru ca acest
+
+570
+00:39:22,096 --> 00:39:27,030
+curent să fie aşa.
+Avem aşadar o creştere în potenţial,
+
+571
+00:39:27,030 --> 00:39:36,002
+şi scriem +I2 ori R3.
+„Uh-oh,
+
+572
+00:39:36,002 --> 00:39:40,000
+uitaţi ce-am făcut,
+am scris I1 ori R,
+
+573
+00:39:40,000 --> 00:39:42,001
+dar R
+nu există
+
+574
+00:39:42,001 --> 00:39:46,050
+niciunde.
+Am vrut desigur să scriu I1 ori R1.
+
+575
+00:39:46,050 --> 00:39:52,003
+Citiţi aşadar -I1, R1.
+Îmi pare rău pentru asta.
+
+576
+00:39:54,056 --> 00:39:56,023
+Am ajuns 
+de unde am plecat,
+
+577
+00:39:56,023 --> 00:39:58,098
+pentru că aceste fire
+nu au nicio rezistenţă.
+
+578
+00:39:58,098 --> 00:40:02,035
+Am ajuns de unde am plecat,
+iar ecuaţia este egală cu zero.
+
+579
+00:40:02,035 --> 00:40:06,001
+O ecuaţie cu două necunoscute,
+I1 şi I2.
+
+580
+00:40:06,001 --> 00:40:08,007
+Să parcurgem
+acum cealaltă buclă.
+
+581
+00:40:08,007 --> 00:40:11,001
+Putem merge în sensul
+acelor de ceasornic, putem merge invers,
+
+582
+00:40:11,001 --> 00:40:15,035
+nu are nicio importanţă.
+Să începem de aici,
+
+583
+00:40:15,035 --> 00:40:19,006
+mergem în această direcţie,
+parcurgem bucla o dată.
+
+584
+00:40:19,006 --> 00:40:24,054
+Mergem acum prin R3,
+curentul I2 merge
+
+585
+00:40:24,054 --> 00:40:28,057
+această direcţie,
+avem o scădere în potenţial aşadar.
+
+586
+00:40:28,057 --> 00:40:36,002
+Obţinem -I2 ori R3.
+Dar curentul I1 vine
+
+587
+00:40:36,002 --> 00:40:38,003
+înspre mine.
+Dacă merg în această
+
+588
+00:40:38,003 --> 00:40:40,082
+direcţie, I1 se îndreaptă înspre mine,
+aşadar avem
+
+589
+00:40:40,082 --> 00:40:47,003
+o creştere în potenţial.
+Obţinem +I1 ori R3.
+
+590
+00:40:47,003 --> 00:40:50,007
+Parcurg R2 în această direcţie,
+curentul I2 este tot
+
+591
+00:40:50,007 --> 00:40:53,001
+în această direcţie,
+înseamnă că potenţialul acestui punct
+
+592
+00:40:53,001 --> 00:40:56,001
+este mai mare decât al acestuia,
+avem o scădere în potenţial aşadar,
+
+593
+00:40:56,001 --> 00:41:04,085
+şi obţinem -I2 ori R2.
+Ajung aici jos, ah
+
+594
+00:41:04,085 --> 00:41:07,028
+avem o baterie aici,
+care creşte în potenţial.
+
+595
+00:41:07,028 --> 00:41:13,002
+Obţinem +V2,
+şi totul este egal cu zero.
+
+596
+00:41:13,002 --> 00:41:15,044
+Două ecuaţii
+cu două necunoscute.
+
+597
+00:41:15,044 --> 00:41:20,001
+Pot determina I1
+şi pot determina I2.
+
+598
+00:41:20,001 --> 00:41:24,009
+Pot calcula I1 şi I2 aşadar.
+Să presupunem că I1 este
+
+599
+00:41:24,009 --> 00:41:27,002
+pozitiv, 
+că obţin o valoare pozitivă.
+
+600
+00:41:27,002 --> 00:41:29,052
+Asta ar înseamna că 
+direcţia lui este într-adevăr asta.
+
+601
+00:41:29,052 --> 00:41:32,002
+Dacă I1 este
+negativ,
+
+602
+00:41:32,002 --> 00:41:35,000
+este -3 A, de exemplu.
+Înseamnă că direcţia
+
+603
+00:41:35,000 --> 00:41:37,003
+lui I1 este aceasta,
+mare lucru.
+
+604
+00:41:37,003 --> 00:41:40,002
+Întreaga operaţie
+depinde de semn.
+
+605
+00:41:40,002 --> 00:41:42,057
+Acelaşi lucru este valabil şi aici.
+Dacă I2 este pozitiv,
+
+606
+00:41:42,057 --> 00:41:45,003
+înseamna că
+direcţia lui este aceasta.
+
+607
+00:41:45,003 --> 00:41:51,002
+Dacă I2 este negativ,
+atunci este în acea direcţie.
+
+608
+00:41:51,002 --> 00:42:00,040
+Dar I3?
+Păi, să presupunem că I1 este
+
+609
+00:42:00,040 --> 00:42:06,007
+egal cu +3 A,
+iar I2 este egal cu
+
+610
+00:42:06,007 --> 00:42:08,079
++1 A.
+Putem avea un astfel de rezultat,
+
+611
+00:42:08,079 --> 00:42:10,037
+nu?
+Avem două ecuaţii,
+
+612
+00:42:10,037 --> 00:42:13,000
+două necunoscute,
+şi acestea sunt răspunsurile.
+
+613
+00:42:13,000 --> 00:42:17,000
+Cei trei amperi 
+vin în jos,
+
+614
+00:42:17,000 --> 00:42:21,005
+şi un amper vine în sus.
+Păi, este evident
+
+615
+00:42:21,005 --> 00:42:31,003
+atunci că I3 este egal
+cu trei minus unu, este egal cu doi.
+
+616
+00:42:31,003 --> 00:42:34,005
+Echivalent, putem spune aşa:
+în acest nod intră
+
+617
+00:42:34,005 --> 00:42:39,004
+3 A,
+I2 este 1 A,
+
+618
+00:42:39,004 --> 00:42:42,004
+aşadar 1 A merge în dreapta,
+înseamnă că 2 A trebuie să coboare.
+
+619
+00:42:42,004 --> 00:42:47,001
+Este legea a doua  
+a lui Kirchhoff, de fapt.
+
+620
+00:42:47,001 --> 00:42:54,040
+Dacă I1 ar fi +1 A,
+şi I2 tot +1 A,
+
+621
+00:42:54,040 --> 00:42:58,003
+atunci I3 ar fi zero.
+Nu ar exista niciun curent prin
+
+622
+00:42:58,003 --> 00:43:00,022
+R3, dar metoda
+mea ar fi valabilă,
+
+623
+00:43:00,022 --> 00:43:03,005
+un amper vine în jos,
+şi un amper merge în sus,
+
+624
+00:43:03,005 --> 00:43:06,005
+iar curentul total
+prin R3 ar fi zero.
+
+625
+00:43:06,005 --> 00:43:10,004
+Există curent doar în
+această direcţie, 1 A.
+
+626
+00:43:10,004 --> 00:43:12,004
+Trebuie
+să recunoaştem aşadar
+
+627
+00:43:12,004 --> 00:43:17,072
+că I3 este egal cu
+I1 minus I2,
+
+628
+00:43:17,072 --> 00:43:21,009
+care este, de fapt, 
+o aplicaţie a legii a doua a lui
+
+629
+00:43:21,009 --> 00:43:25,002
+Kirchhoff.
+Îmi place această idee,
+
+630
+00:43:25,002 --> 00:43:28,000
+cea a unei bucle închise de curent,
+ştiu că unora nu
+
+631
+00:43:28,000 --> 00:43:30,006
+le place, nicio problemă.
+Motivul pentru care îmi place,
+
+632
+00:43:30,006 --> 00:43:32,005
+este că avem tot timpul,
+în acest caz,
+
+633
+00:43:32,005 --> 00:43:34,007
+două ecuaţii cu două necunoscute,
+determin I1,
+
+634
+00:43:34,007 --> 00:43:37,009
+determin I2,
+iar I3 îl putem afla
+
+635
+00:43:37,009 --> 00:43:40,006
+foarte frumos
+dacă vedem că
+
+636
+00:43:40,006 --> 00:43:42,005
+un curent merge în
+această direcţie, celălalt în
+
+637
+00:43:42,005 --> 00:43:45,004
+cealaltă direcţie.
+Dar dacă preferaţi metoda
+
+638
+00:43:45,004 --> 00:43:47,007
+prezentată în carte,
+veţi obţine trei ecuaţii cu
+
+639
+00:43:47,007 --> 00:43:49,007
+trei necunoscute,
+adică veţi avea
+
+640
+00:43:49,007 --> 00:43:51,006
+I1, 
+I2 şi I3,
+
+641
+00:43:51,006 --> 00:43:53,007
+de la început aveţi I3.
+Vedeţi, în acest caz nici nu
+
+642
+00:43:53,007 --> 00:43:58,002
+am la început un I3,
+vine mai târziu.
+
+643
+00:43:58,002 --> 00:44:01,007
+Alegerea 
+este a voastră.
+
+644
+00:44:03,027 --> 00:44:09,002
+Vreau să vă arăt 
+ceva incredibil,
+
+645
+00:44:09,002 --> 00:44:11,037
+ceva care este
+într-adevăr incredibil.
+
+646
+00:44:11,037 --> 00:44:17,037
+Este un tip de baterie
+ce vă va da pe spate.
+
+647
+00:44:17,037 --> 00:44:22,005
+Bateria este chiar aici,
+în stânga mea,
+
+648
+00:44:22,005 --> 00:44:31,000
+în dreapta voastră.
+Este o baterie ce produce
+
+649
+00:44:31,000 --> 00:44:36,058
+o diferenţă 
+enormă de potenţial, 10,
+
+650
+00:44:36,058 --> 00:44:41,003
+20 kV, 
+vedeţi o schemă de principiu
+
+651
+00:44:41,003 --> 00:44:46,000
+pe această folie.
+Avem un vas de apă,
+
+652
+00:44:46,000 --> 00:44:49,061
+aici deasupra,
+avem sticlă,
+
+653
+00:44:49,061 --> 00:44:52,032
+vasul de apă se 
+ascunde în spate,
+
+654
+00:44:52,032 --> 00:44:54,041
+nu pentru că l-am ascuns
+de voi, ci pentru că acolo
+
+655
+00:44:54,041 --> 00:44:57,003
+este cel mai bun loc pentru el,
+vedeţi nişte tuburi de plastic,
+
+656
+00:44:57,003 --> 00:45:00,004
+iar apa poate curge 
+prin dreapta sau prin
+
+657
+00:45:00,004 --> 00:45:06,055
+stânga.
+Curge pe aici,
+
+658
+00:45:06,055 --> 00:45:10,006
+unde avem un
+recipient deschis, fără fund.
+
+659
+00:45:10,006 --> 00:45:13,001
+Vedeţi acest recipient aici,
+este complet deschis,
+
+660
+00:45:13,001 --> 00:45:15,004
+notat cu A.
+Un alt recipient
+
+661
+00:45:15,004 --> 00:45:18,002
+în dreapta,
+notat cu B.
+
+662
+00:45:18,002 --> 00:45:21,004
+Ambele 
+recipiente sunt
+
+663
+00:45:21,004 --> 00:45:23,005
+conductoare.
+Apa curge într-un
+
+664
+00:45:23,005 --> 00:45:31,005
+alt recipient conductor,
+la fel şi apa din
+
+665
+00:45:31,005 --> 00:45:35,039
+recipientul B.
+Acum vine punctul important,
+
+666
+00:45:35,039 --> 00:45:38,007
+şi anume, că acest conductor, A,
+este conectat printr-un
+
+667
+00:45:38,007 --> 00:45:43,002
+fir conductor cu C-ul,
+iar conductorul B,
+
+668
+00:45:43,002 --> 00:45:45,084
+recipientul,
+este conectat printr-un fir
+
+669
+00:45:45,084 --> 00:45:50,001
+conductor cu recipientul D.
+Lăsăm apa să curgă
+
+670
+00:45:50,001 --> 00:45:55,000
+o perioadă, şi vom vedea
+scântei între aceste două
+
+671
+00:45:55,000 --> 00:45:58,003
+puncte de aici.
+Chiar dacă punctele sunt
+
+672
+00:45:58,003 --> 00:46:01,001
+la o distanţă
+de 5 milimetri,
+
+673
+00:46:01,001 --> 00:46:03,040
+atunci când vorbim
+de o diferenţă de potenţial
+
+674
+00:46:03,040 --> 00:46:06,061
+de cel puţin 10,
+15 mii de volţi,
+
+675
+00:46:06,061 --> 00:46:08,033
+veţi vedea
+scântei.
+
+676
+00:46:08,033 --> 00:46:12,001
+Vom aştepta,
+şi vom vedea o altă scânteie.
+
+677
+00:46:12,001 --> 00:46:14,027
+Aşteptăm,
+o altă scânteie.
+
+678
+00:46:14,027 --> 00:46:17,031
+Aceasta este o sursă 
+de tensiune aşadar. Această
+
+679
+00:46:17,031 --> 00:46:21,042
+energie trebuie să vină de undeva.
+Prin urmare, problema 4.1,
+
+680
+00:46:21,042 --> 00:46:24,097
+ce nu aţi văzut-o încă,
+din tema de casă, vă întreabă
+
+681
+00:46:24,097 --> 00:46:29,007
+cum funcţionează acest dispozitiv.
+Îl voi demonstra astăzi,
+
+682
+00:46:29,007 --> 00:46:32,004
+şi voi reveni
+asupra lui mai încolo.
+
+683
+00:46:32,004 --> 00:46:33,087
+Modul de funcţionare
+este destul de subtil,
+
+684
+00:46:33,087 --> 00:46:35,093
+dar vreau
+să vă gândiţi la asta.
+
+685
+00:46:35,093 --> 00:46:42,009
+Este o baterie remarcabilă,
+o sursă de tensiune remarcabilă.
+
+686
+00:46:42,009 --> 00:46:46,001
+Pe măsură ce apa curge,
+vreau să vă atrag atenţia
+
+687
+00:46:46,001 --> 00:46:50,009
+asupra faptului că putem
+anticipa momentul
+
+688
+00:46:50,009 --> 00:46:54,001
+apariţiei scânteii,
+pentru că apa,
+
+689
+00:46:54,001 --> 00:46:56,058
+chiar înainte de asta,
+începe să se împrăştie.
+
+690
+00:46:56,058 --> 00:47:02,074
+Nu mai iese 
+precum un cilindru îngust,
+
+691
+00:47:02,074 --> 00:47:07,000
+ci începe să se împrăştie.
+Şi apoi avem o scânteie.
+
+692
+00:47:07,000 --> 00:47:09,067
+După aceea
+va curge din nou normal,
+
+693
+00:47:09,067 --> 00:47:12,032
+dar încet,
+cu timpul, se va împrăştia,
+
+694
+00:47:12,032 --> 00:47:22,002
+şi apoi avem iarăşi o scânteie.
+Să-i dăm drumul,
+
+695
+00:47:22,002 --> 00:47:27,001
+schimbăm puţin lumina,
+Marcos şi Bill s-au chinuit
+
+696
+00:47:27,001 --> 00:47:30,001
+s-o facă să meargă,
+Marcos, e
+
+697
+00:47:30,001 --> 00:47:32,053
+bună lumina?
+Eşti mulţumit de ea.
+
+698
+00:47:32,053 --> 00:47:38,002
+Vedeţi cele două bile,
+ce se află de fapt aici.
+
+699
+00:47:38,002 --> 00:47:43,007
+Să vedem prima dată scânteile.
+Voi da acum drumul la apă.
+
+700
+00:47:50,002 --> 00:47:53,005
+Să avem
+puţină răbdare.
+
+701
+00:47:53,005 --> 00:47:55,002
+Să vedem când
+apare o scânteie.
+
+702
+00:47:55,002 --> 00:47:57,005
+Uitaţi-vă -- ah!
+Aţi văzut-o?
+
+703
+00:47:57,005 --> 00:47:59,049
+Aţi văzut scânteia?
+Oh, nu eraţi atenţi.
+
+704
+00:47:59,049 --> 00:48:03,005
+Haideţi, am dat bani pe asta.
+Uitaţi-vă,
+
+705
+00:48:03,005 --> 00:48:05,083
+uitaţi-vă
+la cele două bile.
+
+706
+00:48:05,083 --> 00:48:11,054
+Să aşteptăm puţin.
+Trebuie să se încarce.
+
+707
+00:48:11,054 --> 00:48:15,001
+Pot anticipa deja momentul,
+vine,
+
+708
+00:48:15,001 --> 00:48:16,009
+vine,
+da!
+
+709
+00:48:16,009 --> 00:48:21,003
+Aţi văzut-o?
+10, 15 mii de volţi.
+
+710
+00:48:21,003 --> 00:48:24,001
+Să o mai lăsăm puţin,
+şi apoi ne vom uita
+
+711
+00:48:24,001 --> 00:48:26,008
+la curgerea apei,
+pe care eu o pot vedea,
+
+712
+00:48:26,008 --> 00:48:28,080
+sunt suficient de aproape,
+dar vreau să o vedeţi şi voi.
+
+713
+00:48:28,080 --> 00:48:32,088
+Uitaţi-vă din nou!
+Vine,
+
+714
+00:48:32,088 --> 00:48:34,027
+ah!
+Aţi văzut-o?
+
+715
+00:48:34,027 --> 00:48:37,007
+Am putut să o anticipez.
+Vă pot pune
+
+716
+00:48:37,007 --> 00:48:40,005
+să ascultaţi cum curge apa,
+îmi pun microfonul în
+
+717
+00:48:40,005 --> 00:48:46,002
+apropiere,
+este un sunet cunoscut tuturor.
+
+718
+00:48:46,002 --> 00:48:51,004
+Dar acum, sunetul se modifică,
+auziţi cum se modifică?
+
+719
+00:48:51,004 --> 00:48:59,006
+Şi am avut o scânteie!
+Încă odată.
+
+720
+00:48:59,006 --> 00:49:09,069
+Curge,
+se împrăştie, vine!
+
+721
+00:49:09,069 --> 00:49:13,005
+Da!
+Incredibil, nu?
+
+722
+00:49:13,005 --> 00:49:18,006
+Vreau să vedeţi apa.
+Staţi acolo,
+
+723
+00:49:18,006 --> 00:49:22,001
+mai avem 
+un minut şi jumătate.
+
+724
+00:49:22,001 --> 00:49:24,086
+Acum puteţi să vedeţi apa.
+E bună lumina,
+
+725
+00:49:24,086 --> 00:49:26,075
+Marcos?
+O poţi face mai bună.
+
+726
+00:49:26,075 --> 00:49:29,000
+Uitaţi-vă la apă.
+Ah!
+
+727
+00:49:29,000 --> 00:49:31,002
+Se împrăştia deja,
+nu puteţi vedea şi scânteia şi
+
+728
+00:49:31,002 --> 00:49:33,004
+apa în acelaşi timp.
+Vedeţi, acum
+
+729
+00:49:33,004 --> 00:49:38,031
+curge normal.
+Se va împrăştia încet,
+
+730
+00:49:38,031 --> 00:49:40,082
+vă voi spune când văd scânteia
+aici, dar deja,
+
+731
+00:49:40,082 --> 00:49:42,064
+îmi pot da seama
+când se va întâmpla.
+
+732
+00:49:42,064 --> 00:49:46,058
+Apa se împrăştie,
+imediat, da!
+
+733
+00:49:46,058 --> 00:49:48,084
+Am văzut scânteia.
+Şi vedeţi că imediat
+
+734
+00:49:48,084 --> 00:49:51,070
+apa revine la normal.
+Vreau să vă gândiţi
+
+735
+00:49:51,070 --> 00:49:53,095
+şi să explicaţi această baterie.
+Este unul dintre cele mai
+
+736
+00:49:53,095 --> 00:49:57,002
+remarcabile lucruri
+ce le-am văzut în viaţa mea.
+
+737
+00:49:57,002 --> 00:50:03,001
+( subtitrarea în limba română pentru
+www.circuiteelectrice.ro )

@@ -1,0 +1,2699 @@
+﻿1
+00:00:02,55 --> 00:00:03,70
+Sunt profesorul Walter Lewin.
+
+
+2
+00:00:03,70 --> 00:00:09,21
+Cursurile mele nu vor relua materialul din carte 
+
+3
+00:00:09,21 --> 00:00:13,23
+ci vor complementa cartea. Cartea va ajuta la înţelegerea
+
+4
+00:00:13,23 --> 00:00:15,13
+cursului. Cursul va ajuta la înţelegere
+
+5
+00:00:15,13 --> 00:00:17,58
+cărţii. Nu veţi întâlni demonstraţii 
+
+6
+00:00:17,58 --> 00:00:21,93
+complicate la cursul meu. Pentru asta avem cartea.
+
+7
+00:00:21,93 --> 00:00:26,86
+Dar voi pune accentul pe concepte
+şi veţi putea privi dincolo
+
+8
+00:00:26,86 --> 00:00:30,74
+de ecuaţii, dincolo de concepte.
+
+9
+00:00:30,74 --> 00:00:33,92
+Indiferent dacă vă place sau nu, vă voi arăta
+
+10
+00:00:33,92 --> 00:00:36,22
+că fizica este frumoasă.
+
+11
+00:00:36,22 --> 00:00:39,18
+Şi s-ar putea să înceapă să vă placă.
+
+12
+00:00:39,18 --> 00:00:42,91
+V-aş sugera să nu chiuliţi nici măcar o singură zi.
+
+13
+00:00:42,91 --> 00:00:47,44
+Cursul de electromagnetism nu este uşor.
+În fiecare săptămână vom prezenta concepte noi
+
+14
+00:00:47,44 --> 00:00:52,96
+şi s-ar putea să vă treziţi că sunteţi mult prea în urmă cu materia.
+
+15
+00:00:52,96 --> 00:00:55,56
+Electricitatea şi magnetismul sunt peste tot în jurul nostru.
+
+16
+00:00:55,56 --> 00:00:59,09
+Avem becuri electrice. Ceasuri electrice.
+
+17
+00:00:59,09 --> 00:01:01,39
+Avem microfoane, calculatoare,
+
+18
+00:01:01,39 --> 00:01:04,06
+televizoare, radioul.
+
+19
+00:01:05,14 --> 00:01:11,07
+Lumina reprezintă ea însăşi un fenomen electromagnetic, la fel şi undele radio.
+
+20
+00:01:11,07 --> 00:01:14,49
+Culorile curcubeului pe cerul albastru se datorează
+
+21
+00:01:14,49 --> 00:01:18,21
+electricităţii.
+Vă voi învăţa despre acest lucru
+
+22
+00:01:18,21 --> 00:01:19,55
+în cursul de faţă.
+Automobilele, aeronavele,
+
+23
+00:01:19,55 --> 00:01:23,88
+trenurile, funcţionează datorită electricităţii.
+
+24
+00:01:24,96 --> 00:01:28,57
+Caii au nevoie de electricitate întrucât contracţia muşchilor necesită
+
+25
+00:01:28,57 --> 00:01:31,98
+electricitate.
+Sistemul vostru nervos este comandat prin intermediul
+
+26
+00:01:31,98 --> 00:01:35,54
+electricităţii.
+Atomii, moleculele,
+
+27
+00:01:35,54 --> 00:01:39,36
+toate reacţiile chimice există datorită electricităţii
+
+28
+00:01:39,36 --> 00:01:43,57
+Vederea voastră nu ar funcţiona fără electricitate.
+
+29
+00:01:43,57 --> 00:01:47,68
+Inima voastră nu ar pompa sânge fără electricitate.
+
+30
+00:01:47,68 --> 00:01:51,38
+Nu aţi putea să vă folosiţi nici măcar creierul fără electricitate,
+
+31
+00:01:51,38 --> 00:01:56,15
+deşi îmi dau seama că şi cu ajutorul electricităţii, unii dintre voi s-ar putea
+
+32
+00:01:56,15 --> 00:01:58,88
+să aveţi o problemă cu asta.
+
+
+33
+00:02:00,28 --> 00:02:04,98
+Conform teoriei moderne, atomul este compus 
+
+34
+00:02:04,98 --> 00:02:10,08
+dintr-un nucleu foarte mic în comparaţie cu mărimea
+
+35
+00:02:10,08 --> 00:02:13,02
+atomului.
+Nucleul conţine protoni cu
+
+36
+00:02:13,02 --> 00:02:17,49
+o sarcină electrică pozitivă, şi neutroni ce nu posedă sarcină electrică.
+
+37
+00:02:20,30 --> 00:02:22,81
+
+Masa protonului este 
+
+38
+00:02:22,81 --> 00:02:27,35
+aproximativ aceeaşi cu masa neutronului.
+
+39
+00:02:27,41 --> 00:02:33,93
+Valoarea este de aproximativ 6,7 ori 10 la puterea -27 
+
+40
+00:02:33,93 --> 00:02:35,35
+kilograme.
+
+
+41
+00:02:39,89 --> 00:02:41,11
+1,7.
+
+42
+00:02:45,01 --> 00:02:47,30
+Sarcinile pozitive se regăsesc aici în nucleu, 
+
+43
+00:02:47,30 --> 00:02:51,24
+împreună cu neutronii iar electronii se află
+
+44
+00:02:51,24 --> 00:02:56,46
+în jurul acestuia.
+Dacă atomul este neutru, numărul
+
+45
+00:02:56,46 --> 00:03:00,68
+de electroni este egal cu numărul de protoni.
+
+46
+00:03:01,47 --> 00:03:04,91
+Prin îndepărtarea unui electron se obţine un ion pozitiv.
+
+47
+00:03:04,91 --> 00:03:08,27
+Prin adăugarea unui electron se obţine un ion negativ.
+
+48
+00:03:08,27 --> 00:03:13,88
+Sarcina electronului este
+
+49
+00:03:13,88 --> 00:03:16,63
+identică cu cea a protonului.
+
+50
+00:03:16,63 --> 00:03:19,45
+De aceea numărul de electroni şi protoni este acelaşi pentru atomi neutri.
+
+51
+00:03:19,45 --> 00:03:23,89
+Masa electronului este de aproximativ 1800 de ori
+
+52
+00:03:23,89 --> 00:03:25,83
+mai mică decât masa protonului.
+
+53
+00:03:25,83 --> 00:03:28,59
+Se poate neglija prin urma în cele mai multe cazuri.
+
+54
+00:03:28,59 --> 00:03:31,81
+Întreaga masă a unui atom se află în nucleu.
+
+55
+00:03:31,81 --> 00:03:38,13
+Dacă aliniez 6 miliarde de atomi unul în continuarea celuilalt,
+
+56
+00:03:38,13 --> 00:03:40,65
+iau 6 miliarde pentru că aceasta este, cu aproximaţie,
+
+57
+00:03:40,65 --> 00:03:42,75
+populaţia pământului.
+Voi obţine
+
+58
+00:03:42,75 --> 00:03:47,88
+o lungime de doar 6 centimetri.
+Asta vă dă o idee despre cât de mici
+
+59
+00:03:47,88 --> 00:03:53,10
+sunt atomii.
+Diametrul nucleului este de aproximativ
+
+60
+00:03:53,10 --> 00:03:56,55
+10 la puterea -12 centimetri.
+
+61
+00:03:58,22 --> 00:04:01,72
+Atomul însuşi este de aproximativ 10.000 de ori mai mare.
+
+62
+00:04:01,72 --> 00:04:06,89
+Norul de electroni, cu diametrul de 10 la puterea
+-8 centimetri.
+
+63
+00:04:08,57 --> 00:04:10,21
+Iar dacă aliniem 6 miliarde de atomi
+
+64
+00:04:11,57 --> 00:04:13,37
+obţinem doar atât.
+
+
+65
+00:04:16,75 --> 00:04:20,51
+În anul 600 î.e.n. se cunoştea deja
+
+66
+00:04:20,51 --> 00:04:25,51
+faptul că prin frecare, chihlimbarul putea atrage bucăţi
+
+67
+00:04:25,51 --> 00:04:29,46
+de frunze uscate.
+Cuvântul grecesc pentru chihlimbar este
+
+68
+00:04:29,46 --> 00:04:31,62
+electron.
+De aici vine numele
+
+69
+00:04:31,62 --> 00:04:33,82
+electricităţii.
+În secolul 16
+
+70
+00:04:33,82 --> 00:04:37,44
+se cunoşteau mai multe substanţe capabile să realizeze acest lucru.
+
+71
+00:04:37,44 --> 00:04:43,38
+Sticla şi sulful, de exemplu.
+De asemenea, era cunoscut şi documentat
+
+72
+00:04:43,38 --> 00:04:49,43
+faptul că în timpul petrecerilor, atunci când oamenii se plictiseau, femeile
+
+73
+00:04:49,43 --> 00:04:53,10
+îşi frecau bijuteriile din chihlimbar şi atingeau cu ele
+
+74
+00:04:53,10 --> 00:04:55,76
+broaştele care săreau din disperare. 
+
+75
+00:04:55,76 --> 00:05:00,06
+Acest lucru era considerat distractiv, neştiindu-se de fapt
+
+76
+00:05:00,06 --> 00:05:03,28
+ce se întâmpla cu chihlimbarul 
+
+77
+00:05:03,28 --> 00:05:08,60
+sau cu broaştele.
+În secolul 18 s-a descoperit
+
+78
+00:05:08,60 --> 00:05:12,65
+că există două tipuri de electricitate.
+
+79
+00:05:12,65 --> 00:05:16,29
+Una dintre ele prin frecarea sticlei, iar cealaltă prin frecarea cauciucului 
+
+80
+00:05:16,29 --> 00:05:19,71
+sau a chihlimbarului.
+Să notăm una dintre ele cu A, iar cealaltă
+
+81
+00:05:19,71 --> 00:05:23,45
+cu B.
+Se ştia că A respinge A iar
+
+82
+00:05:23,45 --> 00:05:28,49
+B respinge B, dar A atrage B.
+
+
+83
+00:05:29,14 --> 00:05:36,03
+Benjamin Franklin a fost cel care, fără să ştie de existenţa electronilor şi protonilor,
+
+84
+00:05:36,03 --> 00:05:40,49
+a introdus ideea cum că toate substanţele conţin
+
+85
+00:05:42,23 --> 00:05:44,65
+un fluid electric, denumit de el „focul electric”.
+
+86
+00:05:46,11 --> 00:05:49,36
+După cum afirmase, dacă un corp are prea mult foc, atunci acel corp
+
+87
+00:05:49,36 --> 00:05:53,00
+este încărcat pozitiv, iar dacă există o deficienţă din acel foc 
+
+88
+00:05:53,00 --> 00:05:55,93
+atunci este încărcat negativ.
+
+89
+00:05:55,93 --> 00:05:59,98
+Franklin a introdus convenţia de semn, şi a decis că
+
+90
+00:05:59,98 --> 00:06:05,59
+prin frecarea sticlei se obţine un exces de foc. 
+
+91
+00:06:05,59 --> 00:06:08,43
+Acest exces l-a denumit prin urmare pozitiv.
+
+
+92
+00:06:08,44 --> 00:06:11,98
+Vom vedea mai târziu în acest curs de ce această alegere - şansa de reuşită fiind de 50% - este
+
+93
+00:06:11,98 --> 00:06:15,99
+regretabilă, dar va trebui să ne obişnuim cu ea.
+
+94
+00:06:15,99 --> 00:06:19,95
+Prin urmare, conform lui Benjamin Franklin, dacă luăm acest fluid (electric)
+
+95
+00:06:19,95 --> 00:06:22,69
+de pe o substanţă şi-l transportăm pe o alta, atunci cea care
+
+96
+00:06:22,69 --> 00:06:26,03
+primeşte un exces devine încărcată pozitiv, dar automat,
+
+97
+00:06:26,03 --> 00:06:27,88
+ca şi o consecinţă a acestui lucru,
+
+98
+00:06:27,88 --> 00:06:31,05
+cea de pe care luăm fluidul devine încărcată
+
+99
+00:06:31,05 --> 00:06:33,57
+negativ.
+Acesta reprezintă de fapt principiul
+
+100
+00:06:33,57 --> 00:06:35,49
+conservării sarcinii.
+
+101
+00:06:35,49 --> 00:06:40,13
+Sarcina nu poate fi creată.
+Prin crearea unei sarcini pozitive
+
+102
+00:06:40,13 --> 00:06:44,27
+creăm automat o sarcină negativă.
+Plus şi plus se resping.
+
+103
+00:06:44,27 --> 00:06:47,58
+Minus şi minus se resping.
+
+104
+00:06:47,58 --> 00:06:53,04
+Plus şi minus se atrag.
+Benjamin Franklin, derulând experimente,
+
+105
+00:06:53,04 --> 00:06:56,00
+a observat că forţele sunt cu atât mai puternice cu cât
+
+106
+00:06:56,00 --> 00:06:58,82
+există mai mult foc.
+
+107
+00:06:58,82 --> 00:07:01,15
+Cu cât aceste obiecte sunt mai apropiate unele de celelalte, cu atât forţele
+
+108
+00:07:01,15 --> 00:07:05,28
+sunt mai puternice.
+Franklin a observat că există unele substanţe
+
+109
+00:07:05,28 --> 00:07:08,64
+care conduc acest fluid, care conduc acest
+
+110
+00:07:08,64 --> 00:07:13,16
+foc. Acestea poartă numele de conductoare.
+
+111
+00:07:15,91 --> 00:07:22,56
+Dacă avem o baghetă de sticlă, ca cea de aici, prin frecare devine 
+
+112
+00:07:22,56 --> 00:07:25,50
+încărcată pozitiv, precum am discutat.
+
+113
+00:07:27,49 --> 00:07:31,24
+Aici e bagheta. O frec cu o bucată de
+
+114
+00:07:31,24 --> 00:07:34,02
+mătase şi se va încărca pozitiv.
+
+115
+00:07:36,88 --> 00:07:39,57
+Ce se va întâmpla acum cu un obiect adus în apropierea acestei baghete ?
+
+116
+00:07:40,40 --> 00:07:42,61
+Voi lua pentru început un conductor.
+
+117
+00:07:43,87 --> 00:07:47,36
+Motivul pentru care aleg un conductor, este că o parte din 
+
+118
+00:07:47,36 --> 00:07:52,52
+electronii conductorilor nu sunt legaţi
+
+119
+00:07:52,52 --> 00:07:57,11
+de atomi ci se pot deplasa liber în interiorul conductorilor.
+
+120
+00:07:57,11 --> 00:08:00,84
+Aceasta este o caracteristică a conductorilor, a metalelor.
+
+121
+00:08:00,84 --> 00:08:03,40
+Acest lucru nu este valabil şi în cazul materialelor non-conductoare.
+
+122
+00:08:03,40 --> 00:08:07,77
+În cazul acestora din urmă, toţi electronii sunt fixaţi pe atomi individuali.
+
+123
+00:08:07,77 --> 00:08:10,96
+Prin urmare, avem aici o anumită cantitate de electroni ce se pot
+
+124
+00:08:10,96 --> 00:08:15,41
+deplasa liber.
+Ceea ce se va întâmpla, este că
+
+125
+00:08:15,41 --> 00:08:19,31
+electronii vor fi atraşi de aceste sarcini pozitive.
+
+126
+00:08:19,31 --> 00:08:20,80
+Plus şi minus se atrag reciproc.
+
+127
+00:08:20,80 --> 00:08:25,87
+O parte din aceşti electroni, ce se pot deplasa liberi, se vor deplasa
+
+128
+00:08:25,87 --> 00:08:29,01
+în această direcţie, iar sarcina pozitivă rămâne în urmă
+
+129
+00:08:30,27 --> 00:08:34,60
+Acest proces se numeşte inducţie. Obţinem un fel de polarizaţie.
+
+130
+00:08:34,60 --> 00:08:39,46
+Obţinem o divizare de sarcină.
+Este un efect foarte mic, 
+
+131
+00:08:39,46 --> 00:08:43,22
+probabil că doar unul din 10 la puterea 13 electroni ce au fost 
+
+132
+00:08:43,22 --> 00:08:45,73
+iniţial aici se vor deplasa aici. Dar este suficient.
+
+133
+00:08:47,21 --> 00:08:51,06
+Obţinem aşadar o polarizaţie şi o cantitate puţin mai mare
+
+134
+00:08:51,06 --> 00:08:54,91
+da sarcină negativă în partea dreaptă decât avem în partea stângă.
+
+135
+00:08:55,86 --> 00:08:59,75
+Ceea ce se va întâmpla acum, din moment ce forţa de atracţie dintre
+
+136
+00:08:59,75 --> 00:09:03,48
+cei doi va fi mai mare decât forţa de respingere dintre 
+
+137
+00:09:03,48 --> 00:09:07,58
+ceilalţi doi, datorită faptului că distanţa este mai mică iar Franklin observase
+
+138
+00:09:07,58 --> 00:09:11,41
+deja că forţa este cu atât mai mare cu cât distanţa
+
+139
+00:09:11,41 --> 00:09:13,18
+este mai mică.
+Dacă acest obiect
+
+140
+00:09:13,18 --> 00:09:17,51
+se poate deplasa liber, se va deplasa spre această baghetă.
+
+141
+00:09:17,51 --> 00:09:20,91
+Acesta este primul lucru pe care vreau să-l vedeţi.
+
+142
+00:09:20,91 --> 00:09:25,94
+Am aici un balon conductor umplut cu heliu.
+
+143
+00:09:25,94 --> 00:09:30,23
+Voi freca această baghetă cu o bucată de mătase.
+
+144
+00:09:30,23 --> 00:09:31,80
+Iar pe măsură ce vin mai aproape de balon,
+
+145
+00:09:31,80 --> 00:09:34,83
+veţi vedea că balonul vine înspre baghetă.
+
+146
+00:09:35,80 --> 00:09:40,45
+Voi încerca să frec apoi bagheta de balon.
+
+147
+00:09:42,76 --> 00:09:45,28
+Va dura puţin mai mult
+
+148
+00:09:45,28 --> 00:09:47,64
+pentru că bagheta însăşi este un non-conductor foarte bun.
+
+149
+00:09:47,64 --> 00:09:52,25
+Schimbul de sarcină dintre cele două nu este chiar aşa de uşor de realizat.
+
+150
+00:09:52,25 --> 00:09:56,27
+Dar dacă insist, voi reuşi să pun sarcină pozitivă
+
+151
+00:09:56,27 --> 00:09:59,35
+pe balon.
+În acel moment şi balonul şi bagheta vor fi pozitive.
+
+152
+00:09:59,35 --> 00:10:01,52
+Şi se vor respinge reciproc.
+
+153
+00:10:02,01 --> 00:10:06,28
+Dar pentru început, inducţia, 
+
+154
+00:10:06,28 --> 00:10:08,75
+unde veţi vedea că balonul
+
+155
+00:10:08,75 --> 00:10:12,01
+se deplasează spre bagheta de sticlă. 
+
+156
+00:10:14,33 --> 00:10:17,41
+Aceste experimente se realizează cel mai bine când este uscat, iarna.
+
+157
+00:10:18,54 --> 00:10:21,87
+Rezultatele nu sunt aşa de bune când este umiditate. Este o vreme perfectă acum
+
+158
+00:10:21,87 --> 00:10:24,75
+pentru predarea acestui curs.
+
+159
+00:10:25,78 --> 00:10:29,44
+Gata, bagheta ar trebui să fie acum încărcată pozitiv.
+
+160
+00:10:29,44 --> 00:10:32,49
+Iar balonul vrea să vină către sticlă.
+
+161
+00:10:32,49 --> 00:10:35,57
+Vedeţi ? Este evident.
+
+162
+00:10:35,57 --> 00:10:37,01
+Hai dragă.
+
+163
+00:10:39,03 --> 00:10:42,66
+Voi încerca acum să încarc balonul. 
+
+164
+00:10:45,14 --> 00:10:49,07
+Va exista un schimb de electroni ce se vor deplasa de pe balon pe sticlă
+
+165
+00:10:52,07 --> 00:10:54,89
+
+Sticla nu este un conductor
+
+166
+00:10:54,89 --> 00:10:58,75
+iar schimbul de sarcini electrice nu este tot timpul aşa de uşor.
+
+167
+00:11:02,73 --> 00:11:07,47
+Să vedem dacă am reuşit să încarc atât balonul cât şi bagheta 
+
+168
+00:11:07,47 --> 00:11:10,61
+cu sarcină pozitivă.
+Dacă da,
+
+169
+00:11:10,61 --> 00:11:16,26
+balonul nu o să mă placă.
+Balonul va fi acum respins,
+
+170
+00:11:16,26 --> 00:11:18,71
+după cum puteţi vedea foarte clar.
+
+171
+00:11:19,96 --> 00:11:23,50
+Pentru a vă arăta că într-adevăr există două tipuri diferite
+
+172
+00:11:23,50 --> 00:11:27,53
+de electricitate, dacă folosesc blană de pisică pentru frecare, prin tradiţie folosim
+
+173
+00:11:27,53 --> 00:11:31,75
+blana de pisică, şi mătase pentru sticlă.
+
+174
+00:11:32,91 --> 00:11:35,11
+Dacă folosim blană de pisică 
+
+175
+00:11:35,11 --> 00:11:37,43
+bagheta de cauciuc devine încărcată negativ.
+
+176
+00:11:37,43 --> 00:11:39,28
+Ţineţi minte că există două tipuri de sarcină electrică.
+
+177
+00:11:39,28 --> 00:11:41,13
+Din moment ce balonul este acum încărcat pozitiv, 
+
+178
+00:11:41,13 --> 00:11:43,68
+balonul va veni spre mine.
+Iată-l.
+
+179
+00:11:43,68 --> 00:11:45,70
+Acum vine la mine.
+Aţi văzut aşadar
+
+180
+00:11:45,70 --> 00:11:47,90
+pentru prima dată, foarte clar, că există două tipuri
+
+181
+00:11:47,90 --> 00:11:53,17
+diferite de electricitate.
+Sarcina de pe bagheta de sticlă 
+
+182
+00:11:53,17 --> 00:11:57,46
+a fost considerată de Franklin ca fiind cea pozitivă, iar sarcina negativă
+
+183
+00:11:57,46 --> 00:11:59,91
+ca fiind cea de pe cauciuc.
+
+
+184
+00:12:01,94 --> 00:12:04,93
+Aţi putea crede că prin apropierea
+
+185
+00:12:06,01 --> 00:12:10,35
+cu o baghetă de sticlă de un balon non-conductor, am aici un
+
+186
+00:12:10,35 --> 00:12:15,71
+balon non-conductor, aţi putea crede că acest balon nu va fi 
+
+187
+00:12:15,71 --> 00:12:20,17
+atras de bagheta de sticlă pentru că nu există electroni
+
+188
+00:12:20,17 --> 00:12:24,01
+liberi.
+Aceşti electroni nu se pot deplasa liber,
+
+189
+00:12:24,01 --> 00:12:26,72
+prin urmare, nu putem obţine această polarizaţie.
+
+190
+00:12:26,72 --> 00:12:31,42
+Nu obţinem această inducţie.
+Dar este fals.
+
+191
+00:12:33,62 --> 00:12:35,75
+De fapt, situaţia este destul de subtilă.
+
+192
+00:12:38,47 --> 00:12:41,24
+Trebuie să privim la scară atomică.
+
+193
+00:12:42,41 --> 00:12:44,71
+Dacă luăm un atom precum cel de aici.
+
+194
+00:12:44,71 --> 00:12:49,72
+Avem sarcina pozitivă şi avem norul de electroni
+
+195
+00:12:49,72 --> 00:12:52,25
+din jurul nucleului pozitiv.
+
+196
+00:12:53,09 --> 00:12:59,00
+Dacă aduc o baghetă de sticlă încărcată pozitiv în apropiere, 
+
+197
+00:13:01,41 --> 00:13:03,54
+atunci aceşti electroni ce sunt legaţi de atomi,
+
+198
+00:13:03,54 --> 00:13:07,04
+nu se pot deplasa liber precum în conductori, 
+
+199
+00:13:07,04 --> 00:13:10,13
+vor petrece un timp mai îndelungat
+
+200
+00:13:10,13 --> 00:13:11,75
+în partea în care se află bagheta de sticlă, deoarece
+
+201
+00:13:11,75 --> 00:13:14,85
+se simt atraşi de aceasta. 
+
+202
+00:13:14,85 --> 00:13:19,04
+Pe de altă parte, nucleul vrea să stea  departe de bagheta de sticlă.
+
+203
+00:13:19,55 --> 00:13:22,30
+Veţi observa prin urmare că
+
+204
+00:13:22,30 --> 00:13:25,28
+având iniţial un atom sferic, să presupunem
+
+205
+00:13:25,28 --> 00:13:29,06
+că acesta este un atom sferic sau o moleculă sferică, atunci
+
+206
+00:13:29,06 --> 00:13:34,62
+vom obţine aproximativ o formă de acest fel, iar
+
+207
+00:13:34,62 --> 00:13:38,61
+electronii vor petrece puţin mai mult timp aici decât îl petrec
+
+208
+00:13:38,61 --> 00:13:42,74
+aici. Aceste lucru înseamnă că am polarizat atomul.
+
+209
+00:13:44,67 --> 00:13:47,32
+Dacă electronii petrec o perioadă mai lungă de timp în partea aceasta a atomului
+
+210
+00:13:47,32 --> 00:13:50,31
+decât în partea aceasta, am creat de asemenea fenomenul
+
+211
+00:13:50,31 --> 00:13:55,47
+de inducţie. Ne vom aştepta prin urmare ca această parte
+
+212
+00:13:55,47 --> 00:13:59,14
+să devină mai negativă decât aceasta.
+
+213
+00:13:59,14 --> 00:14:04,22
+Vă pot arăta foarte frumos acest lucru pe o folie
+
+214
+00:14:07,05 --> 00:14:12,99
+unde avem minus şi plus, şi avem un număr egal de
+
+215
+00:14:12,99 --> 00:14:17,26
+plusuri şi minusuri.
+Aceste perechi reprezintă prin urmare
+
+216
+00:14:17,26 --> 00:14:20,46
+atomi neutri.
+Îi puteţi vedea acum.
+
+217
+00:14:23,34 --> 00:14:25,83
+E cam murdară dar
+
+218
+00:14:25,83 --> 00:14:28,00
+o curăţ puţin.
+
+219
+00:14:37,09 --> 00:14:38,81
+ Observaţi că există un număr egal
+
+
+220
+00:14:38,81 --> 00:14:41,60
+de plusuri şi minusuri. Imaginaţi-vă că fiecare plus şi minus
+
+
+221
+00:14:41,60 --> 00:14:44,82
+reprezintă un atom neutru.
+Doar o reprezentare.
+
+222
+00:14:46,21 --> 00:14:48,15
+Acum aduc o baghetă de sticlă încărcată pozitiv
+
+223
+00:14:48,15 --> 00:14:51,48
+în apropierea lor. În fiecare atom, electronii 
+
+224
+00:14:51,48 --> 00:14:55,36
+vor să se deplaseze în partea aceasta iar nucleul
+
+225
+00:14:55,36 --> 00:14:58,32
+rămâne în urmă. Dacă fiecare atom se comportă în acest fel,
+
+226
+00:14:58,32 --> 00:15:03,91
+se va întâmpla asta.
+Uitaţi ce am obţinut acum.
+
+227
+00:15:03,91 --> 00:15:06,43
+În interiorul substanţei
+
+228
+00:15:06,43 --> 00:15:09,61
+plusurile şi minusurile se anulează reciproc.
+
+229
+00:15:09,61 --> 00:15:13,79
+Dar în partea dreaptă am creat un strat încărcat negativ
+
+230
+00:15:13,79 --> 00:15:15,82
+iar în partea stângă am creat un strat
+
+231
+00:15:15,82 --> 00:15:19,03
+încărcat pozitiv.
+Într-un fel, am obţinut din nou
+
+232
+00:15:19,03 --> 00:15:22,48
+o inducţie.
+Prin urmare, chiar şi în cazul obiectelor
+
+233
+00:15:22,48 --> 00:15:26,13
+non-conductoare, partea aceasta va deveni negativă, iar partea aceasta
+
+234
+00:15:26,13 --> 00:15:30,62
+va deveni pozitivă. Dacă aduc o baghetă de sticlă în apropierea
+
+235
+00:15:30,62 --> 00:15:36,12
+unui balon non-conductor, voi vedea că balonul 
+
+236
+00:15:36,12 --> 00:15:39,83
+vine către mine.
+Vă pot arăta foarte uşor asta.
+
+237
+00:15:40,95 --> 00:15:43,53
+E indiferent dacă aleg
+
+238
+00:15:43,53 --> 00:15:46,39
+sticla sau aleg cauciucul.
+
+239
+00:15:47,64 --> 00:15:51,55
+Funcţionează cu ambele materiale.
+Baloanele non-conductoare au tot timpul
+
+240
+00:15:51,55 --> 00:15:56,20
+o problemă potenţială.
+Problema este că
+
+241
+00:15:56,20 --> 00:15:59,81
+pot fi ele însele încărcate electric, le fel precum
+
+242
+00:15:59,81 --> 00:16:03,24
+un balon metalic poate fi încărcat cu electricitate.
+
+243
+00:16:03,24 --> 00:16:07,31
+Totuşi, dacă ating un balon metalic, atunci toate sarcinile aflate pe el
+
+244
+00:16:07,31 --> 00:16:10,82
+se vor deplasa instant prin minte şi în pământ. Vom înţelege asta 
+
+245
+00:16:10,82 --> 00:16:14,94
+mai târziu.
+Pentru că acesta este un conductor.
+
+246
+00:16:14,94 --> 00:16:19,05
+Ţineţi minte că un conductor conduce fluidul electric, 
+
+247
+00:16:19,05 --> 00:16:22,64
+dar un non-conductor nu.
+Cu acest balon este mai dificil
+
+248
+00:16:22,64 --> 00:16:25,63
+aşadar.
+Chiar dacă-l sărut şi-l ating
+
+249
+00:16:25,63 --> 00:16:29,29
+nu sunt sigur că voi putea lua toată sarcină existentă pe el.
+
+250
+00:16:30,49 --> 00:16:34,70
+De fapt, dacă fac asta, s-ar putea ca situaţia să devină şi mai proastă.
+
+251
+00:16:34,70 --> 00:16:36,93
+Să sperăm că nu este încărcat
+
+252
+00:16:36,93 --> 00:16:41,89
+prea mult. Să ne apropiem cu această baghetă de sticlă şi să vedem
+
+253
+00:16:41,89 --> 00:16:46,02
+dacă vă pot convinge că, într-adevăr, balonul este atras de baghetă
+
+254
+00:16:46,02 --> 00:16:49,87
+nu datorită electronilor liberi ci datorită acelui proces.
+
+255
+00:16:50,83 --> 00:16:51,69
+
+O mamă.
+
+256
+00:16:53,69 --> 00:16:57,34
+Acelaşi lucru ar trebui să se întâmple
+
+257
+00:16:57,34 --> 00:17:00,83
+şi în cazul cauciucului, sper.
+
+
+258
+00:17:03,19 --> 00:17:06,38
+Dacă e negativ, ar trebui să-l respingă.
+
+259
+00:17:06,38 --> 00:17:08,34
+Vedeţi, este respins, prin urmare este
+
+260
+00:17:08,34 --> 00:17:12,34
+încărcat negativ.
+Prin faptul că l-am atins, probabil că l-am încărcat
+
+261
+00:17:12,34 --> 00:17:15,37
+şi nu pot face prea multe în privinţa asta.
+
+262
+00:17:20,71 --> 00:17:23,11
+Este foarte dificil de îndepărtat sarcina electrică.
+
+263
+00:17:28,89 --> 00:17:31,10
+Am avut o bănuială când m-am apropiat cu sticla, 
+
+264
+00:17:31,10 --> 00:17:33,39
+era prea dornic să vină înspre ea.
+
+265
+00:17:35,65 --> 00:17:38,20
+Încărcat negativ şi acum. Asta este situaţia.
+
+266
+00:17:39,75 --> 00:17:41,72
+Asta nu înseamnă că demonstraţia
+
+267
+00:17:41,72 --> 00:17:44,05
+a eşuat, ci că balonul este încărcat şi nu vrea
+
+268
+00:17:44,05 --> 00:17:48,06
+cedeze sarcina pentru că este un non-conductor.
+
+269
+00:17:54,37 --> 00:17:57,67
+Frecarea poate duce la apariţia sarcinii electrice. 
+
+270
+00:17:57,67 --> 00:18:02,15
+Exact asta s-a întâmplat când am atins balonul 
+
+271
+00:18:02,15 --> 00:18:04,63
+şi am încercat să-l descarc.
+
+272
+00:18:04,63 --> 00:18:07,50
+S-ar putea să-l fi încărcat de fapt prin frecare.
+
+273
+00:18:08,60 --> 00:18:10,19
+Dacă luăm aceste baloane de petrecere
+
+274
+00:18:10,19 --> 00:18:13,28
+pe care le ştiţi cu toţii,  şi le frecăm
+
+275
+00:18:13,28 --> 00:18:17,94
+de haină sau de pantaloni, 
+
+276
+00:18:19,79 --> 00:18:21,66
+se lipesc de mână.
+
+277
+00:18:22,29 --> 00:18:23,80
+Există sarcină electrică pe ele.
+Dacă e pozitivă sau
+
+278
+00:18:23,80 --> 00:18:25,61
+negativă, nu ştiu, nici măcar nu ţin minte.
+
+279
+00:18:25,61 --> 00:18:27,90
+Nu e important. Când le aduc lângă 
+
+
+280
+00:18:27,90 --> 00:18:31,92
+mână, mâna mea nu este un conductor foarte bun, dar obţinem o inducţie, 
+
+281
+00:18:31,92 --> 00:18:35,61
+fenomenul ce tocmai l-am discutat, iar cele două 
+
+282
+00:18:35,61 --> 00:18:38,04
+se atrag reciproc.
+Partea pozitivă şi cea negativă
+
+283
+00:18:38,04 --> 00:18:42,34
+se atrag reciproc.
+Le puteţi lipi chiar şi de tavan.
+
+284
+00:18:42,34 --> 00:18:44,79
+Sau le puteţi lipi pe tablă.
+
+285
+00:18:44,79 --> 00:18:47,31
+Vă puteţi decora camera astfel.
+
+286
+00:18:52,77 --> 00:18:54,78
+Foarte drăguţ, nu? 
+
+287
+00:18:55,82 --> 00:18:59,41
+Puteţi face toate astea datorită acestui curs.
+
+288
+00:19:00,48 --> 00:19:02,15
+Cu aceste baloane grele e puţin mai dificil.
+
+289
+00:19:03,91 --> 00:19:06,57
+În plus, port bumbac. Dacă purtaţi nailon sau polistiren
+
+
+290
+00:19:06,57 --> 00:19:10,02
+este mult mai bine.
+Este mult mai uşor să obţinem, oh, 
+
+291
+00:19:10,02 --> 00:19:13,39
+asta da, asta e frumoasă, cred că avem nevoie de unul albastru.
+
+292
+00:19:17,88 --> 00:19:21,67
+Aşa.
+Vedeţi aşadar că frecarea dă naştere
+
+293
+00:19:21,67 --> 00:19:24,17
+electricităţii.
+Acesta este motivul pentru care
+
+294
+00:19:24,19 --> 00:19:28,23
+am putut crea sarcină electrică când am frecat bagheta de sticlă 
+
+295
+00:19:28,23 --> 00:19:31,20
+cu mătasea, respectiv blana de pisică.
+
+
+296
+00:19:31,20 --> 00:19:33,99
+Desigur, dacă sticla se încarcă pozitiv
+
+297
+00:19:33,99 --> 00:19:37,22
+mătasea se va încărca automat negativ.
+
+298
+00:19:39,25 --> 00:19:42,04
+Când vă pieptănaţi părul, pe o vreme uscată, 
+
+299
+00:19:42,04 --> 00:19:45,49
+s-ar putea să auziţi nişte pocnituri.
+
+300
+00:19:46,57 --> 00:19:49,33
+Aceste pocnituri înseamnă scântei.
+
+301
+00:19:49,33 --> 00:19:51,34
+Vom învăţa despre scântei
+
+302
+00:19:51,34 --> 00:19:53,56
+în acest curs, dar nu astăzi.
+
+303
+00:19:53,56 --> 00:19:56,09
+Dar le puteţi auzi dacă este linişte.
+
+304
+00:19:57,01 --> 00:20:00,91
+Pe măsură ce faceţi asta încărcaţi pieptenele.
+
+305
+00:20:00,91 --> 00:20:04,46
+Aud pocniturile. Interesant.
+
+306
+00:20:07,44 --> 00:20:11,93
+Pieptenele este acum încărcat. Probabil că şi eu, iată.
+
+307
+00:20:16,07 --> 00:20:16,69
+Vedeţi?
+
+308
+00:20:16,69 --> 00:20:19,81
+Nu este la fel de bun precum sticla, dar este aceeaşi idee.
+
+309
+00:20:24,32 --> 00:20:26,57
+Dacă vă daţi jos tricoul 
+
+310
+00:20:27,98 --> 00:20:30,97
+şi stingeţi lumina în cameră, 
+
+311
+00:20:33,76 --> 00:20:36,56
+şi staţi în faţa unei oglinzi, 
+
+312
+00:20:39,45 --> 00:20:41,55
+e o experienţă nemaipomenită.
+
+
+313
+00:20:43,59 --> 00:20:45,43
+Aş face cu mare plăcere pentru voi acest lucru 
+
+314
+00:20:45,43 --> 00:20:47,71
+dar v-am spus că port bumbac, iar cu bumbac
+
+315
+00:20:47,71 --> 00:20:49,34
+nu obţinem un efect aşa de bun.
+
+316
+00:20:49,34 --> 00:20:50,82
+Ar trebui să faceţi acest lucru cu un tricou de nailon.
+
+317
+00:20:50,82 --> 00:20:53,81
+Iar când vă daţi jos acel tricou de nailon,
+
+318
+00:20:53,81 --> 00:20:57,52
+veţi auzi nu doar pocnitul, dar veţi putea vedea
+
+319
+00:20:57,52 --> 00:21:00,48
+lumina emisă de aceste scântei mici de tot.
+
+320
+00:21:00,48 --> 00:21:03,17
+Veţi fi precum un bec electric.
+
+321
+00:21:03,17 --> 00:21:05,90
+E un experiment ce nu trebuie să-l rataţi.
+
+322
+00:21:05,90 --> 00:21:09,40
+V-aş sugera să-l încercaţi în acest weekend.
+
+323
+00:21:10,69 --> 00:21:14,34
+Încercaţi-l cu un prieten.
+E şi mai interesant.
+
+324
+00:21:19,14 --> 00:21:22,58
+Ţinem probabil cu toţii minte când ne plimbăm pur şi simplu.
+
+325
+00:21:22,58 --> 00:21:24,60
+Facem lucrurile pe care le facem într-o zi normală.
+
+326
+00:21:25,62 --> 00:21:27,93
+Avem covoare în camere şi când vrem să ieşim din cameră
+
+327
+00:21:27,93 --> 00:21:30,78
+atingem clanţa şi ne curentăm.
+
+328
+00:21:32,13 --> 00:21:35,47
+Este o scânteie de fapt. Este electricitate.
+
+329
+00:21:37,34 --> 00:21:40,87
+Câteodată, chiar şi când atingeţi o persoană simţiţi acest şoc.
+
+330
+00:21:44,70 --> 00:21:48,08
+Când gătiţi şi vreţi să scoateţi folia de plastic de pe rolă,
+
+331
+00:21:48,08 --> 00:21:51,91
+aceasta nu vrea să se desfacă. Pe măsură ce o desfaceţi
+
+332
+00:21:51,91 --> 00:21:56,83
+aveţi frecare, folia se încarcă şi adeseori se mototoleşte
+
+333
+00:21:56,83 --> 00:21:59,72
+şi este foarte greu de lucrat cu ea.
+
+334
+00:21:59,72 --> 00:22:05,01
+Toţi v-aţi întâlnit cu aceste lucruri.
+De asemenea, celofanul din jurul cutiilor
+
+335
+00:22:05,01 --> 00:22:06,33
+de ciocolata, acelaşi lucru.
+
+336
+00:22:06,33 --> 00:22:10,28
+Pe măsură ce-l iei jos, îl încarci, fie că-ţi place fie că nu.
+
+337
+00:22:14,38 --> 00:22:17,83
+Vreau acum să fac un experiment şi am nevoie de un voluntar.
+
+338
+00:22:19,10 --> 00:22:22,78
+Am nevoie de un student care poartă, preferabil, nu doar
+
+339
+00:22:22,78 --> 00:22:27,91
+bumbac. Simon, tu ai un hanorac excelent din
+
+340
+00:22:27,91 --> 00:22:30,47
+nailon.
+Dacă eşti dispus
+
+341
+00:22:30,47 --> 00:22:33,36
+să te sacrifici puţin de dragul
+
+342
+00:22:33,36 --> 00:22:38,43
+ştiinţei, hai aici şi ia loc.
+
+343
+00:22:43,82 --> 00:22:45,57
+Relaxează-te.
+
+
+344
+00:22:45,57 --> 00:22:48,44
+Asigură-te că picioarele tale nu sunt pe pământ. 
+
+345
+00:22:49,58 --> 00:22:51,15
+Acum, Simon, 
+
+346
+00:22:51,15 --> 00:22:53,80
+am să te bat cu blana de pisică.
+
+347
+00:22:58,04 --> 00:23:00,46
+
+Pe măsură ce te bat cu blana de pisică
+
+348
+00:23:00,46 --> 00:23:03,61
+te vei încărca cu sarcină electrică,
+
+349
+00:23:06,04 --> 00:23:10,74
+şi din moment ce nu vreau ca tu să fii singura persoană ce suferă în acest 
+
+350
+00:23:10,74 --> 00:23:14,73
+experiment, voi sta şi eu pe o suprafaţă izolată.
+
+351
+00:23:16,00 --> 00:23:19,69
+Dacă, de exemplu, tu o să te încarci pozitiv - nu ştiu dacă e pozitiv sau negativ -
+
+352
+00:23:19,69 --> 00:23:22,71
+eu mă voi încărca cu sarcina de semn opus.
+
+353
+00:23:22,71 --> 00:23:25,55
+
+Împărţim prin urmare sarcina.
+
+354
+00:23:26,22 --> 00:23:31,80
+Pe măsură ce te bat te vei încărca din ce în ce mai mult 
+
+355
+00:23:33,55 --> 00:23:38,68
+şi eu mă voi încărca din ce în ce mai mult, iar apoi
+
+356
+00:23:39,55 --> 00:23:44,89
+va trebui să-i convingem pe colegi că ambii suntem încărcaţi.
+
+357
+00:23:46,15 --> 00:23:52,30
+Vom face asta într-un mod destul de convingător.
+
+358
+00:23:58,24 --> 00:24:01,29
+Lasă-mă să te bat puţin. 
+
+359
+00:24:02,03 --> 00:24:04,11
+Ca să te simţi ca acasă.
+
+360
+00:24:04,11 --> 00:24:06,36
+Ne cunoaştem, nu?
+Bine.
+
+361
+00:24:06,36 --> 00:24:09,73
+Desigur, după cum am menţionat deja, aceste experimente se desfăşoară cel mai bine 
+
+362
+00:24:09,73 --> 00:24:15,06
+în condiţii uscate. Dacă eşti prea ud, nu va funcţiona.
+
+363
+00:24:15,06 --> 00:24:19,01
+Dacă vei transpira prea mult, atunci nu va funcţiona.
+
+364
+00:24:19,01 --> 00:24:20,00
+Eşti pregătit?
+
+365
+00:24:35,33 --> 00:24:38,39
+Am aici o lampă cu neon.
+
+366
+00:24:41,00 --> 00:24:43,92
+Cu toate că nu ştim încă ce înseamnă tensiunea, pentru că
+
+367
+00:24:43,92 --> 00:24:46,44
+urmează să învăţăm în acest curs, 
+
+368
+00:24:46,44 --> 00:24:51,85
+avem nevoie de câteva zeci de mii de volţi pentru a obţine lumină cu această lampă.
+
+369
+00:24:51,85 --> 00:24:56,49
+Vom stinge imediat lumina ca să fie întuneric, şi voi ţine
+
+370
+00:24:57,34 --> 00:25:00,19
+lampa într-o mână
+
+371
+00:25:03,51 --> 00:25:05,54
+iar Simon o va atinge
+
+372
+00:25:05,54 --> 00:25:09,61
+în celălalt capăt.
+Dacă experimentul reuşeşte, 
+
+373
+00:25:10,97 --> 00:25:13,69
+s-ar putea să vedeţi nişte lumină.
+
+
+374
+00:25:14,45 --> 00:25:16,03
+Simon, uită-te la mine prima dată,
+
+375
+00:25:16,03 --> 00:25:18,36
+nu atinge lampa încă. Vom face să fie întuneric.
+
+376
+00:25:18,36 --> 00:25:20,24
+Ştii unde este, este aici.
+
+377
+00:25:20,24 --> 00:25:21,69
+Marcos, întuneric te rog.
+
+378
+00:25:21,69 --> 00:25:23,75
+Atinge-o. Atinge-o.
+
+379
+00:25:26,60 --> 00:25:29,13
+Din nou. Atinge-o din nou.
+
+380
+00:25:29,14 --> 00:25:30,63
+Perfect.
+Mulţumesc.
+
+381
+00:25:30,63 --> 00:25:35,29
+Putem avea puţină lumină ? [aplauze] Mulţumesc mult.
+
+382
+00:25:45,95 --> 00:25:48,96
+Sarcinile de acelaşi semn se resping reciproc.
+
+
+383
+00:25:49,48 --> 00:25:52,56
+Am demonstrat  acest lucru cu baloanele.
+
+384
+00:25:55,55 --> 00:25:57,92
+Avem aici un instrument numit Van der Graaf.
+
+385
+00:25:58,77 --> 00:26:01,23
+Poartă numele profesorului Van der Graaf, ce l-a inventat.
+
+386
+00:26:01,23 --> 00:26:04,16
+A fost profesor aici, la MIT.
+Acest instrument,
+
+387
+00:26:04,16 --> 00:26:08,37
+ce nu-l voi discuta însă în detaliu dar îl veţi
+
+388
+00:26:08,37 --> 00:26:12,80
+înţelege mai târziu. Vă voi spune totul despre el
+
+389
+00:26:12,80 --> 00:26:15,61
+mai încolo.
+Imaginaţi-vă că acest instrument
+
+390
+00:26:15,61 --> 00:26:20,91
+este o baghetă de chihlimbar gigantică.
+Deşi nu înţelegem încă ce este tensiunea,
+
+391
+00:26:20,91 --> 00:26:24,85
+
+am amintit mai devreme de cei 
+
+392
+00:26:24,85 --> 00:26:29,16
+douăzeci de mii de volţi între Simon şi mine. În cazul acestui instrument,
+
+393
+00:26:29,16 --> 00:26:33,19
+trebuie să vă imaginaţi câteva sute de mii de volţi.
+
+394
+00:26:33,19 --> 00:26:36,05
+Instrumentul acesta este periculos.
+
+395
+00:26:38,03 --> 00:26:41,56
+Dar, desigur, asta înseamnă că este foarte interesant de lucrat cu el.
+
+396
+00:26:41,56 --> 00:26:47,83
+Aşadar, o baghetă de chihlimbar gigantică. Voi pune pentru început
+
+397
+00:26:47,83 --> 00:26:55,94
+nişte confetti deasupra iar când vom porni Van der Graaf-ul
+
+398
+00:26:55,94 --> 00:27:00,63
+bucăţelele de confetti se vor deplasa iniţial spre cupola încărcată electric,
+
+399
+00:27:00,63 --> 00:27:03,52
+se află deja pe ea de fapt.
+După ce va prelua o parte din sarcină
+
+400
+00:27:03,52 --> 00:27:08,57
+se vor împrăştia în toate părţile, pentru că vor fi respinse.
+
+401
+00:27:10,22 --> 00:27:13,51
+Să aprindem nişte lumini acolo
+
+402
+00:27:16,00 --> 00:27:18,15
+pentru a vedea mai bine.
+
+
+403
+00:27:26,59 --> 00:27:29,34
+Să punem puţin din asta deasupra. 
+
+404
+00:27:32,22 --> 00:27:35,58
+E doar confetti normal, bucăţi de hârtie.
+
+405
+00:27:44,77 --> 00:27:50,02
+Acum trebuie să-mi amintesc cum să-i dau drumul.
+
+406
+00:28:00,72 --> 00:28:03,67
+Ceea ce trebuia să se întâmple s-a întâmplat deja.
+
+407
+00:28:03,67 --> 00:28:05,40
+Mai punem puţin.
+
+408
+00:28:20,63 --> 00:28:24,00
+Dacă vedeţi scântei, nu vă faceţi griji..încă.
+
+409
+00:28:24,00 --> 00:28:24,92
+[râsete]
+
+
+410
+00:28:31,80 --> 00:28:32,95
+Încă puţin.
+
+411
+00:28:36,09 --> 00:28:38,95
+N-a mai rămas nimic pentru a doua grupă.
+
+412
+00:28:43,07 --> 00:28:45,90
+Să facem puţin mai întuneric.
+
+413
+00:28:52,10 --> 00:28:53,83
+
+Ah, prea întuneric.
+
+414
+00:29:01,93 --> 00:29:03,75
+
+Să mai încercăm încă odată, îi dăm
+
+415
+00:29:03,75 --> 00:29:07,63
+drumul şi ne uităm la confetti-ul de deasupra.
+
+416
+00:29:12,90 --> 00:29:14,23
+Cred că e destul de convingător.
+
+417
+00:29:14,23 --> 00:29:16,48
+O parte din confetti rămâne acolo.
+
+418
+00:29:16,48 --> 00:29:20,52
+Asta pentru că nu e un bun conductor.
+
+419
+00:29:20,52 --> 00:29:23,56
+Iniţial este atras de cupolă, iar dacă nu se încarcă cu sarcină de pe 
+
+420
+00:29:23,56 --> 00:29:26,93
+Van der Graaff, atunci nu se va împrăştia.
+
+421
+00:29:40,16 --> 00:29:44,20
+
+Să încercăm acum să fim puţin mai cantitativi.
+
+422
+00:29:48,73 --> 00:29:51,20
+Dacă luăm două sarcini, 
+
+423
+00:29:52,29 --> 00:29:55,72
+pentru sarcină vom folosi în general simbolul q.
+
+424
+00:29:56,64 --> 00:30:01,14
+Aici avem q1 şi aici avem q2.
+
+425
+00:30:03,95 --> 00:30:09,61
+Iar distanţa dintre ele este r.
+
+426
+00:30:14,07 --> 00:30:18,14
+Vectorul unitate pe direcţia celor două sarcini îl notăm
+
+427
+00:30:18,14 --> 00:30:23,72
+cu r12 căciuliţă. Căciuliţa desemnează faptul că este un vector unitate.
+
+428
+00:30:27,74 --> 00:30:29,33
+
+Dacă aceste sarcini sunt egale,
+
+429
+00:30:29,33 --> 00:30:32,86
+ambele negative sau ambele pozitive,
+se vor respinge reciproc
+
+430
+00:30:34,56 --> 00:30:37,75
+iar aici avem o forţă pe care o notăm F12.
+
+431
+00:30:40,24 --> 00:30:44,93
+Este forţa asupra sarcinii 2 datorită sarcinii 1, iar datorită faptului că forţa de acţiune
+
+432
+00:30:44,93 --> 00:30:49,27
+este egală cu minus forţa de reacţiune, forţa de aici este egală în amplitudine dar
+
+433
+00:30:49,27 --> 00:30:52,43
+cu 180 de grade în direcţia opusă.
+
+434
+00:30:56,04 --> 00:31:00,74
+Coulomb, fizicianul francez, a făcut cercetări
+
+435
+00:31:00,74 --> 00:31:03,44
+în acest domeniu în secolul 18.
+
+436
+00:31:05,58 --> 00:31:09,83
+Coulomb a formulat următoarea relaţie.
+
+437
+00:31:09,83 --> 00:31:15,39
+Forţa este proporţională cu produsul dintre
+
+438
+00:31:15,39 --> 00:31:18,82
+cele două sarcini. Avem q1 înmulţit cu q2.
+
+439
+00:31:22,79 --> 00:31:27,63
+Ambele înmulţite cu o constantă, ce poartă acum numele de constanta lui Coulomb, K.
+
+440
+00:31:27,63 --> 00:31:30,25
+Şi totul împărţit la pătratul distanţei (r^2) dintre cele două sarcini.
+
+441
+00:31:31,56 --> 00:31:34,06
+
+Direcţia forţei este pe direcţia 
+
+442
+00:31:36,74 --> 00:31:38,67
+vectorului unitate de la sarcina 1 la sarcina 2.
+
+443
+00:31:38,67 --> 00:31:42,11
+Aceasta este forţa asupra sarcinii 2 datorită sarcinii 1.
+
+444
+00:31:42,74 --> 00:31:45,41
+Observaţi că această ecuaţie este cu semn.
+
+445
+00:31:46,18 --> 00:31:48,77
+Dacă ambele sarcini sunt negative, 
+
+446
+00:31:48,77 --> 00:31:52,03
+forţa este în această direcţie, 
+
+447
+00:31:52,03 --> 00:31:55,23
+iar dacă sunt ambele pozitive, forţa e tot în această direcţie.
+
+448
+00:31:57,21 --> 00:32:00,62
+Totuşi, dacă una dintre sarcini este pozitivă iar cealaltă negativă, obţinem
+
+449
+00:32:00,62 --> 00:32:02,99
+minus această direcţie, iar această forţă 
+
+450
+00:32:02,99 --> 00:32:07,39
+se inversează. Evident, şi cealaltă forţă se va inversa.
+
+451
+00:32:09,43 --> 00:32:14,49
+În Sistemul Internaţional de Unităţi (SI), unitatea de măsură pentru
+
+452
+00:32:14,49 --> 00:32:18,69
+sarcină este coulombul, după acest om mare.
+
+453
+00:32:22,05 --> 00:32:25,29
+O sarcină de un coulomb reprezintă o sarcină extrem de mare.
+
+454
+00:32:25,29 --> 00:32:28,76
+Mai multă decât veţi vedea în întreaga viaţă.
+
+455
+00:32:28,76 --> 00:32:30,89
+Folosim în general micro-coulombi, 
+
+456
+00:32:30,89 --> 00:32:33,65
+câteodată chiar mai puţin de atât.
+
+
+457
+00:32:34,92 --> 00:32:41,32
+Sarcina unui singur proton, ce este identică cu sarcina unui electron,
+
+458
+00:32:42,74 --> 00:32:48,64
+este aproximativ egală cu 1,6 ori 10 la puterea  -19 coulombi.
+
+459
+00:32:49,81 --> 00:32:52,02
+Un coulomb prin urmare este aproximativ
+
+460
+00:32:52,02 --> 00:32:55,67
+6 ori 10 la puterea 18 protoni, sau electroni
+
+461
+00:32:55,67 --> 00:32:58,21
+dacă sarcina este negativă.
+
+
+462
+00:33:00,13 --> 00:33:07,42
+Constanta K, în unităţi SI, este egală cu 9 ori 10 la puterea 9.
+
+463
+00:33:10,13 --> 00:33:15,34
+Putem afla unitatea de măsură, întrucât ştim că asta e
+
+464
+00:33:15,34 --> 00:33:20,60
+în newtoni, asta e în coulombi la pătrat, iar asta e în metri pătraţi.
+
+465
+00:33:20,60 --> 00:33:23,05
+Unitatea de măsură este aşadar newton metri la pătrat
+
+466
+00:33:28,11 --> 00:33:29,55
+per coulomb la pătrat.
+
+
+467
+00:33:29,55 --> 00:33:33,54
+Asta nu e însă atât de important. Nimeni nu consideră astfel constanta lui Coulomb.
+
+468
+00:33:33,54 --> 00:33:37,66
+Din motive istorice, ce vă vor da câteodată
+
+469
+00:33:37,66 --> 00:33:41,50
+bătăi de cap, K se scrie 
+
+470
+00:33:41,50 --> 00:33:47,14
+unu împărţit la  4pi epsilon zero.
+
+
+471
+00:33:50,42 --> 00:33:53,99
+Nu e nimic magic aici. E un motiv pur istoric.
+
+472
+00:33:54,55 --> 00:33:58,45
+Unu împărţit la 4pi epsilon zero este egal cu 9 ori 10 la puterea 9. 
+
+473
+00:33:58,45 --> 00:34:00,23
+Asta e tot ce contează.
+
+474
+00:34:00,23 --> 00:34:04,86
+Epsilon zero are şi un nume, permitivitatea vidului.
+
+475
+00:34:06,35 --> 00:34:08,94
+Dar puteţi uita acest lucru. Nu contează numele.
+
+476
+00:34:11,77 --> 00:34:14,89
+
+Observaţi că există o paralelă evidentă cu legea gravitaţiei.
+
+477
+00:34:16,18 --> 00:34:18,96
+
+În legea gravitaţiei a lui Newton
+
+478
+00:34:19,33 --> 00:34:22,64
+forţa, ce este tot timpul de atracţie în acel caz,
+
+479
+00:34:23,39 --> 00:34:27,76
+nu există respingere în cazul gravitaţiei, este produsul dintre două mase.
+
+480
+00:34:28,61 --> 00:34:31,05
+Există şi aici constanta gravitaţiei, 
+
+481
+00:34:31,05 --> 00:34:34,26
+şi din nou apare distanţa la pătrat.
+
+
+482
+00:34:35,23 --> 00:34:39,03
+Există o asemănare imensă între cele două.
+Există o anumită splendoare în faptul că
+
+483
+00:34:39,03 --> 00:34:42,36
+electricitatea funcţionează în acest fel, adică 
+
+484
+00:34:42,36 --> 00:34:46,41
+foarte aproape de modul în care funcţionează gravitaţia.
+
+485
+00:34:49,35 --> 00:34:54,36
+Dacă adăugăm o a treia sarcină, de exemplu aici,
+
+486
+00:34:54,36 --> 00:35:01,61
+q3, şi vreau acum să aflu care este forţa asupra sarcinii q2, 
+
+487
+00:35:03,11 --> 00:35:07,23
+aplic principiul superpoziţiei, ce l-am utilizat de multe ori în mecanica clasică,
+
+488
+00:35:09,20 --> 00:35:11,10
+şi vedem că forţa netă
+
+489
+00:35:11,10 --> 00:35:15,78
+asupra sarcinii 2 reprezintă forţa datorată sarcinii 1 plus forţa datorată
+
+490
+00:35:15,78 --> 00:35:19,61
+sarcinii 3.
+Dacă sarcina 3, dacă aceasta este
+
+491
+00:35:19,61 --> 00:35:23,36
+pozitivă şi aceasta este pozitivă iar aceasta ar fi negativă, atunci 
+
+492
+00:35:23,36 --> 00:35:29,44
+această forţă va fi în direcţia aceasta, F32, 
+
+493
+00:35:33,03 --> 00:35:37,22
+iar forţa netă asupra sarcinii 2 va fi 
+
+494
+00:35:37,22 --> 00:35:40,16
+suma vectorială a celor două. 
+
+495
+00:35:40,53 --> 00:35:44,50
+Este oare evident că principiului superpoziţiei funcţionează?
+
+
+496
+00:35:44,50 --> 00:35:46,15
+În niciun caz.
+
+497
+00:35:46,57 --> 00:35:49,36
+Nu este deloc evident.
+Credem în el?
+
+498
+00:35:49,36 --> 00:35:51,37
+Da, credem.
+De ce credem în el?
+
+499
+00:35:51,37 --> 00:35:55,05
+Pentru că este consistent cu toate experimentele ce au fost realizate până acum.
+
+500
+00:35:55,05 --> 00:35:56,42
+
+Dar principiul superpoziţiei,
+
+501
+00:35:56,42 --> 00:36:01,61
+un principiu extrem de important, nu este de la sine înţeles.
+
+502
+00:36:02,67 --> 00:36:03,62
+Dar funcţionează.
+Îl putem folosi tot timpul.
+
+503
+00:36:03,62 --> 00:36:05,36
+Şi îl vom folosi.
+
+
+504
+00:36:09,01 --> 00:36:13,23
+Dacă comparăm mecanica clasică cu electromagnetismul, 
+
+505
+00:36:13,23 --> 00:36:18,97
+comparând aşadar electricitatea cu gravitaţia,
+
+506
+00:36:22,09 --> 00:36:24,73
+veţi vedea că forţele electrice sunt 
+
+507
+00:36:24,73 --> 00:36:28,92
+mult mai puternice decât cele gravitaţionale.
+
+508
+00:36:29,89 --> 00:36:34,66
+Pentru a vă arăta acest lucru, luăm doi protoni 
+
+509
+00:36:35,75 --> 00:36:41,13
+ce se află la o distanţă d unul de celălalt. Aici e un proton, 
+
+510
+00:36:42,73 --> 00:36:48,82
+şi aici e un proton, separaţi de o distanţă d.
+
+511
+00:36:51,74 --> 00:36:56,20
+Se resping reciproc. Forţa de respingere dintre cei doi este 
+
+512
+00:36:56,89 --> 00:36:59,54
+extrem de uşor de calculat.
+
+513
+00:36:59,54 --> 00:37:01,67
+Cunoaştem legea lui Coulomb. Acea legea ce poartă numele lui
+
+514
+00:37:01,67 --> 00:37:03,81
+Coulomb.
+Aşadar forţa, 
+
+515
+00:37:03,81 --> 00:37:08,17
+forţa electrică cu care cei doi protoni se resping,
+
+516
+00:37:08,17 --> 00:37:11,06
+aceasta este amplitudinea forţei,
+
+517
+00:37:11,06 --> 00:37:16,89
+este egală cu sarcina protonului, şi anume 1,6 ori 10 la puterea -19.
+
+518
+00:37:16,89 --> 00:37:20,56
+Dar trebuie să ridic această valoare la pătrat.
+
+519
+00:37:23,22 --> 00:37:25,50
+Înmulţim cu constanta lui Coulomb
+
+520
+00:37:25,50 --> 00:37:29,87
+egală cu 9 ori 10 la puterea 9 şi împărţim cu distanţa
+
+521
+00:37:29,87 --> 00:37:32,83
+la pătrat. 
+Aceasta este forţa electrică.
+
+522
+00:37:35,71 --> 00:37:38,73
+Dacă vreau să aflu forţa gravitaţională, 
+
+523
+00:37:39,26 --> 00:37:41,63
+ce reprezintă forţa de atracţie dintre cei doi, 
+
+524
+00:37:41,63 --> 00:37:45,39
+acestea reprezintă forţe de respingere, dar vreau să aflu doar valorile lor,
+
+525
+00:37:45,39 --> 00:37:48,62
+atunci am nevoie de masa protonului,
+
+526
+00:37:48,62 --> 00:37:52,13
+egală cu 1,7 ori 10 la puterea -27.
+
+527
+00:37:55,16 --> 00:37:59,09
+Trebuie să ridicăm asta la pătrat. Vă amintiţi, m1 înmulţit cu m2
+
+528
+00:37:59,09 --> 00:38:00,97
+înmulţit cu constanta gravitaţională.
+
+529
+00:38:00,97 --> 00:38:04,04
+Constanta gravitaţională, în unităţi SI, este egală cu 
+
+530
+00:38:04,04 --> 00:38:10,51
+6,7 ori 10 la puterea -11. Împărţim totul cu d la pătrat.
+
+531
+00:38:13,23 --> 00:38:16,83
+Să comparăm forţa electrică cu cea gravitaţională.
+
+532
+00:38:16,83 --> 00:38:20,45
+Calculăm raportul dintre cele două. 
+
+533
+00:38:21,40 --> 00:38:23,21
+Observaţi că d se anulează.
+
+534
+00:38:23,21 --> 00:38:25,25
+Ambele conţin d la pătrat la numitor.
+
+535
+00:38:25,92 --> 00:38:29,68
+
+Putem arăta cu uşurinţă că
+
+536
+00:38:30,39 --> 00:38:34,02
+acest raport este de aproximativ 10 la puterea 36.
+
+537
+00:38:36,36 --> 00:38:39,66
+
+Forţa electrică este mai mare
+
+538
+00:38:39,66 --> 00:38:43,49
+cu un ordin de mărime de 36 decât atracţia gravitaţională.
+
+539
+00:38:45,37 --> 00:38:47,87
+
+Poate veţi avea mai mult respect acum
+
+540
+00:38:47,87 --> 00:38:50,51
+faţă de electromagnetism.
+
+
+541
+00:38:53,42 --> 00:38:57,94
+Dacă acestea ar fi singurele forţe ce acţionează asupra protonilor,
+
+542
+00:38:57,94 --> 00:39:01,72
+ şi aducem protonii în nucleu, ce are un diametru de doar 
+
+543
+00:39:01,72 --> 00:39:04,48
+10 la puterea -12 centimetri, 
+
+544
+00:39:06,74 --> 00:39:15,85
+atunci acceleraţia protonului va fi egală raportul dintre forţa electrică şi masa protonului.
+
+545
+00:39:16,94 --> 00:39:19,64
+F = ma. Baza mecanicii clasice. 
+
+546
+00:39:21,51 --> 00:39:23,70
+Dacă vrem să aflăm această forţa electrică 
+
+547
+00:39:23,70 --> 00:39:28,79
+atunci când distanţa este egală cu 10 la -12 centimetri,
+
+548
+00:39:28,79 --> 00:39:31,47
+ce reprezintă 10 la -14 metri, şi calculăm 
+
+549
+00:39:31,47 --> 00:39:36,29
+acest raport, vedem că este mai mare cu un ordin de mărime de 26
+
+550
+00:39:36,29 --> 00:39:39,25
+faţă de acceleraţia gravitaţională 
+
+551
+00:39:39,25 --> 00:39:42,91
+la suprafaţa pământului.
+Mai mare cu un ordin de mărime de 26.
+
+552
+00:39:42,91 --> 00:39:44,64
+Poată vă întrebaţi prin urmare ce naiba 
+
+553
+00:39:44,64 --> 00:39:49,41
+ţine nucleul împreună, dacă forţa exercitată asupra acestor protoni
+
+554
+00:39:49,41 --> 00:39:52,82
+este atât de mare.
+Ceea ce-l ţine împreună sunt 
+
+555
+00:39:52,82 --> 00:39:55,40
+forţele nucleare, ce nu le înţelegem 
+
+556
+00:39:55,40 --> 00:39:59,73
+în totalitate, dar din fericire forţele nucleare nu fac parte
+
+557
+00:39:59,73 --> 00:40:03,27
+din acest curs. Le vom lăsa deoparte pentru moment.
+
+558
+00:40:03,27 --> 00:40:06,27
+Ce ţine prin urmare lumea nostră împreună ?
+
+559
+00:40:06,27 --> 00:40:11,37
+La scară nucleară, 10 la -12 centimetri, 
+
+560
+00:40:11,37 --> 00:40:14,14
+forţele nucleare sunt foarte importante.
+
+561
+00:40:14,14 --> 00:40:17,73
+Pe scara atomică şi până la distanţe de mii de kilometri,
+
+562
+00:40:17,73 --> 00:40:21,92
+forţele electrice sunt cele care ţin lumea noastră împreună.
+
+563
+00:40:21,92 --> 00:40:25,81
+Dar pe o scară mult mai mare, planetele, stelele şi
+
+564
+00:40:25,81 --> 00:40:29,95
+galaxia, gravitaţia este cea care ţine lumea noastră împreună.
+
+565
+00:40:31,63 --> 00:40:36,46
+Iar acum veţi spune, ah, asta contrazice ceea ce tocmai ne-aţi spus.
+
+566
+00:40:36,47 --> 00:40:39,08
+N-aţi spus că distanţa la pătrat se anulează 
+
+567
+00:40:39,08 --> 00:40:43,04
+în cazul în care comparăm gravitaţia cu electricitatea ?
+
+568
+00:40:43,04 --> 00:40:49,06
+Dar, dar totuşi, majoritatea obiectelor sunt neutre sau
+
+569
+00:40:49,06 --> 00:40:54,87
+foarte aproape de a fi neutre. Dacă luăm pământul, este foarte puţin probabil 
+
+570
+00:40:54,87 --> 00:40:58,73
+ca pământul, per ansamblu, să posede o sarcină
+
+571
+00:40:58,73 --> 00:41:02,36
+mai mare de 10 coulombi. Probabil că deja am şi exagerat.
+
+572
+00:41:03,49 --> 00:41:06,83
+Dacă luăm pământul şi dacă luăm
+
+573
+00:41:06,83 --> 00:41:13,51
+luna, şi pun pe amândouă o sarcină de 10 coulombi,
+
+574
+00:41:15,51 --> 00:41:19,78
+aici e pământul şi aici e luna, 
+
+575
+00:41:20,63 --> 00:41:23,45
+şi pun arbitrar 10 coulombi aici
+
+576
+00:41:23,45 --> 00:41:27,78
+iar dincoace, să zicem, -10 coulombi, 
+
+577
+00:41:28,79 --> 00:41:32,48
+se vor atrage, dar datorită distanţei dintre ele,
+
+578
+00:41:33,28 --> 00:41:36,11
+este mai nimic.
+Forţe este neglijabilă.
+
+579
+00:41:36,11 --> 00:41:39,36
+Dar forţa gravitaţiei, ce este proporţională cu 
+
+580
+00:41:39,36 --> 00:41:41,00
+masa lor, câştigă în acest caz
+
+581
+00:41:41,00 --> 00:41:45,05
+particular. În cazul pământului şi al lunii, 
+
+582
+00:41:45,05 --> 00:41:49,11
+forţa gravitaţională câştigă în faţa forţei electrice 
+
+583
+00:41:49,11 --> 00:41:51,95
+cu un ordin de mărime de 25.
+
+584
+00:41:53,73 --> 00:41:58,38
+Cu toate că forţele electrice domină peisajul de zi cu zi, 
+
+585
+00:41:58,38 --> 00:42:02,23
+inclusiv corpul nostru, comportamentul 
+
+586
+00:42:02,23 --> 00:42:06,80
+universului pe scară mare este dictat de gravitaţie.
+
+587
+00:42:10,42 --> 00:42:15,78
+Vom folosi diferite instrumente pentru a măsura cantitativ 
+
+588
+00:42:15,78 --> 00:42:22,29
+sarcina electrică, iar unul din instrumentele ce le veţi vedea 
+
+589
+00:42:26,32 --> 00:42:28,81
+îl vom folosi des în cursurile viitoare, 
+
+590
+00:42:28,81 --> 00:42:31,94
+poartă numele de electroscop.
+
+591
+00:42:35,54 --> 00:42:41,14
+Este un instrument foarte simplu. Este compus în general
+
+592
+00:42:41,14 --> 00:42:43,73
+dintr-o singură bară conductoare. De obicei din aluminiu, 
+
+593
+00:42:43,73 --> 00:42:49,25
+metal, iar la capăt două bucăţi de beteală, 
+
+594
+00:42:49,25 --> 00:42:53,95
+două bucăţi de folie de aluminiu. 
+
+595
+00:42:53,95 --> 00:43:00,90
+De asemenea, un mâner aici, iar dacă-l atingem cu un obiect încărcat, 
+
+596
+00:43:00,90 --> 00:43:03,86
+datorită faptului că poate conduce electricitate, acesta poate conduce
+
+597
+00:43:05,41 --> 00:43:08,69
+focul definit de Benjamin
+Franklin, dacă-l ating cu un obiect
+
+598
+00:43:08,69 --> 00:43:12,13
+încărcat pozitiv, atunci acest obiect 
+
+599
+00:43:12,13 --> 00:43:18,80
+se va încărca pozitiv. Dacă-l ating cu un obiect 
+
+600
+00:43:18,80 --> 00:43:22,59
+încărcat negativ, va deveni încărcat negativ.
+
+601
+00:43:23,27 --> 00:43:27,33
+Puteţi vedea că cele două folii foarte uşoare de aluminiu
+
+602
+00:43:27,33 --> 00:43:31,83
+se resping reciproc. Vedeţi că există 
+
+603
+00:43:31,83 --> 00:43:35,84
+un anumit unghi. Cu cât sarcina este mai mare cu atât 
+
+604
+00:43:35,84 --> 00:43:40,10
+este mai mare unghiul. Putem realiza astfel 
+
+605
+00:43:40,10 --> 00:43:44,91
+măsurători cantitative. Există şi alte electroscoape 
+
+606
+00:43:44,91 --> 00:43:49,33
+nu foarte diferite. 
+O bară conductoare
+
+607
+00:43:49,33 --> 00:43:54,31
+cu o foiţă aici. Dacă-l încărcăm 
+
+608
+00:43:54,31 --> 00:43:57,70
+foiţa se va deplasa în sus, iar dacă
+
+609
+00:43:57,70 --> 00:44:02,05
+mai adăugăm sarcină, se va deplasa şi mai tare.
+
+610
+00:44:06,38 --> 00:44:09,70
+Nu am acum un electroscop aici.
+
+611
+00:44:09,70 --> 00:44:16,46
+Dar vreau să vedeţi că dacă mă încarc şi ţin 
+
+612
+00:44:16,46 --> 00:44:22,60
+în mână această beteală pentru pomul de Crăciun, dacă voi reuşi să adun suficientă 
+
+613
+00:44:22,60 --> 00:44:27,76
+sarcină electrică, 
+beteala se va desface. 
+
+614
+00:44:27,76 --> 00:44:30,25
+Această idee este urmarea imediată 
+
+615
+00:44:30,25 --> 00:44:36,95
+a faptului că, indiferent de tipul sarcinii electrice, pozitivă sau negativă,
+
+616
+00:44:38,01 --> 00:44:40,41
+beteala se va desface.
+
+617
+00:44:43,48 --> 00:44:47,83
+Cel mai bun mod de a face asta este să mă încarc
+
+618
+00:44:47,83 --> 00:44:51,92
+cu  Van der Graaff-ul.
+După cum am spus mai devreme
+
+619
+00:44:51,92 --> 00:44:56,73
+aceste experimente nu sunt lipsite de risc.
+
+620
+00:44:59,50 --> 00:45:02,18
+Există tot timpul posibilitatea să 
+
+621
+00:45:02,18 --> 00:45:05,06
+nu supravieţuiesc acestei demonstraţii.
+
+622
+00:45:05,06 --> 00:45:10,21
+[râsete] Dar nu vă faceţi griji, se va găsi altcineva
+
+623
+00:45:10,21 --> 00:45:14,79
+să ţină cursul de electromagnetism, doar că s-ar putea
+
+624
+00:45:14,79 --> 00:45:18,09
+să nu vă prezinte această demonstraţie încă odată.
+
+625
+00:45:18,09 --> 00:45:23,67
+Fiţi atenţi aşadar, s-ar putea să fie singura dată când o veţi vedea.
+
+626
+00:45:26,03 --> 00:45:30,16
+Punem puţină lumină pe Van der Graaff
+
+627
+00:45:40,83 --> 00:45:43,48
+mi-e frică tot timpul de acest moment, 
+
+628
+00:45:43,48 --> 00:45:45,96
+nopţi nedormite din cauza Van der Graaff-ului.
+
+629
+00:45:49,93 --> 00:45:52,85
+Îl voi porni acum, sau Marcos, ai tu curajul
+
+630
+00:45:52,85 --> 00:45:56,08
+să-l porneşti?
+Îl porneşti tu?
+
+631
+00:46:03,65 --> 00:46:06,08
+Eşti pregătit?
+Ai emoţii?
+
+632
+00:46:20,10 --> 00:46:22,92
+Uitaţi-vă la beteală
+
+633
+00:46:22,92 --> 00:46:26,24
+şi nu vă uitaţi la mine, vă rog.
+
+634
+00:46:28,84 --> 00:46:30,26
+Dă-i drumul. 
+
+
+635
+00:46:34,55 --> 00:46:38,44
+Sunt un electroscop uman acum. [râsete] 
+
+636
+00:46:41,29 --> 00:46:48,91
+Dacă vremea ar fi cooperat astăzi, şi dacă aş fi avut părul lung, 
+
+637
+00:46:48,91 --> 00:46:53,97
+chiar şi părul s-ar fi comportat precum un electroscop.
+
+638
+00:46:56,75 --> 00:47:07,23
+Putem încerca şi asta.
+De ce nu o arunci? [râsete] [aplauze]
+
+639
+00:47:25,56 --> 00:47:27,47
+
+Funcţionează?
+
+640
+00:47:30,09 --> 00:47:32,70
+Bine, scoateţi-vă în acest weekend tricoul de nailon
+
+641
+00:47:32,70 --> 00:47:38,04
+în faţa oglinzii şi bucuraţi-vă de experiment acasă.
+
+642
+00:47:39,73 --> 00:47:43,81
+Nu încercaţi asta niciodată ! Ne vedem vineri.
+
+643
+00:47:43,81 --> 00:47:48,81
+(subtitrarea în limba română pentru www.circuiteelectrice.ro)

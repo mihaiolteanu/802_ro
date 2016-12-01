@@ -1,0 +1,3624 @@
+﻿1
+00:00:03,089 --> 00:00:10,000
+Aveţi aici subiectele,
+veţi primi trei
+
+2
+00:00:10,000 --> 00:00:16,002
+probleme la examen,
+dar nu toate subiectele
+
+3
+00:00:16,002 --> 00:00:18,075
+se vor regăsi, desigur,
+la examen.
+
+4
+00:00:18,075 --> 00:00:24,002
+Şi nici nu le voi putea parcurge
+pe toate în 50 de minute.
+
+5
+00:00:24,002 --> 00:00:28,023
+Voi prezenta câteva idei de bază,
+din punct de vedere matematic
+
+6
+00:00:28,023 --> 00:00:32,055
+problemele sunt triviale, iar dacă devin complicate,
+atunci veţi ştii
+
+7
+00:00:32,055 --> 00:00:35,029
+că ceva nu aţi făcut bine.
+Dacă vă împotmoliţi
+
+8
+00:00:35,029 --> 00:00:38,008
+cumva la o problemă,
+sfatul meu este să
+
+9
+00:00:38,008 --> 00:00:42,000
+treceţi mai departe, lăsaţi problema 
+deoparte şi treceţi
+
+10
+00:00:42,000 --> 00:00:46,006
+la următoarele.
+Legea lui Gauss nu este
+
+11
+00:00:46,006 --> 00:00:52,006
+trecută cu roşu incidental,
+ci legea lui Gauss este,
+
+12
+00:00:52,006 --> 00:00:58,004
+desigur, extrem de importantă
+în prima parte a cursului.
+
+13
+00:00:58,004 --> 00:01:10,001
+Integrală de suprafaţă închisă
+din E ori dA, este egală cu suma
+
+14
+00:01:10,001 --> 00:01:16,006
+sarcinilor din interior
+împărţit la ε0.
+
+15
+00:01:16,006 --> 00:01:19,027
+Această ecuaţie este atât de importantă,
+încât veţi primi cu siguranţă
+
+16
+00:01:19,027 --> 00:01:24,004
+o problemă ce implică 
+aplicarea legii lui Gauss.
+
+17
+00:01:24,004 --> 00:01:27,082
+Când avem o problemă ce implică
+utilizarea legii lui Gauss, avem trei
+
+18
+00:01:27,082 --> 00:01:31,003
+posibilităţi.
+Trebuie să existe simetrie,
+
+19
+00:01:31,003 --> 00:01:33,007
+trebuie să existe o distribuţie
+specială de sarcini,
+
+20
+00:01:33,007 --> 00:01:35,062
+pentru că în caz contrar
+legea lui Gauss nu ne foloseşte
+
+21
+00:01:35,062 --> 00:01:39,001
+la nimic.
+Prin urmare, poate exista simetrie sferică,
+
+22
+00:01:39,001 --> 00:01:41,082
+simetrie
+cilindrică,
+
+23
+00:01:41,082 --> 00:01:45,084
+sau simetrie plană,
+acestea sunt toate posibilităţile.
+
+24
+00:01:45,084 --> 00:01:49,002
+Veţi primi la examen
+una din cele trei.
+
+25
+00:01:49,002 --> 00:01:51,057
+Voi rezolva una acum,
+puteţi alege.
+
+26
+00:01:51,057 --> 00:01:55,024
+Vom vota.
+Una din variante este
+
+27
+00:01:55,024 --> 00:01:58,005
+simetria sferică,
+o alta este simetria
+
+28
+00:01:58,005 --> 00:02:03,079
+cilindrică,
+sau, cealaltă, simetrie plană.
+
+29
+00:02:03,079 --> 00:02:06,003
+Cine vrea 
+simetria sferică ?
+
+30
+00:02:06,003 --> 00:02:08,009
+Mâini.
+Cine vrea simetria
+
+31
+00:02:08,009 --> 00:02:11,008
+cilindrică ?
+Şi mai multe mâini.
+
+32
+00:02:11,008 --> 00:02:15,002
+Cine vrea plană ?
+Se pare că vom avea
+
+33
+00:02:15,002 --> 00:02:17,010
+simetria cilindrică.
+Dar, dacă sunteţi isteţi,
+
+34
+00:02:17,010 --> 00:02:20,005
+puteţi rămâne la următorul curs,
+şi să încercaţi să votaţi
+
+35
+00:02:20,005 --> 00:02:24,003
+pentru celelalte două.
+Trebuie să ne şi distrăm puţin
+
+36
+00:02:24,003 --> 00:02:27,002
+astăzi.
+Prin urmare,
+
+37
+00:02:27,002 --> 00:02:30,065
+vă voi prezenta
+ceva special,
+
+38
+00:02:30,065 --> 00:02:34,006
+ceva la care eu ţin foarte mult,
+este un titirez secret.
+
+39
+00:02:34,006 --> 00:02:38,058
+Îl vedeţi acolo.
+Voi învârti acest titirez
+
+40
+00:02:38,058 --> 00:02:42,070
+secret, şi, dacă
+aveţi încredere în
+
+41
+00:02:42,070 --> 00:02:46,003
+mecanica clasică,
+încredere ce ar trebui să o aveţi deja,
+
+42
+00:02:46,003 --> 00:02:50,002
+veţi prezice că
+acest titirez nu se va
+
+43
+00:02:50,002 --> 00:02:52,007
+roti pentru mult timp.
+Există frecare cu aerul,
+
+44
+00:02:52,007 --> 00:02:58,000
+frecare cu suprafaţa de contact,
+şi prin urmare, se va răsturna
+
+45
+00:02:58,000 --> 00:03:02,063
+destul de curând.
+Ne vom întoarce mai încolo la el.
+
+46
+00:03:02,063 --> 00:03:04,066
+Să începem
+prima
+
+47
+00:03:04,066 --> 00:03:09,018
+problemă, 
+cea cu simetrie cilindrică.
+
+48
+00:03:11,056 --> 00:03:17,001
+Avem un cilindru, 
+aici este cilindrul,
+
+49
+00:03:17,001 --> 00:03:23,005
+un cilindru foarte lung
+cu raza R
+
+50
+00:03:23,005 --> 00:03:26,006
+şi o distribuţie uniformă
+de sarcină pe
+
+51
+00:03:26,006 --> 00:03:31,023
+întreg cilindrul.
+Densitatea sarcinii este ρ coulombi
+
+52
+00:03:31,023 --> 00:03:37,003
+pe metru cub.
+Distribuită uniform pe întreg
+
+53
+00:03:37,003 --> 00:03:40,062
+cilindrul.
+Vreau să aflu care este
+
+54
+00:03:40,062 --> 00:03:43,000
+câmpul electric în interiorul
+şi în exteriorul
+
+55
+00:03:43,000 --> 00:03:48,004
+cilindrului.
+Să ne concentrăm iniţial pe exteriorul
+
+56
+00:03:48,004 --> 00:03:51,052
+cilindrului.
+Suprafaţa gaussiană,
+
+57
+00:03:51,052 --> 00:03:59,034
+va fi şi ea, evident, un cilindru,
+aceasta este,
+
+58
+00:03:59,034 --> 00:04:04,002
+lungimea ei, l, este irelevantă,
+nu va afecta în niciun fel
+
+59
+00:04:04,002 --> 00:04:09,004
+răspunsul. Capetele sunt suprafeţe plane,
+perpendiculare pe axa
+
+60
+00:04:09,004 --> 00:04:16,083
+de simetrie, partea din faţă este plană,
+iar aceasta curbată.
+
+61
+00:04:19,062 --> 00:04:24,054
+Raza cilindrului o notăm cu r,
+şi ştim că în orice punct
+
+62
+00:04:24,054 --> 00:04:31,011
+de pe suprafaţa exterioară a cilindrului,
+câmpul electric
+
+63
+00:04:31,011 --> 00:04:34,002
+trebuie să fie egal, 
+pentru că distanţa
+
+64
+00:04:34,002 --> 00:04:38,001
+este egală, 
+acesta este argumentul de simetrie.
+
+65
+00:04:38,001 --> 00:04:41,003
+Câmpul electric nu poate fi mai
+intens aici decât în punctul acela,
+
+66
+00:04:41,003 --> 00:04:44,018
+dacă rămânem pe suprafaţă.
+Argumentul de simetrie numărul unu.
+
+67
+00:04:44,018 --> 00:04:47,017
+Al doilea argument de simetrie,
+având în vedere că suprafaţa este
+
+68
+00:04:47,017 --> 00:04:52,008
+cilindrică, câmpul electric
+este în oricare punct perpendicular
+
+69
+00:04:52,008 --> 00:04:55,000
+pe această axă,
+ieşind -- îi spunem
+
+70
+00:04:55,000 --> 00:04:57,052
+radial, dar, desigur, 
+nu ne referim radial,
+
+71
+00:04:57,052 --> 00:05:01,000
+precum o sferă -- 
+iese radial din această suprafaţă,
+
+72
+00:05:01,000 --> 00:05:03,070
+perpendicular tot timpul 
+pe această axă de simetrie.
+
+73
+00:05:03,070 --> 00:05:06,024
+Forţele naturii nu s-au putut
+decide altfel.
+
+74
+00:05:06,024 --> 00:05:09,065
+Acesta este al doilea 
+argument de simetrie.
+
+75
+00:05:09,065 --> 00:05:13,005
+Odată ce am văzut acest argument,
+fluxul electric
+
+76
+00:05:13,005 --> 00:05:16,025
+prin această suprafaţă plană
+şi prin acea suprafaţă plană trebuie
+
+77
+00:05:16,025 --> 00:05:18,080
+să fie egal cu 0.
+Pentru că în acest caz,
+
+78
+00:05:18,080 --> 00:05:21,088
+câmpul electric 
+şi vectorul dA local,
+
+79
+00:05:21,088 --> 00:05:23,077
+ce este 
+perpendicular pe
+
+80
+00:05:23,077 --> 00:05:27,005
+suprafaţă, fac un unghi
+egal cu 90 de grade,
+
+81
+00:05:27,005 --> 00:05:31,001
+pentru că E-ul este aşa aici,
+dar dA-ul se află în
+
+82
+00:05:31,001 --> 00:05:33,099
+direcţia axei
+de simetrie.
+
+83
+00:05:33,099 --> 00:05:36,002
+Prin urmare, nu există flux
+electric nici pe aici
+
+84
+00:05:36,002 --> 00:05:38,007
+şi nici pe aici,
+ci doar prin această
+
+85
+00:05:38,007 --> 00:05:41,085
+suprafaţă curbă.
+Dar pe această suprafaţă curbă,
+
+86
+00:05:41,085 --> 00:05:47,006
+dacă avem o sarcină pozitivă,
+vectorii E şi dA
+
+87
+00:05:47,006 --> 00:05:49,085
+au aceeaşi direcţie,
+iar dacă sarcina este negativă,
+
+88
+00:05:49,085 --> 00:05:52,002
+direcţiile lor
+sunt opuse.
+
+89
+00:05:52,002 --> 00:05:53,076
+Putem schimba
+semnul lui ρ
+
+90
+00:05:53,076 --> 00:05:57,008
+oricând dorim,
+dar pentru moment, îl considerăm pozitiv.
+
+91
+00:05:57,008 --> 00:06:01,007
+Dacă aplicăm acum legea lui Gauss,
+va trebui să luăm în considerare
+
+92
+00:06:01,007 --> 00:06:05,003
+doar această suprafaţă,
+iar cele două capete le putem ignora.
+
+93
+00:06:05,003 --> 00:06:09,001
+Trebuie să aflăm, aşadar,
+cu cât este egală această suprafaţă,
+
+94
+00:06:09,001 --> 00:06:12,040
+pentru că E şi dA au 
+peste tot aceeaşi direcţie,
+
+95
+00:06:12,040 --> 00:06:15,052
+astfel încât cosinusul unghiului
+dintre ei este plus unu.
+
+96
+00:06:15,052 --> 00:06:18,002
+Prin urmare,
+care este aria suprafeţei ?
+
+97
+00:06:18,002 --> 00:06:24,005
+Este egală cu 
+l2πr, iar
+
+98
+00:06:24,005 --> 00:06:26,073
+vectorul câmpului electric 
+este peste tot acelaşi,
+
+99
+00:06:26,073 --> 00:06:30,004
+conform argumentului de simetrie.
+În partea dreaptă vom avea sarcina
+
+100
+00:06:30,004 --> 00:06:35,001
+din interiorul cilindrului
+împărţită la ε0.
+
+101
+00:06:35,001 --> 00:06:37,049
+Dar, desigur,
+sarcina din interiorul cilindrului
+
+102
+00:06:37,049 --> 00:06:42,002
+reprezintă doar porţiunea 
+ce se află în interiorul acestui cilindru mic,
+
+103
+00:06:42,002 --> 00:06:47,001
+lungimea acestuia este 
+de asemenea egală cu l.
+
+104
+00:06:47,001 --> 00:06:54,004
+Secţiunea transversală este egală cu 
+πR^2, acesta fiind volumul
+
+105
+00:06:54,004 --> 00:06:56,009
+sarcinii din 
+interiorul
+
+106
+00:06:56,009 --> 00:06:59,072
+suprafeţei gaussiene.
+Dacă înmulţesc totul cu ρ,
+
+107
+00:06:59,072 --> 00:07:03,008
+voi obţine expresia unei sarcini,
+şi împart apoi totul cu ε0.
+
+108
+00:07:03,008 --> 00:07:06,027
+Desigur, 
+l-ul se simplifică,
+
+109
+00:07:06,027 --> 00:07:08,001
+la fel şi 
+π -ul,
+
+110
+00:07:08,001 --> 00:07:13,063
+şi găsim că valoarea 
+câmpului electric este egală cu R^2
+
+111
+00:07:13,063 --> 00:07:20,005
+ori ρ împărţit la 2ε0r.
+Pentru o reprezentare
+
+112
+00:07:20,005 --> 00:07:24,041
+vectorială,
+putem pune un r căciuliţă aici,
+
+113
+00:07:24,041 --> 00:07:28,007
+r căciuliţă, prin urmare,
+va fi un vector
+
+114
+00:07:28,007 --> 00:07:34,056
+perpendicular pe axa de simetrie,
+şi îndreptat spre exterior.
+
+115
+00:07:34,056 --> 00:07:41,022
+Acesta este câmpului 
+electric în exteriorul cilindrului.
+
+116
+00:07:41,022 --> 00:07:44,002
+R^2 ori ρ,
+ε0 ori r.
+
+117
+00:07:44,002 --> 00:07:50,000
+Descreşte aşadar cu 1/r. 
+Vrem acum să aflăm câmpul electric
+
+118
+00:07:50,000 --> 00:07:54,055
+în interiorul cilindrului.
+Acum r-ul
+
+119
+00:07:54,055 --> 00:07:59,084
+este mai mic sau egal cu R.
+Este evident că şi de data aceasta
+
+120
+00:07:59,084 --> 00:08:02,002
+voi avea
+o suprafaţă
+
+121
+00:08:02,002 --> 00:08:05,003
+gaussiană 
+sub forma unui cilindru
+
+122
+00:08:05,003 --> 00:08:08,072
+de lungime l,
+cu două suprafeţe
+
+123
+00:08:08,072 --> 00:08:12,006
+plane pe cele două capete.
+Fluxul electric prin cele
+
+124
+00:08:12,006 --> 00:08:16,006
+două capete va fi zero.
+Primul termen din legea lui Gauss
+
+125
+00:08:16,006 --> 00:08:21,032
+va fi identic, 
+l2πr,
+
+126
+00:08:21,032 --> 00:08:28,010
+pentru că raza cercului
+din interior este tot r,
+
+127
+00:08:28,010 --> 00:08:31,070
+l2πr ori câmpul electric,
+argumentele sunt
+
+128
+00:08:31,070 --> 00:08:35,070
+identice, dar acum,
+sarcina din interiorul suprafeţei
+
+129
+00:08:35,070 --> 00:08:40,009
+gaussiene este mai mică decât înainte.
+Volumul este acum egal
+
+130
+00:08:40,009 --> 00:08:45,006
+cu l2πr^2, 
+înmulţit totul cu ρ pentru a obţine
+
+131
+00:08:45,006 --> 00:08:49,001
+o sarcină la numărător,
+totul împărţit la ε0.
+
+132
+00:08:49,001 --> 00:08:52,000
+l-ul se simplifică, 
+nimic spectaculos,
+
+133
+00:08:52,000 --> 00:08:58,056
+π-ul se simplifică, 
+şi obţinem că E este egal cu, avem un r aici,
+
+134
+00:08:58,056 --> 00:09:04,003
+şi un r^2 aici, 
+va rămâne aşadar doar un singur r,
+
+135
+00:09:04,003 --> 00:09:09,004
+împărţit la 2ε0.
+Dacă preferaţi notaţia
+
+136
+00:09:09,004 --> 00:09:13,042
+vectorială,
+putem proceda astfel.
+
+137
+00:09:13,042 --> 00:09:16,002
+Desigur, 
+dacă ρ este negativ,
+
+138
+00:09:16,002 --> 00:09:20,005
+atunci automat, 
+dacă punem o densitate
+
+139
+00:09:20,005 --> 00:09:24,000
+de sarcină negativă aici,
+atunci câmpul E se inversează,
+
+140
+00:09:24,000 --> 00:09:26,056
+lucru luat în considerare
+automat atât aici cât şi
+
+141
+00:09:26,056 --> 00:09:31,002
+acolo.
+Să vedem,
+
+142
+00:09:31,002 --> 00:09:36,004
+da, sunt mulţumit de rezultat.
+Dacă înlocuim r-ul
+
+143
+00:09:36,004 --> 00:09:38,003
+cu R, 
+înseamnă că suntem exact pe
+
+144
+00:09:38,003 --> 00:09:42,004
+suprafaţa cilindrului
+şi obţinem acelaşi rezultat în
+
+145
+00:09:42,004 --> 00:09:46,067
+ambele cazuri.
+Punem R aici în loc de r,
+
+146
+00:09:46,067 --> 00:09:49,000
+atunci 
+intensitatea câmpului E,
+
+147
+00:09:49,000 --> 00:09:54,001
+nu ne interesează direcţia acum,
+este egală cu ρR împărţit
+
+148
+00:09:54,001 --> 00:09:59,000
+la 2ε0.
+Şi dacă înlocuim în ecuaţia de sus
+
+149
+00:09:59,000 --> 00:10:02,000
+r-ul cu R,
+obţinem exact acelaşi
+
+150
+00:10:02,000 --> 00:10:09,001
+răspuns.
+Putem trasa graficul
+
+151
+00:10:09,001 --> 00:10:13,091
+câmpului electric
+în funcţie de
+
+152
+00:10:13,091 --> 00:10:20,007
+distanţa r, aici fiind distanţa R
+iar aici intensitatea
+
+153
+00:10:20,007 --> 00:10:27,003
+câmpului electric.
+Este un grafic liniar,
+
+154
+00:10:27,003 --> 00:10:30,054
+0 aici, 
+creşte până la un anumit nivel maxim,
+
+155
+00:10:30,054 --> 00:10:34,036
+iar apoi 
+descreşte cu 1/r.
+
+156
+00:10:34,036 --> 00:10:39,004
+Valoarea de aici
+este valoarea aceasta,
+
+157
+00:10:39,004 --> 00:10:45,017
+adică atunci când
+r este egal cu R.
+
+158
+00:10:45,017 --> 00:10:48,016
+Este evident şi îmbucurător faptul că
+intensitatea câmpului electric
+
+159
+00:10:48,016 --> 00:10:52,001
+chiar pe axă, 
+unde r este egal cu 0,
+
+160
+00:10:52,001 --> 00:10:55,076
+intensitatea câmpului electric este 0.
+Am fi putut prezice acest lucru
+
+161
+00:10:55,076 --> 00:10:58,034
+fără a efectua
+niciun calcul,
+
+162
+00:10:58,034 --> 00:11:02,004
+pentru că există simetrie peste
+tot în juru axei, există sarcină
+
+163
+00:11:02,004 --> 00:11:04,052
+în partea stângă,
+există sarcină în partea dreaptă,
+
+164
+00:11:04,052 --> 00:11:08,000
+sarcină la nord şi la sud,
+iar câmpurile electrice
+
+165
+00:11:08,000 --> 00:11:11,032
+în centru, desigur, 
+se anulează reciproc
+
+166
+00:11:11,032 --> 00:11:13,071
+astfel încât
+câmpul electric total
+
+167
+00:11:13,071 --> 00:11:16,030
+este zero în centru.
+Dacă sarcina,
+
+168
+00:11:16,030 --> 00:11:19,006
+dintr-un oarecare motiv,
+s-ar regăsi pe suprafaţa
+
+169
+00:11:19,006 --> 00:11:24,003
+exterioară -- acest lucru
+este valabil în cazul unui conductor
+
+170
+00:11:24,003 --> 00:11:30,005
+solid, atunci câmpul electric
+ar fi egal cu 0 în interior,
+
+171
+00:11:30,005 --> 00:11:33,000
+această porţiune rămânând neschimbată,
+presupunând, desigur,
+
+172
+00:11:33,000 --> 00:11:37,005
+că avem aceeaşi cantitate
+de sarcină electrică pe suprafaţa exterioară
+
+173
+00:11:37,005 --> 00:11:42,047
+precum avem acum
+în interior.
+
+174
+00:11:42,047 --> 00:11:47,000
+Aceasta este
+simetria cilindrică.
+
+175
+00:11:47,000 --> 00:11:52,007
+Sunt foarte curios
+să văd ce face titirezul.
+
+176
+00:11:56,017 --> 00:12:00,001
+Spre surprinderea mea, 
+acest titirez
+
+177
+00:12:00,001 --> 00:12:03,003
+se mai roteşte încă.
+Va trebui până la urmă să
+
+178
+00:12:03,003 --> 00:12:07,075
+concluzionez că mecanica clasică
+nu se aplică în acest caz.
+
+179
+00:12:07,075 --> 00:12:09,095
+Trebuie să existe 
+ceva mai profund
+
+180
+00:12:09,095 --> 00:12:13,002
+decât mecanica clasică.
+Avem frecare şi, totuşi,
+
+181
+00:12:13,002 --> 00:12:15,057
+acest titirez
+nu se opreşte.
+
+182
+00:12:15,057 --> 00:12:19,001
+Responsabilitatea 
+s-ar putea să o poarte
+
+183
+00:12:19,001 --> 00:12:22,005
+electromagnetismul.
+Gândiţi-vă la asta,
+
+184
+00:12:22,005 --> 00:12:27,005
+s-ar putea 
+să aveţi nopţi nedormite.
+
+185
+00:12:27,005 --> 00:12:30,001
+Vom reveni mai încolo asupra lui,
+pentru că, poate, se va opri
+
+186
+00:12:30,001 --> 00:12:36,000
+până la urmă.
+Foarte bine.
+
+187
+00:12:37,066 --> 00:12:42,001
+Să facem acum ceva
+cu totul diferit.
+
+188
+00:12:42,001 --> 00:12:49,005
+Am două plăci conductoare
+ce formează un condensator
+
+189
+00:12:49,005 --> 00:12:52,006
+planar, cu o anumită grosime, 
+materialul este
+
+190
+00:12:52,006 --> 00:12:55,008
+conductor,
+are o anumită grosime,
+
+191
+00:12:55,008 --> 00:13:00,007
+cu o suprafaţă foarte mare.
+Lungimea plăcii este mult mai
+
+192
+00:13:00,007 --> 00:13:06,055
+mare decât distanţa dintre plăci.
+Notăm distanţa dintre plăci
+
+193
+00:13:06,055 --> 00:13:13,035
+cu d, şi spunem că sarcina
+de pe placa superioară este pozitivă,
+
+194
+00:13:13,035 --> 00:13:17,008
+cu o densitate superficială
+de sarcină +σ,
+
+195
+00:13:17,008 --> 00:13:24,071
+şi aici -σ,
+aria ambelor plăci este A.
+
+196
+00:13:24,071 --> 00:13:31,015
+Ştiu că în interiorul conductorului,
+întrucât nu avem curent,
+
+197
+00:13:31,015 --> 00:13:36,029
+câmpul electric
+trebuie să fie egal cu zero.
+
+198
+00:13:36,029 --> 00:13:40,003
+Există un câmp electric
+între cele două plăci,
+
+199
+00:13:40,003 --> 00:13:43,030
+ce poate fi determinat cu legea lui Gauss,
+dar am făcut deja
+
+200
+00:13:43,030 --> 00:13:47,070
+acest lucru,
+şi este egal cu σ împărţit la
+
+201
+00:13:47,070 --> 00:13:52,061
+ε0.
+Câmpul electric în exteriorul acestor
+
+202
+00:13:52,061 --> 00:13:57,007
+două plăci este aproximativ egal cu 0 aici,
+şi aproximativ egal
+
+203
+00:13:57,007 --> 00:14:01,025
+cu 0 aici.
+Aplicând acum
+
+204
+00:14:01,025 --> 00:14:05,029
+principiul superpoziţiei, 
+pentru că această placă,
+
+205
+00:14:05,029 --> 00:14:08,077
+încărcată negativ,
+va contribui la câmpul electric
+
+206
+00:14:08,077 --> 00:14:12,002
+îndreptat în jos, 
+şi după cum probabil va amintiţi,
+
+207
+00:14:12,002 --> 00:14:15,013
+nu depinde
+de distanţă.
+
+208
+00:14:15,013 --> 00:14:20,001
+Adică, atâta timp cât 
+nu suntem foarte departe de plăci,
+
+209
+00:14:20,001 --> 00:14:23,025
+câmpul electric nu depinde
+de distanţă.
+
+210
+00:14:23,025 --> 00:14:26,001
+Dacă dimensiunea plăci este de
+10 pe 10 metri, atunci,
+
+211
+00:14:26,001 --> 00:14:29,028
+dacă suntem la o distanţă de câţiva metri,
+câmpul electric este constant.
+
+212
+00:14:29,028 --> 00:14:32,002
+Dar dacă suntem la 100 de metri de ea,
+această „lege” nu mai este
+
+213
+00:14:32,002 --> 00:14:34,002
+valabilă.
+Presupunem aşadar că nu
+
+214
+00:14:34,002 --> 00:14:37,002
+ne îndepărtăm foarte tare de placă,
+şi atunci, câmpul electric datorită
+
+215
+00:14:37,002 --> 00:14:41,006
+acestei plăci este în jos,
+iar datorită acesteia este în sus,
+
+216
+00:14:41,006 --> 00:14:43,008
+intensitatea lor este egală,
+nu depinde de
+
+217
+00:14:43,008 --> 00:14:46,066
+distanţă, prin urmare
+se anulează reciproc aici, şi se anulează
+
+218
+00:14:46,066 --> 00:14:50,063
+reciproc aici,
+principiul superpoziţiei.
+
+219
+00:14:50,063 --> 00:14:55,007
+Fie punctul P în interiorul conductorului,
+şi punctul S aici,
+
+220
+00:14:55,007 --> 00:14:58,004
+primul lucru ce vreau să-l aflu este,
+de exemplu,
+
+221
+00:14:58,004 --> 00:15:04,044
+cât este VP minus VS ?
+Diferenţa de potenţial
+
+222
+00:15:04,044 --> 00:15:09,092
+a acestui condensator,
+dacă vrem să-i spunem condensator.
+
+223
+00:15:09,092 --> 00:15:15,001
+Diferenţa este egală cu
+integrală de la P la S
+
+224
+00:15:15,001 --> 00:15:22,007
+din E ori dl.
+Nu am înţeles niciodată
+
+225
+00:15:22,007 --> 00:15:26,005
+motivul,
+dar în carte acestea două sunt inversate,
+
+226
+00:15:26,005 --> 00:15:28,059
+şi aici este un minus,
+rezultatul fiind, desigur,
+
+227
+00:15:28,059 --> 00:15:34,001
+identic.
+Putem acum calcula
+
+228
+00:15:34,001 --> 00:15:36,094
+diferenţa de potenţial.
+Dacă suntem aici
+
+229
+00:15:36,094 --> 00:15:40,000
+şi vrem să ajungem aici, 
+să presupunem că ne deplasăm
+
+230
+00:15:40,000 --> 00:15:44,003
+pe o linie dreaptă,
+astfel că direcţia lui dl este aceeaşi
+
+231
+00:15:44,003 --> 00:15:48,072
+cu direcţia lui E,
+atunci se poate vedea imediat
+
+232
+00:15:48,072 --> 00:15:53,001
+că integrala este egală cu 
+E ori distanţa d, pentru că E şi dl
+
+233
+00:15:53,001 --> 00:15:56,006
+sunt în aceeaşi direcţie.
+Prin urmare, cosinusul unghiului
+
+234
+00:15:56,006 --> 00:16:02,000
+dintre ele este +1.
+Prin urmare, integrala este egală cu E,
+
+235
+00:16:02,000 --> 00:16:06,001
+adică 
+σ împărţit la ε0,
+
+236
+00:16:06,001 --> 00:16:12,004
+ori distanţa d.
+Dacă aş fi ales un alt drum,
+
+237
+00:16:12,004 --> 00:16:15,002
+aş fi găsit acelaşi răspuns,
+pentru că avem de-a face cu
+
+238
+00:16:15,002 --> 00:16:20,064
+un câmp conservativ,
+prin urmare, drumul urmat este irelevant.
+
+239
+00:16:20,064 --> 00:16:24,004
+Aşadar, atâta timp cât 
+parcurgem distanţa dintre cele două plăci,
+
+240
+00:16:24,004 --> 00:16:31,001
+integrala va fi tot 
+timpul egală cu E ori d.
+
+241
+00:16:31,001 --> 00:16:33,097
+Care este diferenţa de potenţial
+dintre punctul P şi
+
+242
+00:16:33,097 --> 00:16:39,066
+punctul T ?
+VP minus VT,
+
+243
+00:16:39,066 --> 00:16:42,099
+este evident egală cu zero,
+pentru că intensitatea câmpului electric
+
+244
+00:16:42,099 --> 00:16:46,001
+este zero aici,
+şi este zero şi aici,
+
+245
+00:16:46,001 --> 00:16:51,037
+prin urmare,
+integrala este evident zero.
+
+246
+00:16:51,037 --> 00:16:54,032
+Care este capacitatea
+acestei plăci ?
+
+247
+00:16:54,032 --> 00:16:57,004
+Capacitatea este 
+egală cu sarcina uneia dintre plăci,
+
+248
+00:16:57,004 --> 00:17:01,001
+împărţită la diferenţa de potenţial,
+pentru care voi folosi
+
+249
+00:17:01,001 --> 00:17:07,001
+simbolul V, 
+şi înseamnă VP minus VS.
+
+250
+00:17:07,001 --> 00:17:09,045
+Care este sarcina 
+unei singure plăci ?
+
+251
+00:17:09,045 --> 00:17:13,039
+Indiferent care placă o considerăm,
+sarcina este egală cu σ ori A.
+
+252
+00:17:13,039 --> 00:17:15,049
+Acesta este definiţia 
+lui σ, nu ?
+
+253
+00:17:15,049 --> 00:17:17,060
+Sarcina pe unitate de arie.
+Aceasta este sarcina
+
+254
+00:17:17,060 --> 00:17:22,005
+plăcii, iar diferenţa 
+de potenţial tocmai am calculat-o,
+
+255
+00:17:22,005 --> 00:17:26,003
+σ ori d,
+împărţit la ε0,
+
+256
+00:17:26,003 --> 00:17:29,002
+astfel că ε0 trece la numărător,
+şi obţinem
+
+257
+00:17:29,002 --> 00:17:35,091
+A ori ε0,
+împărţit la d.
+
+258
+00:17:35,091 --> 00:17:38,003
+Observaţi că nu depinde de σ,
+desigur.
+
+259
+00:17:38,003 --> 00:17:42,043
+Capacitatea depinde de geometrie,
+nu are nicio legătură cu
+
+260
+00:17:42,043 --> 00:17:48,025
+cantitatea de sarcină
+de pe condensator.
+
+261
+00:17:48,025 --> 00:17:52,002
+Pot acum afla care este
+energia potenţială electrostatică.
+
+262
+00:17:52,002 --> 00:17:55,047
+Energia potenţială electrostatică
+reprezintă lucrul mecanic
+
+263
+00:17:55,047 --> 00:17:58,009
+necesar asamblării 
+sarcinilor pozitive aici şi
+
+264
+00:17:58,009 --> 00:18:04,000
+a celor negative acolo.
+De asemenea, o putem considera ca fiind
+
+265
+00:18:04,000 --> 00:18:07,051
+energia necesară 
+pentru crearea acestui câmp electric.
+
+266
+00:18:07,051 --> 00:18:12,067
+Aceeaşi întrebare.
+Lucrul mecanic ce trebuie efectuat
+
+267
+00:18:12,067 --> 00:18:16,046
+pentru asamblarea sarcinilor
+este egal cu sarcina unei singure plăci ori
+
+268
+00:18:16,046 --> 00:18:21,066
+diferenţa de potenţial ori 1/2, 
+sau, echivalent,
+
+269
+00:18:21,066 --> 00:18:29,007
+1/2 ori CV^2. 
+Cu cât este egal 1/2 QV ?
+
+270
+00:18:29,007 --> 00:18:33,062
+Să considerăm prima dată această relaţie,
+avem 1/2,
+
+271
+00:18:33,062 --> 00:18:39,022
+Q este egal cu σ ori A,
+diferenţa de potenţial V,
+
+272
+00:18:39,022 --> 00:18:44,071
+am calculat-o aici,
+σ ori d împărţit la ε0,
+
+273
+00:18:44,071 --> 00:18:49,000
+acesta fiind rezultatul 
+obţinut din prima
+
+274
+00:18:49,000 --> 00:18:53,003
+relaţie. Rezultatul 
+obţinut din a doua relaţie trebuie
+
+275
+00:18:53,003 --> 00:18:56,063
+să fie, evident, identic.
+Să verificăm acest lucru.
+
+276
+00:18:56,063 --> 00:19:02,049
+Aceste este C-ul, 
+A ori ε0 împărţit la d,
+
+277
+00:19:02,049 --> 00:19:07,003
+totul înmulţit cu 
+diferenţa de potenţial la pătrat,
+
+278
+00:19:07,003 --> 00:19:11,006
+şi obţin σ^2, 
+d^2,
+
+279
+00:19:11,006 --> 00:19:15,002
+şi ε0^2, 
+cele două relaţii ar trebui să fie
+
+280
+00:19:15,002 --> 00:19:19,004
+identice. 
+Am σ de două ori aici,
+
+281
+00:19:19,004 --> 00:19:23,004
+sigma la pătrat aici,
+d^2 împărţit la d,
+
+282
+00:19:23,004 --> 00:19:26,001
+rămâne doar un singur d, 
+un ε0^2
+
+283
+00:19:26,001 --> 00:19:28,000
+aici,
+şi un ε0 aici,
+
+284
+00:19:28,000 --> 00:19:30,029
+rămâne doar 1 împărţit la ε0,
+cele două relaţii sunt,
+
+285
+00:19:30,029 --> 00:19:36,008
+într-adevăr, identice.
+Aş putea acum întreba unde
+
+286
+00:19:36,008 --> 00:19:40,002
+se află această sarcină ?
+Să considerăm prima dată placa
+
+287
+00:19:40,002 --> 00:19:45,006
+de sus, unde este localizată
+sarcina pe placa superioară ?
+
+288
+00:19:45,006 --> 00:19:47,090
+Unii aţi putea spune, 
+„Păi, probabil că sarcina se află
+
+289
+00:19:47,090 --> 00:19:52,001
+în placă,
+undeva aici.
+
+290
+00:19:52,001 --> 00:19:56,055
+Acest lucru este imposibil.
+Trasez o suprafaţă gaussiană
+
+291
+00:19:56,055 --> 00:20:01,022
+în jurul sarcinii.
+Legea lui Gauss îmi va spune
+
+292
+00:20:01,022 --> 00:20:04,007
+atunci că integrală 
+de suprafaţă închisă din E
+
+293
+00:20:04,007 --> 00:20:08,002
+ori dA nu este zero,
+pentru că avem sarcină în interior,
+
+294
+00:20:08,002 --> 00:20:11,002
+şi dacă avem sarcină în interior,
+integrala de suprafaţă închisă nu
+
+295
+00:20:11,002 --> 00:20:14,000
+este zero, dar ştim deja că
+intensitatea câmpului electric trebuie să fie
+
+296
+00:20:14,000 --> 00:20:18,052
+zero în 
+interiorul conductorului,
+
+297
+00:20:18,052 --> 00:20:21,000
+prin urmare, 
+integrala menţionată trebuie să fie zero.
+
+298
+00:20:21,000 --> 00:20:23,033
+Prin urmare, 
+nu poate exista sarcină în acea locaţie.
+
+299
+00:20:23,033 --> 00:20:26,055
+Un simplu argument.
+Unii aţi putea spune,
+
+300
+00:20:26,055 --> 00:20:31,003
+„Poate că o parte din 
+sarcină se regăseşte aici, la suprafaţă.”
+
+301
+00:20:31,003 --> 00:20:34,069
+Nici acest lucru nu este permis
+sub această configuraţie.
+
+302
+00:20:34,069 --> 00:20:40,009
+Dacă iau o astfel de 
+suprafaţă gaussiană,
+
+303
+00:20:40,009 --> 00:20:45,008
+capetele sunt plane.
+Câmpul electric este zero aici,
+
+304
+00:20:45,008 --> 00:20:50,006
+este zero aici,
+prin urmare,
+
+305
+00:20:50,006 --> 00:20:53,009
+integrala de suprafaţă
+închisă trebuie să fie zero pentru că
+
+306
+00:20:53,009 --> 00:20:57,000
+peste tot câmpul electric este zero.
+Dar am presupus existenţa sarcinii în interiorul
+
+307
+00:20:57,000 --> 00:20:59,006
+suprafeţei, 
+iar legea lui Gauss spune că
+
+308
+00:20:59,006 --> 00:21:02,003
+acest câmp electric nu poate fi zero.
+Din moment ce este zero,
+
+309
+00:21:02,003 --> 00:21:04,036
+nu avem sarcină în interior.
+Există, aşadar, doar o singură
+
+310
+00:21:04,036 --> 00:21:08,000
+soluţie, şi anume, 
+întreaga sarcină pozitivă se regăseşte
+
+311
+00:21:08,000 --> 00:21:11,000
+în partea de jos a plăcii,
+iar sarcina negativă
+
+312
+00:21:11,000 --> 00:21:13,049
+aici.
+Aceasta este singura soluţie
+
+313
+00:21:13,049 --> 00:21:19,001
+în cazul de faţă.
+Sarcina nu poate exista altundeva.
+
+314
+00:21:23,049 --> 00:21:28,038
+Nu pot să cred.
+Titirezul încă se roteşte. Uitaţi-vă.
+
+315
+00:21:32,020 --> 00:21:35,055
+Observaţi că titirezul 
+se roteşte încă.
+
+316
+00:21:35,055 --> 00:21:39,002
+Fie este o 
+violare a legii conservării
+
+317
+00:21:39,002 --> 00:21:44,023
+energiei, 
+fie este magie neagră,
+
+318
+00:21:47,004 --> 00:21:50,060
+sau poate, 
+are de-a face cu fizica.
+
+319
+00:21:50,060 --> 00:21:53,007
+Indiferent despre ce fizică ar putea fi vorba,
+mi-ar plăcea
+
+320
+00:21:53,007 --> 00:21:56,032
+să vă gândiţi 
+la acest lucru.
+
+321
+00:22:00,036 --> 00:22:02,053
+Foarte 
+bine.
+
+322
+00:22:04,011 --> 00:22:09,002
+Următorul subiect.
+Vom luat din nou
+
+323
+00:22:09,002 --> 00:22:12,009
+două plăci,
+pentru că vreau să considerăm acum
+
+324
+00:22:12,009 --> 00:22:19,002
+şi dielectrici,
+şi vreau să vorbim în
+
+325
+00:22:19,002 --> 00:22:23,042
+continuare despre
+capacitate.
+
+326
+00:22:23,042 --> 00:22:28,006
+Avem aici 
+un condensator planar.
+
+327
+00:22:28,006 --> 00:22:31,004
+Aici avem 
+o sarcină pozitivă,
+
+328
+00:22:31,004 --> 00:22:35,006
++σ, şi spunem că este
+σ_liber, încă nu există
+
+329
+00:22:35,006 --> 00:22:38,001
+niciun dielectric, 
+dar îl vom introduce mai încolo.
+
+330
+00:22:38,001 --> 00:22:44,001
+Aşadar, σ_liber,
+şi aici -σ_liber,
+
+331
+00:22:44,001 --> 00:22:51,002
+distanţa este d, 
+aria suprafeţei este A.
+
+332
+00:22:51,002 --> 00:22:54,009
+Va fi destul de 
+plictisitor la început,
+
+333
+00:22:54,009 --> 00:22:57,033
+direcţia câmpului electric
+este aceasta
+
+334
+00:22:57,033 --> 00:23:03,003
+şi câmpul electric
+este egal cu σ_liber împărţit la ε0.
+
+335
+00:23:10,000 --> 00:23:15,001
+Încarc condensatorul
+cu ajutorul unei surse de tensiune,
+
+336
+00:23:15,001 --> 00:23:19,003
+şi apoi, iar asta e foarte important,
+deconectez sursa de tensiune.
+
+337
+00:23:19,003 --> 00:23:28,008
+Îndepărtez cablul de alimentare.
+Deconectez aşadar sursa
+
+338
+00:23:28,008 --> 00:23:34,001
+de tensiune.
+Asta înseamnă că
+
+339
+00:23:34,001 --> 00:23:40,000
+această sarcină 
+nu poate părăsi condensatorul,
+
+340
+00:23:40,000 --> 00:23:42,072
+nu se poate modifica,
+indiferent de ceea ce
+
+341
+00:23:42,072 --> 00:23:44,083
+facem.
+Odată sursa de tensiune
+
+342
+00:23:44,083 --> 00:23:50,000
+deconectată, 
+σ_liber nu poate părăsi condensatorul.
+
+343
+00:23:52,004 --> 00:23:54,001
+Voi face
+câteva lucruri acum.
+
+344
+00:23:54,001 --> 00:23:56,004
+Voi modifica
+distanţa dintre plăci,
+
+345
+00:23:56,004 --> 00:24:01,001
+iar apoi, independent,
+voi introduce un dielectric între plăci.
+
+346
+00:24:03,063 --> 00:24:09,000
+Ecuaţiile în care pot avea încredere
+şi pe care le vom
+
+347
+00:24:09,000 --> 00:24:14,004
+folosi, sunt următoarele.
+Sarcina liberă
+
+348
+00:24:14,004 --> 00:24:23,002
+disponibilă, Q_liber,
+este egală cu σ_liber
+
+349
+00:24:23,002 --> 00:24:26,003
+ori aria, A.
+Aceasta este definiţia
+
+350
+00:24:26,003 --> 00:24:30,064
+densităţii superficiale de sarcină.
+Am încredere în această ecuaţie.
+
+351
+00:24:30,064 --> 00:24:38,002
+Câmpul electric dintre
+plăci este egal cu σ_liber împărţit la
+
+352
+00:24:38,002 --> 00:24:41,025
+ε0 
+ori κ (kappa),
+
+353
+00:24:41,025 --> 00:24:46,008
+dacă avem un dielectric.
+Diferenţa de potenţial
+
+354
+00:24:46,008 --> 00:24:53,005
+dintre plăci este egală cu E ori d.
+Dacă ştim E-ul,
+
+355
+00:24:53,005 --> 00:24:55,052
+adică acest E, 
+V-ul este tot timpul E ori d.
+
+356
+00:24:55,052 --> 00:24:59,006
+Tocmai am văzut acest lucru
+în problema precedentă.
+
+357
+00:24:59,006 --> 00:25:05,005
+Capacitatea, C, 
+este egală cu sarcina liberă pe una
+
+358
+00:25:05,005 --> 00:25:10,002
+din plăci, împărţită la 
+diferenţa de potenţial dintre plăci,
+
+359
+00:25:10,002 --> 00:25:14,031
+V este diferenţa de potenţial, 
+adică acest V,
+
+360
+00:25:14,031 --> 00:25:21,049
+iar energia potenţială
+electrostatică este egală cu 1/2
+
+361
+00:25:21,049 --> 00:25:32,003
+ori Q_liber ori V, 
+sau, echivalent, 1/2CV^2.
+
+362
+00:25:33,041 --> 00:25:35,061
+Vom folosi aceste
+ecuaţii în ceea ce
+
+363
+00:25:35,061 --> 00:25:39,007
+urmează.
+Să le vedem,
+
+364
+00:25:39,007 --> 00:25:41,049
+prima este corectă,
+a doua este corectă,
+
+365
+00:25:41,049 --> 00:25:45,002
+a treia este corectă,
+aceea este corectă,
+
+366
+00:25:45,002 --> 00:25:49,002
+şi aceea îmi place.
+Sau am putea scrie
+
+367
+00:25:49,002 --> 00:25:52,052
+pentru capacitate,
+dacă am dori,
+
+368
+00:25:52,052 --> 00:25:57,089
+putem folosi 
+A ori ε0 împărţit la d
+
+369
+00:25:57,089 --> 00:26:05,014
+ori κ.
+Cu sursa de tensiune deconectată,
+
+370
+00:26:05,014 --> 00:26:10,008
+voi mări
+distanţa d dintre plăci.
+
+371
+00:26:14,093 --> 00:26:19,002
+Voi dubla distanţa.
+Prin urmare, d-ul
+
+372
+00:26:19,002 --> 00:26:21,068
+creşte de două ori
+Dar κ rămâne 1.
+
+373
+00:26:21,068 --> 00:26:27,053
+Doar aer.
+Nu avem încă dielectric.
+
+374
+00:26:27,053 --> 00:26:31,001
+Ce se întâmplă 
+cu câmpul electric,
+
+375
+00:26:31,001 --> 00:26:36,030
+E ?
+E nu poate varia,
+
+376
+00:26:36,030 --> 00:26:40,007
+pentru că nici σ_liber nu poate varia,
+κ este egal cu 1 -- practic,
+
+377
+00:26:40,007 --> 00:26:45,004
+nu avem κ -- şi dacă acesta nu poate varia,
+nici acesta nu poate varia.
+
+378
+00:26:45,004 --> 00:26:50,000
+Prin urmare, pe măsură ce măresc
+distanţa dintre plăci, câmpul electric
+
+379
+00:26:50,000 --> 00:26:54,059
+rămâne constant.
+Chiar dacă nu este intuitiv,
+
+380
+00:26:54,059 --> 00:26:58,003
+câmpul electric
+rămâne constant.
+
+381
+00:26:58,003 --> 00:27:00,045
+Ce se întâmplă însă
+cu diferenţa de potenţial
+
+382
+00:27:00,045 --> 00:27:03,094
+dintre plăci ?
+Diferenţa de potenţial trebuie să
+
+383
+00:27:03,094 --> 00:27:07,003
+crească de două ori,
+pentru că, în cazul în care d-ul
+
+384
+00:27:07,003 --> 00:27:10,005
+se dublează,
+şi E-ul nu face nimic,
+
+385
+00:27:10,005 --> 00:27:13,007
+atunci şi V-ul
+trebuie să crească de două ori.
+
+386
+00:27:13,007 --> 00:27:16,095
+V-ul, aşadar,
+creşte de două ori.
+
+387
+00:27:16,095 --> 00:27:20,004
+Am făcut şi o demonstraţie 
+la unul din cursuri,
+
+388
+00:27:20,004 --> 00:27:24,034
+în care am modificat d-ul
+de la 1 mm la 10 mm,
+
+389
+00:27:24,034 --> 00:27:28,004
+iar diferenţa de potenţial
+a crescut de la 1.000 de volţi
+
+390
+00:27:28,004 --> 00:27:30,004
+la 10.000 de volţi.
+V-am arătat asta
+
+391
+00:27:30,004 --> 00:27:34,002
+deja, dacă aţi fost aici. 
+Aşa că, într-adevăr, la creşterea distanţei
+
+392
+00:27:34,002 --> 00:27:37,008
+dintre plăci,
+cu sursa de tensiune deconectată,
+
+393
+00:27:37,008 --> 00:27:41,042
+diferenţa de potenţial
+creşte.
+
+394
+00:27:41,042 --> 00:27:44,004
+Ce se întâmplă cu
+capacitatea ?
+
+395
+00:27:44,004 --> 00:27:48,003
+Capacitatea este egală
+cu Q_liber împărţit la V.
+
+396
+00:27:48,003 --> 00:27:51,002
+Lipseşte un r aici.
+Aceasta nu se modifică.
+
+397
+00:27:51,002 --> 00:27:54,009
+Aceasta creşte de două ori,
+prin urmare, C-ul descreşte
+
+398
+00:27:54,009 --> 00:28:00,033
+de două ori.
+Ce se întâmplă cu
+
+399
+00:28:00,033 --> 00:28:06,007
+energia potenţială electrostatică ?
+Este egală cu 1/2 ori Q_liber
+
+400
+00:28:06,007 --> 00:28:12,005
+ori V, dar Q_liber nu poate varia,
+V-ul a crescut de două ori,
+
+401
+00:28:12,005 --> 00:28:15,004
+prin urmare U
+trebuie să crească de două ori.
+
+402
+00:28:15,004 --> 00:28:19,040
+Ţineţi minte că atunci când am 
+mărit distanţa dintre plăci şi am crescut
+
+403
+00:28:19,040 --> 00:28:23,003
+diferenţa de potenţial,
+v-am spus că efectuez lucru mecanic.
+
+404
+00:28:23,003 --> 00:28:26,009
+U-ul creşte.
+Măresc distanţa dintre plăci,
+
+405
+00:28:26,009 --> 00:28:34,093
+trebuie să efectuez lucru mecanic.
+Foarte bine.
+
+406
+00:28:34,093 --> 00:28:40,000
+Acesta este primul caz,
+în care modificăm distanţa.
+
+407
+00:28:40,000 --> 00:28:45,000
+Revenim acum la d-ul iniţial,
+îl lăsăm aşa cum era,
+
+408
+00:28:45,000 --> 00:28:52,088
+dar îl modificăm pe κ. 
+Introducem aşadar un dielectric.
+
+409
+00:29:06,009 --> 00:29:09,001
+d-ul este acum
+cel iniţial,
+
+410
+00:29:09,001 --> 00:29:15,003
+dar κ devine 3.
+Introduc aşadar un dielectric
+
+411
+00:29:15,003 --> 00:29:20,007
+între cele două plăci.
+σ_liber este fix, dar,
+
+412
+00:29:20,007 --> 00:29:27,004
+ce se întâmplă cu E ?
+Păi, σ_liber este fix.
+
+413
+00:29:27,004 --> 00:29:30,040
+Dacă κ devine 
+brusc 3,
+
+414
+00:29:30,040 --> 00:29:34,005
+câmpul E scade.
+Vă surprinde acest lucru ?
+
+415
+00:29:34,005 --> 00:29:38,004
+Nu, nu ar trebui,
+pentru că după introducerea
+
+416
+00:29:38,004 --> 00:29:42,005
+dielectricului,  această
+densitate superficială de sarcină nu
+
+417
+00:29:42,005 --> 00:29:47,002
+se modifică, dar,
+asupra dielectricului se va induce
+
+418
+00:29:47,002 --> 00:29:51,052
+sarcină negativă aici
+şi sarcină pozitivă aici, datorită
+
+419
+00:29:51,052 --> 00:29:56,001
+acelui câmp electric extern,
+ceea ce conduce la apariţia unui
+
+420
+00:29:56,001 --> 00:30:00,078
+câmp electric indus în această direcţie,
+şi, prin urmare,
+
+421
+00:30:00,078 --> 00:30:02,059
+câmpul electric
+total
+
+422
+00:30:02,059 --> 00:30:05,075
+scade. 
+Prin urmare, în acest caz,
+
+423
+00:30:05,075 --> 00:30:07,074
+câmpul electric
+scade
+
+424
+00:30:07,074 --> 00:30:11,004
+de 3 ori.
+Ce se întâmplă cu diferenţa
+
+425
+00:30:11,004 --> 00:30:15,008
+de potenţial dintre plăci ?
+d-ul nu se modifică,
+
+426
+00:30:15,008 --> 00:30:18,023
+nu ?
+Menţinem d-ul constant acum.
+
+427
+00:30:18,023 --> 00:30:22,057
+Dacă E-ul scade de 3 ori,
+V-ul trebuie să scadă
+
+428
+00:30:22,057 --> 00:30:28,035
+de 3 ori.
+Ce se întâmplă cu
+
+429
+00:30:28,035 --> 00:30:33,000
+capacitatea, C ?
+Capacitatea este egală cu sarcina
+
+430
+00:30:33,000 --> 00:30:36,006
+liberă împărţită 
+la diferenţa de potenţial.
+
+431
+00:30:36,006 --> 00:30:39,000
+Sarcina liberă nu se modifică,
+este fixă.
+
+432
+00:30:39,000 --> 00:30:41,012
+Diferenţa de potenţial
+scade de
+
+433
+00:30:41,012 --> 00:30:43,092
+3 ori,
+capacitatea creşte de
+
+434
+00:30:43,092 --> 00:30:48,002
+3 ori.
+Ce se întâmplă însă cu
+
+435
+00:30:48,002 --> 00:30:55,009
+energia potenţială electrostatică ?
+Aceasta este egală cu 1/2 Q V.
+
+436
+00:30:55,009 --> 00:31:00,080
+Dar Q_liber nu se modifică.
+V descreşte de 3 ori,
+
+437
+00:31:00,080 --> 00:31:02,075
+prin urmare, 
+U descreşte
+
+438
+00:31:02,075 --> 00:31:06,007
+de 3 ori.
+Scăderea energiei potenţiale
+
+439
+00:31:06,007 --> 00:31:10,003
+electrostatice înseamnă că,
+pe măsură ce introduc acest
+
+440
+00:31:10,003 --> 00:31:14,001
+dielectric, 
+efectuez lucru mecanic negativ.
+
+441
+00:31:14,001 --> 00:31:17,015
+Dacă ar fi trebui să-l forţez înăuntru,
+U ar creşte.
+
+442
+00:31:17,015 --> 00:31:20,001
+Într-un fel, 
+pe măsură ce introduc dielectricul,
+
+443
+00:31:20,001 --> 00:31:22,050
+acesta este tras înăuntru.
+Există o forţă ce-l trage
+
+444
+00:31:22,050 --> 00:31:28,009
+înăuntru.
+Un lucru foarte interesant.
+
+445
+00:31:28,009 --> 00:31:32,000
+Aş vrea ca şi voi, acasă,
+să vă puneţi
+
+446
+00:31:32,000 --> 00:31:37,004
+exact aceleaşi întrebări, literal,
+cu o singură diferenţă.
+
+447
+00:31:37,004 --> 00:31:40,096
+Şi anume,
+păstraţi
+
+448
+00:31:40,096 --> 00:31:46,065
+sursa de tensiune conectată.
+Răspunsurile vor fi
+
+449
+00:31:46,065 --> 00:31:50,070
+foarte diferite.
+Pentru început,
+
+450
+00:31:50,070 --> 00:31:57,000
+dacă sursa de tensiune e conectată,
+şi modificăm d-ul,
+
+451
+00:31:57,000 --> 00:32:02,000
+-- aşadar, sursa de tensiune e conectată
+şi d-ul creşte
+
+452
+00:32:02,000 --> 00:32:05,008
+de două ori --
+sursa de tensiune fiind conectată,
+
+453
+00:32:05,008 --> 00:32:08,000
+există un singur lucru 
+ce nu poate varia niciodată,
+
+454
+00:32:08,000 --> 00:32:10,005
+şi anume, V-ul. 
+Diferenţa de potenţial nu poate
+
+455
+00:32:10,005 --> 00:32:13,002
+varia, 
+întrucât sursa de tensiune este
+
+456
+00:32:13,002 --> 00:32:17,000
+conectată.
+Acum, dacă V-ul nu poate varia,
+
+457
+00:32:17,000 --> 00:32:21,002
+şi dublăm d-ul,
+atunci E-ul
+
+458
+00:32:21,002 --> 00:32:24,073
+trebuie să scadă
+de două ori.
+
+459
+00:32:24,073 --> 00:32:28,000
+Acest rezultat este foarte
+diferit de ceea ce s-a întâmplat înainte,
+
+460
+00:32:28,000 --> 00:32:33,002
+când E-ul rămânea constant.
+Fizica este foarte
+
+461
+00:32:33,002 --> 00:32:35,084
+diferită de data aceasta.
+Adică, fizica este aceeaşi,
+
+462
+00:32:35,084 --> 00:32:38,071
+dar rezultatele 
+sunt foarte diferite.
+
+463
+00:32:38,071 --> 00:32:42,035
+Aş vrea să faceţi acest lucru,
+aveţi tot ceea ce vă trebuie,
+
+464
+00:32:42,035 --> 00:32:44,034
+puteţi folosi cu încredere
+acele ecuaţii,
+
+465
+00:32:44,034 --> 00:32:50,089
+ar trebui să funcţioneze.
+Să revenim la legea lui
+
+466
+00:32:50,089 --> 00:32:57,005
+Ohm şi poate cea a lui Kirchhoff -- 
+prefer să rămân pe
+
+467
+00:32:57,005 --> 00:33:01,022
+tabla din centru,
+convenabil pentru voi,
+
+468
+00:33:01,022 --> 00:33:06,043
+şi convenabil, de asemenea,
+şi pentru mine.
+
+469
+00:33:06,043 --> 00:33:09,050
+O reţea foarte simplă, 
+ţineţi minte asta,
+
+470
+00:33:09,050 --> 00:33:12,074
+la examen, toate 
+problemele sunt foarte uşoare şi
+
+471
+00:33:12,074 --> 00:33:15,007
+fundamentale.
+Nimic complicat.
+
+472
+00:33:15,007 --> 00:33:18,081
+Nu veţi avea timp
+pentru aşa ceva.
+
+473
+00:33:18,081 --> 00:33:21,060
+Vom face acum o problemă 
+în care vom avea valori,
+
+474
+00:33:21,060 --> 00:33:24,000
+dar la examen nu 
+veţi vedea valori,
+
+475
+00:33:24,000 --> 00:33:27,005
+adică, nu veţi primi 
+rezistenţe, ohmi, şi aşa mai departe,
+
+476
+00:33:27,005 --> 00:33:30,038
+pentru că nu veţi
+avea nevoie de calculator.
+
+477
+00:33:30,038 --> 00:33:34,001
+Dar aici, veţi vedea câteva valori.
+Aceasta este o baterie şi
+
+478
+00:33:34,001 --> 00:33:39,000
+această baterie are o tensiune 
+electromotoare egală cu 10 volţi.
+
+479
+00:33:39,000 --> 00:33:43,026
+Acest lucru se dă.
+Plus, minus.
+
+480
+00:33:43,026 --> 00:33:49,003
+Aici, curentul
+se va ramifica în trei ramuri.
+
+481
+00:33:49,003 --> 00:33:55,001
+Pe o ramură avem R1, 
+egală cu 1 Ω,
+
+482
+00:33:55,001 --> 00:34:03,063
+R2, egală cu 2 Ω,
+şi R3 -- să o pun
+
+483
+00:34:03,063 --> 00:34:14,003
+puţin mai jos --
+R3 este egală cu 3 Ω,
+
+484
+00:34:14,003 --> 00:34:23,005
+se unesc aici.
+Iar aici conectăm un rezistor R4,
+
+485
+00:34:23,005 --> 00:34:27,007
+egal cu 4 Ω, 
+cu asta bucla se închide
+
+486
+00:34:27,007 --> 00:34:34,004
+şi ajungem înapoi la baterie.
+Ca să fie şi mai
+
+487
+00:34:34,004 --> 00:34:37,006
+interesant, 
+voi introduce în această
+
+488
+00:34:37,006 --> 00:34:41,003
+baterie o rezistenţă internă
+foarte mică,
+
+489
+00:34:41,003 --> 00:34:46,000
+egală cu 0,1 Ω.
+Nu o putem îndepărta,
+
+490
+00:34:46,000 --> 00:34:51,000
+face parte
+din această baterie.
+
+491
+00:34:51,000 --> 00:34:54,004
+Prima întrebare 
+în acest caz este,
+
+492
+00:34:54,004 --> 00:34:57,043
+care este curentul
+total prin circuit ?
+
+493
+00:34:57,043 --> 00:35:01,001
+Avem
+un curent I aici.
+
+494
+00:35:01,001 --> 00:35:06,002
+Aici avem curentul I1,
+pe aici I2,
+
+495
+00:35:06,002 --> 00:35:11,000
+pe aici I3, 
+I iese pe aici,
+
+496
+00:35:11,000 --> 00:35:13,029
+vine pe aici,
+prin R4,
+
+497
+00:35:13,029 --> 00:35:18,002
+şi se întoarce
+la baterie.
+
+498
+00:35:18,002 --> 00:35:22,075
+Dar care este valoarea lui I ?
+Într-o astfel de problemă,
+
+499
+00:35:22,075 --> 00:35:25,006
+există multe
+căi spre succes.
+
+500
+00:35:25,006 --> 00:35:28,071
+Nu doar una singură.
+O puteţi alege
+
+501
+00:35:28,071 --> 00:35:34,003
+pe cea care vă place. 
+Dacă notez acest punct cu A şi
+
+502
+00:35:34,003 --> 00:35:39,059
+acest punct cu D, 
+atunci,
+
+503
+00:35:39,059 --> 00:35:44,090
+îmi pot pune întrebarea,
+acesta este punctul A,
+
+504
+00:35:44,090 --> 00:35:50,033
+iar acesta D,
+ce rezistor -- în carte
+
+505
+00:35:50,033 --> 00:35:55,000
+îi spune rezistor echivalent, 
+sau rezistenţă
+
+506
+00:35:55,000 --> 00:35:57,007
+echivalentă --
+ce rezistor aş putea insera
+
+507
+00:35:57,007 --> 00:36:02,001
+aici, în locul celor trei,
+astfel încât curentul I să fie  exact
+
+508
+00:36:02,001 --> 00:36:06,000
+acelaşi cu cel de acum ?
+Voi înlocui cei trei
+
+509
+00:36:06,000 --> 00:36:10,007
+rezistori cu unul singur,
+adică acest rezistor
+
+510
+00:36:10,007 --> 00:36:14,006
+imaginar.
+După cum aţi observat
+
+511
+00:36:14,006 --> 00:36:20,084
+în carte, sunt sigur că aţi citit-o, 
+1 împărţit la R echivalent este egal cu
+
+512
+00:36:20,084 --> 00:36:28,046
+1/R1 plus 1/R2
+plus 1/R3.
+
+513
+00:36:28,046 --> 00:36:31,005
+Cunoaştem toate valorile de aici,
+şi găsim că R
+
+514
+00:36:31,005 --> 00:36:36,051
+echivalent
+este egal cu 0,55 Ω.
+
+515
+00:36:36,051 --> 00:36:40,001
+Verificaţi asta acasă,
+sper că nu am greşit
+
+516
+00:36:40,001 --> 00:36:44,044
+rezultatul. 
+Observaţi că acest rezistor,
+
+517
+00:36:44,044 --> 00:36:47,063
+această rezistenţă echivalentă
+este mai mică decât cea mai mică
+
+518
+00:36:47,063 --> 00:36:50,046
+dintre cele trei, adică 1 Ω.
+Acest lucru este evident.
+
+519
+00:36:50,046 --> 00:36:54,007
+Trebuie să fie aşa. Gândiţi-vă 
+la aceste ramuri ca la nişte tuburi de apă.
+
+520
+00:36:54,007 --> 00:36:56,005
+Avem curgere de apă prin asta,
+prin asta,
+
+521
+00:36:56,005 --> 00:36:58,003
+şi
+prin asta.
+
+522
+00:36:58,003 --> 00:37:00,008
+Dacă le îndepărtăm pe acestea două,
+apa va curge doar
+
+523
+00:37:00,008 --> 00:37:04,000
+prin aceasta.
+Dacă adăugăm aceste două tuburi,
+
+524
+00:37:04,000 --> 00:37:06,009
+cantitatea de apă care va curge va fi 
+mai mare, prin urmare,
+
+525
+00:37:06,009 --> 00:37:10,003
+rezistenţa echivalentă descreşte.
+Acelaşi lucru şi în cazul electricităţii.
+
+526
+00:37:10,003 --> 00:37:13,007
+Rezistenţa echivalentă 
+a rezistorilor paraleli, aşadar, este tot timpul
+
+527
+00:37:13,007 --> 00:37:19,007
+mai mică decât cea mai mică dintre ele.
+Curentul I este foarte uşor acum
+
+528
+00:37:19,007 --> 00:37:22,070
+de calculat.
+Aplicăm legea lui Ohm.
+
+529
+00:37:22,070 --> 00:37:26,009
+Legea lui Ohm spune că
+diferenţa de potenţial
+
+530
+00:37:26,009 --> 00:37:28,005
+disponibilă la 
+bornele bateriei,
+
+531
+00:37:28,005 --> 00:37:31,067
+adică E (10 volţi),
+este egală cu valoarea curentului,
+
+532
+00:37:31,067 --> 00:37:36,005
+curentul total ori valoarea
+tuturor rezistenţelor conectate la borne.
+
+533
+00:37:36,005 --> 00:37:42,090
+Parcurg bucla o dată,
+am aici R echivalent,
+
+534
+00:37:42,090 --> 00:37:46,004
+apoi R4,
+pentru că şi R4 este parcurs
+
+535
+00:37:46,004 --> 00:37:49,005
+de curentul total,
+şi apoi avem această
+
+536
+00:37:49,005 --> 00:37:53,005
+rezistenţă internă.
+Nu influenţează foarte mult
+
+537
+00:37:53,005 --> 00:37:57,089
+rezultatul, dar este acolo.
+Putem acum afla
+
+538
+00:37:57,089 --> 00:37:59,064
+I-ul,
+pentru că ştim deja
+
+539
+00:37:59,064 --> 00:38:02,001
+toate celelalte valori, 
+şi găsim că I-ul,
+
+540
+00:38:02,001 --> 00:38:08,010
+asta vroiam să aflăm,
+este egal cu  2,15 amperi.
+
+541
+00:38:08,010 --> 00:38:15,033
+2,15 amperi.
+Ştim acum I-ul.
+
+542
+00:38:15,033 --> 00:38:17,060
+E asta singura variantă ? 
+Nu.
+
+543
+00:38:17,060 --> 00:38:20,002
+Dar este o variantă, 
+una foarte eficientă.
+
+544
+00:38:20,002 --> 00:38:24,045
+Vrem acum să aflăm
+I1, I2 şi I3.
+
+545
+00:38:30,028 --> 00:38:34,003
+Dacă ştim
+diferenţa de potenţial între A şi D,
+
+546
+00:38:34,003 --> 00:38:39,041
+VA minus VD, 
+aceasta trebuie să fie egală,
+
+547
+00:38:39,041 --> 00:38:42,002
+conform legii lui Ohm,
+cu I1 ori R1.
+
+548
+00:38:42,002 --> 00:38:47,005
+Dacă urmez acest traseu.
+Dar, din moment ce avem de-a face cu
+
+549
+00:38:47,005 --> 00:38:50,005
+forţe conservative,
+pot urma şi acest
+
+550
+00:38:50,005 --> 00:38:53,002
+traseu, traseul nu contează,
+trebuie să obţin aceeaşi diferenţă
+
+551
+00:38:53,002 --> 00:38:59,002
+de potenţial. 
+Aşadar, este egală şi cu I2 ori R2,
+
+552
+00:38:59,002 --> 00:39:06,036
+şi trebuie să fie 
+egală şi cu I3 ori R3.
+
+553
+00:39:06,036 --> 00:39:10,002
+Dacă aş putea afla I2, 
+atunci, desigur,
+
+554
+00:39:10,002 --> 00:39:12,003
+aş afla şi
+diferenţa de potenţial,
+
+555
+00:39:12,003 --> 00:39:15,076
+iar de acolo
+I1 şi I3.
+
+556
+00:39:17,079 --> 00:39:22,008
+Putem aplica 
+legea lui Kirchhoff pentru tensiuni
+
+557
+00:39:22,008 --> 00:39:24,081
+pentru aflarea lui I2.
+Aş putea determina curentul I1,
+
+558
+00:39:24,081 --> 00:39:30,004
+dar am ales I2.
+Legea lui Kirchhoff pentru tensiuni spune
+
+559
+00:39:30,004 --> 00:39:36,001
+că integrală liniară închisă 
+din E ori dl, aceasta
+
+560
+00:39:36,001 --> 00:39:44,086
+este o buclă închisă,
+este egală cu zero.
+
+561
+00:39:44,086 --> 00:39:46,050
+În viitor 
+veţi vedea cazuri în care
+
+562
+00:39:46,050 --> 00:39:49,063
+nu este zero.
+Aici însă, e zero.
+
+563
+00:39:49,063 --> 00:39:53,000
+Nu ştiu de ce Kirchhoff 
+a primit credit pentru această relaţie,
+
+564
+00:39:53,000 --> 00:39:55,001
+era cunoscută cu mult timp înaintea lui,
+dar, cu toate acestea, este
+
+565
+00:39:55,001 --> 00:39:57,056
+cunoscută sub numele de 
+legea lui Kirchhoff  pentru tensiuni.
+
+566
+00:39:57,056 --> 00:40:00,003
+Trebuie să aleg o buclă închisă,
+şi vom alege
+
+567
+00:40:00,003 --> 00:40:06,049
+această buclă închisă.
+Integrala acestei bucle închise din E
+
+568
+00:40:06,049 --> 00:40:09,002
+ori dl trebuie să fie zero.
+Pentru oricare altă buclă
+
+569
+00:40:09,002 --> 00:40:12,082
+ar fi tot zero.
+Am ales bucla prin R2,
+
+570
+00:40:12,082 --> 00:40:15,043
+pentru că vreau să
+aflu curentul I2.
+
+571
+00:40:15,043 --> 00:40:17,075
+Odată aflat I2,
+putem afla I1 şi I3
+
+572
+00:40:17,075 --> 00:40:25,016
+direct din această relaţie.
+Am decis pur aleator
+
+573
+00:40:25,016 --> 00:40:28,006
+ca atunci când
+trecem de la un potenţial mai mare,
+
+574
+00:40:28,006 --> 00:40:32,059
+la un potenţial mai mic,
+expresia va fi cu minus,
+
+575
+00:40:32,059 --> 00:40:35,097
+iar dacă potenţialul creşte,
+expresia va fi cu plus.
+
+576
+00:40:35,097 --> 00:40:38,099
+Putem inversa această convenţie.
+Nu are nicio importanţă,
+
+577
+00:40:38,099 --> 00:40:41,021
+pentru că 
+suma lor va fi zero
+
+578
+00:40:41,021 --> 00:40:45,002
+oricum.
+Rămânem la această
+
+579
+00:40:45,002 --> 00:40:49,002
+convenţie deocamdată, 
+şi anume, dacă potenţialul scade,
+
+580
+00:40:49,002 --> 00:40:53,007
+va primi un semn negativ,
+iar în cazul în care potenţialul creşte,
+
+581
+00:40:53,007 --> 00:40:57,045
+un semn pozitiv.
+Parcurg prima dată
+
+582
+00:40:57,045 --> 00:41:01,031
+drumul de la A la D
+prin R2.
+
+583
+00:41:01,031 --> 00:41:05,006
+Curentul este I2. 
+Rezistenţa este R2.
+
+584
+00:41:05,006 --> 00:41:09,002
+Iar potenţialul scade. 
+Aşadar, primul termen este minus
+
+585
+00:41:09,002 --> 00:41:13,070
+I2 ori R2. 
+Ne aflăm acum în D.
+
+586
+00:41:13,070 --> 00:41:15,069
+Am plecat din A,
+am ajuns în D.
+
+587
+00:41:15,069 --> 00:41:20,006
+Am trecut prin R2.
+Ajung aici şi trec prin R4.
+
+588
+00:41:20,006 --> 00:41:25,012
+Potenţialul scade.
+Curentul prin R4 este I.
+
+589
+00:41:25,012 --> 00:41:28,001
+Obţin aşadar
+minus I ori R4.
+
+590
+00:41:28,001 --> 00:41:32,002
+Continui în sus, 
+şi dau de această baterie,
+
+591
+00:41:32,002 --> 00:41:34,007
+prin urmare, 
+potenţialul creşte.
+
+592
+00:41:34,007 --> 00:41:39,003
+Cu cât creşte potenţialul ?
+Cu tensiunea electromotoare a bateriei.
+
+593
+00:41:39,003 --> 00:41:43,005
+Dar acea rezistenţă 
+internă minusculă scade puţin
+
+594
+00:41:43,005 --> 00:41:46,008
+din potenţial.
+Aşadar, avem un alt minus
+
+595
+00:41:46,008 --> 00:41:49,033
+I ori r intern.
+Toată această sumă
+
+596
+00:41:49,033 --> 00:41:53,007
+este egală cu zero.
+Iar această ecuaţie este o ecuaţie
+
+597
+00:41:53,007 --> 00:41:55,006
+cu doar o singură necunoscută,
+şi anume, I2,
+
+598
+00:41:55,006 --> 00:41:58,001
+pentru că I-ul îl cunoaştem deja.
+I-ul este egal cu 2,15
+
+599
+00:41:58,001 --> 00:42:01,004
+amperi.
+Dacă rezolvăm ecuaţia,
+
+600
+00:42:01,004 --> 00:42:06,059
+I2 va fi egal cu
+0,6 amperi.
+
+601
+00:42:09,002 --> 00:42:13,004
+Vom afla, aşadar, că VA minus VD, 
+diferenţa de
+
+602
+00:42:13,004 --> 00:42:20,002
+potenţial, egală cu I2 ori R2,
+va fi egală cu
+
+603
+00:42:20,002 --> 00:42:25,001
+1,2 volţi. 
+Pentru că I2 este 0,6
+
+604
+00:42:25,001 --> 00:42:30,036
+amperi, 
+iar R2 este egală cu 2 Ω.
+
+605
+00:42:30,036 --> 00:42:33,001
+1,2 volţi, prin urmare.
+Dar I1 ori R1 este de asemenea
+
+606
+00:42:33,001 --> 00:42:36,003
+egal cu 1,2 volţi,
+şi la fel I3 ori R3.
+
+607
+00:42:36,003 --> 00:42:39,044
+Putem afla, aşadar, 
+I1 şi I3.
+
+608
+00:42:42,024 --> 00:42:46,003
+Care este puterea
+generată de această baterie ?
+
+609
+00:42:46,003 --> 00:42:50,039
+Este tensiunea electromotoare
+ori curentul total, I.
+
+610
+00:42:50,039 --> 00:42:53,006
+Ştim tensiunea electromotoare,
+10 volţi.
+
+611
+00:42:53,006 --> 00:42:57,003
+Iar curentul total
+este egal cu 2,15 amperi.
+
+612
+00:42:57,003 --> 00:43:00,028
+Puterea este
+aşadar egală cu 21,5 waţi.
+
+613
+00:43:00,028 --> 00:43:03,003
+Cum este consumată
+această energie ?
+
+614
+00:43:03,003 --> 00:43:06,000
+Este consumată
+sub formă de căldură.
+
+615
+00:43:06,000 --> 00:43:08,005
+Căldură pe R4,
+căldură pe R1,
+
+616
+00:43:08,005 --> 00:43:10,001
+R2 şi R3, 
+şi o cantitate
+
+617
+00:43:10,001 --> 00:43:13,009
+extrem de mică de căldură 
+disipată în interiorul bateriei, datorită
+
+618
+00:43:13,009 --> 00:43:17,053
+acelei rezistenţe 
+interne de 0,1 Ω.
+
+619
+00:43:17,053 --> 00:43:24,001
+Câtă putere consumă
+rezistorul R2 ?
+
+620
+00:43:24,001 --> 00:43:26,001
+Puterea este egală 
+cu diferenţa
+
+621
+00:43:26,001 --> 00:43:33,086
+de potenţial la bornele lui R2,
+egală cu VA minus VD,
+
+622
+00:43:33,086 --> 00:43:38,000
+ori curentul prin R2.
+Aceasta este puterea,
+
+623
+00:43:38,000 --> 00:43:41,001
+puterea este egală cu 
+diferenţa de potenţial ori curentul.
+
+624
+00:43:41,001 --> 00:43:44,001
+Aceasta este puterea totală
+generată de baterie,
+
+625
+00:43:44,001 --> 00:43:46,004
+şi anume, diferenţa 
+de potenţial totală ori
+
+626
+00:43:46,004 --> 00:43:48,032
+curentul total. 
+Dar, desigur,
+
+627
+00:43:48,032 --> 00:43:52,005
+R2-ul vede o 
+diferenţă de potenţial de doar
+
+628
+00:43:52,005 --> 00:43:57,005
+1,2 volţi, 
+iar curentul I2 este de doar 0,6
+
+629
+00:43:57,005 --> 00:44:04,001
+amperi, 
+ceea ce înseamnă doar 0,72 waţi.
+
+630
+00:44:04,001 --> 00:44:08,025
+Acesta este numărul de jouli
+pe secundă, sub formă de căldură
+
+631
+00:44:08,025 --> 00:44:11,031
+generată
+de rezistorul R2.
+
+632
+00:44:16,003 --> 00:44:19,030
+Titirezul nostru
+încă se roteşte.
+
+633
+00:44:19,030 --> 00:44:22,001
+Vă dau un indiciu, şi anume,
+răspunsul are legătură cu acest curs
+
+634
+00:44:22,001 --> 00:44:24,074
+de electricitate şi magnetism.
+Gândiţi-vă puţin la el,
+
+635
+00:44:24,074 --> 00:44:31,047
+e un titirez foarte drăguţ.
+Să vorbim puţin despre
+
+636
+00:44:31,047 --> 00:44:38,004
+creşterea energiei cinetice 
+datorită sarcinilor ce se deplasează
+
+637
+00:44:38,004 --> 00:44:45,036
+peste o diferenţă de potenţial.
+Am doi conductori,
+
+638
+00:44:45,036 --> 00:44:52,003
+cu o formă foarte ciudată,
+dar sunt suprafeţe echipotenţiale,
+
+639
+00:44:52,003 --> 00:44:56,047
+nu există curent
+în interiorul conductorilor.
+
+640
+00:44:56,047 --> 00:45:01,003
+Conductorul A 
+se află la potenţialul VA,
+
+641
+00:45:01,003 --> 00:45:06,004
+acesta este conductorul A,
+potenţial egal cu VA,
+
+642
+00:45:06,004 --> 00:45:11,009
+iar aici conductorul B,
+cu potenţialul VB,
+
+643
+00:45:11,009 --> 00:45:15,000
+şi să presupunem că 
+VA este mai mare decât VB.
+
+644
+00:45:15,000 --> 00:45:17,002
+Dacă vrem să schimbăm
+asta mai încolo, nu e nicio problemă.
+
+645
+00:45:17,002 --> 00:45:20,073
+Amplasăm totul în vid,
+pentru că voi da
+
+646
+00:45:20,073 --> 00:45:28,005
+drumul unei sarcini aici, +Q,
+iar sarcina se va deplasa spre B.
+
+647
+00:45:28,005 --> 00:45:30,036
+Câmpul electric
+are o configuraţie complicată.
+
+648
+00:45:30,036 --> 00:45:33,003
+Nici nu vreau 
+să mă gândesc măcar la asta.
+
+649
+00:45:33,003 --> 00:45:36,000
+Mai repede sau mai târziu, 
+dacă acesta este vid,
+
+650
+00:45:36,000 --> 00:45:39,000
+atunci această sarcină
+va ajunge pe conductorul B.
+
+651
+00:45:39,000 --> 00:45:41,035
+Să presupunem 
+că urmează acest traseu.
+
+652
+00:45:41,035 --> 00:45:44,003
+Ajunge într-un final pe B.
+Întrebarea acum este,
+
+653
+00:45:44,003 --> 00:45:49,000
+care este viteza cu care ajunge
+pe B dacă îi dau drumul aici
+
+654
+00:45:49,000 --> 00:45:56,005
+cu viteză iniţială zero ? 
+Câmpul electric va efectua
+
+655
+00:45:56,005 --> 00:46:00,004
+lucru mecanic asupra
+acestei sarcini,
+
+656
+00:46:00,004 --> 00:46:04,002
+iar lucrul mecanic efectuat
+pentru parcurgerea distanţei A - B,
+
+657
+00:46:04,002 --> 00:46:10,000
+este egal cu integrală de la A la B
+din forţa ori dl.
+
+658
+00:46:10,000 --> 00:46:14,027
+Aceasta este 
+forţa electrică asupra sarcinii.
+
+659
+00:46:14,027 --> 00:46:17,045
+Din moment ce este un câmp conservativ,
+nu contează drumul pe care-l
+
+660
+00:46:17,045 --> 00:46:21,050
+urmăm, 
+răspunsul final va fi tot timpul acelaşi.
+
+661
+00:46:21,050 --> 00:46:28,006
+Această forţa electrică este egală cu
+sarcina ori câmpul electric,
+
+662
+00:46:28,006 --> 00:46:33,002
+în oricare punct 
+din lungul liniei.
+
+663
+00:46:33,002 --> 00:46:37,001
+Vedeţi, aşadar,
+că obţinem aici un Q ori E ori dl.
+
+664
+00:46:37,001 --> 00:46:40,009
+Dar integrală din E ori dl
+este egală cu diferenţa de potenţial dintre
+
+665
+00:46:40,009 --> 00:46:43,074
+cei doi conductori.
+Obţine prin urmare că
+
+666
+00:46:43,074 --> 00:46:46,044
+lucrul mecanic efectuat
+de câmpurile electrice,
+
+667
+00:46:46,044 --> 00:46:51,009
+atunci când sarcina ajunge aici,
+este egal cu sarcina
+
+668
+00:46:51,009 --> 00:46:56,005
+Q ori diferenţa 
+de potenţial VA minus VB,
+
+669
+00:46:56,005 --> 00:47:03,005
+indiferent 
+de drumul urmat.
+
+670
+00:47:03,005 --> 00:47:08,002
+Să luăm un caz practic.
+Avem un proton cu o
+
+671
+00:47:08,002 --> 00:47:11,062
+masă egală cu  
+1,7 ori 10^ -27
+
+672
+00:47:11,062 --> 00:47:15,002
+kilograme. 
+Sarcina protonului
+
+673
+00:47:15,002 --> 00:47:18,003
+este egală cu cea a electronului,
+dar este pozitivă,
+
+674
+00:47:18,003 --> 00:47:21,078
+1,6 ori 10^-19 
+coulombi.
+
+675
+00:47:21,078 --> 00:47:24,045
+Şi să presupunem că
+diferenţa de potenţial dintre A
+
+676
+00:47:24,045 --> 00:47:29,042
+şi B, aceasta reprezintă acum diferenţa 
+de potenţial, este de un milion de volţi.
+
+677
+00:47:29,042 --> 00:47:32,003
+Pun un delta aici, 
+pentru că nu vreau V-uri în ambele
+
+678
+00:47:32,003 --> 00:47:34,033
+părţi. 
+Dar aceasta reprezintă diferenţa VA
+
+679
+00:47:34,033 --> 00:47:39,001
+minus VB. 
+Care este energia
+
+680
+00:47:39,001 --> 00:47:44,086
+cinetică a protonului
+când ajunge pe conductorul B ?
+
+681
+00:47:44,086 --> 00:47:47,050
+Energia cinetică 
+trebuie să fie egală cu Q ori diferenţa
+
+682
+00:47:47,050 --> 00:47:54,089
+de potenţial, 
+adică 1,6 ori 10^-19
+
+683
+00:47:54,089 --> 00:48:03,004
+ori 10^6, 
+adică 1,6 ori 10^-13 jouli.
+
+684
+00:48:03,004 --> 00:48:08,070
+Dar niciun fizician 
+nu va spune 1,6 ori 10^-13 jouli,
+
+685
+00:48:08,070 --> 00:48:10,094
+ci, ar spune că
+energia cinetică a acelui
+
+686
+00:48:10,094 --> 00:48:15,001
+proton este de 1 MeV,
+1 milion de electron-volţi.
+
+687
+00:48:15,001 --> 00:48:20,002
+Motivul este că
+un electron-volt reprezintă
+
+688
+00:48:20,002 --> 00:48:25,001
+energia câştigată de un electron
+pe măsură ce se deplasează peste o diferenţă
+
+689
+00:48:25,001 --> 00:48:28,003
+de potenţial de 1 volt.
+Aceasta este definiţia unui
+
+690
+00:48:28,003 --> 00:48:30,071
+electron-volt.
+Şi, datorită faptului că sarcina unui proton
+
+691
+00:48:30,071 --> 00:48:33,005
+este egală cu cea a unui electron,
+şi se deplasează pe
+
+692
+00:48:33,005 --> 00:48:36,078
+o distanţă de 1 milion de volţi,
+energia acestuia este de un
+
+693
+00:48:36,078 --> 00:48:40,003
+milion de electron-volţi.
+Aceasta nu este o unitate SI,
+
+694
+00:48:40,003 --> 00:48:42,006
+fiţi atenţi.
+Dacă lucraţi cu unităţi SI,
+
+695
+00:48:42,006 --> 00:48:44,072
+trebuie să folosiţi acest număr.
+Dar spunem că energia cinetică
+
+696
+00:48:44,072 --> 00:48:49,004
+a acestui proton este de
+1 MeV, 1 milion de electron-
+
+697
+00:48:49,004 --> 00:48:55,081
+-volţi.
+Care este viteza finală, atunci ?
+
+698
+00:48:55,081 --> 00:49:04,004
+1/2mV^2 este egal cu acest număr,
+aceasta este masa
+
+699
+00:49:04,004 --> 00:49:07,034
+protonului,
+aceasta este viteza cu care protonul
+
+700
+00:49:07,034 --> 00:49:13,010
+ajunge în punctul B.
+După înlocuirea valorilor,
+
+701
+00:49:13,010 --> 00:49:18,002
+găsim că viteza
+acestui proton este de
+
+702
+00:49:18,002 --> 00:49:24,000
+aproximativ 
+1,4 ori 10^7 metri pe secundă,
+
+703
+00:49:24,000 --> 00:49:27,005
+adică aproximativ
+5% din viteza luminii.
+
+704
+00:49:27,005 --> 00:49:29,005
+Cu alte cuvinte, 
+nu trebuie să facem
+
+705
+00:49:29,005 --> 00:49:36,003
+ajustări relativiste. 
+Acest rezultat este plauzibil.
+
+706
+00:49:36,003 --> 00:49:39,001
+Câţiva studenţi
+mi-aţi trimis e-mail,
+
+707
+00:49:39,001 --> 00:49:43,044
+şi mi-aţi cerut
+modele de examen.
+
+708
+00:49:43,044 --> 00:49:47,000
+Şi eu sunt surprins, ca şi voi,
+că profesorii anteriori
+
+709
+00:49:47,000 --> 00:49:50,003
+ai cursului de electricitate şi magnetism
+nu le-au afişat pe internet,
+
+710
+00:49:50,003 --> 00:49:52,006
+pe site-ul lor,
+n-au afişat examenele.
+
+711
+00:49:52,006 --> 00:49:53,086
+Nu au făcut acest lucru.
+Speram să o fi făcut,
+
+712
+00:49:53,086 --> 00:49:55,067
+dar nu au făcut-o.
+Profesorul Belcher,
+
+713
+00:49:55,067 --> 00:49:58,061
+totuşi, mi-a atras atenţia
+asupra unui anumit model de examen,
+
+714
+00:49:58,061 --> 00:50:01,053
+iar dacă intraţi pe site-ul cursului,
+veţi găsi
+
+715
+00:50:01,053 --> 00:50:04,004
+acest model de examen,
+dar nu şi soluţiile
+
+716
+00:50:04,004 --> 00:50:08,002
+la întrebări.
+Puteţi discuta acest model
+
+717
+00:50:08,002 --> 00:50:11,004
+cu instructorii voştri
+la seminar,
+
+718
+00:50:11,004 --> 00:50:13,007
+Sunt şi eu disponibil
+dacă vreţi să discutaţi cu mine,
+
+719
+00:50:13,007 --> 00:50:16,001
+nu am nicio problemă cu asta.
+E cam greu pentru mine
+
+720
+00:50:16,001 --> 00:50:19,007
+să ajut 600 de studenţi, 
+dar pot ajuta câţiva.
+
+721
+00:50:19,007 --> 00:50:22,000
+Sfatul meu este 
+să consultaţi îndrumătorul de curs dacă
+
+722
+00:50:22,000 --> 00:50:25,004
+vreţi să exersaţi materialul,
+şi să rezolvaţi o parte din problemele
+
+723
+00:50:25,004 --> 00:50:28,070
+pentru care există şi soluţii.
+Vă doresc mult succes,
+
+724
+00:50:28,070 --> 00:50:31,014
+şi ne vedem
+vinerea viitoare.
+
+725
+00:50:31,014 --> 00:50:37,014
+subtitrarea în limba română pentru 
+www.circuiteelectrice.ro

@@ -1,0 +1,3708 @@
+﻿1
+00:00:08,67 --> 00:00:12,81
+Astăzi nu avem concepte noi,
+nu avem idei noi,
+
+2
+00:00:12,81 --> 00:00:16,07
+vă puteţi relaxa puţin.
+Vreau să discut cu voi
+
+3
+00:00:16,07 --> 00:00:22,69
+legătura dintre potenţialul
+electric şi câmpurile electrice.
+
+4
+00:00:22,69 --> 00:00:31,00
+Imaginaţi-vă că avem un
+câmp electric aici şi că am
+
+5
+00:00:31,00 --> 00:00:35,09
+o sarcină Q în buzunar.
+Pornesc din punctul A,
+
+6
+00:00:35,09 --> 00:00:38,74
+mă deplasez pe aici
+şi mă reîntorc în acel
+
+7
+00:00:38,74 --> 00:00:43,67
+punct A.
+Din moment ce aceste forţe sunt
+
+8
+00:00:43,67 --> 00:00:46,72
+forţe conservative,
+în cazul în care câmpul electric este un
+
+9
+00:00:46,72 --> 00:00:50,68
+câmp electric staţionar,
+nu există sarcini electrice în mişcare,
+
+10
+00:00:50,68 --> 00:00:55,85
+altfel ar fi mai complicat,
+atunci forţele sunt
+
+11
+00:00:55,85 --> 00:00:59,51
+forţe conservative iar
+lucrul mecanic ce-l efectuez
+
+12
+00:00:59,51 --> 00:01:03,85
+pe această traiectorie şi înapoi
+în punctul A trebuie să fie zero.
+
+13
+00:01:03,85 --> 00:01:08,09
+Dacă ne uităm la ecuaţia
+numărul 3, este clar că
+
+14
+00:01:08,09 --> 00:01:12,90
+diferenţa de potenţial
+dintre punctul A şi punctul A este
+
+15
+00:01:12,90 --> 00:01:15,53
+evident zero.
+Plec din punctul A şi ajung înapoi
+
+16
+00:01:15,53 --> 00:01:22,00
+în punctul A, iar acest lucru reprezintă
+integrala de la A înapoi
+
+17
+00:01:22,00 --> 00:01:29,12
+în punctul A din E punct dl,
+iar aceasta trebuie să fie zero.
+
+18
+00:01:29,12 --> 00:01:34,64
+Indicăm în mod normal 
+o astfel de integrală cu un cerc,
+
+19
+00:01:34,64 --> 00:01:37,53
+însemnând că poziţia iniţială
+este aceeaşi cu cea finală.
+
+20
+00:01:37,53 --> 00:01:40,76
+Aceasta este acum o linie,
+nu o suprafaţă închisă
+
+21
+00:01:40,76 --> 00:01:46,09
+precum am avut în ecuaţia unu.
+Aceasta este o linie închisă.
+
+22
+00:01:46,09 --> 00:01:51,07
+Ori de câte ori avem de-a face cu
+câmpuri electrice staţionare
+
+23
+00:01:51,07 --> 00:01:54,23
+putem adăuga o nouă ecuaţie,
+dacă dorim,
+
+24
+00:01:54,23 --> 00:02:03,20
+şi anume, dacă avem o integrală
+liniară închisă din E punct dl,
+
+25
+00:02:03,20 --> 00:02:09,19
+adică punctul final este identic cu cel iniţial,
+aceasta trebuie să fie egală cu zero.
+
+26
+00:02:09,19 --> 00:02:11,28
+Vom vedea mai târziu 
+că există situaţii
+
+27
+00:02:11,28 --> 00:02:14,13
+speciale în care nu avem de-a face
+cu câmpuri
+
+28
+00:02:14,13 --> 00:02:17,69
+staţionare, când nu avem
+câmpuri E conservative,
+
+29
+00:02:17,69 --> 00:02:19,77
+că acest lucru
+nu mai este valabil.
+
+30
+00:02:19,77 --> 00:02:24,63
+Dar pentru moment este.
+Dacă ştim aşadar câmpul
+
+31
+00:02:24,63 --> 00:02:29,03
+electric în oricare punct, atunci ştim -- vedeţi
+ecuaţia numărul doi, atunci
+
+32
+00:02:29,03 --> 00:02:32,69
+cunoaştem potenţialul
+în oricare punct.
+
+33
+00:02:32,69 --> 00:02:34,84
+Invers,
+dacă ştim
+
+34
+00:02:34,84 --> 00:02:38,84
+potenţialul în oricare punct,
+şi vrem să aflăm câmpul electric,
+
+35
+00:02:38,84 --> 00:02:41,28
+putem face şi acest lucru.
+Dacă vă uitaţi la ecuaţiile doi şi
+
+36
+00:02:41,28 --> 00:02:46,18
+trei, vedeţi că
+potenţialul este integrală din
+
+37
+00:02:46,18 --> 00:02:50,53
+câmpul electric.
+Câmpul electric trebuie prin urmare
+
+38
+00:02:50,53 --> 00:02:54,15
+să fie derivata
+potenţialului.
+
+39
+00:02:54,15 --> 00:02:58,43
+Atunci când câmpurile sunt
+derivate ale potenţialelor,
+
+40
+00:02:58,43 --> 00:03:02,15
+trebuie să fim tot timpul atenţi
+la semnul ecuaţiei.
+
+41
+00:03:02,15 --> 00:03:06,03
+Dacă trebuie să plătiţi MIT-ului
+27.000 de dolari
+
+42
+00:03:06,03 --> 00:03:09,63
+taxă de şcolarizare pentru a fi aici,
+sau dacă MIT-ul vă plăteşte vouă
+
+43
+00:03:09,63 --> 00:03:12,88
+27.000 de dolari
+pentru a veni aici,
+
+44
+00:03:12,88 --> 00:03:15,96
+este doar o diferenţă de semn,
+dar este o diferenţă uriaşă,
+
+45
+00:03:15,96 --> 00:03:19,78
+desigur.
+Să analizăm această situaţie
+
+46
+00:03:19,78 --> 00:03:25,59
+în detaliu.
+Am aici o sarcină +Q.
+
+47
+00:03:25,59 --> 00:03:32,52
+La distanţa r, în acel punct P,
+cunoaştem
+
+48
+00:03:32,52 --> 00:03:34,69
+câmpul electric,
+l-am calculat deja de
+
+49
+00:03:34,69 --> 00:03:38,78
+zeci de ori.
+Acesta este vectorul unitate pe
+
+50
+00:03:38,78 --> 00:03:41,87
+direcţia de la Q la acel punct,
+şi ştim că direcţia câmpului
+
+51
+00:03:41,87 --> 00:03:46,62
+electric este în exteriorul
+acelei sarcini.
+
+52
+00:03:46,62 --> 00:03:50,31
+Valoarea câmpului electric E,
+după cum am văzut
+
+53
+00:03:50,31 --> 00:03:59,01
+deja în primul curs,
+este Q împărţit la 4piε0r^2
+
+54
+00:03:59,01 --> 00:04:01,93
+în direcţia vectorului
+r căciuliţă.
+
+55
+00:04:01,93 --> 00:04:06,75
+La cursul precedent am determinat
+valoarea potenţialului electric
+
+56
+00:04:06,75 --> 00:04:11,31
+în acel punct.
+Potenţialul electric este Q
+
+57
+00:04:11,31 --> 00:04:16,16
+împărţit la
+4piε0r.
+
+58
+00:04:16,16 --> 00:04:22,43
+Acesta este un vector.
+Acesta este un scalar.
+
+59
+00:04:25,33 --> 00:04:29,26
+Potenţialul este aşadar
+integrală din câmpul electric
+
+60
+00:04:29,26 --> 00:04:35,31
+în lungul unei linii, iar acum vreau
+să scriu câmpul electric
+
+61
+00:04:35,31 --> 00:04:39,82
+ca şi derivata
+potenţialului.
+
+62
+00:04:39,82 --> 00:04:48,12
+Să luăm dV pe dr, 
+şi să vedem ce obţinem.
+
+63
+00:04:48,12 --> 00:04:54,63
+Dacă derivez acest V în funcţie de r,
+obţin -Q împărţit la
+
+64
+00:04:54,63 --> 00:05:00,77
+4piε0r^2.
+
+65
+00:05:00,77 --> 00:05:04,06
+Desigur, dacă vreau să aflu
+câmpul electric,
+
+66
+00:05:04,06 --> 00:05:07,93
+am nevoie de un vector.
+Înmulţesc ambele părţi, lucru perfect
+
+67
+00:05:07,93 --> 00:05:11,38
+legal, nu este nimic ilegal în asta,
+cu vectorul unitate
+
+68
+00:05:11,38 --> 00:05:15,81
+pe direcţia r,
+iar asta îi transformă pe ambii în vectori.
+
+69
+00:05:15,81 --> 00:05:19,17
+Suntem foarte aproape de rezultat,
+acestea sunt aproape identice,
+
+70
+00:05:19,17 --> 00:05:24,57
+cu excepţia unui minus.
+Aşadar, derivata
+
+71
+00:05:24,57 --> 00:05:28,41
+potenţialului este -E,
+nu +E.
+
+72
+00:05:28,41 --> 00:05:30,51
+Voi scrie
+ecuaţia asta aici,
+
+73
+00:05:30,51 --> 00:05:42,74
+că E este egal cu minus dV pe dr.
+Există o relaţie strânsă între cei doi,
+
+74
+00:05:42,74 --> 00:05:48,19
+dacă ştim -- oh, acesta
+trebuie să fie un vector,
+
+75
+00:05:48,19 --> 00:05:51,31
+punem un r căciuliţă aici.
+Vector în partea stângă,
+
+76
+00:05:51,31 --> 00:05:54,41
+trebuie să avem un vector
+şi în partea dreaptă.
+
+77
+00:05:54,41 --> 00:05:57,14
+Prin urmare, dacă ştim
+potenţialul în oricare punct din spaţiu,
+
+78
+00:05:57,14 --> 00:06:03,02
+atunci putem afla
+câmpul electric.
+
+79
+00:06:03,02 --> 00:06:06,94
+Am menţionat data trecută că
+vectorii câmpului electric,
+
+80
+00:06:06,94 --> 00:06:10,54
+că liniile de câmp electric
+sunt tot timpul perpendiculare pe
+
+81
+00:06:10,54 --> 00:06:15,50
+suprafeţele echipotenţiale.
+Este evident de ce acest lucru
+
+82
+00:06:15,50 --> 00:06:19,69
+este adevărat.
+Imaginaţi-vă că sunteţi
+
+83
+00:06:19,69 --> 00:06:25,97
+în spaţiu şi că vă deplasaţi
+cu o sarcină în buzunar,
+
+84
+00:06:25,97 --> 00:06:29,26
+perpendicular 
+pe liniile de câmp electric.
+
+85
+00:06:29,26 --> 00:06:31,95
+Intenţionat vă deplasaţi doar
+perpendicular pe liniile de câmp
+
+86
+00:06:31,95 --> 00:06:35,50
+electric.
+Acest lucru înseamnă că forţa
+
+87
+00:06:35,50 --> 00:06:39,00
+exercitată asupra voastră şi direcţia
+în care vă deplasaţi se află tot timpul
+
+88
+00:06:39,00 --> 00:06:41,52
+la unghiuri de 90 de grade.
+Vă deplasaţi aşadar numai
+
+89
+00:06:41,52 --> 00:06:43,01
+perpendicular 
+pe liniile de câmp.
+
+90
+00:06:43,01 --> 00:06:44,62
+Acestea sunt liniile de câmp,
+vă deplasaţi astfel.
+
+91
+00:06:44,62 --> 00:06:47,25
+Acestea sunt liniile de câmp,
+vă deplasaţi astfel.
+
+92
+00:06:47,25 --> 00:06:50,31
+Nu efectuaţi niciun lucru mecanic.
+Pentru că produsul scalar dintre
+
+93
+00:06:50,31 --> 00:06:55,19
+dl şi E este zero, iar dacă nu efectuaţi
+niciun lucru mecanic, potenţialul
+
+94
+00:06:55,19 --> 00:06:57,68
+rămâne acelaşi,
+aceasta este definiţia.
+
+95
+00:06:57,68 --> 00:07:00,87
+Vedeţi aşadar că
+suprafeţele echipotenţiale
+
+96
+00:07:00,87 --> 00:07:05,50
+trebuie să fie tot timpul perpendiculare
+pe liniile de câmp iar liniile de câmp trebuie
+
+97
+00:07:05,50 --> 00:07:10,23
+să fie tot timpul perpendiculare
+pe suprafeţele echipotenţiale.
+
+98
+00:07:10,23 --> 00:07:14,17
+Vă voi arăta din nou
+proiecţia,
+
+99
+00:07:14,17 --> 00:07:20,76
+graficul realizat de
+Maxwell.
+
+100
+00:07:20,76 --> 00:07:23,98
+Cu sarcina +4 şi
+sarcina -1.
+
+101
+00:07:23,98 --> 00:07:28,29
+Acelaşi de data trecută.
+Doar pentru a sublinia din nou
+
+102
+00:07:28,29 --> 00:07:31,49
+acest unghi de 90 de grade.
+Am discutat despre acest lucru
+
+103
+00:07:31,49 --> 00:07:34,36
+în detaliu la cursul precedent,
+şi nu voi relua discuţia.
+
+104
+00:07:34,36 --> 00:07:37,25
+Liniile roşi sunt defapt 
+suprafeţe.
+
+105
+00:07:37,25 --> 00:07:39,47
+Această reprezentare este tridimensională,
+trebuie să o rotiţi
+
+106
+00:07:39,47 --> 00:07:42,97
+în jurul verticalei.
+Acestea sunt suprafeţe.
+
+107
+00:07:42,97 --> 00:07:46,37
+Cele roşii sunt suprafeţe
+de potenţial pozitiv, iar cele albastre
+
+108
+00:07:46,37 --> 00:07:48,70
+reprezintă suprafeţe
+de potenţial negativ.
+
+109
+00:07:48,70 --> 00:07:51,18
+Acest lucru nu este important.
+Dar liniile verzi reprezintă
+
+110
+00:07:51,18 --> 00:07:53,61
+linii de câmp.
+Dacă iau
+
+111
+00:07:53,61 --> 00:07:56,31
+de exemplu această linie de câmp,
+perpendiculară aici la cea
+
+112
+00:07:56,31 --> 00:07:58,25
+roşie, perpendiculară acolo
+perpendiculară acolo,
+
+113
+00:07:58,25 --> 00:08:00,60
+perpendiculară acolo.
+Perpendiculară aici.
+
+114
+00:08:00,60 --> 00:08:02,07
+Perpendiculară aici.
+Venind aici,
+
+115
+00:08:02,07 --> 00:08:03,69
+perpendiculară,
+perpendiculară,
+
+116
+00:08:03,69 --> 00:08:06,12
+perpendiculară.
+Oriunde ne uităm pe
+
+117
+00:08:06,12 --> 00:08:09,81
+acest grafic, observăm că
+liniile de câmp sunt perpendiculare
+
+118
+00:08:09,81 --> 00:08:12,50
+pe
+echipotenţiale.
+
+119
+00:08:12,50 --> 00:08:17,64
+Înţelegem în totalitate
+acest lucru acum.
+
+120
+00:08:17,64 --> 00:08:22,74
+Situaţia se poate traduce astfel.
+Dacă lăsăm o sarcină cu viteză iniţială
+
+121
+00:08:22,74 --> 00:08:27,93
+zero, aceasta se va deplasa tot timpul
+perpendicular pe o
+
+122
+00:08:27,93 --> 00:08:31,55
+suprafaţă echipotenţială,
+pentru că se va deplasa tot timpul
+
+123
+00:08:31,55 --> 00:08:34,75
+pe direcţia unei linii de câmp,
+o sarcină pozitivă pe direcţia
+
+124
+00:08:34,75 --> 00:08:36,97
+liniei de câmp,
+o sarcină negativă în direcţia
+
+125
+00:08:36,97 --> 00:08:41,19
+opusă.
+Dacă ne aflăm în spaţiu,
+
+126
+00:08:41,19 --> 00:08:44,02
+şi lăsăm o sarcină cu viteză iniţială zero,
+aceasta se va deplasa tot timpul
+
+127
+00:08:44,02 --> 00:08:46,64
+perpendicular pe
+echipotenţiale.
+
+128
+00:08:46,64 --> 00:08:49,99
+Este similar
+gravitaţiei.
+
+129
+00:08:49,99 --> 00:08:54,20
+Dacă nu uităm
+pe hărţile montane,
+
+130
+00:08:54,20 --> 00:09:01,23
+contururi de altitudini egale,
+înălţimi egale,
+
+131
+00:09:01,23 --> 00:09:04,86
+dacă începem să schiem,
+şi începem din acel punctu,
+
+132
+00:09:04,86 --> 00:09:08,77
+cu viteză iniţială zero,
+veţi porni tot timpul
+
+133
+00:09:08,77 --> 00:09:11,71
+perpendicular pe
+echipotenţiale.
+
+134
+00:09:11,71 --> 00:09:13,12
+Aceasta este direcţia
+în care
+
+135
+00:09:13,12 --> 00:09:16,05
+porniţi la vale.
+Dacă iniţial aveţi o viteză
+
+136
+00:09:16,05 --> 00:09:23,24
+zero.
+Vreau acum să vă ofer o
+
+137
+00:09:23,24 --> 00:09:28,91
+înţelegere mai profundă a legăturii
+dintre potenţial şi câmpuri
+
+138
+00:09:28,91 --> 00:09:32,90
+electrice şi vreau să ma urmăriţi
+foarte atent.
+
+139
+00:09:32,90 --> 00:09:38,01
+Fiecare pas pe care-l fac,
+vreau să mă urmăriţi.
+
+140
+00:09:38,01 --> 00:09:45,71
+Imaginaţi-vă că mă aflu undeva
+în spaţiu, în punctul P.
+
+141
+00:09:45,71 --> 00:09:49,74
+În acel punct P există un potenţial,
+un potenţial unic,
+
+142
+00:09:49,74 --> 00:09:52,19
+Vp,
+Acest lucru se cunoaşte.
+
+143
+00:09:52,19 --> 00:09:57,01
+Există şi un câmp electric
+în punctul în care mă aflu.
+
+144
+00:09:57,01 --> 00:09:59,47
+Iar acum
+voi face un pas extrem
+
+145
+00:09:59,47 --> 00:10:04,12
+de mic, dar doar 
+în direcţia x.
+
+146
+00:10:04,12 --> 00:10:07,99
+Nu în y, nu în z.
+Doar în direcţia x.
+
+147
+00:10:07,99 --> 00:10:13,37
+Dacă nu există nicio variaţie
+a potenţialului de-a lungul acelui mic pas,
+
+148
+00:10:13,37 --> 00:10:18,30
+înseamnă că pe direcţia x,
+componenta câmpului
+
+149
+00:10:18,30 --> 00:10:24,73
+electric este zero.
+Dacă observ o diferenţă a
+
+150
+00:10:24,73 --> 00:10:34,23
+potenţialului, atunci această componentă,
+componenta x a câmpului
+
+151
+00:10:34,23 --> 00:10:40,33
+electric, valoarea sa,
+va fi egală cu acel pas mic
+
+152
+00:10:40,33 --> 00:10:44,87
+ce l-am făcut,
+delta x, va fi egală cu
+
+153
+00:10:44,87 --> 00:10:47,98
+diferenţa de potenţial măsurată
+împărţită la acel pas
+
+154
+00:10:47,98 --> 00:10:53,12
+mic.
+Menţin în acest timp y şi z constante.
+
+155
+00:10:53,12 --> 00:10:57,10
+Acestea sunt valori.
+De aceea pun aceste
+
+156
+00:10:57,10 --> 00:11:00,94
+linii verticale aici.
+La fel, dacă fac un mic
+
+157
+00:11:00,94 --> 00:11:05,55
+pas în direcţia y
+şi măsor o diferenţă
+
+158
+00:11:05,55 --> 00:11:11,61
+de potenţial, delta V, 
+păstrând x şi z constante, atunci aceasta va fi
+
+159
+00:11:11,61 --> 00:11:19,74
+componenta câmpului
+electric pe direcţia y.
+
+160
+00:11:19,74 --> 00:11:24,39
+Mai devreme am folosit pentru E
+unitatea de măsură newtoni pe
+
+161
+00:11:24,39 --> 00:11:26,47
+coulombi.
+De acum încolo vom folosi
+
+162
+00:11:26,47 --> 00:11:29,99
+aproape tot timpul
+pentru unitatea
+
+163
+00:11:29,99 --> 00:11:34,27
+câmpului electric, volţi pe metru.
+Este exact acelaşi lucru
+
+164
+00:11:34,27 --> 00:11:36,85
+newtoni pe coulombi,
+nu este nicio diferenţă,
+
+165
+00:11:36,85 --> 00:11:39,70
+dar aceasta este
+mai folositoare.
+
+166
+00:11:39,70 --> 00:11:43,95
+Pentru un pas mic, în metri,
+măsurăm cu cât
+
+167
+00:11:43,95 --> 00:11:47,44
+se modifică potenţialul,
+volţi pe metri.
+
+168
+00:11:47,44 --> 00:11:52,17
+Este o diferenţă de potenţial
+pe o anumită distanţă.
+
+169
+00:11:52,17 --> 00:11:56,08
+Pot acum scrie
+legătura dintre câmpul
+
+170
+00:11:56,08 --> 00:12:01,10
+electric şi potenţial
+în coordonate carteziene.
+
+171
+00:12:01,10 --> 00:12:05,54
+Arată mult mai înfricoşător decât
+ecuaţia ce am scris-o
+
+172
+00:12:05,54 --> 00:12:10,66
+acolo sus.
+Aceea era doar în funcţie
+
+173
+00:12:10,66 --> 00:12:14,35
+de distanţa r.
+Aşadar, în coordonate carteziene
+
+174
+00:12:14,35 --> 00:12:19,11
+obţinem că E este egal cu minus,
+acel minus ce l-am discutat
+
+175
+00:12:19,11 --> 00:12:32,86
+pe larg, şi obţinem dv pe dx ori
+x căciuliţă plus dv pe dy ori y
+
+176
+00:12:32,86 --> 00:12:40,99
+căciuliţă plus
+dv pe dz ori z căciuliţă.
+
+177
+00:12:40,99 --> 00:12:44,35
+Ceea ce vedeţi aici,
+primul termen de aici,
+
+178
+00:12:44,35 --> 00:12:50,00
+cu tot cu semnul minus
+acela este Ex.
+
+179
+00:12:50,00 --> 00:12:55,30
+Acest termen, incluzând semnul minus,
+este Ey.
+
+180
+00:12:55,30 --> 00:12:59,91
+Şi aşa mai departe.
+Faptul că vedeţi aceşti
+
+181
+00:12:59,91 --> 00:13:02,79
+d rond, 
+înseamnă derivate parţiale.
+
+182
+00:13:02,79 --> 00:13:06,39
+Înseamnă că atunci când efectuaţi
+această derivată, menţineţi z-ul şi y-ul
+
+183
+00:13:06,39 --> 00:13:08,58
+constante.
+Când efectuaţi această derivată,
+
+184
+00:13:08,58 --> 00:13:15,58
+menţineţi x-ul şi z-ul constant, şamd.
+Aceasta este notaţia
+
+185
+00:13:15,58 --> 00:13:19,72
+carteziană, pentru care veţi învăţa
+sau poate că aţi învăţat deja la cursul
+
+186
+00:13:19,72 --> 00:13:24,25
+de analiză matematică,
+că se scrie ca şi E egal cu minus
+
+187
+00:13:24,25 --> 00:13:28,03
+gradient de V.
+Aceasta este o funcţie vectorială.
+
+188
+00:13:28,03 --> 00:13:30,78
+Aceasta este o funcţie scalară.
+Iar aceasta este doar
+
+189
+00:13:30,78 --> 00:13:35,09
+o notaţie diferită,
+doar o altă reprezentare
+
+190
+00:13:35,09 --> 00:13:40,76
+a acestei reţete matematice.
+Veţi învăţa acest lucru
+
+191
+00:13:40,76 --> 00:13:46,54
+la cursul de analiză matematică,
+dacă nu l-aţi învăţat încă.
+
+192
+00:13:46,54 --> 00:13:56,82
+Voi lua acum un exemplu simplu
+în care avem
+
+193
+00:13:56,82 --> 00:14:04,59
+o anumită dependenţă de x,
+şi ştim că V,
+
+194
+00:14:04,59 --> 00:14:09,69
+potenţialul,
+este egal cu 10 la puterea 5
+
+195
+00:14:09,69 --> 00:14:14,78
+ori x.
+Cunoaştem acest lucru.
+
+196
+00:14:14,78 --> 00:14:21,48
+Relaţia este valabilă pentru x
+între zero şi, să zicem, 10 la puterea
+
+197
+00:14:21,48 --> 00:14:24,95
+-2 metri.
+Este valabilă aşadar pentru o distanţă de un
+
+198
+00:14:24,95 --> 00:14:29,20
+centimetru.
+Potenţialul variază
+
+199
+00:14:29,20 --> 00:14:35,25
+liniar cu distanţa.
+Care este câmpul electric acum,
+
+200
+00:14:35,25 --> 00:14:38,99
+pe acea distanţă.
+Păi, câmpul electric,
+
+201
+00:14:38,99 --> 00:14:45,50
+mă întorc la formula de acolo.
+Avem o componentă doar pe
+
+202
+00:14:45,50 --> 00:14:48,55
+direcţia x.
+Prima derivată devine
+
+203
+00:14:48,55 --> 00:14:56,83
+-10 la puterea 5 ori x căciuliţă
+iar celelalte sunt zero.
+
+204
+00:14:56,83 --> 00:15:05,39
+Ey este zero şi Ez este zero.
+Veţi spune, mda, uau,
+
+205
+00:15:05,39 --> 00:15:08,67
+frumoasă matematică 
+dar nu vedem niciun pic de fizică.
+
+206
+00:15:08,67 --> 00:15:11,96
+Există mai multă fizică aici
+decât credeţi.
+
+207
+00:15:11,96 --> 00:15:15,39
+Imaginaţi-vă că am aici
+o placă
+
+208
+00:15:15,39 --> 00:15:21,22
+încărcată electric,
+încărcată pozitiv.
+
+209
+00:15:21,22 --> 00:15:26,50
+Placa se află la distanţa x.
+Aici am o altă placă
+
+210
+00:15:26,50 --> 00:15:30,36
+la distanţa zero.
+Această placă este A
+
+211
+00:15:30,36 --> 00:15:37,37
+iar această placă este B,
+iar această placă este încărcată negativ.
+
+212
+00:15:37,37 --> 00:15:43,67
+x-ul este în această direcţie.
+Pot trasa câmpul electric
+
+213
+00:15:43,67 --> 00:15:51,85
+din interior, conform
+reţetei, -10 la puterea 5
+
+214
+00:15:51,85 --> 00:15:56,72
+în direcţia -x căciuliţă.
+x căciuliţă este în
+
+215
+00:15:56,72 --> 00:16:01,39
+această direcţie,
+câmpul electric este în
+
+216
+00:16:01,39 --> 00:16:06,23
+direcţia opusă,
+şi este acelaşi peste tot.
+
+217
+00:16:06,23 --> 00:16:10,00
+Este cât se poate de fizic.
+Am discutat asta.
+
+218
+00:16:10,00 --> 00:16:14,29
+Când am analizat câmpul electric
+în apropierea unor planuri întinse,
+
+219
+00:16:14,29 --> 00:16:16,69
+câmpul electric
+din interior era
+
+220
+00:16:16,69 --> 00:16:21,28
+constant, ţineţi minte,
+iar valoarea câmpului electric din interior
+
+221
+00:16:21,28 --> 00:16:25,30
+era σ împărţit la ε0,
+unde σ este densitatea
+
+222
+00:16:25,30 --> 00:16:28,65
+superficială de sarcină 
+pe fiecare din aceste plăci.
+
+223
+00:16:28,65 --> 00:16:32,59
+Şi am spus că valoarea câmpului
+electric în exterior este aproximativ zero,
+
+224
+00:16:32,59 --> 00:16:35,19
+şi câmpul electric exterior aici
+este de asemenea zero.
+
+225
+00:16:35,19 --> 00:16:38,14
+Este cât se poate de fizic.
+Este exact ceea ce vedeţi
+
+226
+00:16:38,14 --> 00:16:41,72
+aici.
+Câmpul electric, -10 la puterea
+
+227
+00:16:41,72 --> 00:16:45,52
+5 ori x - aşadar
+valoarea acestui câmp electric,
+
+228
+00:16:45,52 --> 00:16:51,14
+valoarea,
+este 10 la puterea 5 volţi
+
+229
+00:16:51,14 --> 00:16:57,00
+pe metru.
+Care este acum diferenţa
+
+230
+00:16:57,00 --> 00:17:06,73
+de potenţial?
+Păi, Va minus Vb este
+
+231
+00:17:06,73 --> 00:17:14,67
+integrală de la 
+A la B din E punct dl.
+
+232
+00:17:14,67 --> 00:17:18,91
+Dacă ne deplasăm de aici până aici,
+voi scrie pentru dl, voi scrie
+
+233
+00:17:18,91 --> 00:17:21,50
+dx, desigur.
+Pentru că acea direcţie este
+
+234
+00:17:21,50 --> 00:17:26,74
+direcţia x.
+Voi scrie prin urmare aici punct
+
+235
+00:17:26,74 --> 00:17:34,93
+dx.
+Aceasta este egală cu -10
+
+236
+00:17:34,93 --> 00:17:46,64
+la puterea 5 ori integrală 
+de la A la B din x căciuliţă punct
+
+237
+00:17:46,64 --> 00:17:49,74
+dx.
+Pare complicată dar este
+
+238
+00:17:49,74 --> 00:17:52,99
+banală, x căciuliţă este vectorul
+unitate în această direcţie.
+
+239
+00:17:52,99 --> 00:17:56,25
+Iar dx este un vector dx
+în această direcţie.
+
+240
+00:17:56,25 --> 00:17:58,51
+Ambii sunt aşadar
+în aceeaşi direcţie.
+
+241
+00:17:58,51 --> 00:18:00,38
+Cosinusul
+unghiului dintre cei doi este
+
+242
+00:18:00,38 --> 00:18:03,92
+unu.
+Putem uita prin urmare de vectori,
+
+243
+00:18:03,92 --> 00:18:09,50
+putem uita de produsul scalar.
+Iar rezultatul este -10
+
+244
+00:18:09,50 --> 00:18:18,56
+la puterea 5 ori integrală
+de la A la B din dx,
+
+245
+00:18:18,56 --> 00:18:24,11
+o integrală foarte simplă.
+Este egală cu -10 la puterea 5
+
+246
+00:18:24,11 --> 00:18:26,88
+ori distanţa.
+Trebuie să evaluez integrala
+
+247
+00:18:26,88 --> 00:18:33,73
+între A şi B,
+şi obţin xB minus xA.
+
+248
+00:18:38,50 --> 00:18:40,10
+Dacă aceasta este
+10 la puterea
+
+249
+00:18:40,10 --> 00:18:46,09
+-2 metri, distanţa de aici
+până aici este de un centimetru,
+
+250
+00:18:46,09 --> 00:18:49,15
+trebuie să înmulţesc rezultatul
+cu 10 la puterea -2,
+
+251
+00:18:49,15 --> 00:18:54,66
+şi obţinem
+-1.000 de volţi.
+
+252
+00:18:54,66 --> 00:18:59,78
+Potenţialul lui A este cu 
+1.000 de volţi mai mic decât potenţialul lui B.
+
+253
+00:18:59,78 --> 00:19:02,34
+Aceasta este semnificaţia.
+Acest rezultat este cât se poate
+
+254
+00:19:02,34 --> 00:19:06,27
+de fizic.
+Dacă ne deplasăm de la stânga
+
+255
+00:19:06,27 --> 00:19:10,58
+spre dreapta, 
+potenţialul creşte liniar,
+
+256
+00:19:10,58 --> 00:19:15,98
+aici este mai mic decât acolo,
+şi dacă ne imaginăm nişte
+
+257
+00:19:15,98 --> 00:19:19,75
+planuri ca acesta, 
+paralele cu celelalte planuri,
+
+258
+00:19:19,75 --> 00:19:22,68
+fiecare din aceste planuri
+ar fi suprafeţe echipotenţiale,
+
+259
+00:19:22,68 --> 00:19:25,10
+ar avea peste tot
+acelaşi potenţial.
+
+260
+00:19:25,10 --> 00:19:30,25
+Pe măsură ce ne deplasăm,
+potenţialul creşte,
+
+261
+00:19:30,25 --> 00:19:31,86
+dar observaţi, 
+câmpul electric este
+
+262
+00:19:31,86 --> 00:19:34,64
+dinspre plus spre minus
+în direcţia opusă.
+
+263
+00:19:34,64 --> 00:19:40,94
+Acest lucru se datorează
+acelui minus.
+
+264
+00:19:40,94 --> 00:19:45,14
+Sunt liber de fiecare dată să-mi aleg
+locul în care potenţialul
+
+265
+00:19:45,14 --> 00:19:47,69
+este zero.
+Am discutat asta data trecută.
+
+266
+00:19:47,69 --> 00:19:51,45
+Nu trebuie să alegem tot timpul
+zero-ul la infinit.
+
+267
+00:19:51,45 --> 00:19:55,14
+Aş putea alege, arbitrar,
+ca această placă să fie
+
+268
+00:19:55,14 --> 00:19:57,11
+la un potenţial zero.
+Aceasta ar fi atunci plus
+
+269
+00:19:57,11 --> 00:20:03,66
+1.000.
+Iar potenţialul V
+
+270
+00:20:03,66 --> 00:20:06,60
+este atunci pur şi simplu
+10 la puterea 5 ori x.
+
+271
+00:20:06,60 --> 00:20:09,80
+Când x este zero,
+potenţialul este zero,
+
+272
+00:20:09,80 --> 00:20:13,97
+iar când x este un centimetru,
+potenţialul este
+
+273
+00:20:13,97 --> 00:20:19,79
+1.000 de volţi,
+iar câmpul electric este
+
+274
+00:20:19,79 --> 00:20:26,13
+-10 la puterea 5
+în această direcţie.
+
+275
+00:20:26,13 --> 00:20:28,50
+Cât se poate
+de fizic.
+
+276
+00:20:28,50 --> 00:20:31,15
+Întâlnim această situaţie
+ori de câte ori avem de-a face cu
+
+277
+00:20:31,15 --> 00:20:38,39
+plăci paralele.
+Atâta timp cât nu există deplasare
+
+278
+00:20:38,39 --> 00:20:44,25
+de sarcină
+şi avem de-a face cu conductori
+
+279
+00:20:44,25 --> 00:20:49,84
+solizi, 
+câmpuri electrice staţionare prin urmare,
+
+280
+00:20:49,84 --> 00:20:53,12
+sarcinile nu se deplasează semnificativ,
+atunci câmpul din interiorul
+
+281
+00:20:53,12 --> 00:20:58,04
+conductorului este tot timpul zero.
+Nu este valabil pentru un non-conductor.
+
+282
+00:20:58,04 --> 00:21:00,43
+Doar în cazul unui conductor,
+pentru că aceştia posedă electroni
+
+283
+00:21:00,43 --> 00:21:04,15
+liberi ce se pot deplasa,
+iar dacă aceşti electroni liberi văd câmpuri
+
+284
+00:21:04,15 --> 00:21:08,90
+electrice în interior,
+vor începe să se deplaseze până când
+
+285
+00:21:08,90 --> 00:21:11,92
+asupra lor nu mai este exercitată nicio forţă,
+anulând astfel câmpul
+
+286
+00:21:11,92 --> 00:21:13,09
+electric
+din interior.
+
+287
+00:21:13,09 --> 00:21:17,78
+Sarcina din interiorul unui conductor
+se va distribui tot timpul astfel încât
+
+288
+00:21:17,78 --> 00:21:22,19
+câmpul electric să devină zero.
+În cazul în care câmpul este staţionar,
+
+289
+00:21:22,19 --> 00:21:28,64
+adică nu variază rapid.
+Vreau acum să analizăm
+
+290
+00:21:28,64 --> 00:21:33,60
+cazul în care
+încarc un conductor
+
+291
+00:21:33,60 --> 00:21:38,15
+solid şi mă întreb
+unde se va deplasa sarcina
+
+292
+00:21:38,15 --> 00:21:44,76
+electrică.
+În onoarea zilei îndrăgostiţilor,
+
+293
+00:21:44,76 --> 00:21:49,34
+vom considera o inimă solidă,
+o inimă de fier,
+
+294
+00:21:49,34 --> 00:21:52,36
+solidă peste
+tot.
+
+295
+00:21:52,36 --> 00:21:56,92
+Acesta este un conductor solid,
+şi pun pe acest conductor
+
+296
+00:21:56,92 --> 00:22:00,14
+o sarcină exterioară.
+Plus sau minus,
+
+297
+00:22:00,14 --> 00:22:06,94
+să luăm plus pentru moment.
+Vă întreb pe voi acum,
+
+298
+00:22:06,94 --> 00:22:08,38
+acesta este un
+conductor,
+
+299
+00:22:08,38 --> 00:22:10,31
+nu este un izolator,
+pentru izolatori situaţia
+
+300
+00:22:10,31 --> 00:22:13,59
+este total diferită,
+acesta posedă electroni ce se pot deplasa liber
+
+301
+00:22:13,59 --> 00:22:20,34
+în interior. Vă întreb,
+dacă ating această inimă conductoare --
+
+302
+00:22:20,34 --> 00:22:23,50
+apropo, inima voastră este
+un conductor foarte bun -- dacă
+
+303
+00:22:23,50 --> 00:22:29,66
+aducem sarcina pe această inimă,
+ce se va întâmpla cu sarcina?
+
+304
+00:22:29,66 --> 00:22:33,52
+Unde se va deplasa?
+Vă dau trei
+
+305
+00:22:33,52 --> 00:22:38,60
+variante.
+Vom vota.
+
+306
+00:22:38,60 --> 00:22:41,29
+Prima variantă este că
+sarcinile pozitive se vor distribui
+
+307
+00:22:41,29 --> 00:22:47,49
+uniform pretutindeni.
+O variantă.
+
+308
+00:22:47,49 --> 00:22:50,54
+A doua variantă,
+mai puţin probabilă,
+
+309
+00:22:50,54 --> 00:22:54,71
+cred, este că toată sarcina
+se va concentra într-un singur punct aici.
+
+310
+00:22:54,71 --> 00:22:58,41
+Nu ştiu care ar putea fi acel punct,
+dar se prea poate.
+
+311
+00:22:58,41 --> 00:23:03,04
+Iar a treia posibilitate este că
+probabil sarcina se va
+
+312
+00:23:03,04 --> 00:23:08,71
+distribui uniform doar
+pe suprafaţa exterioară,
+
+313
+00:23:08,71 --> 00:23:13,06
+iar cea de-a patra posibilitate
+este niciuna din variantele de mai sus.
+
+314
+00:23:13,06 --> 00:23:16,65
+Toate sugestiile ce vi le-am dat
+sunt false.
+
+315
+00:23:16,65 --> 00:23:20,20
+Cine crede că sarcina
+se va distribui uniform
+
+316
+00:23:20,20 --> 00:23:25,85
+în întreg conductorul.
+Văd una sau două mâini.
+
+317
+00:23:25,85 --> 00:23:28,65
+Asta e bine.
+Nu vă fie ruşine să ridicaţi
+
+318
+00:23:28,65 --> 00:23:30,50
+mâinile, în cel mai rău caz
+vă înşelaţi,
+
+319
+00:23:30,50 --> 00:23:33,20
+eu m-am înşelat de atâtea ori
+în astfel de situaţii.
+
+320
+00:23:33,20 --> 00:23:36,90
+Nu trebuie să vă simţiţi prost.
+Cine crede că sarcina se va
+
+321
+00:23:36,90 --> 00:23:42,10
+deplasa în întregime
+într-un singur punct din inimă?
+
+322
+00:23:42,10 --> 00:23:44,00
+Ai tu curajul?
+Crezi că se va deplasa
+
+323
+00:23:44,00 --> 00:23:46,08
+într-un singur punct?
+Sarcinile se resping reciproc,
+
+324
+00:23:46,08 --> 00:23:48,15
+nu? 
+Această situaţie nu este plauzibilă.
+
+325
+00:23:48,15 --> 00:23:50,24
+Cine crede că se va 
+distribui uniform pe
+
+326
+00:23:50,24 --> 00:23:57,00
+suprafaţa exterioară? Cine nu e
+de acord cu niciuna din variantele de mai sus?
+
+327
+00:23:57,00 --> 00:24:00,09
+Foarte bine.
+Cei care aţi sugerat că
+
+328
+00:24:00,09 --> 00:24:03,48
+sarcina se distribuie uniform pe
+suprafaţa exterioară ar primi totuşi
+
+329
+00:24:03,48 --> 00:24:07,83
+un 9, dar nu se distribuie uniform,
+după cum veţi vedea.
+
+330
+00:24:07,83 --> 00:24:11,00
+Dar se va distribui exclusiv
+în exterior.
+
+331
+00:24:11,00 --> 00:24:14,68
+Vă voi demonstra
+acest lucru acum.
+
+332
+00:24:14,68 --> 00:24:18,00
+Să considerăm prima dată
+cazul ridicol în care
+
+333
+00:24:18,00 --> 00:24:23,03
+sarcina ajunge cumva în
+interiorul conductorului.
+
+334
+00:24:23,03 --> 00:24:27,18
+Iau aici o suprafaţă gaussiană,
+ce este o suprafaţă închisă.
+
+335
+00:24:27,18 --> 00:24:31,50
+Ştiu că în interiorul conductorului,
+dacă avem câmpuri electrostatice,
+
+336
+00:24:31,50 --> 00:24:34,68
+sarcini care nu se deplasează foarte rapid,
+ci un câmp electric staţionar,
+
+337
+00:24:34,68 --> 00:24:37,36
+câmpul E
+trebuie să fie zero peste tot,
+
+338
+00:24:37,36 --> 00:24:40,57
+pe suprafaţă. Aceasta este
+o suprafaţă închisă, iar integrală din E
+
+339
+00:24:40,57 --> 00:24:45,65
+punct dA, ecuaţia unu, este zero.
+Asta înseamnă că sarcina din interiorul
+
+340
+00:24:45,65 --> 00:24:49,34
+sferei este zero,
+prin urmare nu poate exista sarcină electrică.
+
+341
+00:24:49,34 --> 00:24:52,00
+Legea lui Gauss elimină imediat
+posibilitatea existenţei
+
+342
+00:24:52,00 --> 00:24:55,08
+oricăror sarcini în interiorul
+acestui conductor.
+
+343
+00:24:55,08 --> 00:24:58,47
+Putem elimina această variantă.
+Mai există doar
+
+344
+00:24:58,47 --> 00:25:01,26
+o singură variantă,
+şi anume, la suprafaţă.
+
+345
+00:25:01,26 --> 00:25:04,11
+Sarcina trebuie să se distribuie
+aşadar pe suprafaţă.
+
+346
+00:25:04,11 --> 00:25:08,18
+Mai târziu, într-un alt curs,
+vă voi prezenta
+
+347
+00:25:08,18 --> 00:25:12,32
+motivele pentru care acea sarcină
+nu este distribuită uniform.
+
+348
+00:25:12,32 --> 00:25:14,97
+S-ar distribui uniform
+pe suprafaţă dacă
+
+349
+00:25:14,97 --> 00:25:17,93
+aceasta ar fi o sferă.
+Dar nu dacă are această formă
+
+350
+00:25:17,93 --> 00:25:22,73
+ciudată.
+Dar se va distribui pe suprafaţă.
+
+351
+00:25:22,73 --> 00:25:27,77
+Voi face acum din această inimă
+o inimă foarte specială,
+
+352
+00:25:27,77 --> 00:25:31,20
+mult mai apropiată de o inimă reală,
+este deschisă aici,
+
+353
+00:25:31,20 --> 00:25:36,00
+dar solidă aici.
+Aici este un conductor,
+
+354
+00:25:36,00 --> 00:25:38,33
+muşchiul inimii,
+iar aici este deschisă,
+
+355
+00:25:38,33 --> 00:25:40,88
+nu este nimic aici.
+O voi încărca
+
+356
+00:25:40,88 --> 00:25:45,60
+din nou.
+Voi aduce sarcină din exterior.
+
+357
+00:25:45,60 --> 00:25:49,66
+Este evident acum că 
+nu ne aşteptăm să existe
+
+358
+00:25:49,66 --> 00:25:51,56
+sarcină electrică
+în interiorul conductorului.
+
+359
+00:25:51,56 --> 00:25:53,33
+Acest lucru este clar,
+acelaşi argument
+
+360
+00:25:53,33 --> 00:25:55,33
+folosind legea lui
+Gauss.
+
+361
+00:25:55,33 --> 00:25:59,92
+Dar este oare posibil acum
+ca o parte din sarcina pozitivă
+
+362
+00:25:59,92 --> 00:26:05,39
+să se deplaseze pe interiorul suprafeţei
+iar o parte în exterior?
+
+363
+00:26:05,39 --> 00:26:08,48
+Cine crede că o parte
+se va deplasa spre interior,
+
+364
+00:26:08,48 --> 00:26:10,94
+pentru că situaţia este
+diferită acum, nu?
+
+365
+00:26:10,94 --> 00:26:14,54
+acum este,
+acesta este acum un conductor gol.
+
+366
+00:26:14,54 --> 00:26:17,60
+Susţine cineva ideea că
+o parte din sarcină va merge spre
+
+367
+00:26:17,60 --> 00:26:20,14
+interior?
+Văd o mână,
+
+368
+00:26:20,14 --> 00:26:22,73
+două mâini, cine spune că
+nu este posibil,
+
+369
+00:26:22,73 --> 00:26:25,14
+că nu va merge spre interior?
+Se va deplasa tot spre
+
+370
+00:26:25,14 --> 00:26:27,67
+exterior.
+Acum sunteţi foarte
+
+371
+00:26:27,67 --> 00:26:30,97
+atenţi,
+nu mai vreţi să votaţi.
+
+372
+00:26:30,97 --> 00:26:33,92
+Nu se poate deplasa spre interior.
+De ce nu se poate deplasa spre
+
+373
+00:26:33,92 --> 00:26:38,23
+interior?
+Fie aceasta suprafaţa mea gaussiană.
+
+374
+00:26:38,23 --> 00:26:40,25
+Suprafaţă închisă.
+Imaginaţi-vă că este
+
+375
+00:26:40,25 --> 00:26:43,27
+tridimensională.
+Peste tot în lungul acelei linii,
+
+376
+00:26:43,27 --> 00:26:46,46
+câmpul electric este zero
+pentru că ne aflăm în interiorul unui conductor.
+
+377
+00:26:46,46 --> 00:26:48,95
+Integrala de suprafaţă
+este de asemenea zero.
+
+378
+00:26:48,95 --> 00:26:52,33
+Legea lui Gauss spune că
+nu pot exista sarcini electrice în interiorul
+
+379
+00:26:52,33 --> 00:26:56,10
+acelei suprafeţe.
+Aşadar, sarcina electrică
+
+380
+00:26:56,10 --> 00:26:58,45
+trebuie din nou să se deplaseze
+spre suprafaţa exterioară şi
+
+381
+00:26:58,45 --> 00:27:02,59
+nimic nu se va deplasa
+spre suprafaţa interioară.
+
+382
+00:27:02,59 --> 00:27:06,19
+În concluzie,
+câmpul electric este zero
+
+383
+00:27:06,19 --> 00:27:09,60
+în conductor,
+dar câmpul electric este de asemenea zero în
+
+384
+00:27:09,60 --> 00:27:12,81
+această deschizătură.
+Nu avem nicio sarcină electrică acolo.
+
+385
+00:27:12,81 --> 00:27:16,17
+Întreaga inimă,
+inclusiv cavitatea este un
+
+386
+00:27:16,17 --> 00:27:18,55
+echipotenţial.
+Nu avem niciun câmp
+
+387
+00:27:18,55 --> 00:27:20,92
+electric niciunde.
+Singurul câmp electric se află în
+
+388
+00:27:20,92 --> 00:27:24,94
+exteriorul inimii.
+Există linii de câmp,
+
+389
+00:27:24,94 --> 00:27:29,15
+iar aceste linii de câmp sunt peste tot
+perpendiculare pe suprafaţa
+
+390
+00:27:29,15 --> 00:27:31,63
+inimii,
+pentru că inima este un
+
+391
+00:27:31,63 --> 00:27:35,11
+echipotenţial.
+Avem aici nişte linii de câmp
+
+392
+00:27:35,11 --> 00:27:40,19
+foarte ciudate, astfel.
+Trebuie să fie perpendiculare
+
+393
+00:27:40,19 --> 00:27:49,19
+local, unde se intersectează cu
+peretele inimii.
+
+394
+00:27:49,19 --> 00:27:54,84
+În cursurile precedente am arătat
+că în cazul unei sfere solide şi uniforme,
+
+395
+00:27:54,84 --> 00:27:59,67
+câmpul electric din interior este zero,
+şi v-am arătat şi că
+
+396
+00:27:59,67 --> 00:28:03,36
+o sferă conductoare goală
+are de asemenea
+
+397
+00:28:03,36 --> 00:28:07,02
+un câmp electric zero în interior.
+Astăzi am arătat că
+
+398
+00:28:07,02 --> 00:28:10,52
+nu este necesar să avem o sferă.
+Nu avem nevoie de simetrie
+
+399
+00:28:10,52 --> 00:28:13,75
+sferică.
+Orice formă, atâta timp cât
+
+400
+00:28:13,75 --> 00:28:16,90
+este un conductor gol,
+trebuie să fie conductor,
+
+401
+00:28:16,90 --> 00:28:22,77
+indiferent de formă,
+câmpul electric din interior este zero.
+
+402
+00:28:22,77 --> 00:28:27,05
+Vreau să vă demonstrez
+prima dată acest lucru.
+
+403
+00:28:27,05 --> 00:28:30,81
+Am aici un obiect
+ce nu este o sferă.
+
+404
+00:28:30,81 --> 00:28:35,29
+Este o cutie de vopsea.
+Are puţin aluminiu deasupra.
+
+405
+00:28:35,29 --> 00:28:37,00
+Are şi o deschizătură aici.
+Nu este
+
+406
+00:28:37,00 --> 00:28:38,90
+perfectă.
+Nu este închisă în totalitate
+
+407
+00:28:38,90 --> 00:28:42,66
+precum aceasta.
+Câmpul electric din interior
+
+408
+00:28:42,66 --> 00:28:46,33
+nu va fi exact zero.
+Dar va fi foarte aproape.
+
+409
+00:28:46,33 --> 00:28:48,52
+Am nevoie de o deschizătură
+pentru că vreau să intru înăuntru.
+
+410
+00:28:48,52 --> 00:28:50,92
+Vreau să iau sarcină,
+să văd dacă există sarcină
+
+411
+00:28:50,92 --> 00:28:52,40
+în interior.
+Trebuie să intru prin urmare
+
+412
+00:28:52,40 --> 00:28:57,32
+înăuntru.
+O voi încărca aşadar
+
+413
+00:28:57,32 --> 00:29:02,84
+şi voi lua sarcină
+de pe suprafaţa exterioară şi apoi
+
+414
+00:29:02,84 --> 00:29:08,48
+de pe suprafaţa interioară.
+Voi folosi electroscopul pentru a vedea dacă
+
+415
+00:29:08,48 --> 00:29:11,88
+putem demonstra că într-adevăr
+există sarcină pe suprafaţa exterioară
+
+416
+00:29:11,88 --> 00:29:15,77
+dar nu şi pe cea 
+interioară.
+
+417
+00:29:15,77 --> 00:29:18,86
+Voi utiliza aceeaşi metodă
+pe care am utilizat-o data trecută
+
+418
+00:29:18,86 --> 00:29:21,00
+când v-am provocat
+să vă daţi seama cum funcţionează.
+
+419
+00:29:21,00 --> 00:29:26,90
+Voi folosi această metodă ciudată,
+care poartă numele de
+
+420
+00:29:26,90 --> 00:29:29,01
+electrofor,
+e greu de pronunţat.
+
+421
+00:29:29,01 --> 00:29:32,69
+Electrofor.
+Avem aici o placă de sticlă.
+
+422
+00:29:32,69 --> 00:29:38,09
+O frec cu blană de pisică.
+Gândiţi-vă din nou la acest lucru.
+
+423
+00:29:38,09 --> 00:29:39,72
+Este o 
+mică problemă în interiorul
+
+424
+00:29:39,72 --> 00:29:41,94
+problemei.
+Placă metalică.
+
+425
+00:29:41,94 --> 00:29:44,43
+O pun deasupra.
+O ating.
+
+426
+00:29:44,43 --> 00:29:48,64
+Simt un şoc electric.
+O ating aici.
+
+427
+00:29:48,64 --> 00:29:52,54
+O ating din nou.
+Simt un şoc electric.
+
+428
+00:29:52,54 --> 00:29:55,26
+Încarc această cutie.
+O ating din nou.
+
+429
+00:29:55,26 --> 00:29:59,65
+Simt din nou un şoc.
+Şi o ating din nou.
+
+430
+00:29:59,65 --> 00:30:03,95
+Să mai punem
+puţină sarcină.
+
+431
+00:30:03,95 --> 00:30:06,73
+Apropo, sarcina de pe această
+placă este pozitivă.
+
+432
+00:30:06,73 --> 00:30:12,47
+Cea creată pe sticlă.
+O ating.
+
+433
+00:30:12,47 --> 00:30:15,81
+Sarcina de aici este negativă.
+Nu pozitivă.
+
+434
+00:30:15,81 --> 00:30:19,92
+O pun la loc.
+O ating.
+
+435
+00:30:19,92 --> 00:30:23,46
+Ar trebui acum
+să am sarcină
+
+436
+00:30:23,46 --> 00:30:31,27
+negativă acolo.
+Aici este sfera de test.
+
+437
+00:30:31,27 --> 00:30:35,19
+Este un conductor.
+Voi lua jos sarcină
+
+438
+00:30:35,19 --> 00:30:38,41
+din această parte.
+Ating.
+
+439
+00:30:38,41 --> 00:30:40,55
+Mamă.
+Avem sarcină.
+
+440
+00:30:40,55 --> 00:30:42,68
+Niciun dubiu.
+Suntem de acord, da?
+
+441
+00:30:42,68 --> 00:30:45,29
+Avem sarcină.
+Bine.
+
+442
+00:30:45,29 --> 00:30:47,43
+Acum ating partea interioară,
+să sperăm că nu face
+
+443
+00:30:47,43 --> 00:30:52,20
+scântei.
+Ating.
+
+444
+00:30:52,20 --> 00:30:55,19
+Nimic.
+Vedeţi?
+
+445
+00:30:55,19 --> 00:30:57,47
+Absolut nimic.
+Nu există sarcină în interior,
+
+446
+00:30:57,47 --> 00:30:59,19
+sarcina se află în exterior.
+Ceea ce tocmai am
+
+447
+00:30:59,19 --> 00:31:01,77
+demonstrat.
+Vedeţi cu ochii
+
+448
+00:31:01,77 --> 00:31:03,67
+voştri.
+Întreaga sarcină se distribuie
+
+449
+00:31:03,67 --> 00:31:06,86
+în exterior.
+Nu este foarte intuitiv, dar este
+
+450
+00:31:06,86 --> 00:31:09,66
+o consecinţă imediată 
+a faptului că este un conductor,
+
+451
+00:31:09,66 --> 00:31:13,04
+că electronii se vor deplasa
+liber astfel încât câmpul
+
+452
+00:31:13,04 --> 00:31:17,42
+electric din interiorul conductorului
+să fie zero şi am arătat că
+
+453
+00:31:17,42 --> 00:31:20,49
+pe suprafaţa interioară
+nu poate exista niciodată sarcină.
+
+454
+00:31:20,49 --> 00:31:23,83
+Întreaga sarcină rămâne în exterior.
+Când am atins suprafaţa interioară
+
+455
+00:31:23,83 --> 00:31:29,34
+nu a existat nicio sarcină.
+Dacă ne aflăm în interiorul acelui
+
+456
+00:31:29,34 --> 00:31:33,56
+conductor, în cazul în care casa voastră
+este o casă conductoare,
+
+457
+00:31:33,56 --> 00:31:37,68
+iar cineva încarcă din exterior
+casa voastră atunci când
+
+458
+00:31:37,68 --> 00:31:41,20
+vă aflaţi în interior,
+nu vă veţi da seama de asta.
+
+459
+00:31:41,20 --> 00:31:43,49
+Este incredibil,
+nu?
+
+460
+00:31:43,49 --> 00:31:49,47
+Sunteţi izolaţi din punct de vedere
+electric de lumea exterioară.
+
+461
+00:31:49,47 --> 00:31:55,09
+Voi considera acum
+o situaţie şi mai complicată.
+
+462
+00:31:55,09 --> 00:32:01,14
+Iau un obiect conductor,
+nu trebuie să fie neapărat o sferă.
+
+463
+00:32:01,14 --> 00:32:05,71
+Aduc acel obiect conductor gol
+într-un câmp
+
+464
+00:32:05,71 --> 00:32:09,40
+electric exterior.
+Cineva din afara casei voastre
+
+465
+00:32:09,40 --> 00:32:13,93
+porneşte un Van der Graaff
+dând naştere astfel unui câmp electric.
+
+466
+00:32:13,93 --> 00:32:18,46
+Ce se va întâmpla acum?
+Datorită inducţiei,
+
+467
+00:32:18,46 --> 00:32:22,00
+vom obţine o anumită
+polarizaţie în conductor.
+
+468
+00:32:22,00 --> 00:32:26,21
+Un capăt va deveni negativ,
+iar celălalt capăt va deveni
+
+469
+00:32:26,21 --> 00:32:31,42
+pozitiv.
+Dar ce se întâmplă în interior?
+
+470
+00:32:31,42 --> 00:32:34,97
+Nimic.
+Câmpul electric din
+
+471
+00:32:34,97 --> 00:32:38,22
+conductor trebuie să fie peste tot
+zero dacă este un câmp electric
+
+472
+00:32:38,22 --> 00:32:41,39
+staţionar.
+Sarcina nu se poate
+
+473
+00:32:41,39 --> 00:32:46,18
+acumula aici,
+sarcina nu se poate acumula în interior.
+
+474
+00:32:46,18 --> 00:32:48,38
+Pe măsură ce aducem
+acest câmp
+
+475
+00:32:48,38 --> 00:32:52,07
+electric în exterior,
+putem obţine sarcină negativă şi pozitivă
+
+476
+00:32:52,07 --> 00:32:53,96
+în exterior,
+poate negativă aici şi
+
+477
+00:32:53,96 --> 00:32:59,00
+pozitivă acolo,
+dar nimic înăuntru.
+
+478
+00:32:59,00 --> 00:33:02,02
+În interior, sunteţi izolaţi
+electric faţă de lumea exterioară
+
+479
+00:33:02,02 --> 00:33:05,22
+la fel precum aţi fost
+atunci când cineva încerca să pună
+
+480
+00:33:05,22 --> 00:33:08,47
+sarcină electrică pe casa voastră,
+acum cineva încearcă să vă vină de hac
+
+481
+00:33:08,47 --> 00:33:11,25
+cu ajutorul câmpurilor electrice,
+nu se va întâmpla nimic în interior.
+
+482
+00:33:11,25 --> 00:33:16,99
+Nu veţi vedea 
+niciun câmp electric în interior.
+
+483
+00:33:16,99 --> 00:33:27,92
+Vă voi arăta un desen interesant,
+o figură interesantă
+
+484
+00:33:27,92 --> 00:33:34,05
+a unei cutii conductoare.
+Este închisă.
+
+485
+00:33:34,05 --> 00:33:37,34
+Partea ce o vedeţi deschisă
+este doar pentru a ne permite să ne uităm
+
+486
+00:33:37,34 --> 00:33:41,93
+înăuntru, dar este închisă în toate părţile.
+Există nişte sarcini
+
+487
+00:33:41,93 --> 00:33:45,61
+negative aici, 
+nişte sarcini pozitive acolo
+
+488
+00:33:45,61 --> 00:33:48,93
+pe care nu le puteţi vedea.
+Liniile de câmp roşii ce se datorează
+
+489
+00:33:48,93 --> 00:33:51,33
+sarcinilor pozitive
+se termină pe cutie,
+
+490
+00:33:51,33 --> 00:33:55,08
+iar liniile de câmp negative 
+pleacă de pe cutie pe sarcinile
+
+491
+00:33:55,08 --> 00:33:58,32
+negative.
+Avem evident o polarizaţie.
+
+492
+00:33:58,32 --> 00:34:01,63
+Cutia însăşi este neutră.
+Iniţial am avut o cutie neutră.
+
+493
+00:34:01,63 --> 00:34:04,44
+Dar datorită acestui
+câmp electric obţin o polarizaţie.
+
+494
+00:34:04,44 --> 00:34:07,11
+Avem într-un final sarcină negativă
+aici, pe cutie,
+
+495
+00:34:07,11 --> 00:34:10,36
+doar în exterior,
+sarcină pozitivă pe cutie
+
+496
+00:34:10,36 --> 00:34:16,82
+aici, doar în exterior.
+Câmpul electric din interior este zero.
+
+497
+00:34:16,82 --> 00:34:22,75
+Nu există sarcină niciunde în interior.
+Datorită acestui câmp
+
+498
+00:34:22,75 --> 00:34:29,57
+electric ciudat, sarcinile libere
+din conductor se vor rearanja
+
+499
+00:34:29,57 --> 00:34:32,11
+astfel încât
+câmpul electric să devină zero
+
+500
+00:34:32,11 --> 00:34:36,61
+peste tot în interiorul conductorului,
+este zero în interiorul cavităţii,
+
+501
+00:34:36,61 --> 00:34:40,40
+iar integrala închisă
+din E punct dl este zero
+
+502
+00:34:40,40 --> 00:34:45,17
+peste tot,
+dacă aceste câmpuri sunt staţionare.
+
+503
+00:34:45,17 --> 00:34:50,40
+Este evident că este imposibil
+să calculăm
+
+504
+00:34:50,40 --> 00:34:53,69
+configuraţia sarcinii
+la suprafaţă pentru
+
+505
+00:34:53,69 --> 00:34:56,59
+a îndeplini
+toate aceste condiţii.
+
+506
+00:34:56,59 --> 00:35:00,15
+Dar natura poate
+face acest lucru fără efort.
+
+507
+00:35:00,15 --> 00:35:03,53
+Şi o poate face extrem de rapid,
+reuşind să satisfacă toate legile
+
+508
+00:35:03,53 --> 00:35:06,69
+fizicii.
+Aduce foarte rapid sarcina
+
+509
+00:35:06,69 --> 00:35:11,36
+plus aici
+şi sarcina minus acolo.
+
+510
+00:35:11,36 --> 00:35:13,61
+Se asigură că nu există
+sarcină în interiorul
+
+511
+00:35:13,61 --> 00:35:15,67
+suprafeţei.
+Se asigură că nu există câmp
+
+512
+00:35:15,67 --> 00:35:19,57
+electric niciunde în interior
+şi în cutie, şi se asigură
+
+513
+00:35:19,57 --> 00:35:24,11
+că integrala din E punct dl
+este zero pretutindeni.
+
+514
+00:35:24,11 --> 00:35:26,58
+Ca urmare, cutia şi tot
+ceea ce se află în interior devine
+
+515
+00:35:26,58 --> 00:35:29,46
+un echipotenţial.
+Natura aranjează lucrurile astfel încât
+
+516
+00:35:29,46 --> 00:35:31,98
+liniile de câmp, 
+oriunde se intersectează cu cutia,
+
+517
+00:35:31,98 --> 00:35:36,34
+sunt tot timpul perpendiculare pe aceasta.
+Toate acestea se realizează
+
+518
+00:35:36,34 --> 00:35:41,38
+aproape instantaneu de către natură.
+Este incredibil că
+
+519
+00:35:41,38 --> 00:35:44,84
+se întâmplă acest lucru,
+mai ales că pentru noi ar fi imposibil
+
+520
+00:35:44,84 --> 00:35:48,82
+de calculat,
+întrucât configuraţia câmpului este
+
+521
+00:35:48,82 --> 00:35:54,98
+extrem de dificilă.
+Dacă aţi fi în interiorul acestei
+
+522
+00:35:54,98 --> 00:35:57,80
+cutii metalice,
+indiferent de ceea ce se întâmplă
+
+523
+00:35:57,80 --> 00:36:00,86
+în exterior,
+veţi fi izolaţi
+
+524
+00:36:00,86 --> 00:36:04,28
+din punct de vedere electric faţă de exterior.
+Nu veţi observa că există
+
+525
+00:36:04,28 --> 00:36:07,57
+un câmp electric intens în exterior,
+nici nu veţi observa
+
+526
+00:36:07,57 --> 00:36:11,92
+că oamenii încearcă să 
+vă încarce casa.
+
+527
+00:36:11,92 --> 00:36:16,50
+Numim asta
+ecranare electrostatică iar această
+
+528
+00:36:16,50 --> 00:36:21,28
+structură are un nume, casă voastră s-ar chema
+o cuşcă Faraday.
+
+529
+00:36:21,28 --> 00:36:24,38
+După marele 
+fizician Faraday.
+
+530
+00:36:24,38 --> 00:36:29,80
+Veţi învăţa mai multe
+despre el în acest curs.
+
+531
+00:36:29,80 --> 00:36:34,80
+Înainte de a demonstra asta,
+vreau să clarific un lucru
+
+532
+00:36:34,80 --> 00:36:39,94
+legat de problema 2.1,
+ce face parte din următoarea temă de casă.
+
+533
+00:36:39,94 --> 00:36:44,19
+V-aş îndemna,
+nu-mi fac nicio iluzie,
+
+534
+00:36:44,19 --> 00:36:46,86
+dar v-aş îndemna să începeţi
+să lucraţi la această temă în
+
+535
+00:36:46,86 --> 00:36:51,17
+acest weekend, nu săptămâna viitoare.
+Aceste teme nu sunt
+
+536
+00:36:51,17 --> 00:36:54,05
+nişte teme de doi lei.
+Acestea sunt teme de la MIT şi
+
+537
+00:36:54,05 --> 00:36:57,96
+va trebui să munciţi din greu
+pentru a le rezolva, vă rog prin urmare să începeţi
+
+538
+00:36:57,96 --> 00:37:02,71
+să lucraţi în acest weekend, nu pentru
+a-mi face mie o favoare, ci vouă.
+
+539
+00:37:02,71 --> 00:37:04,73
+Dar să discutăm
+despre problema 2.1.
+
+540
+00:37:04,73 --> 00:37:10,26
+Cu alte cuvinte,
+vă voi ajuta cu problema 2.1.
+
+541
+00:37:10,26 --> 00:37:14,21
+Am spus deja de câteva ori că
+nu putem obţine un câmp
+
+542
+00:37:14,21 --> 00:37:19,92
+electric în interiorul unui conductor gol.
+Să presupunem că întru în interiorul
+
+543
+00:37:19,92 --> 00:37:24,84
+conductorului.
+Intru înăuntru.
+
+544
+00:37:24,84 --> 00:37:28,17
+Şi ascund
+o sarcină în buzunar.
+
+545
+00:37:28,17 --> 00:37:31,46
+Stau acolo înăuntru 
+şi voi o închideţi.
+
+546
+00:37:31,46 --> 00:37:33,05
+Atunci avem o sarcină în interior,
+nu puteţi face nimic
+
+547
+00:37:33,05 --> 00:37:35,15
+în această privinţă.
+Iar dacă avem sarcină
+
+548
+00:37:35,15 --> 00:37:39,78
+în interior,
+avem un câmp electric.
+
+549
+00:37:39,78 --> 00:37:44,84
+Avem aşadar o problemă,
+şi din moment ce ziua îndrăgostiţilor a trecut,
+
+550
+00:37:44,84 --> 00:37:49,17
+inima mea a evoluat
+din nou într-o sferă.
+
+551
+00:37:49,17 --> 00:37:53,55
+Luăm un conductor
+sferic, solid,
+
+552
+00:37:53,55 --> 00:37:56,84
+acesta este material solid,
+iar eu mă aflu în interior
+
+553
+00:37:56,84 --> 00:38:01,59
+aici cu o sarcină +q.
+O putem face negativă
+
+554
+00:38:01,59 --> 00:38:03,42
+dacă vreţi.
+Este exact problema
+
+555
+00:38:03,42 --> 00:38:08,73
+2.1 până aici.
+Evident că avem sarcină
+
+556
+00:38:08,73 --> 00:38:12,25
+pozitivă în interior.
+Evident trebuie să existe şi un
+
+557
+00:38:12,25 --> 00:38:17,19
+câmp electric.
+Dar câmpul electric din interiorul
+
+558
+00:38:17,19 --> 00:38:19,82
+conductorului,
+cu alte cuvinte, câmpul electric
+
+559
+00:38:19,82 --> 00:38:23,34
+peste tot aici,
+trebuie să fie zero.
+
+560
+00:38:23,34 --> 00:38:25,61
+Dacă nu este zero,
+electronii vor continua să se deplaseze
+
+561
+00:38:25,61 --> 00:38:28,51
+până când este zero.
+Materialul conductor
+
+562
+00:38:28,51 --> 00:38:37,59
+nu are câmp electric.
+Ce înseamnă acest lucru
+
+563
+00:38:37,59 --> 00:38:41,23
+pentru sarcina 
+din interiorul suprafeţei?
+
+564
+00:38:41,23 --> 00:38:44,55
+Acum trebuie să existe sarcină
+pe suprafaţa interioară.
+
+565
+00:38:44,55 --> 00:38:49,48
+Pentru că acum,
+dacă iau această suprafaţă gaussiană,
+
+566
+00:38:49,48 --> 00:38:53,07
+ce este o suprafaţă sferică,
+o suprafaţă închisă,
+
+567
+00:38:53,07 --> 00:38:55,00
+dl. Gauss
+spune că integrala
+
+568
+00:38:55,00 --> 00:38:59,71
+de suprafaţă închisă din E punct dA
+pe această suprafaţă, trebuie să fie zero,
+
+569
+00:38:59,71 --> 00:39:01,76
+pentru că şi câmpul electric
+este zero pretutindeni.
+
+570
+00:39:01,76 --> 00:39:04,96
+Iar rezultatul este egal cu
+întreaga sarcină din interior împărţită la
+
+571
+00:39:04,96 --> 00:39:07,45
+ε0.
+Prin urmare sarcina din interior
+
+572
+00:39:07,45 --> 00:39:11,21
+trebuie să fie zero.
+Din moment ce nu poate exista sarcină
+
+573
+00:39:11,21 --> 00:39:15,11
+în conductor,
+sarcina negativă trebuie să se
+
+574
+00:39:15,11 --> 00:39:19,26
+acumuleze
+pe interiorul acestei suprafeţe.
+
+575
+00:39:19,26 --> 00:39:24,00
+Astfel încât sarcina netă
+din interiorul acestei suprafeţe să fie zero.
+
+576
+00:39:24,00 --> 00:39:28,92
+De data aceasta avem sarcină pe interior,
+dar câtă sarcină
+
+577
+00:39:28,92 --> 00:39:31,94
+avem pe suprafaţa interioară?
+Exact -q.
+
+578
+00:39:31,94 --> 00:39:35,67
+Astfel încât
+suma dintre cele două să fie zero.
+
+579
+00:39:35,67 --> 00:39:39,65
+Acest conductor
+a fost iniţial neutru.
+
+580
+00:39:39,65 --> 00:39:43,94
+Nu a avut sarcină netă.
+Prin urmare, pe suprafaţa
+
+581
+00:39:43,94 --> 00:39:49,21
+conductorului trebuie să 
+avem acum sarcina +q.
+
+582
+00:39:49,21 --> 00:39:52,84
+Pentru că sarcina minus
+de pe suprafaţa interioară a venit
+
+583
+00:39:52,84 --> 00:39:56,92
+din conductor,
+iar suma trebuie să fie zero.
+
+584
+00:39:56,92 --> 00:39:59,92
+Avem acum o situaţie
+neobişnuită, şi anume, sarcina +q
+
+585
+00:39:59,92 --> 00:40:04,94
+din interior, ce determină un câmp E
+în interior, determină o sarcină negativă
+
+586
+00:40:04,94 --> 00:40:07,88
+pe suprafaţa interioară,
+de aceeaşi valoare şi de
+
+587
+00:40:07,88 --> 00:40:11,26
+semn contrar,
+şi o sarcină +q în
+
+588
+00:40:11,26 --> 00:40:14,55
+exterior.
+Iar câmpurile electrice
+
+589
+00:40:14,55 --> 00:40:18,51
+sunt extrem de complicate.
+Câmpurile electrice,
+
+590
+00:40:18,51 --> 00:40:22,90
+voi încerca să le reprezint,
+îmi imaginez că dacă această
+
+591
+00:40:22,90 --> 00:40:26,19
++q este mai aproape de acest perete
+decât de acest perete, atunci
+
+592
+00:40:26,19 --> 00:40:30,75
+sarcina negativă va fi mai mare aici,
+ ca şi densitate, decât acolo.
+
+593
+00:40:30,75 --> 00:40:32,98
+Este un efect
+de inducţie în realitate.
+
+594
+00:40:32,98 --> 00:40:35,61
+Sarcina negativă
+este atrasă de acest plus.
+
+595
+00:40:35,61 --> 00:40:38,34
+Asta se întâmplă de fapt.
+Din moment ce această sarcină este
+
+596
+00:40:38,34 --> 00:40:42,28
+mai aproape de acest perete
+decât de acel perete, va putea să atragă
+
+597
+00:40:42,28 --> 00:40:46,23
+mai mulţi electroni, şi este evident
+că densitatea de sarcină de aici
+
+598
+00:40:46,23 --> 00:40:50,40
+ar trebui să fie mai mare decât acolo,
+iar liniile de câmp sunt tot timpul
+
+599
+00:40:50,40 --> 00:40:52,86
+perpendiculare
+pe echipotenţial,
+
+600
+00:40:52,86 --> 00:40:56,26
+prin urmare trebuie să fie tot timpul
+perpendiculare pe perete,
+
+601
+00:40:56,26 --> 00:41:00,44
+ceva de genul acesta.
+Trasez câteva linii de câmp.
+
+602
+00:41:00,44 --> 00:41:06,48
+Dar aici câmpul va fi 
+mai puternic decât acolo.
+
+603
+00:41:06,48 --> 00:41:11,80
+Exista aşadar un câmp în interior.
+Care este acum distribuţia
+
+604
+00:41:11,80 --> 00:41:15,36
+de sarcină în exterior?
+Acesta este cel mai dificil lucru.
+
+605
+00:41:15,36 --> 00:41:19,11
+Şi deloc evident.
+Adevărul este că sarcina
+
+606
+00:41:19,11 --> 00:41:22,55
+de pe suprafaţa exterioară a acestei sfere,
+întrucât este o sferă,
+
+607
+00:41:22,55 --> 00:41:26,82
+se va distribui uniform.
+Acest lucru nu este intuitiv
+
+608
+00:41:26,82 --> 00:41:30,59
+şi nu este evident.
+Natura trebuie să se supună
+
+609
+00:41:30,59 --> 00:41:33,30
+tuturor legilor fizicii.
+Conductorul trebuie să devină
+
+610
+00:41:33,30 --> 00:41:35,82
+un echipotenţial.
+Nu poate exista câmp electric
+
+611
+00:41:35,82 --> 00:41:38,46
+în interiorul conductorului.
+Liniile de câmp electric trebuie să fie
+
+612
+00:41:38,46 --> 00:41:41,13
+peste tot
+perpendiculare la suprafaţă.
+
+613
+00:41:41,13 --> 00:41:44,96
+Integrala liniară închisă din
+E punct dl trebuie să fie peste tot zero.
+
+614
+00:41:44,96 --> 00:41:48,61
+Singurul mod în care natura 
+poate realiza acest lucru este prin
+
+615
+00:41:48,61 --> 00:41:52,96
+distribuirea uniformă
+a sarcini pe suprafaţa conductorului.
+
+616
+00:41:52,96 --> 00:41:55,13
+Dacă stăm să ne gândim
+acest lucru este
+
+617
+00:41:55,13 --> 00:41:56,57
+extraordinar.
+Este independent de
+
+618
+00:41:56,57 --> 00:41:59,61
+poziţia sarcinii
++q din interior.
+
+619
+00:41:59,61 --> 00:42:03,19
+Dacă începem să ne deplasăm
+cu acea sarcină +q în interior,
+
+620
+00:42:03,19 --> 00:42:06,76
+lumea exterioară
+nu va sesiza acest lucru.
+
+621
+00:42:06,76 --> 00:42:10,05
+Lumea exterioară ştie doar
+că există o sarcină +q
+
+622
+00:42:10,05 --> 00:42:13,90
+distribuită uniform pe suprafaţa exterioară,
+pentru că este o sferă.
+
+623
+00:42:13,90 --> 00:42:16,84
+Acest lucru nu ar fi valabil
+în cazul unei inimi.
+
+624
+00:42:16,84 --> 00:42:20,11
+Dar lumea exterioară
+nu poate şti că
+
+625
+00:42:20,11 --> 00:42:22,53
+ne deplasăm cu acea sarcină
+în interior.
+
+626
+00:42:22,53 --> 00:42:27,57
+Stau în interior şi
+să presupunem că întru înăuntru
+
+627
+00:42:27,57 --> 00:42:30,13
+cu o baghetă de cauciuc
+şi cu o pisică.
+
+628
+00:42:30,13 --> 00:42:32,76
+Şi folosesc bagheta de cauciuc
+pe pisică, dând naştere unor sarcini
+
+629
+00:42:32,76 --> 00:42:35,53
+pozitive şi negative,
+în aceeaşi cantitate.
+
+630
+00:42:35,53 --> 00:42:38,71
+Lumea exterioară nu va şti
+pentru că nu modific
+
+631
+00:42:38,71 --> 00:42:40,86
+sarcina din interior.
+Doar dacă am o sarcină +q în
+
+632
+00:42:40,86 --> 00:42:43,36
+buzunar.
+Dar faptul că creez plus
+
+633
+00:42:43,36 --> 00:42:47,30
+pe pisică şi poate minus pe mine,
+lumea exterioară nu
+
+634
+00:42:47,30 --> 00:42:50,09
+va şti niciodată,
+pentru că suma sarcinilor este tot q.
+
+635
+00:42:50,09 --> 00:42:54,28
+Ar putea auzi pisica,
+dar asta-i tot ce vor putea auzi.
+
+636
+00:42:54,28 --> 00:42:58,11
+Dar nu vor avea de unde să ştie
+că eu îmi fac de cap acolo
+
+637
+00:42:58,11 --> 00:43:02,09
+cu sarcini.
+Lumea exterioară nu poate şti
+
+638
+00:43:02,09 --> 00:43:04,86
+ce anume se întâmplă
+în interior.
+
+639
+00:43:04,86 --> 00:43:08,05
+Numim asta
+ecranare electrostatică.
+
+640
+00:43:08,05 --> 00:43:12,90
+Este efectul
+unei cuşti Faraday.
+
+641
+00:43:12,90 --> 00:43:17,80
+Vreau să demonstrez că atunci
+când aduc această cutie într-un câmp
+
+642
+00:43:17,80 --> 00:43:23,94
+electric, este un obiect conductor gol,
+o aduc în
+
+643
+00:43:23,94 --> 00:43:27,53
+câmpul electric
+al Van der Graaff-ului, obiectul este
+
+644
+00:43:27,53 --> 00:43:30,80
+un conductor,
+vă voi arăta că datorită
+
+645
+00:43:30,80 --> 00:43:36,51
+inducţiei, vom obţine
+asemenea figurii de acolo,
+
+646
+00:43:36,51 --> 00:43:39,96
+vom obţine sarcină
+negativă într-o parte,
+
+647
+00:43:39,96 --> 00:43:44,11
+sarcină pozitivă în cealaltă parte,
+iar la interior nu vom avea
+
+648
+00:43:44,11 --> 00:43:48,65
+sarcină electrică.
+Acest lucru este extraordinar,
+
+649
+00:43:48,65 --> 00:43:51,73
+nu?
+Dacă aceasta ar fi pozitivă,
+
+650
+00:43:51,73 --> 00:43:54,15
+să presupunem că este,
+atunci partea aceasta devine
+
+651
+00:43:54,15 --> 00:43:56,86
+negativă, partea aceasta
+devine pozitivă, şi întreaga cutie este
+
+652
+00:43:56,86 --> 00:44:00,57
+un echipotenţial,
+sarcină zero în interior.
+
+653
+00:44:00,57 --> 00:44:04,98
+Extrem de interesant.
+Să pornim
+
+654
+00:44:04,98 --> 00:44:07,69
+Van der Graaff-ul.
+Avem acum acel câmp
+
+655
+00:44:07,69 --> 00:44:12,86
+electric.
+Pornim electroscopul.
+
+656
+00:44:12,86 --> 00:44:17,98
+Aici este bila mea conductoare
+de ping pong,
+
+657
+00:44:17,98 --> 00:44:24,94
+şi voi atinge iniţial cutia
+în partea voastră stângă.
+
+658
+00:44:24,94 --> 00:44:28,51
+O ating,
+şi aduc acum sarcina pe
+
+659
+00:44:28,51 --> 00:44:31,42
+electroscop.
+Mamă, frumoasă sarcină.
+
+660
+00:44:31,42 --> 00:44:36,23
+Ating acum cealaltă parte
+şi mă voi apropia de -- am
+
+661
+00:44:36,23 --> 00:44:38,98
+auzit o scânteie,
+scânteile nu sunt niciodată bune.
+
+662
+00:44:38,98 --> 00:44:42,61
+Aduc sarcina în apropierea electroscopului,
+iar dacă indicaţia
+
+663
+00:44:42,61 --> 00:44:46,01
+electroscopului,
+dacă deviaţia scade,
+
+664
+00:44:46,01 --> 00:44:49,59
+după cum am discutat mai devreme,
+înseamnă că polaritatea
+
+665
+00:44:49,59 --> 00:44:52,67
+de aici este diferită
+de polaritatea de pe electroscop,
+
+666
+00:44:52,67 --> 00:44:56,28
+şi puteţi vedea foarte clar acest lucru.
+Deviaţia scade.
+
+667
+00:44:56,28 --> 00:44:59,65
+Prin urmare sarcina ce am luat-o
+din această parte are o polaritate
+
+668
+00:44:59,65 --> 00:45:02,71
+diferită faţă de sarcina
+ce am luat-o de pe acea parte.
+
+669
+00:45:02,71 --> 00:45:07,50
+Dar cu toate acestea, este un echipotenţial.
+Toată această polarizaţie ciudată
+
+670
+00:45:07,50 --> 00:45:09,61
+a sarcinilor
+are loc la
+
+671
+00:45:09,61 --> 00:45:11,73
+suprafaţă.
+Voi încerca acum să pătrund
+
+672
+00:45:11,73 --> 00:45:14,32
+în interior.
+Să vedem dacă pot lua
+
+673
+00:45:14,32 --> 00:45:18,94
+sarcină din interior.
+N-ar trebui să existe nicio sarcină,
+
+674
+00:45:18,94 --> 00:45:21,51
+ooh, trebuie să îndepărtez
+această sarcină prima dată,
+
+675
+00:45:21,51 --> 00:45:24,69
+ating electroscopul
+şi nu vedeţi nicio sarcină.
+
+676
+00:45:24,69 --> 00:45:27,40
+Aţi văzut aşadar trei lucruri,
+ceea ce este extraordinar.
+
+677
+00:45:27,40 --> 00:45:29,90
+Şi anume că polaritatea sarcinii 
+de pe această parte este diferită
+
+678
+00:45:29,90 --> 00:45:32,57
+de polaritatea sarcinii de pe acea parte,
+şi că toată acţiunea are loc
+
+679
+00:45:32,57 --> 00:45:36,09
+la suprafaţă,
+în interior nu se întâmplă nimic.
+
+680
+00:45:36,09 --> 00:45:41,40
+Nu am putut să iau
+nicio sarcină din interior.
+
+681
+00:45:41,40 --> 00:45:46,86
+Vom trece acum
+la experimente mai periculoase,
+
+682
+00:45:46,86 --> 00:45:51,80
+şi anume, cu Van der Graaff-ul.
+Vedeţi aici o cuşcă Faraday,
+
+683
+00:45:51,80 --> 00:45:57,32
+ce are unele deschizături,
+nu este un conductor solid,
+
+684
+00:45:57,32 --> 00:46:00,76
+ci are nişte mici deschizături,
+ceea ce nu modifică
+
+685
+00:46:00,76 --> 00:46:06,42
+prea mult situaţia,
+poate doar puţin,
+
+686
+00:46:06,42 --> 00:46:12,94
+şi voi intra în acea cuşcă.
+Aceasta este şi ea
+
+687
+00:46:12,94 --> 00:46:15,65
+o cuşcă Faraday bună,
+dar este cam dificil pentru mine
+
+688
+00:46:15,65 --> 00:46:20,57
+să intru în ea.
+Dacă întru acolo cu un
+
+689
+00:46:20,57 --> 00:46:27,50
+radio, asemănător radioului din maşină,
+atunci s-ar putea să
+
+690
+00:46:27,50 --> 00:46:31,19
+nu mai auziţi radioul,
+chiar dacă undele radio sunt
+
+691
+00:46:31,19 --> 00:46:35,15
+un subiect dificil,
+pentru că ecranarea ce am discutat-o este
+
+692
+00:46:35,15 --> 00:46:38,21
+doar ecranare electrostatică,
+iar undele radio reprezintă radiaţie
+
+693
+00:46:38,21 --> 00:46:42,13
+electromagnetică,
+câmpuri electrice variabile.
+
+694
+00:46:42,13 --> 00:46:44,46
+S-ar putea ca ecranarea să nu fie
+la fel de perfectă precum aţi crede.
+
+695
+00:46:44,46 --> 00:46:46,80
+Dar ştim că dacă cineva
+vă rupe antena
+
+696
+00:46:46,80 --> 00:46:49,25
+de la maşină, ceea ce se întâmplă 
+în Cambridge tot timpul,
+
+697
+00:46:49,25 --> 00:46:53,51
+nu veţi avea semnal în interior.
+Pentru că maşina voastră este
+
+698
+00:46:53,51 --> 00:46:57,84
+o cuşcă Faraday.
+Aşadar,
+
+699
+00:46:57,84 --> 00:47:02,55
+voi intra în cuşcă,
+vă voi arăta prima dată că atunci când
+
+700
+00:47:02,55 --> 00:47:05,88
+încărcăm cuşca,
+o aducem la câteva
+
+701
+00:47:05,88 --> 00:47:09,51
+sute de mii de volţi,
+voi ţine nişte beteală
+
+702
+00:47:09,51 --> 00:47:14,73
+în mână, pentru a vă convinge
+că într-adevăr această cuşcă va fi
+
+703
+00:47:14,73 --> 00:47:17,78
+încărcată de către
+Van der Graaff, dacă avem
+
+704
+00:47:17,78 --> 00:47:22,65
+un contact aici.
+Şi vom vedea că, da Marcos
+
+705
+00:47:22,65 --> 00:47:29,59
+dă-mi tot ce poţi.
+Să ne uităm la beteală,
+
+706
+00:47:29,59 --> 00:47:33,19
+această beteală indică
+asemenea unui electroscop
+
+707
+00:47:33,19 --> 00:47:36,46
+că acum sunt încărcat.
+Mă voi da jos,
+
+708
+00:47:36,46 --> 00:47:40,88
+dacă poţi să o descarci.
+Voi intra acum înăuntru.
+
+709
+00:47:40,88 --> 00:47:45,21
+Iau şi beteala cu mine.
+Vă voi arăta că în interior,
+
+710
+00:47:45,21 --> 00:47:48,60
+când vom încărca acea cuşcă,
+beteala nu se va
+
+711
+00:47:48,60 --> 00:47:50,94
+desface.
+Voi lua cu mine acest
+
+712
+00:47:50,94 --> 00:47:55,11
+radio şi -- Radio:
+a spus că o femeie ce se opune
+
+713
+00:47:55,11 --> 00:47:58,20
+îmbălsămării este un suspect
+în cazul acestor crime -- [râsete] Nu am
+
+714
+00:47:58,20 --> 00:48:01,88
+plănuit asta, credeţi-mă.
+[radioul se aude în continuare]
+
+715
+00:48:08,16 --> 00:48:12,28
+Voi intra prima dată
+fără nicio sarcină.
+
+716
+00:48:12,28 --> 00:48:15,59
+Nu fă 
+nimic.
+
+717
+00:48:21,71 --> 00:48:26,63
+[radioul nu se mai aude] Nimic.
+Sunt ecranat.
+
+718
+00:48:26,63 --> 00:48:33,11
+Totuşi, există o problemă.
+Ma puteţi încă auzi deşi
+
+719
+00:48:33,11 --> 00:48:37,13
+folosesc un emiţător
+iar receptorul se află undeva în exteriorul
+
+720
+00:48:37,13 --> 00:48:40,67
+acestei cuşti.
+De ce mă puteţi încă auzi?
+
+721
+00:48:40,67 --> 00:48:44,15
+Înseamnă că undele 
+radio ce le
+
+722
+00:48:44,15 --> 00:48:48,26
+transmit sunt de frecvenţă
+foarte înaltă, nu este un câmp
+
+723
+00:48:48,26 --> 00:48:51,67
+staţionar, pot prin urmare
+să treacă prin cuşcă.
+
+724
+00:48:51,67 --> 00:48:53,99
+Ecranarea nu este perfectă
+pentru câmpuri electrice
+
+725
+00:48:53,99 --> 00:48:56,80
+ce oscilează rapid.
+Dar este suficient de bună pentru
+
+726
+00:48:56,80 --> 00:49:03,80
+radiourile AM. [radioul se aude din nou]
+Voi intra acum înăuntru, voi încerca
+
+727
+00:49:03,80 --> 00:49:08,28
+să fiu curajos,
+iar el va încerca să-mi vină de hac,
+
+728
+00:49:08,28 --> 00:49:11,00
+să mă electrocuteze.
+Din moment ce am fost la cursul
+
+729
+00:49:11,00 --> 00:49:15,07
+de electricitate şi magnetism, 
+nu-mi este frică. M-am lovit la cap,
+
+730
+00:49:15,07 --> 00:49:17,82
+dar asta este o altă poveste.
+Bine.
+
+731
+00:49:17,82 --> 00:49:20,80
+Marcos.
+Dă ce-i mai bun din tine.
+
+732
+00:49:20,80 --> 00:49:24,40
+Aici este beteala.
+Dă-i o sută de mii de
+
+733
+00:49:24,40 --> 00:49:27,21
+volţi.
+Două sute de mii de volţi.
+
+734
+00:49:27,21 --> 00:49:31,13
+Mă simt fericit ca o moluscă
+în timpul fluxului aici în interior.
+
+735
+00:49:31,13 --> 00:49:34,48
+Nu se întâmplă nimic.
+Nu-mi fac deloc griji.
+
+736
+00:49:34,48 --> 00:49:38,69
+Dacă ar fi să mă lovească trăsnetul,
+cui îi pasă?
+
+737
+00:49:38,69 --> 00:49:43,61
+Sunt într-o cuşcă Faraday.
+Nimic nu-mi va strica weekend-ul.
+
+738
+00:49:43,61 --> 00:49:46,15
+Pot atinge suprafaţa interioară.
+Nu există niciunde sarcină
+
+739
+00:49:46,15 --> 00:49:50,36
+aici.
+Weekend-ul meu nu va fi compromis.
+
+740
+00:49:50,36 --> 00:49:52,26
+Şi sper că 
+noua temă de casă
+
+741
+00:49:52,26 --> 00:49:54,36
+nu vă va strica nici vouă
+weekendul.
+
+742
+00:49:54,36 --> 00:49:58,23
+(subtitrarea în limba română 
+pentru www.circuiteelectrice.ro)

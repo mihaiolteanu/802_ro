@@ -1,0 +1,4013 @@
+﻿1
+00:00:02,068 --> 00:00:06,004
+am discutat despre asta mai devreme.
+Numim aceasta energie
+
+2
+00:00:06,004 --> 00:00:10,005
+potenţială electrostatică.
+Vom analiza astăzi acest
+
+3
+00:00:10,005 --> 00:00:14,002
+concept de energie dintr-un nou
+punct de vedere. Vom analiza
+
+4
+00:00:14,002 --> 00:00:18,038
+energia în funcţie
+de câmpul electric.
+
+5
+00:00:18,038 --> 00:00:24,007
+Să presupunem că am două
+plăci paralele, una dintre ele
+
+6
+00:00:24,007 --> 00:00:28,009
+încărcată cu sarcină pozitivă,
+egală cu densitatea superficială
+
+7
+00:00:28,009 --> 00:00:31,050
+de sarcină ori aria plăci,
+iar aceasta este
+
+8
+00:00:31,050 --> 00:00:34,000
+încărcată cu sarcină
+negativă, egală cu
+
+9
+00:00:34,000 --> 00:00:37,005
+densitatea superficială de sarcină
+negativă ori aria
+
+10
+00:00:37,005 --> 00:00:41,003
+plăcii.
+Să presupunem că
+
+11
+00:00:41,003 --> 00:00:44,009
+distanţa dintre aceste plăci
+este h. Avem un câmp
+
+12
+00:00:44,009 --> 00:00:50,026
+electric aproximativ constant,
+iar valoarea câmpului electric
+
+13
+00:00:50,026 --> 00:00:54,002
+este σ 
+împărţit la ε0.
+
+14
+00:00:54,002 --> 00:00:57,007
+Voi lua acum 
+placa superioară şi
+
+15
+00:00:57,007 --> 00:01:02,001
+o voi deplasa în sus.
+Pe măsură ce fac acest lucru,
+
+16
+00:01:02,001 --> 00:01:05,003
+trebuie să aplic o forţă,
+pentru că aceste două plăci
+
+17
+00:01:05,003 --> 00:01:08,077
+se atrag reciproc. Trebuie să
+efectuez lucru mecanic prin urmare.
+
+18
+00:01:08,077 --> 00:01:11,009
+Pe măsură ce 
+o deplasez în sus, pe
+
+19
+00:01:11,009 --> 00:01:16,081
+pe o distanţă x, creez aici
+un câmp electric ce nu
+
+20
+00:01:16,081 --> 00:01:20,004
+existase înainte.
+Intensitatea câmpului electric
+
+21
+00:01:20,004 --> 00:01:25,003
+astfel creat este identică
+cu cea de dinainte,
+
+22
+00:01:25,003 --> 00:01:27,063
+pentru că sarcina de pe
+plăci nu s-a modificat după
+
+23
+00:01:27,063 --> 00:01:31,005
+deplasarea plăcii, densitatea
+superficială de sarcină nu se modifică,
+
+24
+00:01:31,005 --> 00:01:34,042
+tot ceea ce fac 
+este să măresc distanţa.
+
+25
+00:01:34,042 --> 00:01:39,004
+Creez prin urmare
+un câmp electric aici.
+
+26
+00:01:39,004 --> 00:01:41,004
+Pentru asta
+trebuie să efectuez lucru mecanic,
+
+27
+00:01:41,004 --> 00:01:43,069
+putem privi şi aşa
+această problemă.
+
+28
+00:01:43,069 --> 00:01:47,047
+Cât lucru mecanic trebuie să efectuez?
+Care este lucrul mecanic pe care Walter
+
+29
+00:01:47,047 --> 00:01:52,034
+Lewin trebuie să-l efectueze pentru
+a deplasa această placă pe distanţa x?
+
+30
+00:01:52,034 --> 00:01:55,094
+Acesta este egal cu forţa
+aplicată pe distanţa
+
+31
+00:01:55,094 --> 00:01:58,078
+x.
+Forţa este constantă,
+
+32
+00:01:58,078 --> 00:02:01,065
+prin urmare pot înmulţi
+forţa cu distanţa
+
+33
+00:02:01,065 --> 00:02:05,052
+şi obţin lucrul mecanic.
+Întrebarea este acum,
+
+34
+00:02:05,052 --> 00:02:10,043
+care este forţa necesară
+deplasării acestei plăci în sus?
+
+35
+00:02:10,043 --> 00:02:14,074
+Intuiţia vă spune că 
+această forţă este
+
+36
+00:02:14,074 --> 00:02:18,001
+sarcina plăcii ori
+intensitatea câmpului electric,
+
+37
+00:02:18,001 --> 00:02:21,002
+nimic rău în asta,
+pentru că, veţi spune,
+
+38
+00:02:21,002 --> 00:02:24,005
+„Păi, dacă avem un câmp
+electric E, şi aducem o sarcină Q
+
+39
+00:02:24,005 --> 00:02:27,004
+în acest câmp,
+atunci forţa electrică este Q ori E,
+
+40
+00:02:27,004 --> 00:02:31,003
+trebuie să înving acea forţă,
+astfel că forţa mea este Q ori E.” Da,
+
+41
+00:02:31,003 --> 00:02:34,023
+acest lucru este adevărat de obicei.
+Dar nu şi în acest caz.
+
+42
+00:02:34,023 --> 00:02:37,073
+Aici e puţin mai subtil.
+Să analizăm
+
+43
+00:02:37,073 --> 00:02:42,003
+această placă.
+Aici este acea placă.
+
+44
+00:02:42,003 --> 00:02:46,093
+Aceasta este grosimea
+plăcii, este o singură placă.
+
+45
+00:02:46,093 --> 00:02:50,074
+Ştim că sarcina pozitivă
+se află la suprafaţă,
+
+46
+00:02:50,074 --> 00:02:54,002
+dar, desigur,
+trebuie să fie în placă.
+
+47
+00:02:54,002 --> 00:02:58,006
+Avem aşadar un strat
+de sarcină Q, în partea
+
+48
+00:02:58,006 --> 00:03:01,004
+inferioară a plăcii.
+Grosimea acelui strat
+
+49
+00:03:01,004 --> 00:03:03,006
+poate fi
+doar o grosime atomică.
+
+50
+00:03:03,006 --> 00:03:07,035
+Dar nu este zero.
+În această parte a plăcii
+
+51
+00:03:07,035 --> 00:03:10,069
+avem câmpul electric,
+egal cu σ împărţit la
+
+52
+00:03:10,069 --> 00:03:13,006
+ε0.
+Dar în interiorul plăcii,
+
+53
+00:03:13,006 --> 00:03:17,001
+placa fiind conductoare,
+câmpul electric este zero.
+
+54
+00:03:17,001 --> 00:03:20,052
+Aşadar,
+câmpul electric,
+
+55
+00:03:20,052 --> 00:03:25,000
+în locaţia sarcinii Q,
+este media dintre cele două.
+
+56
+00:03:25,000 --> 00:03:29,000
+Iar forţa asupra
+aceste sarcini, în acest strat,
+
+57
+00:03:29,000 --> 00:03:33,004
+nu este Q ori E,
+ci este 1/2 Q ori E.
+
+58
+00:03:33,004 --> 00:03:35,047
+Considerăm media
+dintre aceste două câmpuri E,
+
+59
+00:03:35,047 --> 00:03:38,040
+acest câmp E fiind
+valoarea acestuia.
+
+60
+00:03:38,040 --> 00:03:43,073
+Pot acum calcula lucrul 
+mecanic ce trebuie să-l efectuez,
+
+61
+00:03:43,073 --> 00:03:47,072
+iar acesta 
+este egal cu forţa,
+
+62
+00:03:47,072 --> 00:03:54,000
+adică 1/2 Q ori E,
+aplicată pe o distanţă
+
+63
+00:03:54,000 --> 00:04:00,050
+x.
+Pot înlocui
+
+64
+00:04:00,050 --> 00:04:07,000
+Q cu σ A,
+obţinând 1/2 σ A ori
+
+65
+00:04:07,000 --> 00:04:12,094
+E ori x. Înmulţesc
+cu ε0 şi la numărător şi
+
+66
+00:04:12,094 --> 00:04:17,028
+la numitor,
+adică o înmulţire cu unu.
+
+67
+00:04:17,028 --> 00:04:19,063
+Motivul
+acestei înmulţiri este că
+
+68
+00:04:19,063 --> 00:04:23,068
+obţin un nou raport
+între σ şi ε0
+
+69
+00:04:23,068 --> 00:04:26,004
+raport 
+egal cu E,
+
+70
+00:04:26,004 --> 00:04:28,078
+şi obţin că 
+lucrul mecanic total
+
+71
+00:04:28,078 --> 00:04:33,000
+pe care eu, Walter Lewin, trebuie
+să-l efectuez, este egal cu 1/2 ori
+
+72
+00:04:33,000 --> 00:04:40,044
+ε0 E la pătrat ori A ori x.
+Uitaţi-vă la asta.
+
+73
+00:04:40,044 --> 00:04:44,001
+A ori x este volumul
+ce l-am creat,
+
+74
+00:04:44,001 --> 00:04:49,000
+este volumul în care
+am creat câmp electric.
+
+75
+00:04:49,000 --> 00:04:58,003
+Acest rezultat 
+poate fi exprimat ca lucrul mecanic
+
+76
+00:04:58,003 --> 00:05:03,003
+efectuat de Walter Lewin,
+pe unitate de volum,
+
+77
+00:05:03,003 --> 00:05:07,048
+egal cu
+1/2 ε0
+
+78
+00:05:07,048 --> 00:05:12,003
+ori E la pătrat.
+Acesta este lucrul mecanic
+
+79
+00:05:12,003 --> 00:05:16,085
+efectuat pe unitate de volum.
+Din moment ce acest lucru mecanic a creat
+
+80
+00:05:16,085 --> 00:05:21,001
+câmp electric,
+îl numim „densitatea
+
+81
+00:05:21,001 --> 00:05:24,004
+de energie a câmpului.”
+Unitatea de măsură este jouli pe
+
+82
+00:05:24,004 --> 00:05:28,007
+pe metru cub.
+Putem arăta că,
+
+83
+00:05:28,007 --> 00:05:33,002
+în general, densitatea 
+de energie a câmpului este 1/2
+
+84
+00:05:33,002 --> 00:05:36,058
+ε0 ori E la pătrat,
+nu doar în cazul acestei configuraţii
+
+85
+00:05:36,058 --> 00:05:39,005
+particulare de sarcină,
+ci pentru orice configuraţie
+
+86
+00:05:39,005 --> 00:05:42,003
+de sarcină.
+Avem acum
+
+87
+00:05:42,003 --> 00:05:45,007
+un nou mod de a privi
+energia necesară
+
+88
+00:05:45,007 --> 00:05:49,028
+asamblării sarcinilor.
+Mai devreme, am calculat lucrul mecanic
+
+89
+00:05:49,028 --> 00:05:52,055
+necesar pentru
+aducerea sarcinilor împreună,
+
+90
+00:05:52,055 --> 00:05:54,077
+acum, dacă ne
+este mai la îndemână,
+
+91
+00:05:54,077 --> 00:05:59,002
+putem calcula energia.
+Energia potenţială
+
+92
+00:05:59,002 --> 00:06:05,085
+electrostatică este integrală
+din 1/2 ε0 ori E la pătrat,
+
+93
+00:06:05,085 --> 00:06:09,006
+pe întreg spaţiul -- dacă 
+este necesar, trebuie să evaluăm
+
+94
+00:06:09,006 --> 00:06:14,002
+integrala până la infinit --
+aici avem dV,
+
+95
+00:06:14,002 --> 00:06:17,001
+adică un volum.
+Acest V nu are nicio
+
+96
+00:06:17,001 --> 00:06:19,069
+legătură cu potenţialul.
+În fizică rămânem adesea fără
+
+97
+00:06:19,069 --> 00:06:22,072
+simboluri, V reprezintă 
+câteodată potenţialul, în acest caz,
+
+98
+00:06:22,072 --> 00:06:26,042
+reprezintă volumul.
+Singurul motiv pentru care am ales
+
+99
+00:06:26,042 --> 00:06:28,055
+h acolo, este pentru 
+că am deja aici un
+
+100
+00:06:28,055 --> 00:06:31,075
+d, şi nu am vrut doi de d.
+În mod normal, distanţa
+
+101
+00:06:31,075 --> 00:06:36,066
+dintre plăci o notăm cu d.
+Putem acum privi
+
+102
+00:06:36,066 --> 00:06:39,000
+energia potenţială
+electrostatică dintr-un alt punct
+
+103
+00:06:39,000 --> 00:06:41,006
+de vedere,
+şi anume,
+
+104
+00:06:41,006 --> 00:06:44,033
+că întreaga energie
+se află în câmpul electric.
+
+105
+00:06:44,033 --> 00:06:47,000
+Nu ne mai imaginăm această energie
+ca fiind lucrul mecanic
+
+106
+00:06:47,000 --> 00:06:51,078
+ce trebuie efectuat
+pentru asamblarea acestor sarcini.
+
+107
+00:06:51,078 --> 00:06:55,075
+Vă voi demonstra mai încolo
+că pentru a separa cele două
+
+108
+00:06:55,075 --> 00:06:59,005
+plăci,
+cele două plane încărcate,
+
+109
+00:06:59,005 --> 00:07:01,055
+trebuie într-adevăr
+să efectuez lucru mecanic.
+
+110
+00:07:01,055 --> 00:07:05,002
+Vă voi convinge că
+pentru crearea câmpurilor electrice
+
+111
+00:07:05,002 --> 00:07:10,032
+voi efectua lucru mecanic.
+De acum înainte
+
+112
+00:07:10,032 --> 00:07:13,001
+putem alege.
+Dacă dorim calcularea
+
+113
+00:07:13,001 --> 00:07:18,000
+energiei potenţiale electrostatice,
+putem fie să calculăm
+
+114
+00:07:18,000 --> 00:07:21,025
+lucrul mecanic necesar
+pentru aducerea tuturor sarcinilor în
+
+115
+00:07:21,025 --> 00:07:24,038
+locaţiile lor, sau, dacă este mai uşor,
+putem integra câmpul
+
+116
+00:07:24,038 --> 00:07:26,066
+electric 
+pe întreg spaţiul,
+
+117
+00:07:26,066 --> 00:07:30,042
+în cazul în care
+cunoaştem acest câmp electric.
+
+118
+00:07:30,042 --> 00:07:32,002
+Putem face acest lucru,
+de exemplu,
+
+119
+00:07:32,002 --> 00:07:36,002
+pentru aceste două plăci paralele,
+şi ne putem întreba care este
+
+120
+00:07:36,002 --> 00:07:40,003
+energia totală a câmpului
+acestor plăci.
+
+121
+00:07:40,003 --> 00:07:43,040
+V-aş sugera
+ca acasă
+
+122
+00:07:43,040 --> 00:07:46,047
+să calculaţi energia
+precum vă este prezentat în carte,
+
+123
+00:07:46,047 --> 00:07:49,068
+adică prin asamblarea
+tuturor sarcinilor -Q în partea
+
+124
+00:07:49,068 --> 00:07:53,004
+inferioară şi +Q în partea superioară,
+calculând astfel valoarea lucrului mecanic
+
+125
+00:07:53,004 --> 00:07:55,002
+efectuat.
+Aceasta e una din metode.
+
+126
+00:07:55,002 --> 00:07:58,000
+Voi aplica acum
+cealaltă metodă, şi anume,
+
+127
+00:07:58,000 --> 00:08:04,002
+spunem că energia totală
+din câmpul acestor
+
+128
+00:08:04,002 --> 00:08:08,043
+plăci paralele
+este integrală din 1/2
+
+129
+00:08:08,043 --> 00:08:13,007
+ε0 ori E la pătrat,
+pe întreg volumul din jurul acestor
+
+130
+00:08:13,007 --> 00:08:15,085
+două plăci.
+Din moment ce câmpul electric este
+
+131
+00:08:15,085 --> 00:08:18,078
+zero în exterior,
+integrala este foarte
+
+132
+00:08:18,078 --> 00:08:21,032
+simplă,
+pentru că ştiu volumul.
+
+133
+00:08:21,032 --> 00:08:25,004
+Volumul este,
+dacă distanţa este h,
+
+134
+00:08:25,004 --> 00:08:29,006
+acest volum 
+este pur şi simplu A
+
+135
+00:08:29,006 --> 00:08:32,033
+ori h, iar câmpul electric
+este constant,
+
+136
+00:08:32,033 --> 00:08:38,000
+iar integrala
+este egală cu 1/2 ε0.
+
+137
+00:08:38,000 --> 00:08:41,085
+Pe E îl pot scrie 
+ca σ împărţit la
+
+138
+00:08:41,085 --> 00:08:44,096
+ε0
+totul la pătrat,
+
+139
+00:08:44,096 --> 00:08:48,059
+iar dV,
+integrala pe întreg spaţiul,
+
+140
+00:08:48,059 --> 00:08:52,096
+este egal cu A ori h,
+adică volumul acelei cutii.
+
+141
+00:08:52,096 --> 00:08:56,008
+Înmulţesc aşadar cu A ori h.
+Aceasta este energia
+
+142
+00:08:56,008 --> 00:09:00,004
+totală.
+Un ε0 se simplifică,
+
+143
+00:09:00,004 --> 00:09:02,086
+am un ε0 la pătrat
+şi un ε0.
+
+144
+00:09:02,086 --> 00:09:08,092
+Sarcina totală Q de pe placă
+este egală cu A ori σ,
+
+145
+00:09:08,092 --> 00:09:12,004
+iar diferenţa
+de potenţial V,
+
+146
+00:09:12,004 --> 00:09:15,000
+acesta nu este un volum
+ci diferenţa de potenţial
+
+147
+00:09:15,000 --> 00:09:21,051
+dintre plăci,
+este egală cu câmpul electric ori h.
+
+148
+00:09:21,051 --> 00:09:23,036
+Câmpul electric între 
+cele două plăci este
+
+149
+00:09:23,036 --> 00:09:27,004
+constant, integrală din 
+E ori dl de la o placă la
+
+150
+00:09:27,004 --> 00:09:30,001
+la cealaltă îmi
+dă diferenţa de potenţial.
+
+151
+00:09:30,001 --> 00:09:31,075
+Pot înlocui
+toate aceste rezultate
+
+152
+00:09:31,077 --> 00:09:38,003
+aici,
+şi obţinem că energia
+
+153
+00:09:38,003 --> 00:09:41,001
+este egală cu
+1/2 Q ori V.
+
+154
+00:09:41,001 --> 00:09:43,002
+V reprezentând acum
+diferenţa potenţială
+
+155
+00:09:43,002 --> 00:09:45,009
+dintre plăci.
+Aceasta este o metodă destul
+
+156
+00:09:45,009 --> 00:09:50,009
+de rapidă pentru calcularea
+energiei totale înmagazinate în
+
+157
+00:09:50,009 --> 00:09:53,004
+câmpul electric, 
+sau, identic,
+
+158
+00:09:53,004 --> 00:09:56,006
+lucrul mecanic total efectuat
+pentru asamblarea acestor sarcini.
+
+159
+00:09:56,006 --> 00:10:00,002
+Sau, folosind o altă exprimare,
+lucrul mecanic total ce trebuie efectuat
+
+160
+00:10:00,002 --> 00:10:03,005
+pentru crearea câmpurilor electrice.
+Am creat
+
+161
+00:10:03,005 --> 00:10:08,094
+câmpuri electrice
+ce nu au existat înainte acolo.
+
+162
+00:10:08,094 --> 00:10:11,006
+Voi introduce
+acum
+
+163
+00:10:11,006 --> 00:10:19,003
+un nou concept, şi anume,
+„capacitatea electrică”.
+
+164
+00:10:19,003 --> 00:10:25,072
+Definim capacitatea
+unui obiect ca fiind sarcina
+
+165
+00:10:25,072 --> 00:10:33,015
+acelui obiect împărţită la
+potenţialul acelui obiect.
+
+166
+00:10:33,015 --> 00:10:38,033
+Unitatea este aşadar
+coulomb pe volt, acest V este volt,
+
+167
+00:10:38,033 --> 00:10:41,008
+adică potenţial.
+Dar avem o altă denumire
+
+168
+00:10:41,008 --> 00:10:46,005
+pentru raportul coulomb volt,
+şi anume faradul,
+
+169
+00:10:46,005 --> 00:10:48,007
+cu simbolul
+F.
+
+170
+00:10:48,007 --> 00:10:52,009
+Un farad reprezintă unitatea 
+de măsură a capacităţii, denumire folosită
+
+171
+00:10:52,009 --> 00:10:56,001
+în cinstea marelui maestru Faraday,
+vom învăţa mai multe despre
+
+172
+00:10:56,001 --> 00:11:00,005
+Faraday în acest curs.
+Să considerăm acum
+
+173
+00:11:00,005 --> 00:11:06,004
+o sferă de rază R,
+şi să calculăm
+
+174
+00:11:06,004 --> 00:11:10,063
+capacitatea acestei sfere.
+O considerăm ca fiind
+
+175
+00:11:10,063 --> 00:11:13,009
+un conductor.
+Aducem o anumită sarcină Q pe
+
+176
+00:11:13,009 --> 00:11:18,002
+acest conductor,
+iar potenţialul V a sferei
+
+177
+00:11:18,002 --> 00:11:23,000
+va fi Q împărţit la
+4πε0R.
+
+178
+00:11:23,000 --> 00:11:27,007
+Am văzut această ecuaţie
+de multe ori. Prin definiţie,
+
+179
+00:11:27,007 --> 00:11:32,003
+capacitatea este raportul
+dintre Q şi potenţial,
+
+180
+00:11:32,003 --> 00:11:38,030
+şi prin urmare,
+capacitatea este 4πε0R.
+
+181
+00:11:38,030 --> 00:11:40,015
+Aceasta
+este capacitatea unei
+
+182
+00:11:40,015 --> 00:11:45,001
+singure sfere.
+Să vedem câteva valori
+
+183
+00:11:45,001 --> 00:11:49,045
+ale capacităţii
+în funcţie de R.
+
+184
+00:11:49,045 --> 00:11:51,038
+Am aici câteva rezultate,
+am calculat-o pentru
+
+185
+00:11:51,038 --> 00:11:57,033
+Van der Graaff
+şi pentru Pământ.
+
+186
+00:11:57,033 --> 00:12:01,002
+Dacă dorim o 
+capacitate de un Farad, o
+
+187
+00:12:01,002 --> 00:12:05,002
+imensitate, avem nevoie
+de o rază de 9 ori 10^9 metri,
+
+188
+00:12:05,002 --> 00:12:08,000
+datorită acelui 
+4πε0.
+
+189
+00:12:08,000 --> 00:12:10,000
+Această rază este imensă,
+este de 25 de ori
+
+190
+00:12:10,000 --> 00:12:13,000
+distanţa Pământ-Lună,
+o sferă foarte mare pentru
+
+191
+00:12:13,000 --> 00:12:16,004
+o capacitate de un Farad.
+Pământul însuşi,
+
+192
+00:12:16,004 --> 00:12:19,004
+cu o rază de 
+64.000 de kilometri,
+
+193
+00:12:19,004 --> 00:12:21,009
+ar avea o capacitate de
+700 μF, iar Van der Graaff-ul,
+
+194
+00:12:21,009 --> 00:12:24,007
+cu o rază de 30 de centimetri,
+ar avea 30 pF,
+
+195
+00:12:24,007 --> 00:12:27,006
+unde pico este egal
+cu 10^ -12.
+
+196
+00:12:27,006 --> 00:12:30,003
+Iar dacă avem o sferă
+cu o rază de un centimetru,
+
+197
+00:12:30,003 --> 00:12:33,001
+atunci avem,
+cu aproximaţie,
+
+198
+00:12:33,001 --> 00:12:36,078
+1 pF,
+10^ -12 Farazi.
+
+199
+00:12:36,078 --> 00:12:38,086
+Vă puteţi face aşadar 
+o idee aproximativă
+
+200
+00:12:38,086 --> 00:12:44,004
+legată de mărimea 
+obiectelor şi capacitatea lor.
+
+201
+00:12:44,004 --> 00:12:47,000
+Dacă aducem
+toate aceste sfere
+
+202
+00:12:47,000 --> 00:12:50,003
+la acelaşi potenţial,
+le încarc aşadar cu
+
+203
+00:12:50,003 --> 00:12:53,001
+acelaşi potenţial,
+atunci sfera cu cea mai mare
+
+204
+00:12:53,001 --> 00:12:57,007
+capacitate va avea 
+sarcina cea mai mare.
+
+205
+00:12:57,007 --> 00:13:00,005
+De aici vine
+şi cuvântul „capacitate”,
+
+206
+00:13:00,005 --> 00:13:03,008
+o caracteristică a obiectelor
+de a menţine o anumită sarcină
+
+207
+00:13:03,008 --> 00:13:07,040
+pentru un potenţial electric dat.
+Nu confundaţi capacitatea cu
+
+208
+00:13:07,040 --> 00:13:09,048
+câmpurile electrice,
+pentru că dacă aducem toate aceste
+
+209
+00:13:09,048 --> 00:13:12,004
+sfere la acelaşi potenţial,
+atunci sfera cu cel mai intens
+
+210
+00:13:12,004 --> 00:13:15,005
+câmp electric
+este sfera cu cea
+
+211
+00:13:15,005 --> 00:13:16,058
+mai
+mică rază,
+
+212
+00:13:16,058 --> 00:13:22,003
+am văzut asta data trecută.
+Vom considera acum
+
+213
+00:13:22,003 --> 00:13:26,061
+o situaţie
+puţin diferită.
+
+214
+00:13:26,061 --> 00:13:32,068
+Am aici
+o sferă B,
+
+215
+00:13:32,068 --> 00:13:36,001
+încărcată pozitiv,
+ce se află în apropierea unei alte
+
+216
+00:13:36,001 --> 00:13:40,078
+sfere A,
+încărcată negativ.
+
+217
+00:13:40,078 --> 00:13:45,003
+Prin definiţie,
+capacitatea sferei
+
+218
+00:13:45,003 --> 00:13:49,096
+B este egală
+cu sarcina de pe B
+
+219
+00:13:49,096 --> 00:13:55,064
+împărţită la potenţialul lui B.
+Conform definiţiei.
+
+220
+00:13:55,064 --> 00:14:00,002
+Dar am aici
+acest obiect încărcat
+
+221
+00:14:00,002 --> 00:14:05,078
+negativ.
+Cum am definit potenţialul?
+
+222
+00:14:05,078 --> 00:14:07,061
+Potenţialul reprezintă  
+lucrul mecanic pe unitate
+
+223
+00:14:07,061 --> 00:14:09,095
+de sarcină.
+Mă duc la infinit,
+
+224
+00:14:09,095 --> 00:14:14,000
+iau o sarcină +q în buzunar,
+mă apropii de B,
+
+225
+00:14:14,000 --> 00:14:17,050
+iar lucrul mecanic efectuat
+pe unitate de sarcină este egal cu potenţialul
+
+226
+00:14:17,050 --> 00:14:20,077
+lui B, 
+aceasta este definiţia potenţialului.
+
+227
+00:14:20,077 --> 00:14:24,001
+Dar B mă respinge. Trebuie să 
+efectuez aşadar lucru mecanic pozitiv.
+
+228
+00:14:24,001 --> 00:14:27,007
+Dar A mă atrage. 
+Lucrul mecanic total este
+
+229
+00:14:27,007 --> 00:14:32,000
+aşadar mai mic.
+Datorită prezenţei sferei
+
+230
+00:14:32,000 --> 00:14:35,009
+A, potenţialul sferei B
+descreşte, şi prin urmare
+
+231
+00:14:35,009 --> 00:14:42,001
+capacitatea lui B creşte.
+Concluzia este că
+
+232
+00:14:42,001 --> 00:14:47,000
+prezenţa acestei sfere 
+încărcate are o influenţă majoră,
+
+233
+00:14:47,000 --> 00:14:50,007
+un impact important
+asupra capacităţii lui B,
+
+234
+00:14:50,007 --> 00:14:52,004
+şi,
+prin urmare,
+
+235
+00:14:52,004 --> 00:14:57,003
+nu este corect să
+definim astfel capacitatea sferei B.
+
+236
+00:14:57,003 --> 00:15:00,004
+Aceasta este mai degrabă
+capacitatea lui B în prezenţa
+
+237
+00:15:00,004 --> 00:15:04,009
+lui A.
+Nu avem doar sfera B singură.
+
+238
+00:15:04,009 --> 00:15:09,000
+Voi modifica
+definiţia capacităţii.
+
+239
+00:15:09,000 --> 00:15:11,078
+O voi modifica
+astfel.
+
+240
+00:15:11,078 --> 00:15:15,002
+Am doi conductori.
+Aceşti conductori posedă
+
+241
+00:15:15,002 --> 00:15:19,001
+aceeaşi sarcină
+dar polarităţi diferite.
+
+242
+00:15:19,001 --> 00:15:24,000
+Capacitatea acestei combinaţii 
+de doi conductori este egală cu
+
+243
+00:15:24,000 --> 00:15:27,006
+sarcina unuia dintre ei --
+sarcina este egală,
+
+244
+00:15:27,006 --> 00:15:31,004
+desigur, cu sarcina celuilalt,
+dar de polaritate diferită
+
+245
+00:15:31,004 --> 00:15:35,005
+-- împărţită la
+diferenţa de potenţial.
+
+246
+00:15:35,005 --> 00:15:41,002
+Aceasta este
+noua definiţie a
+
+247
+00:15:41,002 --> 00:15:44,000
+capacităţii. Avem tot
+timpul de-a face cu două
+
+248
+00:15:44,000 --> 00:15:46,079
+obiecte, nu cu un singur
+obiect izolat. Dacă avem
+
+249
+00:15:46,079 --> 00:15:49,004
+sarcina pe unul dintre ele,
+o împărţim la
+
+250
+00:15:49,004 --> 00:15:52,000
+diferenţa de
+potenţial dintre ele.
+
+251
+00:15:52,000 --> 00:15:54,003
+Veţi spune,
+„Mda, exemplul e exagerat,
+
+252
+00:15:54,003 --> 00:15:56,006
+adică, avem doi
+conductori, unul
+
+253
+00:15:56,006 --> 00:15:58,007
+încărcat pozitiv,
+iar celălalt încărcat cu exact aceeaşi
+
+254
+00:15:58,007 --> 00:16:01,003
+cantitate de 
+sarcină negativă.” Pai,
+
+255
+00:16:01,003 --> 00:16:03,007
+nu este atât 
+de exagerat precum credeţi.
+
+256
+00:16:03,007 --> 00:16:06,012
+Ţineţi minte
+în cazul Wimshurst-ului
+
+257
+00:16:06,012 --> 00:16:09,001
+de exemplu,
+o placă a fost încărcată
+
+258
+00:16:09,001 --> 00:16:10,066
+pozitiv, 
+iar cealaltă negativ.
+
+259
+00:16:10,066 --> 00:16:13,076
+Şi fără să fac nimic special,
+dacă una devine pozitivă,
+
+260
+00:16:13,076 --> 00:16:16,009
+cealaltă devine negativă
+cu exact aceeaşi cantitate,
+
+261
+00:16:16,009 --> 00:16:20,004
+pentru că nu putem
+crea sarcină din nimic.
+
+262
+00:16:20,004 --> 00:16:23,003
+Dacă încărcăm un obiect 
+pozitiv, mai mult ca sigur
+
+263
+00:16:23,003 --> 00:16:26,007
+că un alt obiect se va 
+încărca negativ cu aceeaşi cantitate,
+
+264
+00:16:26,007 --> 00:16:29,007
+dar cu polaritate opusă.
+Aşa că nu este exagerat
+
+265
+00:16:29,007 --> 00:16:33,000
+să avem doi conductori
+cu aceeaşi sarcină dar de
+
+266
+00:16:33,000 --> 00:16:39,000
+polarităţi opuse.
+Avem acum doi conductori,
+
+267
+00:16:39,000 --> 00:16:42,006
+cele două
+plăci paralele,
+
+268
+00:16:42,006 --> 00:16:44,006
+şi vrem să 
+aflăm
+
+269
+00:16:44,006 --> 00:16:47,006
+capacitatea
+conform
+
+270
+00:16:47,006 --> 00:16:52,004
+noii definiţii.
+Capacitatea acestora, C,
+
+271
+00:16:52,004 --> 00:16:55,009
+este egală cu sarcina
+uneia dintre plăci împărţită la diferenţa
+
+272
+00:16:55,009 --> 00:16:58,078
+de potenţial
+dintre cele două plăci.
+
+273
+00:16:58,078 --> 00:17:03,000
+Sarcina unei plăci
+este egală cu σ A.
+
+274
+00:17:03,000 --> 00:17:05,072
+Iar diferenţa de potenţial
+dintre plăci este egală cu
+
+275
+00:17:05,072 --> 00:17:09,062
+integrală din E ori dl,
+distanţa dintre ele este
+
+276
+00:17:09,062 --> 00:17:12,002
+h. Voi nota
+acum distanţa cu
+
+277
+00:17:12,002 --> 00:17:14,002
+d, pentru că
+este folosită mai
+
+278
+00:17:14,002 --> 00:17:17,002
+des, distanţa
+dintre plăci se notează cu d.
+
+279
+00:17:17,002 --> 00:17:19,008
+Nu am vrut 
+să pun d acolo
+
+280
+00:17:19,008 --> 00:17:22,001
+pentru că
+nu am vrut să vă încurc,
+
+281
+00:17:22,001 --> 00:17:25,000
+dar acum nu mai este nicio confuzie.
+Diferenţa de potenţial aşadar
+
+282
+00:17:25,000 --> 00:17:30,000
+este egală cu câmpul electric
+dintre plăci ori distanţa d.
+
+283
+00:17:30,000 --> 00:17:32,000
+Dar E este egal
+cu σ împărţit la
+
+284
+00:17:32,000 --> 00:17:34,048
+ε0,
+şi obţinem
+
+285
+00:17:34,048 --> 00:17:38,083
+σ  împărţit la ε0
+împărţit la d.
+
+286
+00:17:38,083 --> 00:17:42,011
+σ se simplifică,
+iar capacitatea celor
+
+287
+00:17:42,011 --> 00:17:49,001
+două plăci este aceasta.
+Este direct proporţională cu
+
+288
+00:17:49,001 --> 00:17:53,002
+aria plăcilor,
+ceea ce puteam intui.
+
+289
+00:17:53,002 --> 00:17:55,007
+Cu cât placa este mai mare,
+cu atât putem pune mai multă
+
+290
+00:17:55,007 --> 00:17:57,009
+sarcină pe ea.
+Şi este invers proporţională
+
+291
+00:17:57,009 --> 00:17:59,008
+cu distanţa
+dintre plăci.
+
+292
+00:17:59,008 --> 00:18:01,044
+Cu cât distanţa este 
+mai mică, cu atât capacitatea
+
+293
+00:18:01,044 --> 00:18:04,003
+este mai mare.
+Rezultatul este în concordanţă
+
+294
+00:18:04,003 --> 00:18:07,009
+cu cel precedent, cu cât
+A este mai apropiată de B, cu atât
+
+295
+00:18:07,009 --> 00:18:10,043
+capacitatea este mai mare.
+Dacă le aducem foarte
+
+296
+00:18:10,043 --> 00:18:13,007
+aproape una de cealaltă,
+acest potenţial scade
+
+297
+00:18:13,007 --> 00:18:15,004
+iar capacitatea
+creşte.
+
+298
+00:18:15,004 --> 00:18:18,070
+Nu este atât de surprinzător 
+prin urmare că vedeţi d la numitor.
+
+299
+00:18:18,070 --> 00:18:22,003
+Cu cât apropiem plăcile
+cu atât capacitatea lor
+
+300
+00:18:22,003 --> 00:18:28,001
+va fi mai mare.
+Să introducem şi
+
+301
+00:18:28,001 --> 00:18:34,007
+câteva valori.
+Să presupunem că am o placă,
+
+302
+00:18:34,007 --> 00:18:42,080
+foarte mare, cu o lungime
+de 25 de metri şi lată de 5 centimetri.
+
+303
+00:18:42,080 --> 00:18:45,070
+Lungă de 25 de metri
+şi lată de 5 centimetri.
+
+304
+00:18:45,070 --> 00:18:51,000
+Am două astfel de plăci.
+Acestea poartă numele de condensator.
+
+305
+00:18:51,000 --> 00:18:55,008
+Să considerăm
+că distanţa dintre ele, d,
+
+306
+00:18:55,008 --> 00:18:59,003
+este foarte mică,
+pentru că vrem un condensator
+
+307
+00:18:59,003 --> 00:19:03,002
+foarte mare,
+0,01 milimetri.
+
+308
+00:19:03,002 --> 00:19:08,006
+O distanţă foarte mică.
+Să înlocuim
+
+309
+00:19:08,006 --> 00:19:12,003
+valorile acum,
+putem calcula aria,
+
+310
+00:19:12,003 --> 00:19:14,009
+aria plăcilor 
+trebuie calculată în metri
+
+311
+00:19:14,009 --> 00:19:17,007
+pătraţi, desigur,
+înmulţită cu ε0
+
+312
+00:19:17,007 --> 00:19:21,001
+şi totul împărţit la d.
+După efectuarea calculelor,
+
+313
+00:19:21,001 --> 00:19:26,001
+capacitatea acestui
+monstru este de doar un
+
+314
+00:19:26,001 --> 00:19:30,001
+microfarad.
+Nu foarte mult.
+
+315
+00:19:30,001 --> 00:19:33,001
+Când mergeţi la magazinul
+de electronice şi cumpăraţi un
+
+316
+00:19:33,001 --> 00:19:35,068
+condensator de un microfarad,
+nu cumpăraţi un condensator
+
+317
+00:19:35,068 --> 00:19:39,006
+de 25 de metri lungime
+şi atât de gros.
+
+318
+00:19:39,006 --> 00:19:42,072
+Dar s-ar putea
+ca de fapt să cumpăraţi aşa ceva
+
+319
+00:19:42,072 --> 00:19:48,002
+fără să vă daţi seama.
+Pentru că aceste plăci mari,
+
+320
+00:19:48,002 --> 00:19:53,004
+aceste benzi conductoare
+foarte mari, două benzi foarte apropiate
+
+321
+00:19:53,004 --> 00:19:56,002
+una de cealaltă,
+separate printr-un material izolator,
+
+322
+00:19:56,002 --> 00:19:58,007
+foarte subţire,
+sunt înfăşurate strâns.
+
+323
+00:19:58,007 --> 00:20:00,005
+Nu realizaţi acest lucru,
+dar ele sunt înfăşurate
+
+324
+00:20:00,005 --> 00:20:02,068
+şi puse într-un mic 
+recipient, ce reprezintă
+
+325
+00:20:02,068 --> 00:20:07,084
+de fapt condensatorul.
+Am adus unul cu mine,
+
+326
+00:20:07,084 --> 00:20:11,004
+un condensator
+ce-l folosesc de câţiva ani,
+
+327
+00:20:11,004 --> 00:20:15,001
+dar l-am desfăcut 
+ca să putem
+
+328
+00:20:15,001 --> 00:20:18,008
+privi în interior.
+Puteţi vedea
+
+329
+00:20:18,008 --> 00:20:22,007
+recipientul
+în care
+
+330
+00:20:22,007 --> 00:20:26,007
+a fost,
+am tăiat recipientul,
+
+331
+00:20:26,007 --> 00:20:29,009
+iar în interior
+vedem acest
+
+332
+00:20:29,009 --> 00:20:33,006
+conductor -- arată precum
+folia de aluminiu -- iar aici este
+
+333
+00:20:33,006 --> 00:20:35,060
+materialul izolator
+şi apoi iarăşi material
+
+334
+00:20:35,060 --> 00:20:38,002
+conductor, pe cealaltă parte.
+Întregul condensator este
+
+335
+00:20:38,002 --> 00:20:41,003
+înfăşurat.
+Dacă-l desfac --
+
+336
+00:20:41,003 --> 00:20:44,000
+îl stric acum, dar nu este
+nicio problemă -- aceasta este
+
+337
+00:20:44,000 --> 00:20:50,000
+ideea unui condensator,
+felul în care poate fi înfăşurat
+
+338
+00:20:50,000 --> 00:20:53,004
+fără a ne da seama
+că avem de-a face adesea
+
+339
+00:20:53,004 --> 00:20:58,008
+cu metri,
+mulţi metri de material.
+
+340
+00:20:58,008 --> 00:21:01,089
+Prin metode chimice,
+distanţa d poate fi
+
+341
+00:21:01,089 --> 00:21:05,055
+micşorată de 
+1.000 de ori faţă de aceasta.
+
+342
+00:21:05,055 --> 00:21:07,055
+Iar dacă distanţa
+este de 1.000 de ori mai mică,
+
+343
+00:21:07,055 --> 00:21:09,007
+capacitatea
+obţinută este de
+
+344
+00:21:09,007 --> 00:21:13,006
+1.000 de microfarazi,
+faţă de Pământ,
+
+345
+00:21:13,006 --> 00:21:16,005
+a cărui capacitate este 
+de doar 700 de microfarazi.
+
+346
+00:21:16,005 --> 00:21:22,042
+Un astfel de condensator
+are 1.000 de microfarazi.
+
+347
+00:21:22,042 --> 00:21:25,008
+Dacă aplicăm o 
+diferenţă de potenţial aici,
+
+348
+00:21:25,008 --> 00:21:28,007
+obţinem o cantitate
+uriaşa de sarcină pe condensator.
+
+349
+00:21:28,007 --> 00:21:33,004
+De fapt, dacă-l ţin în mâini,
+şi dacă presupun că
+
+350
+00:21:33,004 --> 00:21:37,002
+diferenţa de potenţial dintre
+mâna stângă şi cea dreaptă este
+
+351
+00:21:37,002 --> 00:21:40,003
+de 10 mV,
+voi aduce pe acest condensator
+
+352
+00:21:40,003 --> 00:21:45,006
+o sarcină de 10 μC.
+O cantitate uriaşă
+
+353
+00:21:45,006 --> 00:21:48,004
+de sarcină.
+În realitate, 10 μC reprezintă
+
+354
+00:21:48,004 --> 00:21:51,077
+sarcina maximă ce o pot
+pune vreodată pe Van der Graaff-ul mare,
+
+355
+00:21:51,077 --> 00:21:54,002
+am calculat asta data trecută.
+Dacă punem mai multă sarcină pe
+
+356
+00:21:54,002 --> 00:21:56,009
+Van der Graaff, 
+apare descărcarea electrică.
+
+357
+00:21:56,009 --> 00:21:59,006
+Şi prin simplul fapt 
+că-l ţin pe acesta în mâini, pot pune
+
+358
+00:21:59,006 --> 00:22:03,001
+10 μC
+pe acest condensator.
+
+359
+00:22:03,001 --> 00:22:05,001
+Veţi spune acum,
+„Mda, dar
+
+360
+00:22:05,001 --> 00:22:07,006
+diferenţa de potenţial 
+dintre mâna stângă şi cea
+
+361
+00:22:07,006 --> 00:22:10,000
+dreaptă, 10 mV,
+nu e cam exagerat?
+
+362
+00:22:10,000 --> 00:22:13,006
+Nu, nu prea.
+Într-un curs
+
+363
+00:22:13,006 --> 00:22:16,007
+viitor vom discuta 
+despre electrocardiograme.
+
+364
+00:22:16,007 --> 00:22:19,004
+Veţi vedea atunci
+că există o diferenţă
+
+365
+00:22:19,004 --> 00:22:22,004
+de potenţial între partea stângă 
+şi partea dreapta a corpului vostru
+
+366
+00:22:22,004 --> 00:22:25,004
+de câţiva milivolţi.
+Nu este aşadar atât de exagerat
+
+367
+00:22:25,004 --> 00:22:29,002
+precum aţi putea crede.
+Vom realiza o
+
+368
+00:22:29,002 --> 00:22:31,044
+electrocardiogramă la curs,
+şi veţi vedea că acest lucru
+
+369
+00:22:31,044 --> 00:22:37,002
+este adevărat.
+Câtă energie pot stoca
+
+370
+00:22:37,002 --> 00:22:40,004
+într-un condensator?
+Păi, am calcula deja
+
+371
+00:22:40,004 --> 00:22:43,002
+asta.
+Am calculat energia
+
+372
+00:22:43,002 --> 00:22:49,003
+stocată într-un
+condensator, 1/2 Q ori V.
+
+373
+00:22:49,003 --> 00:22:55,004
+Putem
+înlocui aici
+
+374
+00:22:55,004 --> 00:23:02,009
+capacitatea C,
+egală cu Q împărţit la V,
+
+375
+00:23:02,009 --> 00:23:08,005
+iar această ecuaţie este
+egală cu 1/2 C ori V la pătrat, e
+
+376
+00:23:08,005 --> 00:23:11,005
+acelaşi lucru.
+Fie luăm sarcina
+
+377
+00:23:11,005 --> 00:23:14,009
+de pe condensator
+şi o înmulţim cu V,
+
+378
+00:23:14,009 --> 00:23:19,007
+fie luăm capacitatea
+şi o înmulţim cu V la pătrat.
+
+379
+00:23:19,007 --> 00:23:23,001
+Capacitatea nu depinde
+niciodată de sarcina aflată
+
+380
+00:23:23,001 --> 00:23:25,005
+pe obiect.
+Dacă ne uităm aici,
+
+381
+00:23:25,005 --> 00:23:28,007
+capacitatea depinde
+doar de geometria obiectului.
+
+382
+00:23:28,007 --> 00:23:31,003
+Chiar şi
+în cazul condensatorului,
+
+383
+00:23:31,003 --> 00:23:35,004
+depinde doar de geometrie,
+nu apare niciunde
+
+384
+00:23:35,004 --> 00:23:39,012
+sarcina.
+Am afirmat că pot pune
+
+385
+00:23:39,012 --> 00:23:44,007
+10 μC pe acest 
+condensator, şi totuşi,
+
+386
+00:23:44,007 --> 00:23:47,007
+capacitatea maximă 
+de pe Van der Graaff este tot de
+
+387
+00:23:47,007 --> 00:23:49,007
+10 μC,
+peste această valoare
+
+388
+00:23:49,007 --> 00:23:53,009
+apare descărcarea electrică.
+Ne putem imagina condensatorul
+
+389
+00:23:53,009 --> 00:23:59,003
+ca fiind un dispozitiv
+pentru stocarea energiei electrice.
+
+390
+00:23:59,003 --> 00:24:05,000
+V-am promis
+că vă voi demonstra
+
+391
+00:24:05,000 --> 00:24:09,002
+necesitatea efectuării
+de lucru mecanic pentru crearea
+
+392
+00:24:09,002 --> 00:24:11,001
+câmpurilor electrice.
+Cu alte cuvinte,
+
+393
+00:24:11,001 --> 00:24:14,005
+în cazul acestor două plăci
+încărcate, dacă măresc distanţa
+
+394
+00:24:14,005 --> 00:24:18,004
+dintre ele, efectuez
+lucru mecanic pozitiv.
+
+395
+00:24:18,004 --> 00:24:21,000
+Cum pot să
+vă demonstrez acest lucru?
+
+396
+00:24:21,000 --> 00:24:23,008
+Am două plăci paralele.
+Sunt acolo pe masă,
+
+397
+00:24:23,008 --> 00:24:27,008
+le veţi vedea
+proiectate acolo imediat.
+
+398
+00:24:27,008 --> 00:24:31,000
+Avem aici
+un ampermetru,
+
+399
+00:24:31,000 --> 00:24:35,009
+A-ul e de la amperi,
+simbolul ampermetrului,
+
+400
+00:24:35,009 --> 00:24:40,002
+şi cu ajutorul unei surse
+de tensiune voi aplica o diferenţă
+
+401
+00:24:40,002 --> 00:24:43,008
+de potenţial pe aceste capete.
+Aceasta este capacitatea C,
+
+402
+00:24:43,008 --> 00:24:49,002
+pentru condensator folosim
+de obicei simbolul celor două linii paralele,
+
+403
+00:24:49,002 --> 00:24:53,005
+voi aplica o diferenţă
+de potenţial V de 1.000 de volţi
+
+404
+00:24:53,005 --> 00:24:56,001
+la bornele condensatorului.
+Punem un delta aici,
+
+405
+00:24:56,001 --> 00:24:58,067
+ca să nu uităm că
+este diferenţa dintre cele două
+
+406
+00:24:58,067 --> 00:25:01,007
+plăci.
+După asta,
+
+407
+00:25:01,007 --> 00:25:05,004
+după ce conectez sursa
+de tensiune la cele două capete,
+
+408
+00:25:05,004 --> 00:25:08,002
+va exista o deplasare
+de sarcină şi veţi vedea un
+
+409
+00:25:08,002 --> 00:25:12,008
+curent instantaneu foarte mare.
+Ampermetrul va indica,
+
+410
+00:25:12,008 --> 00:25:15,000
+doar pentru perioada
+foarte scurtă de încărcare,
+
+411
+00:25:15,000 --> 00:25:18,000
+vă va arăta
+că există o deplasare
+
+412
+00:25:18,000 --> 00:25:20,000
+de sarcină.
+Veţi vedea acest lucru.
+
+413
+00:25:20,000 --> 00:25:24,001
+Dar nu acesta
+este scopul demonstraţiei.
+
+414
+00:25:24,001 --> 00:25:28,000
+Voi
+mări apoi
+
+415
+00:25:28,000 --> 00:25:32,004
+distanţa d
+dintre aceste două plăci.
+
+416
+00:25:32,004 --> 00:25:36,001
+Ţineţi minte că diferenţa de
+potenţial dintre cele două
+
+417
+00:25:36,001 --> 00:25:40,003
+plăci, adică a condensatorului,
+este egală cu câmpul electric
+
+418
+00:25:40,003 --> 00:25:42,000
+ori distanţa,
+iar câmpul electric
+
+419
+00:25:42,000 --> 00:25:45,002
+este constant.
+Dacă încarc condensatorul
+
+420
+00:25:45,002 --> 00:25:48,004
+cu o anumită sarcină,
++Q aici,
+
+421
+00:25:48,004 --> 00:25:51,003
+-Q acolo,
+iar apoi îndepărtez sursa
+
+422
+00:25:51,003 --> 00:25:54,066
+de tensiune,
+această sarcină rămâne acolo,
+
+423
+00:25:54,066 --> 00:25:57,031
+nu poate varia.
+Dacă sarcina nu
+
+424
+00:25:57,031 --> 00:26:00,001
+variază, atunci nici 
+densitatea superficială de sarcină
+
+425
+00:26:00,001 --> 00:26:02,000
+nu variază,
+iar câmpul electric
+
+426
+00:26:02,000 --> 00:26:05,007
+din interior rămâne constant.
+Exact asta am făcut acolo.
+
+427
+00:26:05,007 --> 00:26:09,003
+Acum le voi voi 
+îndepărta una de cealaltă,
+
+428
+00:26:09,003 --> 00:26:14,000
+adică voi creşte distanţa d,
+iar acest lucru poate avea loc doar
+
+429
+00:26:14,000 --> 00:26:17,001
+dacă diferenţa de potenţial
+dintre plăci creşte.
+
+430
+00:26:17,001 --> 00:26:19,007
+Voi începe
+cu 1.000 de volţi,
+
+431
+00:26:19,007 --> 00:26:23,003
+distanţa d fiind de un milimetru,
+şi voi mări distanţa
+
+432
+00:26:23,003 --> 00:26:26,002
+până la 10 milimetri.
+Diferenţa de potenţial
+
+433
+00:26:26,002 --> 00:26:30,002
+va fi apoi
+de 10.000 de volţi.
+
+434
+00:26:30,002 --> 00:26:36,000
+Dar din moment ce energia
+condensatorului este 1/2 Q ori
+
+435
+00:26:36,000 --> 00:26:39,005
+diferenţa de potenţial V,
+acest V este acelaşi cu delta V,
+
+436
+00:26:39,005 --> 00:26:45,004
+iar dacă Q nu variază
+deşi V creşte de la
+
+437
+00:26:45,004 --> 00:26:48,004
+1.000 de volţi la
+10.000 de volţi, este evident că
+
+438
+00:26:48,004 --> 00:26:50,008
+trebuie să efectuez lucru mecanic,
+am crescut
+
+439
+00:26:50,008 --> 00:26:54,000
+energia potenţială electrostatică.
+Vreau să vă arăt acest
+
+440
+00:26:54,000 --> 00:26:59,006
+lucru acolo.
+Să ajustăm lumina
+
+441
+00:27:02,004 --> 00:27:07,001
+ca să 
+puteţi vedea,
+
+442
+00:27:07,001 --> 00:27:10,001
+o închidem pe asta,
+şi pe asta.
+
+443
+00:27:10,001 --> 00:27:14,002
+Aşteptăm
+două secunde.
+
+444
+00:27:14,002 --> 00:27:19,003
+Vrem să 
+vedem şi ampermetrul.
+
+445
+00:27:19,003 --> 00:27:23,001
+Vedeţi ampermetrul
+în partea dreaptă,
+
+446
+00:27:23,001 --> 00:27:26,006
+iar dincoace
+vedeţi cele două
+
+447
+00:27:26,006 --> 00:27:30,007
+plăci, cu o distanţă
+de aproximativ un milimetru între ele.
+
+448
+00:27:30,007 --> 00:27:35,007
+Am aici o folie 
+foarte subţire pe care o deplasez
+
+449
+00:27:35,007 --> 00:27:39,005
+între plăci pentru a mă
+asigura că nu sunt în contact.
+
+450
+00:27:39,005 --> 00:27:43,045
+Aici este sursa de tensiune,
+iar aici am
+
+451
+00:27:43,045 --> 00:27:47,055
+un fel de
+voltmetru.
+
+452
+00:27:47,055 --> 00:27:49,034
+Dacă
+se deplasează în
+
+453
+00:27:49,034 --> 00:27:51,002
+această direcţie,
+înseamnă că tensiunea
+
+454
+00:27:51,002 --> 00:27:55,003
+dintre plăci creşte.
+Îl voi încărca
+
+455
+00:27:55,003 --> 00:28:00,000
+acum cu o diferenţă 
+de potenţial de 1.000 de volţi.
+
+456
+00:28:00,000 --> 00:28:02,058
+Pe măsură ce fac asta,
+veţi vedea o creştere bruscă
+
+457
+00:28:02,058 --> 00:28:07,008
+a curentului prin ampermetru.
+Nu e foarte spectaculos,
+
+458
+00:28:07,008 --> 00:28:10,002
+dar cel puţin veţi
+pute vedea pentru prima
+
+459
+00:28:10,002 --> 00:28:14,009
+dată că există o deplasare de
+sarcină dinspre sursa de tensiune
+
+460
+00:28:14,009 --> 00:28:16,006
+înspre plăci.
+Veţi vedea
+
+461
+00:28:16,006 --> 00:28:19,005
+asta şi gata.
+Curentul există atâta
+
+462
+00:28:19,005 --> 00:28:23,003
+timp cât există deplasare
+de sarcină. Să începem aşadar,
+
+463
+00:28:23,003 --> 00:28:26,090
+uitaţi-vă la ampermetru,
+trei, doi, unu,
+
+464
+00:28:26,090 --> 00:28:30,002
+zero. Doar de atât 
+a fost nevoie pentru a încărca
+
+465
+00:28:30,002 --> 00:28:33,008
+aceste plăci.
+Condensatorul este acum complet încărcat,
+
+466
+00:28:33,008 --> 00:28:37,005
+o diferenţă de 1.000 de volţi.
+Voi mări
+
+467
+00:28:37,005 --> 00:28:40,008
+acum distanţa.
+Sarcina de pe plăci
+
+468
+00:28:40,008 --> 00:28:43,005
+nu are unde să se ducă,
+astfel că ampermetrul
+
+469
+00:28:43,005 --> 00:28:48,000
+nu va indica mare lucru, 
+poate chiar nimic, dar veţi vedea acest
+
+470
+00:28:48,000 --> 00:28:50,009
+voltmetru ce indică
+diferenţa de potenţial dintre
+
+471
+00:28:50,009 --> 00:28:54,004
+plăci, veţi vedea că 
+se va deplasa, pentru că efectuez
+
+472
+00:28:54,004 --> 00:28:57,074
+lucru mecanic,
+trec de la unu la zece milimetri,
+
+473
+00:28:57,074 --> 00:29:01,001
+creez câmpuri electrice,
+iar acest lucru mecanic determină
+
+474
+00:29:01,001 --> 00:29:05,002
+creşterea potenţialului
+de la 1.000 de volţi la
+
+475
+00:29:05,002 --> 00:29:09,003
+10.000 de volţi.
+Să începem,
+
+476
+00:29:09,003 --> 00:29:11,056
+sunt la doi milimetri acum,
+uitaţi-vă la voltmetru,
+
+477
+00:29:11,056 --> 00:29:14,005
+se deplasează,
+trei milimetri,
+
+478
+00:29:14,005 --> 00:29:17,001
+eu lucrez aici din greu
+pe când voi nu faceţi nimic,
+
+479
+00:29:17,001 --> 00:29:20,009
+patru milimetri.
+Creez câmpuri electrice,
+
+480
+00:29:20,009 --> 00:29:23,008
+ar trebui să fiţi mândri
+de mine, creez un câmp electric,
+
+481
+00:29:23,008 --> 00:29:26,003
+uitaţi-vă.
+Câmpul electric dintre plăci
+
+482
+00:29:26,003 --> 00:29:29,000
+rămâne constant
+pentru că sarcina nu variază,
+
+483
+00:29:29,000 --> 00:29:33,000
+sarcina nu se poate deplasa niciunde.
+Sunt la şapte milimetri acum,
+
+484
+00:29:33,000 --> 00:29:37,004
+7.000 de volţi,
+8.000 de volţi,
+
+485
+00:29:37,004 --> 00:29:39,069
+nouă milimetri,
+9.000 de volţi.
+
+486
+00:29:39,069 --> 00:29:41,057
+Observaţi că
+ampermetrul nu face nimic,
+
+487
+00:29:41,057 --> 00:29:44,008
+nu există deplasare
+de sarcină înspre sau
+
+488
+00:29:44,008 --> 00:29:47,007
+dinspre plăci.
+Sunt la zece milimetri,
+
+489
+00:29:47,007 --> 00:29:51,000
+şi am creat acum
+un volum imens de câmp electric,
+
+490
+00:29:51,000 --> 00:29:54,005
+iar diferenţa de potenţial
+este de zece ori mai mare decât
+
+491
+00:29:54,005 --> 00:29:57,000
+înainte,
+prin urmare, vedeţi
+
+492
+00:29:57,000 --> 00:30:01,001
+am efectuat într-adevăr lucru mecanic.
+Vedeţi asta
+
+493
+00:30:01,001 --> 00:30:06,005
+cu ochii voştri.
+Să oprim aparatele
+
+494
+00:30:06,005 --> 00:30:11,006
+şi să 
+aprindem lumina.
+
+495
+00:30:21,063 --> 00:30:26,005
+Am aici un
+condensator de 100 μF,
+
+496
+00:30:26,005 --> 00:30:30,000
+este o jucărie periculoasă,
+şi îl putem încărca la 3.000
+
+497
+00:30:30,000 --> 00:30:35,000
+de volţi
+obţinând o sarcină de
+
+498
+00:30:35,000 --> 00:30:40,025
+0,3 coulombi
+pe acest condensator.
+
+499
+00:30:40,025 --> 00:30:48,003
+Să luăm nişte valori,
+aşadar, 100
+
+500
+00:30:48,003 --> 00:30:52,009
+de μF,
+diferenţa de potenţial este de
+
+501
+00:30:52,009 --> 00:30:57,005
+3.000 de volţi,
+obţinând o sarcină Q de
+
+502
+00:30:57,005 --> 00:31:01,009
+0,3 coulombi,
+iar asta înseamnă că 1/2 C
+
+503
+00:31:01,009 --> 00:31:04,005
+ori V la pătrat,
+adică energia înmagazinată
+
+504
+00:31:04,005 --> 00:31:07,006
+în condensator,
+este de 450
+
+505
+00:31:07,006 --> 00:31:11,055
+de jouli.
+Încărcarea va dura 15
+
+506
+00:31:11,055 --> 00:31:15,000
+minute.
+Îl voi încărca
+
+507
+00:31:15,000 --> 00:31:18,008
+acum, pentru că voi
+avea nevoie de el
+
+508
+00:31:18,008 --> 00:31:24,002
+la sfârşitul cursului.
+Veţi vedea acolo
+
+509
+00:31:24,002 --> 00:31:28,007
+diferenţa de potenţial a condensatorului,
+diferenţă ce variază
+
+510
+00:31:28,007 --> 00:31:34,004
+încet. 
+Vom urmări această diferenţă
+
+511
+00:31:34,004 --> 00:31:37,003
+şi când va fi
+complet încărcat
+
+512
+00:31:37,003 --> 00:31:41,001
+vom ajunge la sfârşitul
+cursului şi apoi putem
+
+513
+00:31:41,001 --> 00:31:43,009
+continua.
+Aici este
+
+514
+00:31:43,009 --> 00:31:47,008
+acest monstru,
+100 μF,
+
+515
+00:31:47,008 --> 00:31:51,006
+îi spun monstru pentru că
+energia ce o poate
+
+516
+00:31:51,006 --> 00:31:54,006
+stoca este înspăimântătoare,
+sunt 450 de
+
+517
+00:31:54,006 --> 00:31:59,049
+jouli.
+Sursa de tensiune este aici,
+
+518
+00:31:59,049 --> 00:32:03,001
+suficientă pentru
+cei
+
+519
+00:32:03,001 --> 00:32:06,004
+3.000 de volţi.
+Aceasta este de fapt tensiunea
+
+520
+00:32:06,004 --> 00:32:09,000
+sursei de tensiune,
+aproximativ
+
+521
+00:32:09,000 --> 00:32:12,004
+3.800 de volţi.
+Ideea este că
+
+522
+00:32:12,004 --> 00:32:16,001
+voi încărca
+acest condensator,
+
+523
+00:32:16,001 --> 00:32:20,004
+trebuie să fiu tot
+timpul foarte atent ca să nu greşesc
+
+524
+00:32:20,004 --> 00:32:24,001
+pentru că acest dispozitiv
+poate fi letal dacă nu
+
+525
+00:32:24,001 --> 00:32:27,036
+eşti atent.
+Cred că suntem gata.
+
+526
+00:32:27,036 --> 00:32:30,004
+În momentul în care
+voi încărca acest condensator,
+
+527
+00:32:30,004 --> 00:32:32,094
+afişajul vă va indica
+diferenţa de potenţial dintre
+
+528
+00:32:32,094 --> 00:32:36,007
+aceste plăci.
+Va dura ceva timp
+
+529
+00:32:36,007 --> 00:32:40,006
+până când 
+va ajunge la 3.000 de volţi.
+
+530
+00:32:40,006 --> 00:32:46,009
+Cred că totul este pregătit
+şi îi pot da drumul.
+
+531
+00:32:46,009 --> 00:32:49,007
+Vedeţi că diferenţa
+de potenţial dintre
+
+532
+00:32:49,007 --> 00:32:52,005
+plăci este foarte mică,
+aproape de zero,
+
+533
+00:32:52,005 --> 00:32:55,003
+dar dacă aşteptăm
+câteva secunde, vom vedea că
+
+534
+00:32:55,003 --> 00:32:59,006
+se încarcă
+foarte încet,
+
+535
+00:32:59,006 --> 00:33:03,004
+iar după 15 minute
+va fi foarte aproape de
+
+536
+00:33:03,004 --> 00:33:06,005
+3.000 de volţi.
+Ne vom reîntoarce atunci
+
+537
+00:33:06,005 --> 00:33:08,005
+la această demonstraţie.
+Îl voi lăsa acum
+
+538
+00:33:08,005 --> 00:33:17,002
+să se încarce.
+Bliţul funcţionează
+
+539
+00:33:17,002 --> 00:33:22,006
+pe principiul încărcării unui condensator
+şi al descărcării acestuia pe
+
+540
+00:33:22,006 --> 00:33:27,004
+o sursă de lumină.
+Ideea de bază este că avem
+
+541
+00:33:27,004 --> 00:33:33,005
+un condensator
+pe care îl
+
+542
+00:33:33,005 --> 00:33:38,083
+încărcăm
+cu o anumită energie,
+
+543
+00:33:38,083 --> 00:33:43,000
+energie ce o descărcăm
+apoi pe un bec.
+
+544
+00:33:43,000 --> 00:33:47,004
+Aici este condensatorul
+ce-l vom încărca,
+
+545
+00:33:47,004 --> 00:33:50,000
+avem aici 
+un întrerupător şi aici
+
+546
+00:33:50,000 --> 00:33:54,004
+un bec. La închiderea
+întrerupătorului, întreaga energie
+
+547
+00:33:54,004 --> 00:33:58,008
+va merge pe bec.
+Dacă asta este încărcată pozitiv
+
+548
+00:33:58,008 --> 00:34:01,007
+şi asta negativ,
+vom avea un curent
+
+549
+00:34:01,007 --> 00:34:05,007
+şi vom vedea
+o descărcare luminoasă.
+
+550
+00:34:05,007 --> 00:34:08,005
+Am aici 
+un condensator de
+
+551
+00:34:08,005 --> 00:34:14,003
+1.000 μF.
+C-ul este egal cu 1.000
+
+552
+00:34:14,003 --> 00:34:18,006
+de microfarazi. 
+Voi aplica o diferenţă de potenţial
+
+553
+00:34:18,006 --> 00:34:24,072
+de 100 de volţi pe acest condensator,
+obţinând astfel o energie de
+
+554
+00:34:24,072 --> 00:34:32,000
+1/2 C ori V la pătrat,
+adică 5 jouli.
+
+555
+00:34:32,000 --> 00:34:35,004
+De fapt, acesta nu este
+doar un singur condensator ci 12
+
+556
+00:34:35,004 --> 00:34:39,003
+condensatoare conectate 
+astfel încât cele 12
+
+557
+00:34:39,003 --> 00:34:44,004
+condensatoare de 80 μF fiecare
+dau un condensator echivalent de
+
+558
+00:34:44,004 --> 00:34:50,010
+1.000 μF.
+Îl voi încărca
+
+559
+00:34:50,010 --> 00:34:53,009
+şi îl voi 
+descărca apoi pe
+
+560
+00:34:53,009 --> 00:34:57,013
+sursa de lumina.
+Veţi putea observa
+
+561
+00:34:57,013 --> 00:34:59,065
+o cantitate de lumină
+în funcţie de valoarea
+
+562
+00:34:59,065 --> 00:35:05,001
+energiei.
+Fiţi atenţi la acest
+
+563
+00:35:05,001 --> 00:35:09,003
+bec.
+Ar trebui să vedeţi
+
+564
+00:35:09,003 --> 00:35:13,099
+cei 100 de volţi acolo, îi vedeţi?
+L-am setat la 100 de volţi
+
+565
+00:35:13,099 --> 00:35:16,078
+şi îl voi încărca.
+Pe măsură ce se
+
+566
+00:35:16,078 --> 00:35:20,048
+încarcă veţi vedea
+tensiunea la bornele condensatorului,
+
+567
+00:35:20,048 --> 00:35:22,088
+durează puţin
+până se încarcă.
+
+568
+00:35:22,088 --> 00:35:25,012
+Indicatorul trece rapid 
+la zero şi creşte încet
+
+569
+00:35:25,012 --> 00:35:27,009
+înapoi spre 100,
+poate dura cinci
+
+570
+00:35:27,009 --> 00:35:29,002
+sau zece secunde.
+Dacă sunteţi pregătiţi,
+
+571
+00:35:29,002 --> 00:35:33,001
+putem începe.
+A durat doar cinci sau şase secunde.
+
+572
+00:35:33,001 --> 00:35:36,000
+Avem 100 de volţi acolo,
+adică o energie
+
+573
+00:35:36,000 --> 00:35:40,001
+de cinci jouli
+ce o voi descărca
+
+574
+00:35:40,001 --> 00:35:43,002
+pe acest bec
+dacă sunteţi pregătiţi.
+
+575
+00:35:43,002 --> 00:35:45,005
+Trei,
+doi, unu, zero.
+
+576
+00:35:45,005 --> 00:35:48,004
+O cantitate mică de lumină.
+Văd că sunteţi
+
+577
+00:35:48,004 --> 00:35:52,001
+dezamăgiţi.
+Nu e foarte spectaculos.
+
+578
+00:35:52,001 --> 00:35:55,041
+Nu e chiar
+stilul meu, nu?
+
+579
+00:35:55,041 --> 00:35:59,001
+Putem mări
+tensiunea puţin.
+
+580
+00:36:01,001 --> 00:36:03,007
+Putem să o mărim
+la 250 de volţi,
+
+581
+00:36:03,007 --> 00:36:06,005
+caz în care,
+din moment ce depinde V la pătrat,
+
+582
+00:36:06,005 --> 00:36:08,009
+energia va creşte 
+de şase ori, până la 30
+
+583
+00:36:08,009 --> 00:36:11,009
+de jouli. 
+Să vedem dacă e mai
+
+584
+00:36:11,009 --> 00:36:15,003
+spectaculos acum.
+Trebuie să măresc
+
+585
+00:36:15,003 --> 00:36:18,008
+tensiunea la 250 de volţi.
+Vedeţi acum din nou
+
+586
+00:36:18,008 --> 00:36:23,054
+sursa de tensiune,
+250 de volţi,
+
+587
+00:36:23,054 --> 00:36:25,073
+ah, ce noroc,
+am nimerit
+
+588
+00:36:25,073 --> 00:36:28,000
+din prima,
+250 de volţi aşadar,
+
+589
+00:36:28,000 --> 00:36:30,007
+încarc condensatorul.
+Va dura puţin
+
+590
+00:36:30,007 --> 00:36:34,007
+mai mult.
+Vedeţi tensiunea pe condensator,
+
+591
+00:36:34,007 --> 00:36:36,007
+150,
+170,
+
+592
+00:36:36,007 --> 00:36:40,005
+200,
+250, gata.
+
+593
+00:36:40,005 --> 00:36:43,003
+Să vedem acum
+dacă obţinem mai multă lumină.
+
+594
+00:36:43,003 --> 00:36:46,007
+Energia a crescut
+de la 5 jouli la 30 de jouli.
+
+595
+00:36:46,007 --> 00:36:48,007
+Trei,
+doi, unu, zero.
+
+596
+00:36:48,007 --> 00:36:51,008
+Aşa 
+mai zic şi eu.
+
+597
+00:36:51,008 --> 00:36:56,006
+Vedeţi acum
+cum funcţionează un bliţ.
+
+598
+00:36:56,006 --> 00:36:59,009
+Cu siguranţă
+că avem cu toţii
+
+599
+00:36:59,009 --> 00:37:08,008
+instincte distructive.
+Aşa că vă întrebaţi, nu?
+
+600
+00:37:08,008 --> 00:37:12,008
+Vă gândiţi la acelaşi
+lucru la care mă gândesc şi eu.
+
+601
+00:37:12,008 --> 00:37:16,005
+Să încercăm la 340
+de volţi şi să vedem
+
+602
+00:37:16,005 --> 00:37:21,001
+dacă
+becul explodează?
+
+603
+00:37:21,001 --> 00:37:23,006
+Nu ştiu cât de sus 
+merge această sursă de tensiune,
+
+604
+00:37:23,006 --> 00:37:28,000
+să vedem.
+Să o dăm la maxim.
+
+605
+00:37:28,000 --> 00:37:30,000
+337
+de volţi.
+
+606
+00:37:30,000 --> 00:37:34,003
+Asta înseamnă
+că avem aproximativ 50 de jouli.
+
+607
+00:37:34,003 --> 00:37:40,005
+Depinde de tensiunea la pătrat.
+Să-l încărcam din nou,
+
+608
+00:37:40,005 --> 00:37:45,001
+se încarcă acum.
+200,
+
+609
+00:37:45,001 --> 00:37:51,003
+280, 300,
+gata, 337 de volţi.
+
+610
+00:37:51,004 --> 00:37:57,004
+Să vedem acum,
+aaah, am reuşit, l-am ars!
+
+611
+00:38:06,082 --> 00:38:10,004
+Am adus
+un bliţ,
+
+612
+00:38:12,061 --> 00:38:18,008
+şi acest bliţ are
+un condensator de aproximativ
+
+613
+00:38:18,008 --> 00:38:24,007
+5.000 μF, imens,
+condensator ce-l putem încărca la
+
+614
+00:38:24,007 --> 00:38:26,021
+o diferenţă de
+de potenţial de 100 de volţi.
+
+615
+00:38:26,021 --> 00:38:28,029
+Chiar dacă bateriile
+sunt de doar 6 volţi,
+
+616
+00:38:28,029 --> 00:38:33,000
+există acolo un circuit --
+vom învăţa despre asta mai încolo --
+
+617
+00:38:33,000 --> 00:38:35,003
+ce transformă 
+cei 6 volţi în 100 de volţi,
+
+618
+00:38:35,003 --> 00:38:39,001
+aşa că putem încărca
+acest condensator la 100 de volţi.
+
+619
+00:38:39,001 --> 00:38:41,003
+Asta înseamnă că
+1/2 C ori V la pătrat,
+
+620
+00:38:41,003 --> 00:38:43,007
+energia înmagazinată
+în acest condensator,
+
+621
+00:38:43,007 --> 00:38:48,001
+va fi de 25 de jouli.
+Pot să descarc această energie
+
+622
+00:38:48,001 --> 00:38:51,005
+pe bec
+determinând apariţia unei lumini
+
+623
+00:38:51,005 --> 00:38:55,007
+puternice, pentru că
+această descărcare are loc
+
+624
+00:38:55,007 --> 00:38:58,005
+în aproximativ o milisecundă.
+Obţinem aşadar o descărcare imensă
+
+625
+00:38:58,005 --> 00:39:02,005
+de lumină
+doar pentru acea milisecundă.
+
+626
+00:39:02,005 --> 00:39:05,000
+Vreau să 
+vă arăt acest lucru.
+
+627
+00:39:05,000 --> 00:39:08,005
+Singurul mod în care
+vă pot demonstra acest lucru, este dacă
+
+628
+00:39:08,005 --> 00:39:11,009
+îndrept bliţul spre voi.
+Nu vreau să vă stric
+
+629
+00:39:11,009 --> 00:39:15,006
+ochii, aşa că vă spun de pe acum.
+Încarc acum
+
+630
+00:39:15,006 --> 00:39:17,006
+condensatorul,
+va dura puţin,
+
+631
+00:39:17,006 --> 00:39:19,009
+şi vă voi
+face o poză
+
+632
+00:39:19,009 --> 00:39:23,007
+dacă tot folosesc aparatul.
+În spate este însă
+
+633
+00:39:23,007 --> 00:39:26,009
+întuneric,
+aşa că l-am rugat pe Marcos
+
+634
+00:39:26,009 --> 00:39:32,001
+şi pe Bill să folosească
+şi ei nişte bliţuri ce se vor declanşa
+
+635
+00:39:32,001 --> 00:39:34,049
+în acelaşi moment
+cu bliţul meu.
+
+636
+00:39:34,049 --> 00:39:37,011
+Veţi spune acum,
+„Păi, cu puteţi face acest lucru,
+
+637
+00:39:37,011 --> 00:39:39,002
+pentru că descărcarea
+durează doar
+
+638
+00:39:39,002 --> 00:39:41,006
+o milisecundă,
+cum le puteţi sincroniza?”
+
+639
+00:39:41,006 --> 00:39:44,007
+Păi, 
+acele bliţuri
+
+640
+00:39:44,007 --> 00:39:48,002
+aşteaptă ca lumina de la al meu
+să ajungă la ele, iar acest lucru
+
+641
+00:39:48,002 --> 00:39:50,054
+are loc cu viteza luminii.
+Ia mult mai puţin de
+
+642
+00:39:50,054 --> 00:39:53,004
+o milisecundă
+şi se vor declanşa în momentul
+
+643
+00:39:53,004 --> 00:39:55,005
+în care „văd”
+lumina de la bliţul meu.
+
+644
+00:39:58,000 --> 00:40:00,028
+Să vedem 
+dacă funcţionează.
+
+645
+00:40:00,028 --> 00:40:02,052
+Am un 
+indicator verde
+
+646
+00:40:02,052 --> 00:40:05,004
+aici, asta înseamnă
+că pot face poza,
+
+647
+00:40:05,004 --> 00:40:08,063
+da, poţi să, oh,
+nu trebuie să te piepteni
+
+648
+00:40:08,063 --> 00:40:11,000
+dar, 
+arăţi bine.
+
+649
+00:40:11,000 --> 00:40:13,008
+Un moment
+ca să focalizez,
+
+650
+00:40:13,008 --> 00:40:17,007
+pentru că e important.
+Fiţi atenţi la bliţ.
+
+651
+00:40:17,007 --> 00:40:21,006
+Sunteţi gata?
+Aţi văzut bliţul?
+
+652
+00:40:21,006 --> 00:40:24,001
+S-a declanşat?
+Da, s-a declanşat.
+
+653
+00:40:24,001 --> 00:40:26,004
+Puteţi spune da.
+S-au declanşat
+
+654
+00:40:26,004 --> 00:40:29,009
+şi celelalte bliţuri?
+Da, dar nu le-aţi văzut
+
+655
+00:40:29,009 --> 00:40:32,000
+încă, nu?
+Pentru că nu v-aţi uitat
+
+656
+00:40:32,000 --> 00:40:33,006
+la ele.
+Trebuia să
+
+657
+00:40:33,006 --> 00:40:36,005
+vă uitaţi la mine.
+Să facem o poză,
+
+658
+00:40:36,005 --> 00:40:40,000
+Marcos, Bill,
+îndreptaţi
+
+659
+00:40:40,000 --> 00:40:43,001
+bliţurile
+către studenţi
+
+660
+00:40:43,001 --> 00:40:47,005
+şi vom încerca din nou.
+Sunteţi gata?
+
+661
+00:40:47,005 --> 00:40:51,008
+Bine.
+Oh, mamă.
+
+662
+00:40:51,008 --> 00:40:54,000
+De ce nu
+zâmbiţi puţin?
+
+663
+00:40:54,000 --> 00:40:56,007
+Uitaţi-vă la mine,
+arătaţi foarte bine,
+
+664
+00:40:56,007 --> 00:41:01,003
+într-adevăr sunteţi,
+nu sunteţi focalizaţi.
+
+665
+00:41:01,003 --> 00:41:05,001
+O persoană doarme
+acolo, o lăsăm să doarmă,
+
+666
+00:41:05,001 --> 00:41:07,008
+nu e nicio problemă?
+A funcţionat?
+
+667
+00:41:07,008 --> 00:41:09,007
+Aţi văzut bliţul?
+L-aţi văzut, nu?
+
+668
+00:41:09,007 --> 00:41:13,001
+25 
+de jouli.
+
+669
+00:41:13,001 --> 00:41:16,009
+Dar cei de acolo
+nu l-au văzut încă. Marcos, Bill,
+
+670
+00:41:16,009 --> 00:41:19,009
+să mergem în partea cealaltă
+ca să poată şi ei vedea
+
+671
+00:41:19,009 --> 00:41:24,005
+această descărcare luminoasă.
+Aducem şi celelalte
+
+672
+00:41:24,005 --> 00:41:30,008
+bliţuri acolo.
+Să vedem cum
+
+673
+00:41:30,008 --> 00:41:34,008
+funcţionează,
+fiţi atenţi la bliţ,
+
+674
+00:41:34,008 --> 00:41:38,002
+foarte bine,
+veţi vedea încă 25 de jouli
+
+675
+00:41:38,002 --> 00:41:41,009
+prin acest bec.
+Foarte bine,
+
+676
+00:41:41,009 --> 00:41:45,009
+oh, oh, da,
+da, uh, da,
+
+677
+00:41:45,009 --> 00:41:47,039
+nu vi se vede
+gura de mână,
+
+678
+00:41:47,039 --> 00:41:50,004
+e în regulă,
+mulţumesc.
+
+679
+00:41:50,004 --> 00:41:52,007
+Foarte bine.
+Aţi văzut descărcarea?
+
+680
+00:41:52,007 --> 00:41:55,005
+Au funcţionat şi
+celelalte bliţuri?
+
+681
+00:41:55,005 --> 00:42:00,002
+Acesta este principiul
+de funcţionare al bliţurilor.
+
+682
+00:42:00,002 --> 00:42:04,001
+Descărcăm o cantitate mare 
+de energie într-un interval scurt de timp
+
+683
+00:42:04,001 --> 00:42:08,009
+şi obţinem o descărcare 
+luminoasă foarte intensă.
+
+684
+00:42:08,009 --> 00:42:14,003
+Profesorul Edgerton de la MIT
+a devenit celebru datorită
+
+685
+00:42:14,003 --> 00:42:18,007
+bliţurilor sale.
+Acesta a inventat bliţuri
+
+686
+00:42:18,007 --> 00:42:21,061
+capabile să descarce o cantitate 
+mult mai mare de energie decât acest
+
+687
+00:42:21,061 --> 00:42:25,001
+bliţ, iar această energie
+poate fi descărcată în mai puţin de
+
+688
+00:42:25,001 --> 00:42:28,057
+o microsecundă.
+Această descoperire a deschis drumul
+
+689
+00:42:28,057 --> 00:42:32,004
+fotografiei de mare viteză,
+făcând posibilă
+
+690
+00:42:32,004 --> 00:42:36,098
+studierea deplasării obiectelor
+pe durate de timp de ordinul microsecundelor,
+
+691
+00:42:36,098 --> 00:42:41,094
+şi chiar mai puţin.
+Vă voi arăta câteva
+
+692
+00:42:41,094 --> 00:42:47,007
+poze realizate cu ajutorul
+bliţurilor lui Edgerton.
+
+693
+00:42:47,007 --> 00:42:52,000
+În prima poză vedeţi
+un glonţ apropiindu-se din
+
+694
+00:42:52,000 --> 00:42:56,009
+partea dreaptă înspre un bec.
+Timpul de expunere a acestei
+
+695
+00:42:56,009 --> 00:42:59,005
+poze
+este de doar 1/3
+
+696
+00:42:59,005 --> 00:43:04,000
+microsecunde, interval
+în care glonţul s-a deplasat probabil doar
+
+697
+00:43:04,000 --> 00:43:06,004
+o treime de milimetru,
+arată aşadar de parcă
+
+698
+00:43:06,004 --> 00:43:09,009
+ar sta pe loc.
+Pe bec scrie
+
+699
+00:43:09,009 --> 00:43:14,000
+dezastru, dar el
+nu ştie asta încă.
+
+700
+00:43:14,000 --> 00:43:16,004
+Glonţul
+se deplasează
+
+701
+00:43:16,004 --> 00:43:19,025
+cu aproximativ 8 centimetri
+într-un interval de 100 de microsecunde,
+
+702
+00:43:19,025 --> 00:43:23,009
+iar poza următoare este 
+realizată 100 de microsecunde mai târziu,
+
+703
+00:43:23,009 --> 00:43:25,008
+din nou
+o expunere de 1/3
+
+704
+00:43:25,008 --> 00:43:27,009
+microsecunde.
+Dacă putem vedea poza,
+
+705
+00:43:27,009 --> 00:43:30,007
+uitaţi-o,
+glonţul pătrunde
+
+706
+00:43:30,007 --> 00:43:33,066
+chiar acum în bec,
+iar următoarea poză este realizată
+
+707
+00:43:33,066 --> 00:43:37,004
+după alte 100 de microsecunde,
+timp în care
+
+708
+00:43:37,004 --> 00:43:40,002
+glonţul iese
+pe partea cealaltă a becului.
+
+709
+00:43:40,002 --> 00:43:42,005
+Becul
+abia şi-a dat
+
+710
+00:43:42,005 --> 00:43:47,001
+seama că este distrus.
+Dar începe să realizeze
+
+711
+00:43:47,001 --> 00:43:54,005
+acest lucru.
+Următoarea poză
+
+712
+00:43:54,005 --> 00:43:57,003
+este a unui băieţel
+ce sparge un balon,
+
+713
+00:43:57,003 --> 00:44:01,000
+o jumătate de balon
+nici nu ştie încă
+
+714
+00:44:01,000 --> 00:44:07,008
+faptul că este spart.
+Edgerton
+
+715
+00:44:07,008 --> 00:44:13,007
+a realizat 
+de asemenea multe tipuri
+
+716
+00:44:13,007 --> 00:44:17,009
+de stroboscoape.
+Un stroboscop, am unul aici,
+
+717
+00:44:17,009 --> 00:44:24,006
+este un instrument
+care descarcă în mod repetat
+
+718
+00:44:24,006 --> 00:44:29,001
+energia asupra unui bec,
+obţinându-se astfel
+
+719
+00:44:29,001 --> 00:44:32,007
+descărcări succesive,
+adică
+
+720
+00:44:32,007 --> 00:44:39,005
+un astfel 
+de instrument.
+
+721
+00:44:39,005 --> 00:44:42,000
+Le-aţi văzut şi în practică,
+sunt folosite pe
+
+722
+00:44:42,000 --> 00:44:46,001
+avioane ca şi dispozitive de atenţionare,
+le-aţi văzut şi
+
+723
+00:44:46,001 --> 00:44:48,088
+în aeroporturi 
+tot pentru atenţionare,
+
+724
+00:44:48,088 --> 00:44:51,063
+dar putem folosi 
+stroboscoapele la multe alte lucruri.
+
+725
+00:44:51,063 --> 00:44:54,000
+Vă voi arăta
+într-un curs viitor
+
+726
+00:44:54,000 --> 00:44:56,000
+cum putem
+măsura
+
+727
+00:44:56,000 --> 00:44:58,074
+viteza de rotaţie
+a motoarelor
+
+728
+00:44:58,074 --> 00:45:01,009
+cu ajutorul
+acestor stroboscoape.
+
+729
+00:45:01,009 --> 00:45:03,035
+Motoarele vor juca
+un rol mult mai important
+
+730
+00:45:03,035 --> 00:45:05,049
+în acest curs
+decât aţi fi crezut
+
+731
+00:45:05,049 --> 00:45:10,004
+la început.
+Puteţi de asemenea măsura
+
+732
+00:45:10,004 --> 00:45:14,004
+cu stroboscoapele 
+viteza de rotaţie
+
+733
+00:45:14,004 --> 00:45:16,091
+a picup-ului, dacă mai aveţi unul,
+putându-l apoi ajusta
+
+734
+00:45:16,091 --> 00:45:20,046
+la viteza
+dorită.
+
+735
+00:45:20,046 --> 00:45:23,000
+Putem face multe 
+lucruri cu stroboscoapele,
+
+736
+00:45:23,000 --> 00:45:27,052
+unele dintre ele
+le vom vedea în acest curs.
+
+737
+00:45:27,052 --> 00:45:34,004
+Mă reîntorc acum
+la acest condensator.
+
+738
+00:45:34,004 --> 00:45:37,003
+Să vedem
+ce mai face.
+
+739
+00:45:37,003 --> 00:45:39,009
+Suntem foarte
+aproape de 3.000,
+
+740
+00:45:39,009 --> 00:45:43,000
+adică ceea ce ne-am propus.
+Durează, după cum vedeţi,
+
+741
+00:45:43,000 --> 00:45:45,003
+aproximativ 15 minute
+pentru a atinge
+
+742
+00:45:45,003 --> 00:45:50,001
+3.000 de volţi pe acest
+condensator imens şi pentru a-l
+
+743
+00:45:50,001 --> 00:45:56,005
+încărca cu o energie
+de 450 de jouli.
+
+744
+00:45:56,005 --> 00:45:59,001
+De ce am vrut
+să vă arăt asta?
+
+745
+00:45:59,001 --> 00:46:02,047
+Vreau să înţelegeţi 
+ideea unei siguranţe fuzibile.
+
+746
+00:46:02,047 --> 00:46:05,003
+Aveţi multe siguranţe
+fuzibile acasă.
+
+747
+00:46:05,003 --> 00:46:10,088
+Acesta este un dispozitiv de siguranţă.
+Un fuzibil este ceva ce se topeşte,
+
+748
+00:46:10,088 --> 00:46:15,007
+ceva care se deschide 
+în cazul în care curentul este
+
+749
+00:46:15,007 --> 00:46:19,001
+prea mare.
+Să presupunem că avem un scurt,
+
+750
+00:46:19,001 --> 00:46:21,005
+un scurtcircuit electric,
+fără ca să ne dăm seama,
+
+751
+00:46:21,005 --> 00:46:25,000
+pe lampa de birou.
+Există pericolul apariţiei
+
+752
+00:46:25,000 --> 00:46:28,000
+unui curent foarte mare,
+dar siguranţa va spune atunci
+
+753
+00:46:28,000 --> 00:46:30,076
+„Îmi pare rău, nu poţi face asta.”
+şi siguranţa se va topi.
+
+754
+00:46:30,076 --> 00:46:34,002
+Acest lucru
+evită de fapt
+
+755
+00:46:34,002 --> 00:46:37,003
+un dezastru,
+ce ar putea duce
+
+756
+00:46:37,003 --> 00:46:40,000
+la un incendiu.
+Am văzut deja,
+
+757
+00:46:40,000 --> 00:46:43,002
+într-un fel, ideea unei siguranţe,
+pentru că atunci când am stricat
+
+758
+00:46:43,002 --> 00:46:46,007
+acest bec, becul s-a comportat
+precum o siguranţă fuzibilă.
+
+759
+00:46:46,007 --> 00:46:49,001
+Am descărcat prea
+multă energie prin acel bec,
+
+760
+00:46:49,001 --> 00:46:53,000
+iar becul însuşi 
+s-a comportat precum o siguranţă.
+
+761
+00:46:53,000 --> 00:46:58,001
+Aici avem însă
+o siguranţă mai apropiată de realitate,
+
+762
+00:46:58,001 --> 00:47:01,009
+avem un conductor acolo,
+un conductor de fier,
+
+763
+00:47:01,009 --> 00:47:10,006
+lung de 30 de centimetri,
+şi foarte subţire.
+
+764
+00:47:10,006 --> 00:47:13,043
+Vom descărca
+cei 450 de jouli
+
+765
+00:47:13,043 --> 00:47:17,000
+prin acel fir.
+Ideea este asemănătoare
+
+766
+00:47:17,000 --> 00:47:22,008
+cu utilizarea bliţului,
+avem această energie în
+
+767
+00:47:22,008 --> 00:47:26,001
+condensator,
+dar în loc să o descărcăm
+
+768
+00:47:26,001 --> 00:47:28,003
+pe bec
+conform acestei figuri,
+
+769
+00:47:28,003 --> 00:47:32,000
+avem acum un conductor
+şi în momentul în care închid acest
+
+770
+00:47:32,000 --> 00:47:35,004
+întrerupător, întreaga
+energie se va descărca pe fir.
+
+771
+00:47:35,004 --> 00:47:39,000
+S-ar putea 
+să vedeţi că
+
+772
+00:47:39,000 --> 00:47:42,001
+firul se va încălzi
+iar apoi se va topi,
+
+773
+00:47:42,001 --> 00:47:44,007
+asemenei 
+unei siguranţe fuzibile.
+
+774
+00:47:44,007 --> 00:47:47,003
+Este de asemenea posibil
+ca după acest experiment
+
+775
+00:47:47,003 --> 00:47:51,002
+să mai existe încă
+energie în acest condensator.
+
+776
+00:47:51,002 --> 00:47:54,007
+Vă pot arăta şi acest lucru,
+pentru că pot scurtcircuita
+
+777
+00:47:54,007 --> 00:47:57,005
+cele două capete ale condensatorului
+pentru a vedea dacă există
+
+778
+00:47:57,005 --> 00:48:00,003
+scântei,
+ceea ce ar indica
+
+779
+00:48:00,003 --> 00:48:06,002
+existenţa energiei.
+Dacă sunteţi pregătiţi, îmi este
+
+780
+00:48:06,002 --> 00:48:10,006
+tot timpul puţin frică
+de acest experiment,
+
+781
+00:48:10,006 --> 00:48:12,009
+nu de ceea ce
+se va întâmpla, conductorul se va
+
+782
+00:48:12,009 --> 00:48:14,078
+topi probabil şi vom
+vedea o descărcare luminoasă,
+
+783
+00:48:14,078 --> 00:48:17,051
+nu asta este problema,
+dar îmi este frică de această jucărie,
+
+784
+00:48:17,051 --> 00:48:19,084
+pentru că există
+o cantitatea imensă de energie
+
+785
+00:48:19,084 --> 00:48:23,004
+stocată în condensator.
+Opresc alimentarea,
+
+786
+00:48:23,004 --> 00:48:27,000
+şi dacă sunteţi pregătiţi,
+voi descărca
+
+787
+00:48:27,000 --> 00:48:30,042
+întreaga energie
+pe acest fir conductor.
+
+788
+00:48:30,042 --> 00:48:33,002
+Trei,
+doi, unu, zero.
+
+789
+00:48:34,089 --> 00:48:39,074
+[reluare]
+
+790
+00:48:45,039 --> 00:48:47,060
+Aşa funcţionează
+o siguranţă fuzibilă.
+
+791
+00:48:47,060 --> 00:48:49,072
+E foarte eficientă
+după cum puteţi vedea.
+
+792
+00:48:49,072 --> 00:48:53,000
+Dacă auziţi că se întâmplă
+acest lucru la voi acasă,
+
+793
+00:48:53,000 --> 00:48:56,008
+probabil că 
+a sărit o siguranţă.
+
+794
+00:48:56,008 --> 00:48:59,002
+Putem verifica acum
+dacă a mai rămas energie
+
+795
+00:48:59,002 --> 00:49:02,002
+în condensator.
+Poate că nu a rămas foarte multă,
+
+796
+00:49:02,002 --> 00:49:05,009
+dar este puţin probabil
+ca întreaga energie să se fi descărcat
+
+797
+00:49:05,009 --> 00:49:08,001
+pe conductor, să vedem
+dacă a mai rămas ceva.
+
+798
+00:49:08,001 --> 00:49:11,000
+Îl voi scurtcircuita
+cu această
+
+799
+00:49:11,000 --> 00:49:13,002
+bară conductoare,
+şi să vedem dacă obţinem
+
+800
+00:49:13,002 --> 00:49:14,087
+o scânteie.
+Şi am obţinut.
+
+801
+00:49:14,087 --> 00:49:16,051
+A mai rămas 
+ceva energie aşadar.
+
+802
+00:49:16,051 --> 00:49:19,016
+Bine,
+ne vedem vineri.
+
+803
+00:49:19,016 --> 00:49:26,031
+( subtitrarea în limba română pentru
+www.circuiteelectrice.ro )

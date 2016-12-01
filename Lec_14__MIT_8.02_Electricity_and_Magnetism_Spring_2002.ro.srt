@@ -1,0 +1,3394 @@
+﻿1
+00:00:11,069 --> 00:00:18,070
+La trecerea curentului
+printr-un conductor,
+
+2
+00:00:23,016 --> 00:00:29,003
+câmpul magnetic din vecinătatea
+acestui conductor,
+
+3
+00:00:29,003 --> 00:00:33,007
+este dovedit experimental, 
+aliniază bucăţile de magnetită în jurul
+
+4
+00:00:33,007 --> 00:00:40,001
+conductorului
+pe traiectorii circulare.
+
+5
+00:00:40,001 --> 00:00:46,000
+În jurul conductorului, astfel. 
+Dacă raza cercului este R,
+
+6
+00:00:46,000 --> 00:00:49,089
+atunci câmpul magnetic, 
+se poate demonstra experimental,
+
+7
+00:00:49,089 --> 00:00:53,003
+este proporţional cu I-ul, 
+şi invers
+
+8
+00:00:53,003 --> 00:00:57,088
+proporţional cu 
+raza acelui cerc.
+
+9
+00:00:57,088 --> 00:01:00,009
+Prin convenţie,
+direcţia câmpului
+
+10
+00:01:00,009 --> 00:01:06,058
+magnetic se determină cu 
+cu regula burghiului.
+
+11
+00:01:06,058 --> 00:01:11,069
+Îl rotim în această direcţie,
+iar curentul merge în sus.
+
+12
+00:01:11,069 --> 00:01:15,005
+Am văzut înainte, 
+în cazul sarcinilor electrice,
+
+13
+00:01:15,005 --> 00:01:20,007
+că în cazul unui conductor 
+cu o distribuţie uniformă de
+
+14
+00:01:20,007 --> 00:01:24,002
+sarcină pozitivă, de exemplu, 
+am văzut că în vecinătatea
+
+15
+00:01:24,002 --> 00:01:29,074
+acelui conductor rectiliniu, 
+câmpul electric descreşte cu inversul distanţei.
+
+16
+00:01:29,074 --> 00:01:32,005
+Chiar dacă direcţia nu este
+aceeaşi cu cea a câmpului
+
+17
+00:01:32,005 --> 00:01:36,081
+magnetic, aceasta scade de asemenea
+cu 1/R, datorită faptului că
+
+18
+00:01:36,081 --> 00:01:40,005
+în cazul monopolilor electrici, 
+adică a sarcinilor individuale,
+
+19
+00:01:40,005 --> 00:01:44,001
+câmpul electric descreşte 
+cu 1/R^2.
+
+20
+00:01:44,001 --> 00:01:47,005
+Aşadar, după aplicarea
+integralei pe acel conductor
+
+21
+00:01:47,005 --> 00:01:52,001
+se obţine câmpul 1/R. 
+Prin analogie,
+
+22
+00:01:52,001 --> 00:01:58,001
+e foarte plauzibilă ipoteza
+conform căreia câmpul magnetic
+
+23
+00:01:58,001 --> 00:02:02,006
+al monopolilor magnetici 
+să descrească, de asemenea, cu 1/R^2.
+
+24
+00:02:02,006 --> 00:02:06,053
+Dar monopolii magnetici,
+din câte ştim, nu există.
+
+25
+00:02:06,053 --> 00:02:09,045
+În principiu, ar putea exista,
+dar până acum nu au fost observaţi,
+
+26
+00:02:09,045 --> 00:02:14,000
+iar dacă unul din voi găsiţi unul,
+aţi lua cu siguranţă
+
+27
+00:02:14,000 --> 00:02:17,006
+un premiu Nobel. 
+Nu este neapărat imposibil.
+
+28
+00:02:17,006 --> 00:02:22,005
+Prin simplul fapt că
+în jurul unui conductor de curent,
+
+29
+00:02:22,005 --> 00:02:29,074
+câmpul magnetic descreşte cu 1/R,
+ne sugerează că,
+
+30
+00:02:29,074 --> 00:02:35,009
+împărţind acest conductor
+în elemente infinitezimale dl, contribuţia
+
+31
+00:02:35,009 --> 00:02:39,001
+fiecărui element 
+la câmpul magnetic total
+
+32
+00:02:39,001 --> 00:02:43,005
+este conform legii 1/R^2,
+iar prin integrarea
+
+33
+00:02:43,005 --> 00:02:47,055
+întregului conductor,
+obţinem câmpul 1/R.
+
+34
+00:02:47,055 --> 00:02:54,074
+Aceasta este ideea din spatele
+legii Biot-Savart,
+
+35
+00:02:54,074 --> 00:02:58,003
+care introduce ideea conform căreia,
+un element infinitezimal
+
+36
+00:02:58,003 --> 00:03:05,072
+de curent, dl, 
+direcţia curentului fiind aceasta,
+
+37
+00:03:05,072 --> 00:03:09,089
+determină un câmp
+magnetic,
+
+38
+00:03:09,089 --> 00:03:12,037
+aceasta fiind 
+contribuţia dB a
+
+39
+00:03:12,037 --> 00:03:18,001
+acelui element de curent, 
+distanţa fiind r,
+
+40
+00:03:18,001 --> 00:03:22,002
+iar vectorul unitate
+dinspre dl înspre punctul unde
+
+41
+00:03:22,002 --> 00:03:27,049
+dorim aflarea câmpului magnetic,
+este r căciuliţă.
+
+42
+00:03:27,049 --> 00:03:32,008
+Atunci, dB,
+o mică parte din
+
+43
+00:03:32,008 --> 00:03:35,002
+câmpul magnetic total.
+În cazul de faţă direcţia este în
+
+44
+00:03:35,002 --> 00:03:39,007
+tablă, datorită
+regulii burghiului (mâinii drepte).
+
+45
+00:03:39,007 --> 00:03:41,040
+Direcţia curentului este aceasta, 
+aşadar, aceste
+
+46
+00:03:41,040 --> 00:03:44,001
+elemente determină
+un câmp magnetic în
+
+47
+00:03:44,001 --> 00:03:47,003
+această direcţie,
+perpendicular pe tablă.
+
+48
+00:03:47,003 --> 00:03:51,054
+dB-ul este egal cu o anumită constantă,
+proporţional cu
+
+49
+00:03:51,054 --> 00:03:56,001
+valoarea curentului, 
+şi proporţional cu lungimea
+
+50
+00:03:56,001 --> 00:03:59,007
+acelui element infinitezimal dl.
+Dacă este mai lung, atunci
+
+51
+00:03:59,007 --> 00:04:02,089
+câmpul magnetic este mai mare.
+Pentru obţinerea
+
+52
+00:04:02,089 --> 00:04:06,003
+corectă a direcţiei, 
+perpendiculară pe tablă, avem nevoie
+
+53
+00:04:06,003 --> 00:04:09,022
+de produsul scalar cu
+vectorul unitate r.
+
+54
+00:04:09,022 --> 00:04:14,002
+Lungimea vectorul unitate, r, 
+este unu, acest produs scalar este aplicat
+
+55
+00:04:14,002 --> 00:04:19,000
+doar pentru obţinerea corectă a direcţiei.
+Şi invers
+
+56
+00:04:19,000 --> 00:04:23,002
+proporţional cu r^2.
+Acest lucru este crucial.
+
+57
+00:04:23,002 --> 00:04:29,061
+Acesta este formalismul 
+din spatele legii Biot-Savart.
+
+58
+00:04:29,061 --> 00:04:33,006
+Putem face experimente, 
+şi putem măsura câmpul magnetic din
+
+59
+00:04:33,006 --> 00:04:39,015
+vecinătatea conductorilor,
+iar acest formalism funcţionează.
+
+60
+00:04:39,015 --> 00:04:41,070
+Calculăm apoi
+contribuţiile individuale ale tuturor
+
+61
+00:04:41,070 --> 00:04:47,001
+acestor elemente infnitezimale dl, 
+aplicăm o integrală
+
+62
+00:04:47,001 --> 00:04:51,003
+şi obţinem un răspuns corect. 
+Putem determina şi
+
+63
+00:04:51,003 --> 00:04:58,069
+C-ul. 
+În unităţi SI, C este 10^-7.
+
+64
+00:04:58,069 --> 00:05:02,047
+Dar C-ul are
+o expresie specială,
+
+65
+00:05:02,047 --> 00:05:09,011
+şi anume, μ0 împărţit la
+4π, unde  μ0 reprezintă
+
+66
+00:05:09,011 --> 00:05:11,095
+permeabilitatea
+vidului.
+
+67
+00:05:11,095 --> 00:05:16,010
+Am văzut şi în cazul
+legii lui Coulomb, că această constantă,
+
+68
+00:05:16,010 --> 00:05:19,073
+9 ori 10^9, 
+o scriem ca şi 1/4πε0.
+
+69
+00:05:19,073 --> 00:05:22,030
+Dar ce contează denumirea,
+până la urmă.
+
+70
+00:05:22,030 --> 00:05:30,001
+În acest caz, această constantă
+o scriem ca şi μ0 împărţit la 4π.
+
+71
+00:05:30,001 --> 00:05:35,007
+Putem aplica acum legea
+Biot-Savart în cazul unui
+
+72
+00:05:35,007 --> 00:05:42,007
+conductor rectiliniu parcurs
+de curentul I,
+
+73
+00:05:42,007 --> 00:05:46,000
+pentru determinarea 
+câmpului magnetic în punctul P
+
+74
+00:05:46,000 --> 00:05:52,008
+aflat la distanţa R.
+Procedăm astfel.
+
+75
+00:05:52,008 --> 00:05:58,004
+Dacă împărţim acest conductor
+într-un număr infinit de elemente
+
+76
+00:05:58,004 --> 00:06:07,001
+infinitezimale dl, 
+această distanţă fiind r, iar vectorul unitate
+
+77
+00:06:07,001 --> 00:06:10,008
+acesta, 
+putem calcula câmpul
+
+78
+00:06:10,008 --> 00:06:14,006
+magnetic creat de 
+acest element infinitezimal,
+
+79
+00:06:14,006 --> 00:06:16,038
+aplicând apoi o integrală
+pe întreg conductorul.
+
+80
+00:06:16,038 --> 00:06:18,076
+E doar matematică.
+Aţi mai făcut asta şi înainte.
+
+81
+00:06:18,076 --> 00:06:23,000
+Aţi mai făcut asta
+în cazul sarcinilor uniform
+
+82
+00:06:23,000 --> 00:06:26,007
+distribuite pe conductori. 
+Nu voi repeta aşadar
+
+83
+00:06:26,007 --> 00:06:29,010
+calculele.
+Ţine doar de
+
+84
+00:06:29,010 --> 00:06:32,007
+matematică. 
+Apropo, câmpul magnetic
+
+85
+00:06:32,007 --> 00:06:34,003
+în acest caz
+iese
+
+86
+00:06:34,003 --> 00:06:36,003
+din tablă, 
+conform regulii
+
+87
+00:06:36,003 --> 00:06:39,005
+burghiului.
+Dacă rezolvăm
+
+88
+00:06:39,005 --> 00:06:46,003
+integrala, vom găsi că
+B este egal cu μ0 ori I
+
+89
+00:06:46,003 --> 00:06:50,005
+împărţit la 2πR, 
+acest R,
+
+90
+00:06:50,005 --> 00:06:58,016
+şi observăm că, într-adevăr, 
+este invers proporţională cu distanţa.
+
+91
+00:06:58,016 --> 00:07:06,006
+Pentru o rază de 0,1 m,
+10 cm,
+
+92
+00:07:06,006 --> 00:07:10,002
+şi un curent 
+de aproximativ 100 de amperi
+
+93
+00:07:10,002 --> 00:07:14,008
+prin conductor, 
+atunci vom avea un câmp B
+
+94
+00:07:14,008 --> 00:07:22,043
+egal cu 2 ori 10^-4 Tesla, 
+aplicând această ecuaţie.
+
+95
+00:07:22,043 --> 00:07:26,004
+Adică, aproximativ 2 Gauss.
+100 de amperi.
+
+96
+00:07:26,004 --> 00:07:28,046
+La o distanţă de 10 cm
+avem doar 2 Gauss.
+
+97
+00:07:28,046 --> 00:07:31,006
+Gândiţi-vă la asta.
+Câmpul magnetic al Pământului este
+
+98
+00:07:31,006 --> 00:07:35,003
+de o jumătate de Gauss.
+La o distanţă de 1 metru
+
+99
+00:07:35,003 --> 00:07:38,030
+de conductor
+avem un câmp magnetic
+
+100
+00:07:38,030 --> 00:07:42,002
+de 10 ori mai mic, 
+pentru că descreşte cu 1/R,
+
+101
+00:07:42,002 --> 00:07:45,003
+iar câmpul magnetic al Pământului
+domină
+
+102
+00:07:45,003 --> 00:07:48,004
+deja. Avem nevoie 
+aşadar de curenţi foarte mari
+
+103
+00:07:48,004 --> 00:07:52,071
+pentru realizarea
+acestor experimente.
+
+104
+00:07:52,071 --> 00:07:56,008
+E îmbucurător faptul că
+în legea Biot-Savart reiese clar
+
+105
+00:07:56,008 --> 00:08:01,007
+raportul 1/R, 
+dar trebuie să realizăm faptul că
+
+106
+00:08:01,007 --> 00:08:05,009
+Biot-Savart ştia despre
+descreşterea câmpului magnetic
+
+107
+00:08:05,009 --> 00:08:09,002
+cu 1/R.
+Acest lucru era cunoscut experimental.
+
+108
+00:08:09,002 --> 00:08:12,006
+Faptul că apare în ecuaţie
+nu este surprinzător, pentru că ecuaţia
+
+109
+00:08:12,006 --> 00:08:17,073
+a fost pregătită astfel de dinainte.
+Dacă ne gândim mai bine,
+
+110
+00:08:17,073 --> 00:08:22,004
+totul se datorează lui Newton.
+Newton a fost prima persoană
+
+111
+00:08:22,004 --> 00:08:26,005
+ce a sugerată descreşterea
+câmpului gravitaţional cu
+
+112
+00:08:26,005 --> 00:08:30,003
+1/R^2.
+Mai târziu, această idee
+
+113
+00:08:30,003 --> 00:08:33,000
+a fost aplicată şi 
+câmpurilor
+
+114
+00:08:33,000 --> 00:08:36,006
+electrice. De aici s-a 
+născut  ideea conform căreia câmpul
+
+115
+00:08:36,006 --> 00:08:39,000
+magnetic al unui monopol, 
+dar ar exista,
+
+116
+00:08:39,000 --> 00:08:42,000
+ar descreşte cu 1/R^2, 
+adică exact ceea ce am văzut
+
+117
+00:08:42,000 --> 00:08:46,007
+aici. Prin urmare, 
+din punctul meu de vedere,
+
+118
+00:08:46,007 --> 00:08:52,001
+Newton este cel care ar merita
+recunoaşterea pentru această lege.
+
+119
+00:08:52,001 --> 00:08:58,002
+Folosind legea Biot-Savart,
+putem calcula relativ uşor
+
+120
+00:08:58,002 --> 00:09:05,001
+câmpul magnet
+în centrul unei bucle de curent.
+
+121
+00:09:05,001 --> 00:09:12,015
+Să luăm o buclă
+parcursă de curent în această
+
+122
+00:09:12,015 --> 00:09:16,005
+direcţie. Vrem să aflăm 
+câmpul magnetic exact
+
+123
+00:09:16,005 --> 00:09:20,086
+în centru.
+În centrul buclei, câmpul magnetic
+
+124
+00:09:20,086 --> 00:09:23,095
+este îndreptat în sus,
+desigur.
+
+125
+00:09:23,095 --> 00:09:28,000
+Fiecare element infinitezimal, dl, 
+din lungul liniei,
+
+126
+00:09:28,000 --> 00:09:31,000
+fiecare element 
+contribuie puţin
+
+127
+00:09:31,000 --> 00:09:36,087
+la câmpul magnetic din acest punct,
+în această direcţie.
+
+128
+00:09:36,087 --> 00:09:40,005
+Dacă raza este R, 
+aplicând legea Biot-Savart,
+
+129
+00:09:40,005 --> 00:09:44,008
+putem calcula relativ uşor
+câmpul total
+
+130
+00:09:44,008 --> 00:09:49,000
+din acest punct. 
+Câmpul total este egal
+
+131
+00:09:49,000 --> 00:09:56,000
+cu integrală din vectorul dB,
+pe întreg conductorul,
+
+132
+00:09:56,000 --> 00:10:04,003
+adică pe toată bucla.
+În acest punct, aşadar,
+
+133
+00:10:04,003 --> 00:10:10,081
+obţinem μ0
+împărţit la 4π,
+
+134
+00:10:10,081 --> 00:10:16,000
+ori curentul ori
+1/R^2,
+
+135
+00:10:16,000 --> 00:10:20,034
+şi mai rămâne să efectuăm
+o integrală peste dl x R.
+
+136
+00:10:20,034 --> 00:10:28,004
+Desigur, R este tot timpul
+perpendicular pe dl.
+
+137
+00:10:28,004 --> 00:10:35,004
+Indiferent de elementul dl
+pe care-l alegem, vectorul unitate r
+
+138
+00:10:35,004 --> 00:10:39,005
+este perpendicular pe elementul dl,
+aceasta fiind
+
+139
+00:10:39,005 --> 00:10:42,000
+proprietatea unui
+cerc.
+
+140
+00:10:42,000 --> 00:10:46,064
+Sinusul unghiului dintre 
+dl şi r este 1,
+
+141
+00:10:46,064 --> 00:10:49,081
+rămânându-ne să rezolvăm 
+doar o integrală din dl,
+
+142
+00:10:49,081 --> 00:10:52,062
+adică o integrală peste acest cerc,
+fiind egală cu
+
+143
+00:10:52,062 --> 00:11:00,054
+circumferinţa cercului,
+adică 2πR.
+
+144
+00:11:00,054 --> 00:11:04,048
+Un π şi un R
+se simplifică,
+
+145
+00:11:04,048 --> 00:11:11,004
+şi obţinem μ ori I
+împărţit la 2R.
+
+146
+00:11:11,004 --> 00:11:15,000
+Doar un exemplu,
+ca să vedeţi cât de uşoară este
+
+147
+00:11:15,000 --> 00:11:19,003
+aplicarea legii Biot-Savart
+pentru calcularea câmpului magnetic
+
+148
+00:11:19,003 --> 00:11:21,005
+în centru.
+Dacă am dori să aflăm
+
+149
+00:11:21,005 --> 00:11:25,000
+câmpul magnetic
+aici sau acolo, ar fi la fel
+
+150
+00:11:25,000 --> 00:11:27,075
+de uşor. 
+Aţi făcut deja asta.
+
+151
+00:11:27,075 --> 00:11:32,003
+Aţi primit o problemă
+în care sarcinile
+
+152
+00:11:32,003 --> 00:11:36,004
+punctiforme erau distribuite 
+uniform în lungul conductorului, şi trebuia
+
+153
+00:11:36,004 --> 00:11:39,005
+să aflaţi câmpul electric de aici.
+Acelaşi lucru îl putem face
+
+154
+00:11:39,005 --> 00:11:42,002
+şi în cazul câmpurilor magnetice. 
+Dacă am vrea să aflăm
+
+155
+00:11:42,002 --> 00:11:44,009
+câmpul magnetic din acest punct, 
+atunci, desigur,
+
+156
+00:11:44,009 --> 00:11:47,097
+folosind legea Biot-Savart, 
+este practic
+
+157
+00:11:47,097 --> 00:11:53,003
+imposibil.
+Eu nu ştiu să fac asta.
+
+158
+00:11:53,003 --> 00:11:55,003
+În principiu, se poate face,
+mai ales cu
+
+159
+00:11:55,003 --> 00:12:00,004
+ajutorul unui calculator. 
+Putem considera aceeaşi
+
+160
+00:12:00,004 --> 00:12:07,004
+situaţie, dar I-ul egal cu 100
+de amperi, R-ul egal cu
+
+161
+00:12:07,004 --> 00:12:11,003
+0,1 m, 
+iar intensitatea câmpului
+
+162
+00:12:11,003 --> 00:12:15,004
+magnetic B, în centrul buclei,
+este atunci
+
+163
+00:12:15,004 --> 00:12:19,055
+6 ori 10^-4
+Tesla.
+
+164
+00:12:19,055 --> 00:12:27,008
+Adică 6 Gauss.
+Dacă vrem să trasăm
+
+165
+00:12:27,008 --> 00:12:33,000
+liniile de câmp
+magnetic
+
+166
+00:12:33,000 --> 00:12:36,009
+datorită acestui curent
+circular,
+
+167
+00:12:36,009 --> 00:12:39,005
+atunci, liniile de câmp
+magnetic prin centrul buclei
+
+168
+00:12:39,005 --> 00:12:42,005
+vor fi astfel. 
+În vecinătatea
+
+169
+00:12:42,005 --> 00:12:44,009
+conductorului de aici, ce intră în tablă,
+imaginaţi-vă această
+
+170
+00:12:44,009 --> 00:12:48,006
+configuraţie tridimensional, 
+liniile de câmp magnetic
+
+171
+00:12:48,006 --> 00:12:51,000
+vor fi astfel, 
+în sensul acelor de ceasornic.
+
+172
+00:12:51,000 --> 00:12:56,003
+Dincoace curentul vine înspre noi,
+aşadar, în sensul invers acelor de ceasornic.
+
+173
+00:12:56,003 --> 00:12:59,002
+Dacă liniile de câmp magnetic
+sunt aici aşa,
+
+174
+00:12:59,002 --> 00:13:02,002
+iar aici curbate, 
+atunci, evident, ne-am aştepta
+
+175
+00:13:02,002 --> 00:13:07,088
+ca aici să fie astfel, 
+şi aşa,
+
+176
+00:13:07,088 --> 00:13:11,032
+şi aşa. 
+Aceasta este configuraţia liniilor
+
+177
+00:13:11,032 --> 00:13:14,056
+de câmp magnetic 
+obţinută
+
+178
+00:13:14,056 --> 00:13:20,019
+în vecinătatea unei 
+astfel de bucle de curent.
+
+179
+00:13:24,001 --> 00:13:32,003
+Putem vedea această configuraţie
+puţin mai detaliat.
+
+180
+00:13:32,003 --> 00:13:40,066
+Am aici o folie transparentă.
+În partea dreaptă
+
+181
+00:13:40,066 --> 00:13:44,035
+curentul intră în foaie,
+iar aici iese
+
+182
+00:13:44,035 --> 00:13:46,086
+din foaie. 
+Avem o buclă circulară.
+
+183
+00:13:46,086 --> 00:13:49,002
+Ceea ce vedeţi este configuraţia
+liniilor de câmp.
+
+184
+00:13:49,002 --> 00:13:51,018
+Nu e foarte 
+diferit  de ceea ce vedeţi
+
+185
+00:13:51,018 --> 00:13:53,027
+pe tablă. 
+În imediata vecinătate a conductorului,
+
+186
+00:13:53,027 --> 00:13:58,005
+desigur, avem cercuri, 
+pentru că relaţia 1/R domină
+
+187
+00:13:58,005 --> 00:14:00,005
+acolo. Suntem atât 
+de aproape de conductor încât
+
+188
+00:14:00,005 --> 00:14:04,002
+relaţia 1/R determină
+această formă,
+
+189
+00:14:04,002 --> 00:14:07,005
+şi aici de asemenea.
+Dar, dacă ne îndepărtăm,
+
+190
+00:14:07,005 --> 00:14:13,006
+obţinem astfel de 
+configuraţii.
+
+191
+00:14:13,006 --> 00:14:18,043
+La distanţe foarte mari faţă
+de bucla de curent,
+
+192
+00:14:18,043 --> 00:14:23,001
+configuraţia câmpului magnetic
+este foarte similară cu
+
+193
+00:14:23,001 --> 00:14:28,000
+cea a unui dipol electric.
+Să vă arăt
+
+194
+00:14:28,000 --> 00:14:31,007
+la ce mă refer.
+Să privim prima dată
+
+195
+00:14:31,007 --> 00:14:34,004
+dipolul electric.
+Îl vedeţi acolo.
+
+196
+00:14:34,004 --> 00:14:37,002
+Aceasta este o sarcină pozitivă,
+aceasta una negativă.
+
+197
+00:14:37,002 --> 00:14:39,084
+Nu vă uitaţi
+în apropierea sarcinilor.
+
+198
+00:14:39,084 --> 00:14:42,000
+Nu vă uitaţi între 
+sarcini.
+
+199
+00:14:42,000 --> 00:14:44,007
+Uitaţi-vă departe de ele.
+Acestea sunt linii de câmp
+
+200
+00:14:44,007 --> 00:14:49,006
+electric, acestea de asemenea.
+Uitaţi-vă acum la bucla de curent
+
+201
+00:14:49,006 --> 00:14:51,009
+de aici. 
+Curentul intră aici
+
+202
+00:14:51,009 --> 00:14:54,004
+în foaie,
+şi iese pe aici.
+
+203
+00:14:54,004 --> 00:14:57,007
+Aceasta este bucla. 
+Vedeţi, avem aceeaşi
+
+204
+00:14:57,007 --> 00:15:00,005
+configuraţie,
+linii de câmp.
+
+205
+00:15:00,005 --> 00:15:03,002
+linii de câmp.
+Aceasta este aşa.
+
+206
+00:15:03,002 --> 00:15:06,063
+Aceasta este este la fel.
+Aici, liniile de câmp electric
+
+207
+00:15:06,063 --> 00:15:09,058
+intră, liniile de câmp magnetic
+intră şi ele.
+
+208
+00:15:09,058 --> 00:15:11,071
+Liniile de câmp electric
+ies.
+
+209
+00:15:11,071 --> 00:15:14,001
+Liniile de câmp magnetic
+ies.
+
+210
+00:15:14,001 --> 00:15:19,028
+Sunt foarte similare.
+Conform legii lui Gauss,
+
+211
+00:15:19,028 --> 00:15:24,029
+integrală de suprafaţă închisă
+a fluxului electric, este egală cu sarcina
+
+212
+00:15:24,029 --> 00:15:26,062
+totală din interior, 
+împărţită la ε0.
+
+213
+00:15:26,062 --> 00:15:28,078
+Aşadar, 
+în cazul acestei suprafeţe
+
+214
+00:15:28,078 --> 00:15:32,003
+închise, arată precum o linie,
+dar este o suprafaţă,
+
+215
+00:15:32,003 --> 00:15:35,003
+integrală de suprafaţă închisă
+a fluxului electric nu
+
+216
+00:15:35,003 --> 00:15:39,000
+este zero, 
+pentru că există sarcină în interiorul cutiei.
+
+217
+00:15:39,000 --> 00:15:44,046
+În cazul câmpurilor magnetice,
+indiferent de locaţia suprafeţei închise,
+
+218
+00:15:44,046 --> 00:15:50,003
+nu există niciodată flux magnetic 
+prin acea suprafaţă.
+
+219
+00:15:50,003 --> 00:15:53,008
+Niciodată, decât dacă 
+îmi aduceţi
+
+220
+00:15:53,008 --> 00:15:57,008
+un monopol magnetic.
+Doar atunci va exista
+
+221
+00:15:57,008 --> 00:16:00,006
+flux magnetic 
+prin acea suprafaţă
+
+222
+00:16:00,006 --> 00:16:05,006
+închisă, dacă avem un monopol
+magnetic în interior.
+
+223
+00:16:05,006 --> 00:16:09,008
+Ajungem astfel
+la cea de-a doua din cele patru
+
+224
+00:16:09,008 --> 00:16:14,030
+ecuaţii ale lui Maxwell,
+prima fiind legea lui
+
+225
+00:16:14,030 --> 00:16:23,005
+Gauss, iar cea de-a doua este că
+integrală de suprafaţă
+
+226
+00:16:23,005 --> 00:16:32,003
+închisă din B ori dA este tot timpul zero,
+decât dacă
+
+227
+00:16:32,003 --> 00:16:35,032
+îmi aduceţi un 
+monopol magnetic.
+
+228
+00:16:45,001 --> 00:16:47,074
+Avem acum la dispoziţie
+două din cele patru ecuaţii ale lui
+
+229
+00:16:47,074 --> 00:16:51,076
+Maxwell.
+O zi istorică.
+
+230
+00:16:55,030 --> 00:17:00,003
+Vreau să vă arăt 
+câmpul magnetic în vecinătatea unui
+
+231
+00:17:00,003 --> 00:17:03,008
+astfel de conductor.
+Am nevoie de câteva sute
+
+232
+00:17:03,008 --> 00:17:06,084
+de amperi prin acel conductor.
+V-am spus de ce,
+
+233
+00:17:06,084 --> 00:17:08,057
+datorită descreşterii 
+rapide
+
+234
+00:17:08,057 --> 00:17:14,002
+a câmpului magnetic.
+Voi folosi pilitură de fier
+
+235
+00:17:14,002 --> 00:17:18,000
+presărată în jurul conductorului.
+Aceste magnetite se vor
+
+236
+00:17:18,000 --> 00:17:22,092
+orienta în câmpul magnetic.
+Voi încerca
+
+237
+00:17:22,092 --> 00:17:27,000
+să vă arăt 
+această configuraţie a câmpului,
+
+238
+00:17:27,000 --> 00:17:33,007
+unde un curent intră în foaie,
+iar celălalt iese.
+
+239
+00:17:33,007 --> 00:17:40,000
+Să considerăm prima dată
+un singur conductor de curent.
+
+240
+00:17:40,000 --> 00:17:42,000
+Vine înspre voi 
+şi apoi
+
+241
+00:17:42,000 --> 00:17:44,000
+intră.
+Este un conductor poziţionat
+
+242
+00:17:44,000 --> 00:17:47,003
+astfel. Motivul pentru care îl vedeţi aşa,
+este că trebuie să
+
+243
+00:17:47,003 --> 00:17:50,001
+introducem curentul 
+cumva.
+
+244
+00:17:51,070 --> 00:17:54,002
+Aceasta este 
+platforma
+
+245
+00:17:54,002 --> 00:17:58,058
+pe care punem
+pilitura de fier.
+
+246
+00:17:58,058 --> 00:18:04,071
+Aceste magnetite 
+se orientează în direcţia
+
+247
+00:18:04,071 --> 00:18:08,078
+câmpului magnetic. 
+Vom vedea aceste
+
+248
+00:18:08,078 --> 00:18:13,023
+cercuri.
+Nu uitaţi că
+
+249
+00:18:13,023 --> 00:18:16,009
+utilizăm curenţi foarte mari.
+Sute de amperi.
+
+250
+00:18:16,009 --> 00:18:18,007
+Acesta e şi motivul pentru 
+care  avem o baterie de maşină aici
+
+251
+00:18:18,007 --> 00:18:22,000
+capabilă să genereze
+câteva sute de amperi.
+
+252
+00:18:22,000 --> 00:18:26,087
+Introduc acum curentul.
+O bat puţin, şi puteţi vedea
+
+253
+00:18:26,087 --> 00:18:33,054
+aceste configuraţii circulare.
+Sper că le observaţi.
+
+254
+00:18:33,054 --> 00:18:38,038
+Seamănă cu nişte cercuri.
+Vom face acum acelaşi lucru,
+
+255
+00:18:38,038 --> 00:18:41,031
+dar acest experiment
+va fi mult mai interesant,
+
+256
+00:18:41,031 --> 00:18:46,000
+cu un conductor intrând în platformă,
+iar celălalt
+
+257
+00:18:46,000 --> 00:18:50,002
+ieşind. 
+Chiar dacă nu este un cerc,
+
+258
+00:18:50,002 --> 00:18:54,003
+ideea este că obţinem 
+o configuraţie de câmp similară
+
+259
+00:18:54,003 --> 00:19:00,082
+celei de acolo.
+Mamă, deja arde.
+
+260
+00:19:00,082 --> 00:19:04,001
+Aceste cabluri sunt deja fierbinţi.
+Nu sunt încântate de cei 200
+
+261
+00:19:04,001 --> 00:19:09,004
+de amperi. 
+Hai să o punem aşa.
+
+262
+00:19:09,004 --> 00:19:12,002
+Veţi observa o configuraţie 
+de câmp similară
+
+263
+00:19:12,002 --> 00:19:15,000
+celei de pe tablă,
+similară celei de aici.
+
+264
+00:19:15,000 --> 00:19:19,002
+Ah, nu, nu aceasta.
+Similară acesteia.
+
+265
+00:19:19,002 --> 00:19:20,071
+Da, de fapt, 
+era bună şi
+
+266
+00:19:20,071 --> 00:19:22,059
+cealaltă, 
+dar aceasta e mai frumoasă.
+
+267
+00:19:22,059 --> 00:19:26,003
+Unul din conductori intră
+iar celălalt iese
+
+268
+00:19:26,003 --> 00:19:36,085
+din plan. 
+Să presărăm
+
+269
+00:19:36,085 --> 00:19:47,024
+nişte pilitură de fier.
+Bine,
+
+270
+00:19:47,024 --> 00:19:53,007
+acum câteva sute de amperi
+prin conductori, o lovim puţin,
+
+271
+00:19:53,007 --> 00:19:57,008
+şi observăm cercuri 
+în apropierea conductorului în punctul
+
+272
+00:19:57,008 --> 00:20:01,005
+de intrare şi de ieşire.
+Datorită relaţiei
+
+273
+00:20:01,005 --> 00:20:03,001
+1/R, 
+acestea domină câmpul magnetic
+
+274
+00:20:03,001 --> 00:20:05,086
+din vecinătatea lor.
+Dar uitaţi-vă între cele două puncte.
+
+275
+00:20:05,086 --> 00:20:09,000
+Cu puţină imaginaţie, 
+putem observa configuraţia
+
+276
+00:20:09,000 --> 00:20:11,009
+câmpurilor magnetice acolo, 
+exact ca cele
+
+277
+00:20:11,009 --> 00:20:17,006
+de pe tablă. 
+Foarte bine.
+
+278
+00:20:20,030 --> 00:20:26,035
+Nu mai avem nevoie 
+nici de asta şi nici de aia.
+
+279
+00:20:26,035 --> 00:20:29,052
+V-aţi format acum o idee
+despre configuraţia
+
+280
+00:20:29,052 --> 00:20:35,004
+câmpului magnetic
+din jurul conductorilor
+
+281
+00:20:35,004 --> 00:20:40,006
+parcurşi de curent.
+Vom reveni asupra câmpurilor
+
+282
+00:20:40,006 --> 00:20:43,058
+magnetice în cursul viitor
+şi vom dezvolta subiectul.
+
+283
+00:20:43,058 --> 00:20:47,096
+Vom învăţa tehnici 
+de calcul a câmpurilor magnetice
+
+284
+00:20:47,096 --> 00:20:53,090
+mult superioare legii 
+Biot-Savart.
+
+285
+00:20:53,090 --> 00:20:58,000
+De fapt, vom ajunge în acest fel
+la cea de-a treia lege a lui Maxwell,
+
+286
+00:20:58,000 --> 00:21:00,008
+aproape.
+Dar acum vreau să vă relaxaţi
+
+287
+00:21:00,008 --> 00:21:03,000
+puţin, pentru că 
+toate aceste lucruri trebuiesc
+
+288
+00:21:03,000 --> 00:21:06,042
+digerate, şi vom discuta
+ceva cu totul diferit,
+
+289
+00:21:06,042 --> 00:21:10,006
+ceva practic,
+ceva ce are legătură
+
+290
+00:21:10,006 --> 00:21:16,009
+cu transportul energiei electrice.
+Avem o centrală electrică
+
+291
+00:21:16,009 --> 00:21:24,000
+undeva în punctul A,
+ce furnizează energie
+
+292
+00:21:24,000 --> 00:21:27,057
+electrică spre oraşul
+Boston.
+
+293
+00:21:27,057 --> 00:21:31,005
+Aici este Boston-ul,
+în punctul B.
+
+294
+00:21:31,005 --> 00:21:33,007
+A-ul reprezintă locaţia
+centralei electrice.
+
+295
+00:21:33,007 --> 00:21:36,090
+Distanţa aceasta poate fi 
+de mii de kilometri.
+
+296
+00:21:36,090 --> 00:21:41,089
+Între cele două puncte 
+există un cablu electric.
+
+297
+00:21:41,089 --> 00:21:47,002
+Potenţialul acestui punct 
+este
+
+298
+00:21:47,002 --> 00:21:50,062
+VB.
+Acesta e cablul pentru curentul
+
+299
+00:21:50,062 --> 00:21:55,002
+de întoarcere. 
+Curentul vine pe aici,
+
+300
+00:21:55,002 --> 00:21:58,008
+şi se întoarce pe aici. 
+Energia este consumată în
+
+301
+00:21:58,008 --> 00:22:03,002
+acest punct. 
+Ne conectăm calculatorul,
+
+302
+00:22:03,002 --> 00:22:07,004
+uscătorul de păr, 
+încălzirea,
+
+303
+00:22:07,004 --> 00:22:10,049
+periuţa electrică, TV-ul, 
+şi ce mai avem,
+
+304
+00:22:10,049 --> 00:22:13,007
+tot.
+Acest punct reprezintă
+
+305
+00:22:13,007 --> 00:22:17,001
+consumatorul. 
+Consumăm energia
+
+306
+00:22:17,001 --> 00:22:25,005
+generată de această centrală electrică.
+Potenţialul
+
+307
+00:22:25,005 --> 00:22:34,005
+acestei linii este zero, aşadar, 
+VA este mai mare decât V.
+
+308
+00:22:34,005 --> 00:22:44,007
+Conform legii lui Ohm, 
+VA minus VB este curentul
+
+309
+00:22:44,007 --> 00:22:49,004
+ori R, care în acest caz nu reprezintă raza,
+ci rezistenţa
+
+310
+00:22:49,004 --> 00:22:54,003
+conductorului, acest conductor.
+Acest cablu, oricât de gros
+
+311
+00:22:54,003 --> 00:23:01,053
+ar fi, posedă o rezistenţă finită.
+Iar VB-ul, adică
+
+312
+00:23:01,053 --> 00:23:06,001
+potenţialul primit 
+în Boston,
+
+313
+00:23:06,001 --> 00:23:12,002
+este egal cu VA minus IR.
+Aşadar, dacă nu există curent
+
+314
+00:23:12,002 --> 00:23:15,007
+prin conductor, 
+nimeni nu utilizează energie
+
+315
+00:23:15,007 --> 00:23:21,012
+electrică, 
+atunci VB este identic cu VA.
+
+316
+00:23:21,012 --> 00:23:25,073
+În cazul în care consumăm
+energie,
+
+317
+00:23:25,073 --> 00:23:31,003
+avem putere acum,
+iar puterea consumată
+
+318
+00:23:31,003 --> 00:23:35,007
+în Boston este egală cu I ori VB,
+reprezentând numărul de jouli
+
+319
+00:23:35,007 --> 00:23:43,081
+pe secundă consumaţi. 
+Asta este egal cu VA ori I
+
+320
+00:23:43,081 --> 00:23:51,001
+minus I^2 ori R.
+Aşa.
+
+321
+00:23:51,001 --> 00:23:56,000
+Ce reprezintă asta ? 
+Cantitatea de energie pe secundă
+
+322
+00:23:56,000 --> 00:24:01,006
+consumată.
+Ce reprezintă asta ?
+
+323
+00:24:01,006 --> 00:24:04,021
+Aceasta este cantitatea de energie
+pe secundă furnizată
+
+324
+00:24:04,021 --> 00:24:09,055
+de centrala electrica.
+Ce reprezintă asta ?
+
+325
+00:24:09,055 --> 00:24:14,003
+Energie pierdută. 
+I^2R reprezintă
+
+326
+00:24:14,003 --> 00:24:18,004
+căldura produsă în acest cablu
+ce se pierde în univers.
+
+327
+00:24:18,004 --> 00:24:25,005
+Se pierde definitiv.
+Din motive economice,
+
+328
+00:24:25,005 --> 00:24:30,001
+această pierdere trebuie redusă
+la minim.
+
+329
+00:24:30,001 --> 00:24:33,000
+Aceasta este puterea disponibilă,
+dar o parte din putere
+
+330
+00:24:33,000 --> 00:24:36,014
+se pierde sub formă de căldură, 
+minusul de aici,
+
+331
+00:24:36,014 --> 00:24:41,009
+iar puterea primită în Boston este mai mică.
+Cum putem reduce
+
+332
+00:24:41,009 --> 00:24:45,093
+acest I^2R ?
+Care este rezistenţa
+
+333
+00:24:45,093 --> 00:24:50,005
+unui conductor ?
+Este egală cu ρ, rezistivitatea,
+
+334
+00:24:50,005 --> 00:24:54,001
+ori lungimea conductorului
+împărţit la aria secţiunii transversale
+
+335
+00:24:54,001 --> 00:24:59,000
+a conductorului.
+Avem câteva opţiuni, aşadar.
+
+336
+00:24:59,000 --> 00:25:03,001
+Am putea face A-ul foarte mare, 
+un conductor de cupru foarte gros,
+
+337
+00:25:03,001 --> 00:25:06,005
+iar asta e foarte scump.
+Am putea confecţiona conductorii
+
+338
+00:25:06,005 --> 00:25:10,070
+din aur, rezistivitatea
+acestuia fiind mai mică decât a cuprului.
+
+339
+00:25:10,070 --> 00:25:14,006
+Şi acest lucru este scump.
+Există posibilitatea realizării
+
+340
+00:25:14,006 --> 00:25:18,046
+acestor linii de transmisie 
+din materiale supraconductoare.
+
+341
+00:25:18,046 --> 00:25:22,002
+Acestea ar trebui răcite 
+la temperaturi extrem de scăzute.
+
+342
+00:25:22,002 --> 00:25:26,003
+Acest lucru este excesiv de scump,
+dar este o posibilitate
+
+343
+00:25:26,003 --> 00:25:35,058
+de reducere a rezistenţei. 
+Să analizăm acum curentul.
+
+344
+00:25:35,058 --> 00:25:40,002
+Ce putem face în cazul
+curentului ?
+
+345
+00:25:40,002 --> 00:25:44,066
+Să presupunem un consum
+de 100 de mega-waţi.
+
+346
+00:25:44,066 --> 00:25:49,001
+O valoare realistă.
+Consumăm, aşadar, 100
+
+347
+00:25:49,001 --> 00:25:53,006
+de mega-waţi. 
+Să presupunem
+
+348
+00:25:53,006 --> 00:25:58,051
+că potenţialul în VB 
+este de 100 de volţi,
+
+349
+00:25:58,051 --> 00:26:06,007
+VB este 100 V.
+Cât este curentul ?
+
+350
+00:26:06,007 --> 00:26:11,007
+Produsul dintre curent şi potenţial
+reprezintă puterea,
+
+351
+00:26:11,007 --> 00:26:17,000
+aşadar, curentul 
+este egal cu un milion de amperi.
+
+352
+00:26:17,000 --> 00:26:21,067
+Echivalent, 
+să presupunem că potenţialul
+
+353
+00:26:21,067 --> 00:26:27,009
+în punctul B este de
+100.000 de volţi,
+
+354
+00:26:27,009 --> 00:26:32,002
+de 1.000 de ori mai mare.
+Curentul este acum de doar
+
+355
+00:26:32,002 --> 00:26:36,087
+1.000 de amperi, 
+pentru aceeaşi putere.
+
+356
+00:26:36,087 --> 00:26:39,054
+În ambele cazuri însă, 
+rata de consum a energiei
+
+357
+00:26:39,054 --> 00:26:42,039
+este de 100 de milioane 
+de jouli pe secundă.
+
+358
+00:26:42,039 --> 00:26:47,002
+Dar, I^2R, 
+energia pierdută sub formă de caldură
+
+359
+00:26:47,002 --> 00:26:50,002
+dinspre centrala electrică spre mine, 
+este de un milion de ori mai mică în
+
+360
+00:26:50,002 --> 00:26:53,079
+cazul acesta faţă de acela,
+pentru că I-ul este de 1.000 de ori
+
+361
+00:26:53,079 --> 00:26:57,077
+mai mic, iar puterea pierdută
+este proporţională cu I^2.
+
+362
+00:26:57,077 --> 00:27:01,003
+Acesta este motivul pentru care electricitatea,
+atunci când este
+
+363
+00:27:01,003 --> 00:27:05,006
+transportată dintr-un loc în altul,
+se realizează la
+
+364
+00:27:05,006 --> 00:27:12,095
+cea mai mare tensiune posibilă.
+Când ajunge în Boston
+
+365
+00:27:12,095 --> 00:27:15,057
+trebuie să facem ceva în legătură
+cu acest potenţial
+
+366
+00:27:15,057 --> 00:27:18,000
+enorm, altfel, 
+dacă am furniza
+
+367
+00:27:18,000 --> 00:27:21,023
+o diferenţă de potenţial de 
+100.000 de volţi aici,
+
+368
+00:27:21,023 --> 00:27:25,002
+jumătate din populaţia oraşului Boston
+s-ar electrocuta.
+
+369
+00:27:25,002 --> 00:27:27,045
+Trebuie să coborâm tensiunea
+cu ajutorul
+
+370
+00:27:27,045 --> 00:27:30,001
+transformatoarelor.
+Vom discuta despre ele într-un
+
+371
+00:27:30,001 --> 00:27:32,002
+curs viitor. 
+Coborâm tensiunea până
+
+372
+00:27:32,002 --> 00:27:35,008
+la un nivel confortabil, 
+adică 110 volţi în
+
+373
+00:27:35,008 --> 00:27:41,002
+Statele Unite, 
+şi 220 V în Europa.
+
+374
+00:27:41,002 --> 00:27:45,005
+Întrebarea este acum, 
+cât de mare putem face VA-ul ?
+
+375
+00:27:45,005 --> 00:27:49,004
+Cu cât îl facem mai mare, 
+cu atât pierderile
+
+376
+00:27:49,004 --> 00:27:51,005
+în lungul reţelei
+vor fi mai mici.
+
+377
+00:27:51,005 --> 00:27:54,007
+Trebuie evitat câmpul
+electric
+
+378
+00:27:54,007 --> 00:27:57,006
+la care apare străpungerea dielectrică,
+adică 3 milioane V/m.
+
+379
+00:27:57,006 --> 00:28:01,002
+Dacă avem 3 milioane V/m
+la suprafaţa
+
+380
+00:28:01,002 --> 00:28:03,074
+acestor cabluri, 
+apare descărcarea corona.
+
+381
+00:28:03,074 --> 00:28:07,000
+Aceasta înseamnă pierderi enorme
+şi trebuie evitată.
+
+382
+00:28:07,000 --> 00:28:11,097
+De obicei, 
+raza cablurilor
+
+383
+00:28:11,097 --> 00:28:19,007
+este de aproximativ 2 cm, 
+ceea ce înseamnă o arie a secţiunii
+
+384
+00:28:19,007 --> 00:28:24,078
+transversale de 10^-3 metri pătraţi.
+Da, e corect.
+
+385
+00:28:27,039 --> 00:28:36,000
+Potenţialul V în punctul A
+este de aproximativ 300 kV,
+
+386
+00:28:36,000 --> 00:28:41,006
+iar cu această configuraţie,
+câmpul electric
+
+387
+00:28:41,006 --> 00:28:44,099
+este sub 3 milioane 
+V/m,
+
+388
+00:28:44,099 --> 00:28:49,001
+evitând astfel 
+descărcarea corona.
+
+389
+00:28:49,001 --> 00:28:52,080
+Dacă lungimea conductorului, l, 
+este de
+
+390
+00:28:52,080 --> 00:28:57,086
+1.000 km,
+această lungime nu este exagerată,
+
+391
+00:28:57,086 --> 00:29:01,005
+1.000 km,
+căci, dacă electricitatea
+
+392
+00:29:01,005 --> 00:29:06,004
+este transportată de la cascada
+Niagara până în Boston, nu e exagerată.
+
+393
+00:29:06,004 --> 00:29:12,081
+Putem calcula rezistenţa
+acestui conductor.
+
+394
+00:29:14,067 --> 00:29:20,084
+Rezistenţa, R, este egală cu
+ρ ori l împărţit la A.
+
+395
+00:29:20,084 --> 00:29:25,028
+În cazul cuprului,
+rezistivitatea este egală cu
+
+396
+00:29:25,028 --> 00:29:29,090
+2 ori 10^-8, 
+în unităţi SI.
+
+397
+00:29:29,090 --> 00:29:33,004
+Lungimea cablului este de 
+10^6 metri, iar
+
+398
+00:29:33,004 --> 00:29:39,024
+aria secţiunii transversale 
+este de  10^-3 metri
+
+399
+00:29:39,024 --> 00:29:44,007
+pătraţi, astfel încât, 
+rezistenţa unui cablu de 1.000 km
+
+400
+00:29:44,007 --> 00:29:50,051
+ar fi de doar 
+20 Ω.
+
+401
+00:29:50,051 --> 00:29:58,006
+Iar dacă avem 
+un curent de 300 de
+
+402
+00:29:58,006 --> 00:30:03,007
+amperi, 
+puterea generată
+
+403
+00:30:03,007 --> 00:30:07,001
+de centrala electrică,
+pentru potenţialul de
+
+404
+00:30:07,001 --> 00:30:12,002
+300 kV,
+puterea va fi egală cu
+
+405
+00:30:12,002 --> 00:30:21,092
+300 kV ori 300 de amperi,
+adică
+
+406
+00:30:21,092 --> 00:30:24,039
+90 MW. 
+Foarte aproape de suta
+
+407
+00:30:24,039 --> 00:30:28,003
+pe care ne-am propus-o.
+Putem calcula şi
+
+408
+00:30:28,003 --> 00:30:34,005
+pierderile.
+Pierderile sunt egale cu I^2R,
+
+409
+00:30:34,005 --> 00:30:38,005
+R-ul este 20 Ω, 
+I-ul este
+
+410
+00:30:38,005 --> 00:30:42,003
+300 A, 
+şi găsim că pierderile sunt de
+
+411
+00:30:42,003 --> 00:30:45,008
+2 MW. 
+Asta nu e aşa de rău.
+
+412
+00:30:45,008 --> 00:30:49,005
+2 din 90,
+adică pierderi pe linia de transport
+
+413
+00:30:49,005 --> 00:30:55,002
+de aproximativ 2%.
+Putem acum calcula şi
+
+414
+00:30:55,002 --> 00:30:58,049
+diferenţa de potenţial 
+dintre centrala electrică şi
+
+415
+00:30:58,049 --> 00:31:02,084
+Boston, VA minus VB este IR.
+Dar I-ul este
+
+416
+00:31:02,084 --> 00:31:06,057
+300 A, 
+iar R-ul este 20 Ω,
+
+417
+00:31:06,057 --> 00:31:11,069
+aşadar, VA minus VB
+este egal cu
+
+418
+00:31:11,069 --> 00:31:15,000
+6 kV.
+Cu alte cuvinte,
+
+419
+00:31:15,000 --> 00:31:17,009
+dacă potenţialul 
+centralei electrice este de
+
+420
+00:31:17,009 --> 00:31:22,009
+300 kV, 
+atunci în Boston va fi cu doar
+
+421
+00:31:22,009 --> 00:31:26,000
+6 kV mai puţin.
+Nu este o situaţie
+
+422
+00:31:26,000 --> 00:31:34,007
+foarte rea.
+Am menţionat că în cazul
+
+423
+00:31:34,007 --> 00:31:36,049
+acestor linii de transport, 
+câmpul electric
+
+424
+00:31:36,049 --> 00:31:39,006
+trebuie să rămână sub 
+3 milioane V/m, altfel,
+
+425
+00:31:39,006 --> 00:31:46,006
+apare descărcarea corona. 
+Atunci când există descărcări electrice
+
+426
+00:31:46,006 --> 00:31:51,003
+în vecinătatea acestora, creşterea 
+câmpului electric din jurul conductorilor
+
+427
+00:31:51,003 --> 00:31:54,006
+poate duce la descărcarea corona.
+Am văzut asta de câteva ori,
+
+428
+00:31:54,006 --> 00:31:59,068
+şi nu doar sub formă luminoasă,
+noaptea, cu ochiul liber,
+
+429
+00:31:59,068 --> 00:32:01,070
+dar se poate
+şi auzi,
+
+430
+00:32:01,070 --> 00:32:03,071
+un sunet tipic
+descărcării
+
+431
+00:32:03,071 --> 00:32:08,069
+corona. E fascinant. 
+Am aici o poză cu
+
+432
+00:32:08,069 --> 00:32:13,006
+o astfel de descărcare.
+Vedeţi aici o linie
+
+433
+00:32:13,006 --> 00:32:19,001
+de înaltă tensiune 
+pe care se poate observa foarte clar
+
+434
+00:32:19,001 --> 00:32:26,009
+luminozitatea descărcării corona, 
+asemănător zmeielor-lumânare.
+
+435
+00:32:26,009 --> 00:32:30,096
+Zmeiele normale, noaptea,
+în apropierea unei furtuni,
+
+436
+00:32:30,096 --> 00:32:34,027
+pot de asemenea produce 
+descărcare corona şi luminozitate.
+
+437
+00:32:34,027 --> 00:32:38,097
+De aceea li se spune
+zmeie-lumânare.
+
+438
+00:32:38,097 --> 00:32:41,013
+Benjamin Franklin 
+a realizat o serie de
+
+439
+00:32:41,013 --> 00:32:45,004
+experimente pe timpul nopţii
+cu zmeie în vecinătatea furtunilor.
+
+440
+00:32:45,004 --> 00:32:51,012
+Un lucru periculos, apropo.
+Vedeţi aşadar că descărcarea corona
+
+441
+00:32:51,012 --> 00:32:56,019
+poate apărea pe aceste linii
+de înaltă tensiune.
+
+442
+00:32:59,061 --> 00:33:05,007
+Vreau să revenim
+acum la butelia de Leyda.
+
+443
+00:33:05,007 --> 00:33:11,003
+Am avut o situaţie absurdă 
+în cazul experimentului
+
+444
+00:33:11,003 --> 00:33:15,002
+cu butelia
+ce o vedeţi acum aici.
+
+445
+00:33:15,002 --> 00:33:17,009
+Voi reface
+experimentul,
+
+446
+00:33:17,009 --> 00:33:20,008
+dar avem nevoie şi de o explicaţie,
+pentru că, aparent,
+
+447
+00:33:20,008 --> 00:33:24,008
+am avut o problemă
+cu legile fizicii.
+
+448
+00:33:24,008 --> 00:33:28,001
+Vreau să va reamintiţi
+ceea ce am văzut
+
+449
+00:33:28,001 --> 00:33:34,001
+înainte, şi cum funcţionează
+această butelie de Leyda.
+
+450
+00:33:34,001 --> 00:33:37,005
+Butelia de Leyda nu este altceva
+decât un condensator, adică un dielectric
+
+451
+00:33:37,005 --> 00:33:40,006
+poziţionat între doi
+conductori
+
+452
+00:33:40,006 --> 00:33:46,001
+sub forma unui borcan,
+a unei butelii.
+
+453
+00:33:46,001 --> 00:33:51,004
+Partea interioară,
+din sticlă,
+
+454
+00:33:51,004 --> 00:33:58,007
+are această formă.
+O vedeţi acolo,
+
+455
+00:33:58,007 --> 00:34:03,003
+o veţi vedea imediat dincolo.
+Avem doi
+
+456
+00:34:03,003 --> 00:34:10,002
+conductori, 
+un pahar conductor la exterior,
+
+457
+00:34:10,002 --> 00:34:14,026
+şi un pahar conductor
+la interior.
+
+458
+00:34:16,077 --> 00:34:22,003
+Încărcăm acest condensator cu  Wimshurst-ul.
+După încărcare,
+
+459
+00:34:22,003 --> 00:34:31,044
+vom avea sarcini libere pe conductor,
+adică σ_liber
+
+460
+00:34:31,044 --> 00:34:38,004
+aici şi aici, 
+cu semne diferite, desigur,
+
+461
+00:34:38,004 --> 00:34:42,074
+şi σ_indus
+pe dielectric.
+
+462
+00:34:42,074 --> 00:34:45,067
+De ce avem sarcină indusă ?
+Pentru că dielectricul „vede”
+
+463
+00:34:45,067 --> 00:34:50,048
+un câmp extern datorită acestui σ_liber.
+Dielectricul se polarizează,
+
+464
+00:34:50,048 --> 00:34:55,005
+rezultând aici această sarcină indusă,
+precum şi
+
+465
+00:34:55,005 --> 00:35:00,000
+acolo.
+Dacă aici avem plus,
+
+466
+00:35:00,000 --> 00:35:02,085
+atunci sarcina indusă de aici
+va fi negativă,
+
+467
+00:35:02,085 --> 00:35:11,009
+şi invers.
+Avem aici un cârlig metalic,
+
+468
+00:35:11,009 --> 00:35:16,000
+pentru ridicarea
+porţiunii interioare.
+
+469
+00:35:16,000 --> 00:35:19,003
+După aceea,
+am încărcat butelia cu ajutorul
+
+470
+00:35:19,003 --> 00:35:23,002
+Wimshurst-ului, şi în acest moment 
+avem o anumită cantitate de energie.
+
+471
+00:35:23,002 --> 00:35:27,005
+Energia potenţială electrostatică
+a acestei configuraţii este
+
+472
+00:35:27,005 --> 00:35:31,000
+1/2Q_liber ori
+diferenţa de potenţial,
+
+473
+00:35:31,000 --> 00:35:37,003
+unde Q_liber reprezintă sarcina
+de pe conductorul exterior.
+
+474
+00:35:37,003 --> 00:35:40,001
+La următorul pas, 
+am dezasamblat butelia
+
+475
+00:35:40,001 --> 00:35:43,008
+foarte atent, după ce a fost încărcată,
+am îndepărtat porţiunea
+
+476
+00:35:43,008 --> 00:35:47,009
+interioară, am îndepărtat sticla,
+porţiunea exterioară,
+
+477
+00:35:47,009 --> 00:35:50,005
+şi am îndepărtat
+toată sarcina liberă.
+
+478
+00:35:50,005 --> 00:35:55,003
+Am atins conductori
+şi i-am descărcat,
+
+479
+00:35:55,003 --> 00:35:58,001
+nu a mai rămas deloc Q_liber.
+S-a dus.
+
+480
+00:35:58,001 --> 00:36:03,008
+În momentul în care acesta s-a dus,
+sarcina indusă trebuie şi ea
+
+481
+00:36:03,008 --> 00:36:08,000
+să se ducă, pentru că sarcina indusă
+există doar datorită
+
+482
+00:36:08,000 --> 00:36:11,006
+sarcinii libere. 
+Densitatea sarcinii
+
+483
+00:36:11,006 --> 00:36:20,002
+induse este egală cu 
+(1 - 1/κ)σ_liber.
+
+484
+00:36:20,002 --> 00:36:23,003
+Dacă sticla 
+are un κ egal cu 5,
+
+485
+00:36:23,003 --> 00:36:28,006
+atunci densitatea superficială de sarcină
+indusă este de aproximativ 0,8
+
+486
+00:36:28,006 --> 00:36:31,003
+ori densitatea superficială
+de sarcină liberă.
+
+487
+00:36:31,003 --> 00:36:35,003
+În momentul în care cea liberă
+este zero, cea indusă este de asemenea zero.
+
+488
+00:36:35,003 --> 00:36:39,062
+Am asamblat totul la loc apoi,
+şi, nu mică ne-a fost mirarea
+
+489
+00:36:39,062 --> 00:36:42,063
+când am scurtcircuitat
+porţiunea interioară cu cea exterioară,
+
+490
+00:36:42,063 --> 00:36:45,026
+şi am observat o scânteie imensă.
+Asta înseamnă că a mai rămas
+
+491
+00:36:45,026 --> 00:36:49,008
+energie, ceea ce e foarte dubios.
+Nu mai poate exista energie
+
+492
+00:36:49,008 --> 00:36:52,030
+pe butelie, decât dacă 
+legile fizicii nu se aplică.
+
+493
+00:36:52,030 --> 00:36:56,001
+Vreau să vă arăt acest lucru iniţial
+pentru a vă reaminti
+
+494
+00:36:56,001 --> 00:37:01,003
+ceea ce aţi văzut înainte,
+şi apoi voi încerca
+
+495
+00:37:01,003 --> 00:37:08,003
+o explicaţie.
+Să umblăm puţin la
+
+496
+00:37:08,003 --> 00:37:10,003
+lumini.
+Ah, vom stinge toate
+
+497
+00:37:10,003 --> 00:37:13,007
+luminile.
+De fapt, puteţi vedea
+
+498
+00:37:13,007 --> 00:37:18,040
+încărcarea buteliei.
+Da.
+
+499
+00:37:26,006 --> 00:37:38,006
+Stingem luminile,
+şi o dezasamblez.
+
+500
+00:37:38,006 --> 00:37:44,059
+Îndepărtez porţiunea interioară.
+Sticla este un bun izolator,
+
+501
+00:37:44,059 --> 00:37:50,010
+aşa că o pot atinge
+cu mâna.
+
+502
+00:37:56,060 --> 00:38:03,013
+Bine, acum iau
+conductorul din interior, îl ating,
+
+503
+00:38:03,013 --> 00:38:06,061
+îl ling, îl sărut,
+îndepărtez toate sarcinile de pe el.
+
+504
+00:38:06,061 --> 00:38:09,011
+Uitaţi-l.
+Fac acelaşi lucru şi cu conductorul
+
+505
+00:38:09,011 --> 00:38:11,063
+din exterior, îl iau în mână.
+Sigur
+
+506
+00:38:11,063 --> 00:38:17,005
+nu a mai rămas 
+sarcină liberă pe el.
+
+507
+00:38:17,005 --> 00:38:25,002
+Pun sticla înapoi,
+şi conductorul interior
+
+508
+00:38:25,002 --> 00:38:28,003
+înapoi.
+Stingem acum lumina
+
+509
+00:38:28,003 --> 00:38:31,003
+ca să vedem ce se 
+întâmplă când le scurtcircuităm.
+
+510
+00:38:31,003 --> 00:38:35,000
+Veţi vedea o scânteie.
+Sting lumina,
+
+511
+00:38:35,000 --> 00:38:38,000
+aşadar, 
+uitaţi-vă foarte atent.
+
+512
+00:38:38,000 --> 00:38:40,001
+Vă voi spune când 
+o voi face.
+
+513
+00:38:40,001 --> 00:38:42,005
+Trei, doi, unu, 
+sunt foarte aproape acum,
+
+514
+00:38:42,005 --> 00:38:46,003
+zero.
+O scânteie foarte mare.
+
+515
+00:38:46,003 --> 00:38:48,009
+Asta înseamnă energie,
+ceea ce este imposibil.
+
+516
+00:38:48,009 --> 00:38:51,068
+Nu ar trebui să existe deloc.
+O parte din voi
+
+517
+00:38:51,068 --> 00:38:55,006
+aţi avut cu siguranţă nopţi 
+nedormite în încercare de a explica fenomenul.
+
+518
+00:38:55,006 --> 00:38:58,046
+Unii din voi
+mi-aţi şi scris pe mail.
+
+519
+00:38:58,046 --> 00:39:02,003
+Uh, tu n-ai avut nopţi nedormite,
+văd asta.
+
+520
+00:39:02,003 --> 00:39:06,007
+Ce se întâmplă, aşadar ?
+Există doar o singură posibilitate,
+
+521
+00:39:06,007 --> 00:39:13,005
+şi anume, trebuie 
+să existe sarcină liberă pe sticlă.
+
+522
+00:39:13,005 --> 00:39:17,004
+Cum a ajuns acolo?
+Păi, descărcare corona.
+
+523
+00:39:17,004 --> 00:39:20,005
+Aceasta este singura
+posibilitate prin care poate ajunge acolo.
+
+524
+00:39:20,005 --> 00:39:28,021
+Ţineţi minte faptul că,
+în aer, câmpul electric
+
+525
+00:39:28,021 --> 00:39:31,059
+nu poate fi mai mare decât
+3 ori 10^6 volţi
+
+526
+00:39:31,059 --> 00:39:33,098
+pe metru.
+Dacă este mai mare de atât,
+
+527
+00:39:33,098 --> 00:39:39,001
+avem descărcare corona.
+Apropo, în sticlă,
+
+528
+00:39:39,001 --> 00:39:42,002
+este puţin mai mare.
+Este 10^7 volţi
+
+529
+00:39:42,002 --> 00:39:50,003
+pe metru.
+Voi face acum nişte
+
+530
+00:39:50,003 --> 00:39:55,002
+calcule bazate pe unele 
+ipoteze simplificatoare.
+
+531
+00:39:55,002 --> 00:39:57,008
+Acest ipoteze nu vor fi 
+exacte, pentru că
+
+532
+00:39:57,008 --> 00:40:02,006
+nu cunoaştem dimensiunile
+exact ale acestui sistem,
+
+533
+00:40:02,006 --> 00:40:05,000
+dar nici nu avem nevoie
+de astfel de dimensiuni exacte.
+
+534
+00:40:05,000 --> 00:40:11,007
+Explicaţia este mult mai importată.
+Aşadar, de ce se comportă astfel ?
+
+535
+00:40:11,008 --> 00:40:16,009
+În primul rând, vom presupune
+că acest condensator este pur şi simplu
+
+536
+00:40:16,009 --> 00:40:20,004
+două plăci plane şi paralele.
+Aceasta este o simplificare,
+
+537
+00:40:20,004 --> 00:40:23,072
+pentru că forma sa este
+cea a unui borcan.
+
+538
+00:40:23,072 --> 00:40:27,008
+Voi presupune că 
+Wimshurst-ul produce aproximativ
+
+539
+00:40:27,008 --> 00:40:29,088
+30 kV.
+Această valoare este aproximativ
+
+540
+00:40:29,088 --> 00:40:32,001
+corectă,
+s-ar putea să fie doar 25.
+
+541
+00:40:32,001 --> 00:40:38,003
+Sau, s-ar putea să fie 35.
+Voi presupune că intervalul de aer
+
+542
+00:40:38,003 --> 00:40:42,002
+dintre conductorul exterior
+şi sticlă este de 1 mm,
+
+543
+00:40:42,002 --> 00:40:45,005
+că ambele sunt de 1 mm,
+grosimea
+
+544
+00:40:45,005 --> 00:40:50,005
+sticlei este de 3 mm,
+iar κ,
+
+545
+00:40:50,005 --> 00:40:57,005
+pentru sticlă, este 5.
+Acestea sunt ipotezele
+
+546
+00:40:57,005 --> 00:41:06,065
+de la care plecăm. 
+Aici avem aşadar
+
+547
+00:41:06,065 --> 00:41:11,001
+conductorul din exterior,
+aici e sticla,
+
+548
+00:41:11,001 --> 00:41:15,047
+iar aici conductorul din interior.
+Această distanţa este de 1 mm,
+
+549
+00:41:15,047 --> 00:41:18,091
+aceasta de 3 mm,
+iar aceasta
+
+550
+00:41:18,091 --> 00:41:23,037
+1 mm,
+iar diferenţa de potenţial
+
+551
+00:41:23,037 --> 00:41:27,098
+va fi egală cu 
+30 kV.
+
+552
+00:41:27,098 --> 00:41:34,003
+Dar ştim că diferenţa de potenţial 
+este tot timpul egală cu E ori d.
+
+553
+00:41:34,003 --> 00:41:38,042
+Pentru această deschizătură 
+este E local ori acest d,
+
+554
+00:41:38,042 --> 00:41:45,005
+E local ori acest d,
+şi E local ori acest d.
+
+555
+00:41:45,005 --> 00:41:53,003
+Ştim, de asemenea, 
+că E-ul în sticlă este acelaşi cu E-ul în aer
+
+556
+00:41:53,003 --> 00:41:59,055
+împărţit la κ, adică la 5.
+Şi ştim că diferenţa
+
+557
+00:41:59,055 --> 00:42:02,074
+de potenţial totală dintre 
+cele două puncte trebuie să fie
+
+558
+00:42:02,074 --> 00:42:05,006
+de 30.000 de volţi.
+Asta îmi permite acum
+
+559
+00:42:05,006 --> 00:42:09,006
+să calculez direct
+câmpul
+
+560
+00:42:09,006 --> 00:42:12,003
+electric de aici, în aer,
+câmpul electric
+
+561
+00:42:12,003 --> 00:42:14,050
+în aer de aici,
+şi câmpul electric
+
+562
+00:42:14,050 --> 00:42:19,007
+din sticlă, pentru că avem 
+o ecuaţie simplă cu o singură necunoscută,
+
+563
+00:42:19,007 --> 00:42:25,001
+adică aceasta.
+Analizăm prima dată această deschizătură.
+
+564
+00:42:25,001 --> 00:42:31,000
+Aşadar, E_aer ori distanţa d,
+adică
+
+565
+00:42:31,000 --> 00:42:35,003
+1 mm. 
+Dar, desigur, va trebui
+
+566
+00:42:35,003 --> 00:42:41,021
+să analizez şi această deschizătură,
+aşa că înmulţim totul cu doi.
+
+567
+00:42:41,021 --> 00:42:44,008
+Trebuie acum să adăugăm
+câmpul
+
+568
+00:42:44,008 --> 00:42:46,070
+electric din sticlă,
+ce este egal cu cel din aer
+
+569
+00:42:46,070 --> 00:42:53,002
+împărţit la 5
+ori distanţa acestuia,
+
+570
+00:42:53,002 --> 00:42:57,081
+adică 3 mm.
+Această sumă trebuie să fie egală
+
+571
+00:42:57,081 --> 00:43:00,039
+cu 30.000,
+adică diferenţa de potenţial dintre
+
+572
+00:43:00,039 --> 00:43:03,010
+aceste două puncte.
+Aceasta este o ecuaţie cu o singură
+
+573
+00:43:03,010 --> 00:43:05,001
+necunoscută,
+şi putem calcula
+
+574
+00:43:05,001 --> 00:43:09,006
+câmpul electric din intervalul de aer.
+Câmpul electric
+
+575
+00:43:09,006 --> 00:43:17,007
+din intervalul de aer 
+este egal cu 11,5 ori 10^6
+
+576
+00:43:17,007 --> 00:43:20,002
+volţi pe metru. 
+Aici este identic,
+
+577
+00:43:20,002 --> 00:43:23,006
+desigur, 
+11,5 ori 10^6,
+
+578
+00:43:23,006 --> 00:43:32,000
+iar aici este de 5 ori mai mic,
+adică 2,3 ori 10^6.
+
+579
+00:43:32,000 --> 00:43:34,098
+Pentru a vă demonstra
+că mi-ai făcut corect temele,
+
+580
+00:43:34,098 --> 00:43:39,074
+diferenţa de potenţial
+de aici este de
+
+581
+00:43:39,074 --> 00:43:44,001
+11,5 kV.
+Exprimat in kV.
+
+582
+00:43:44,001 --> 00:43:49,022
+Diferenţa de potenţial
+de aici este acum de aproximativ 7 kV,
+
+583
+00:43:49,022 --> 00:43:53,018
+iar diferenţa de potenţial
+de aici este aceeaşi, 11,5 kV.
+
+584
+00:43:53,018 --> 00:43:58,036
+Dacă le adăugăm,
+obţinem 30.
+
+585
+00:44:00,053 --> 00:44:04,002
+Dacă analizăm situaţia
+vedem că este imposibilă,
+
+586
+00:44:04,002 --> 00:44:07,007
+pentru că un câmp de 
+11,5 ori 10^6 este
+
+587
+00:44:07,007 --> 00:44:10,002
+mult peste câmpul
+electric de străpungere.
+
+588
+00:44:10,002 --> 00:44:12,050
+În acest moment,
+va exista
+
+589
+00:44:12,050 --> 00:44:16,000
+o descărcare corona 
+dinspre conductor
+
+590
+00:44:16,000 --> 00:44:18,036
+înspre sticlă,
+iar asta înseamnă
+
+591
+00:44:18,036 --> 00:44:24,003
+o presărare a sarcinilor
+pe sticlă, aceasta fiind cheia
+
+592
+00:44:24,003 --> 00:44:28,001
+soluţiei 
+acestui comportament bizar.
+
+593
+00:44:28,001 --> 00:44:32,000
+Când demontăm butelia,
+şi luăm
+
+594
+00:44:32,000 --> 00:44:36,000
+sarcinile de pe conductori,
+sarcinile libere
+
+595
+00:44:36,000 --> 00:44:38,035
+ce au fost presărate
+pe sticlă vor rămâne acolo.
+
+596
+00:44:38,035 --> 00:44:40,057
+Acelea nu le-am îndepărtat.
+Sunt foarte greu de îndepărtat,
+
+597
+00:44:40,057 --> 00:44:43,000
+pentru că sticla este
+un izolator.
+
+598
+00:44:43,000 --> 00:44:45,008
+Este foarte greu de îndepărtat 
+sarcina de pe un izolator.
+
+599
+00:44:45,008 --> 00:44:48,027
+Este uşor de îndepărtat 
+de pe un conductor, dar nici măcar nu am
+
+600
+00:44:48,027 --> 00:44:52,001
+încercat să le iau de pe sticlă,
+pentru că v-am făcut să credeţi,
+
+601
+00:44:52,001 --> 00:44:57,000
+după cum am crezut şi eu ani la rând,
+că odată îndepărtate sarcinile
+
+602
+00:44:57,000 --> 00:45:00,007
+libere de pe conductor, 
+nu mai poate exista sarcină pe sticlă.
+
+603
+00:45:00,007 --> 00:45:02,004
+Acest lucru este fals,
+pentru că avem de-a face cu descărcarea
+
+604
+00:45:02,004 --> 00:45:08,003
+corona.
+Acum vine întrebarea,
+
+605
+00:45:08,003 --> 00:45:13,006
+înainte de dezasamblare, 
+care este configuraţia
+
+606
+00:45:13,006 --> 00:45:19,000
+câmpurilor electrice 
+şi a potenţialelor ?
+
+607
+00:45:19,000 --> 00:45:27,004
+Voi face aici un desen,
+aici este conductorul,
+
+608
+00:45:27,004 --> 00:45:33,005
+sticla, şi conductorul.
+Putem presupune acum că
+
+609
+00:45:33,005 --> 00:45:39,001
+după descărcarea corona, 
+câmpul acesta este egal cu 3 ori 10^6.
+
+610
+00:45:39,001 --> 00:45:41,001
+Poate e puţin mai mic,
+dar aceasta este valoarea maximă
+
+611
+00:45:41,001 --> 00:45:46,001
+posibilă. Câmpul de aici, din aer, 
+va fi de asemenea
+
+612
+00:45:46,001 --> 00:45:49,031
+egal cu 
+3 ori 10^6 V/m.
+
+613
+00:45:49,031 --> 00:45:52,014
+Dar, din moment ce ştiu
+că diferenţa de potenţial dintre
+
+614
+00:45:52,014 --> 00:45:56,069
+acest două puncte trebuie să fie 
+de 30 kV, pot trage
+
+615
+00:45:56,069 --> 00:46:01,009
+imediat concluzia că aici
+câmpul electric este egal cu
+
+616
+00:46:01,009 --> 00:46:04,009
+8 ori 10^6
+V/m.
+
+617
+00:46:04,009 --> 00:46:08,005
+Aceasta este singura posibilitate
+pentru care suma totală este de 30 kV,
+
+618
+00:46:08,005 --> 00:46:12,005
+pentru că cele 3 milioane de V/m
+de aici, înseamnă
+
+619
+00:46:12,005 --> 00:46:15,008
+3 kV.
+Aici sunt tot
+
+620
+00:46:15,008 --> 00:46:18,003
+3 kV.
+Prin urmare, aici voi avea nevoie
+
+621
+00:46:18,003 --> 00:46:22,001
+de o diferenţă de potenţial de 24 kV.
+iar asta împărţit la
+
+622
+00:46:22,001 --> 00:46:27,003
+3 mm, înseamnă acest câmp.
+Uitaţi-vă, acest câmp este mai intens
+
+623
+00:46:27,003 --> 00:46:30,000
+decât acela,
+pe când mai devreme,
+
+624
+00:46:30,000 --> 00:46:32,088
+am presupus că acest câmp
+este de 5 ori mai mic decât acel
+
+625
+00:46:32,088 --> 00:46:36,002
+câmp.
+De ce este mai mare acum  ?
+
+626
+00:46:36,002 --> 00:46:39,007
+Pentru că,
+pe această suprafaţă de aici,
+
+627
+00:46:39,007 --> 00:46:44,001
+am presărat sarcini libere.
+Nu mai este un câmp
+
+628
+00:46:44,001 --> 00:46:48,003
+determinat de câmpul exterior
+şi de sarcinile
+
+629
+00:46:48,003 --> 00:46:50,004
+induse.
+Nu mai este cazul acum.
+
+630
+00:46:50,004 --> 00:46:55,093
+Acum are el însuşi
+sarcină liberă.
+
+631
+00:46:55,093 --> 00:47:00,005
+Aveţi acum tot ce vă trebuie,
+poate doar curaj nu,
+
+632
+00:47:00,005 --> 00:47:03,000
+pentru a calcula 
+sarcina liberă totală, chiar aici
+
+633
+00:47:03,000 --> 00:47:06,001
+pe sticlă, 
+pentru a genera aceste câmpuri.
+
+634
+00:47:06,001 --> 00:47:08,056
+Este un calcul
+direct.
+
+635
+00:47:08,056 --> 00:47:12,003
+Vom găsi că există 
+de 12 ori mai multă sarcină liberă
+
+636
+00:47:12,003 --> 00:47:15,028
+aici, pe sticlă, 
+decât aici, pe conductor,
+
+637
+00:47:15,028 --> 00:47:19,001
+de 12 ori mai multă. 
+Prin urmare, dacă dezasamblez totul
+
+638
+00:47:19,001 --> 00:47:22,009
+şi îndepărtez sarcina liberă
+de pe conductori, aproape că n-am făcut
+
+639
+00:47:22,009 --> 00:47:27,000
+nimic, pentru că mare parte
+din sarcina liberă se regăseşte pe sticlă,
+
+640
+00:47:27,000 --> 00:47:36,006
+iar asta n-am îndepărtat-o.
+Dacă apoi reasamblez butelia,
+
+641
+00:47:36,006 --> 00:47:40,005
+am aproape toată energia disponibilă încă.
+Nu am pierdut foarte multă.
+
+642
+00:47:40,005 --> 00:47:44,005
+Am pierdut o parte, dar nu mult.
+Ceea ce
+
+643
+00:47:44,005 --> 00:47:47,003
+trebuie să fac, aşadar, 
+este să îndepărtez sarcina
+
+644
+00:47:47,003 --> 00:47:50,003
+de pe sticla interioară.
+Acest lucru nu este uşor,
+
+645
+00:47:50,003 --> 00:47:53,003
+dar voi încerca asta acum.
+Nu este simplu, pentru că este foarte
+
+646
+00:47:53,003 --> 00:47:57,000
+dificil de îndepărtat acea sarcină,
+dar voi încerca.
+
+647
+00:47:57,000 --> 00:48:01,009
+După această operaţie, 
+energia rămasă
+
+648
+00:48:01,009 --> 00:48:06,005
+după reasamblare nu ar trebui să fie 
+prea mare,
+
+649
+00:48:06,005 --> 00:48:10,003
+dacă vom încerca să obţinem o scânteie.
+Urmez aceeaşi rutină.
+
+650
+00:48:10,003 --> 00:48:21,000
+Încarc butelia acum.
+Îndepărtez acest cablu
+
+651
+00:48:21,000 --> 00:48:26,000
+şi acesta.
+O dezasamblez,
+
+652
+00:48:26,000 --> 00:48:32,009
+urmez exact aceeaşi 
+paşi ca şi înainte,
+
+653
+00:48:32,009 --> 00:48:36,002
+s-a dus, toată sarcina s-a dus,
+indiferent câtă a fost.
+
+654
+00:48:36,002 --> 00:48:39,095
+Şi aceasta s-a dus.
+Acum, această parte e mai dificilă.
+
+655
+00:48:39,095 --> 00:48:42,003
+Nu e suficient dacă
+fac asta.
+
+656
+00:48:42,003 --> 00:48:44,007
+Trebuie să intru înăuntru.
+Oh, simt sarcina.
+
+657
+00:48:44,007 --> 00:48:47,001
+E un,
+e un sentiment frumos.
+
+658
+00:48:47,001 --> 00:48:50,003
+Simt descărcarea corona
+cu -- trebuie să
+
+659
+00:48:50,003 --> 00:48:55,041
+îndepărtez toată sarcina,
+şi asta nu e uşor.
+
+660
+00:48:55,041 --> 00:48:58,007
+Nu e.
+De fapt, prin frecare
+
+661
+00:48:58,007 --> 00:49:02,003
+s-ar putea să fie şi mai rău.
+S-ar putea s-o încarc
+
+662
+00:49:02,003 --> 00:49:06,008
+prin frecare. 
+Dar fac tot ceea ce pot.
+
+663
+00:49:06,008 --> 00:49:08,095
+E cam indecent
+ceea ce fac.
+
+664
+00:49:08,095 --> 00:49:13,003
+Bine.
+Încerc să îndepărtez sarcina,
+
+665
+00:49:13,003 --> 00:49:16,015
+situaţie ce-am ignorat-o
+complet înainte.
+
+666
+00:49:16,015 --> 00:49:20,001
+Aici s-a acumulat energia de fapt,
+şi încerc să o îndepărtez
+
+667
+00:49:20,001 --> 00:49:24,005
+acum. 
+Voi reasambla totul acum,
+
+668
+00:49:24,005 --> 00:49:28,003
+şi vom urma
+aceeaşi rutină.
+
+669
+00:49:28,003 --> 00:49:32,050
+Bine că nu am spart-o.
+O pun la loc.
+
+670
+00:49:32,050 --> 00:49:36,077
+Sting luminile,
+ca să vedeţi dacă
+
+671
+00:49:36,077 --> 00:49:40,008
+vom avea o scânteie
+cât de mică,
+
+672
+00:49:40,008 --> 00:49:45,078
+dacă n-am reuşit să îndepărtez
+toate sarcinile de pe sticlă.
+
+673
+00:49:45,078 --> 00:49:49,001
+O voi scurtcircuita din nou,
+3,
+
+674
+00:49:49,001 --> 00:49:54,008
+2, 1, 0.
+A fost o scânteie extrem extrem
+
+675
+00:49:54,008 --> 00:49:57,048
+de mică.
+Poate că voi nici nu aţi văzut-o.
+
+676
+00:49:57,048 --> 00:50:03,009
+Trebuie să concluzionăm 
+că fizica din spatele acestui experiment
+
+677
+00:50:03,009 --> 00:50:10,069
+se datorează sticlei, iar fizica funcţionează, 
+chiar şi atunci când ne surprinde.
+
+678
+00:50:10,069 --> 00:50:14,004
+Ne vedem
+miercuri.
+
+679
+00:50:14,004 --> 00:50:19,029
+subtitrarea în limba română pentru
+www.circuiteelectrice.ro

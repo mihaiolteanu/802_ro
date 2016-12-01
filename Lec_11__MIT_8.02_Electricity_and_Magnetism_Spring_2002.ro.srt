@@ -1,0 +1,3714 @@
+﻿1
+00:00:01,020 --> 00:00:06,090
+Până acum,
+am discutat doar despre
+
+2
+00:00:06,090 --> 00:00:10,032
+electricitate în acest curs.
+Calmaţi-vă.
+
+3
+00:00:10,032 --> 00:00:16,041
+Dar acest curs este 
+despre electricitate şi magnetism.
+
+4
+00:00:16,041 --> 00:00:20,051
+Astăzi vom vorbi
+despre magnetism.
+
+5
+00:00:20,051 --> 00:00:25,075
+În secolul V î.e.n.,
+grecii ştiau deja
+
+6
+00:00:25,075 --> 00:00:29,012
+de existenţa unor
+roci ce atrag bucăţi de fier.
+
+7
+00:00:29,012 --> 00:00:31,000
+Aceste roci
+sunt în abundenţă
+
+8
+00:00:31,000 --> 00:00:34,004
+în districtul Magnesia,
+de aici vine
+
+9
+00:00:34,004 --> 00:00:37,059
+şi numele de 
+„magnet” şi „magnetism”.
+
+10
+00:00:37,059 --> 00:00:41,073
+Rocile conţin oxid de fier,
+ce poartă numele de
+
+11
+00:00:41,073 --> 00:00:46,047
+magnetit.
+La 1100 e.n.,
+
+12
+00:00:46,047 --> 00:00:50,001
+chinezii utilizau
+ace de magnetit pentru a construi
+
+13
+00:00:50,001 --> 00:00:55,002
+compasuri, iar în secolul al XIII-lea
+s-a descoperit că
+
+14
+00:00:55,002 --> 00:00:59,002
+magnetitul posedă două
+puncte de maximă atracţie,
+
+15
+00:00:59,002 --> 00:01:02,003
+puncte ce poartă numele de poli.
+O bucată
+
+16
+00:01:02,003 --> 00:01:06,001
+de magnetit,
+are tot timpul doi poli.
+
+17
+00:01:06,001 --> 00:01:09,001
+Fie un pol A,
+iar celălalt B.
+
+18
+00:01:09,001 --> 00:01:13,003
+A şi A se resping,
+B şi B se resping,
+
+19
+00:01:13,003 --> 00:01:21,052
+dar A şi B se atrag.
+Diferenţa dintre electricitate
+
+20
+00:01:21,052 --> 00:01:23,058
+şi magnetism
+este enormă.
+
+21
+00:01:23,058 --> 00:01:26,080
+Există două polarităţi
+şi în cazul electricităţii,
+
+22
+00:01:26,080 --> 00:01:30,098
+dar putem alege 
+un pol pozitiv şi unul negativ.
+
+23
+00:01:30,098 --> 00:01:33,053
+Magnetismul nu ne
+permite o astfel de alegere.
+
+24
+00:01:33,053 --> 00:01:37,014
+Polii vin
+tot timpul în pereche.
+
+25
+00:01:37,014 --> 00:01:40,032
+Nu există
+poli magnetici izolaţi, sau,
+
+26
+00:01:40,032 --> 00:01:43,000
+un fizician ar spune
+că nu există monopoli
+
+27
+00:01:43,000 --> 00:01:47,001
+magnetici, din câte ştim.
+Dacă cineva descoperă un monopol
+
+28
+00:01:47,001 --> 00:01:51,001
+magnetic, şi să nu 
+credeţi că nu se caută,
+
+29
+00:01:51,001 --> 00:01:53,005
+acea descoperire
+ar merita cu siguranţă premiul Nobel.
+
+30
+00:01:53,005 --> 00:01:55,002
+În principiu,
+ar putea exista,
+
+31
+00:01:55,002 --> 00:01:57,056
+dar din ceea ce ştim,
+nu există,
+
+32
+00:01:57,056 --> 00:02:02,009
+nu au fost niciodată văzuţi.
+Monopoli electrici există însă.
+
+33
+00:02:02,009 --> 00:02:06,005
+O sarcină pozitivă
+reprezintă un monopol electric.
+
+34
+00:02:06,005 --> 00:02:08,036
+O sarcină
+negativă
+
+35
+00:02:08,036 --> 00:02:12,000
+reprezintă un monopol electric.
+O sarcină pozitivă şi negativă,
+
+36
+00:02:12,000 --> 00:02:15,003
+egale ca şi valoare,
+reprezintă un dipol electric.
+
+37
+00:02:15,003 --> 00:02:19,005
+În cazul unui magnet însă, 
+avem tot timpul un dipol
+
+38
+00:02:19,005 --> 00:02:22,000
+magnetic.
+Nu putem vorbi despre
+
+39
+00:02:22,000 --> 00:02:25,050
+un monopol magnetic.
+În secolul al XVI-lea,
+
+40
+00:02:25,050 --> 00:02:30,003
+Gilbert descoperă că
+Pământul este un magnet gigant.
+
+41
+00:02:30,003 --> 00:02:33,089
+A realizat experimente
+cu compasuri, fiind
+
+42
+00:02:33,089 --> 00:02:36,098
+practic 
+prima persoană ce realizează
+
+43
+00:02:36,098 --> 00:02:40,060
+o hartă a câmpului
+magnetic al Pământului.
+
+44
+00:02:40,060 --> 00:02:45,091
+Dacă un astfel
+de ac din magnetită
+
+45
+00:02:45,091 --> 00:02:49,057
+indică
+în această direcţie,
+
+46
+00:02:49,057 --> 00:02:54,080
+adică înspre 
+nordul Canadei,
+
+47
+00:02:54,080 --> 00:02:58,000
+atunci, prin convenţie,
+spunem că această extremitate a acului
+
+48
+00:02:58,000 --> 00:03:01,008
+poartă numele 
+de „nord”,
+
+49
+00:03:01,008 --> 00:03:07,001
+iar această extremitate „sud”.
+Din moment ce A şi A se resping,
+
+50
+00:03:07,001 --> 00:03:11,002
+iar B şi B se resping,
+dar A şi B se atrag reciproc,
+
+51
+00:03:11,002 --> 00:03:15,058
+nordul Canadei reprezintă
+polul sud magnetic al Pământului,
+
+52
+00:03:15,058 --> 00:03:18,070
+nu polul nord magnetic.
+Acestea sunt detalii,
+
+53
+00:03:18,070 --> 00:03:24,001
+desigur. Astfel
+definim direcţia, nord şi sud,
+
+54
+00:03:24,001 --> 00:03:29,008
+ale acestor ace de magnetit.
+Oersted, un fizician danez,
+
+55
+00:03:29,008 --> 00:03:34,060
+a făcut o descoperire crucială
+în 1820.
+
+56
+00:03:34,060 --> 00:03:39,000
+Acesta a descoperit că
+un ac magnetic poate fi deviat
+
+57
+00:03:39,000 --> 00:03:44,029
+de către un curent dintr-un fir.
+Această descoperire leagă magnetismul
+
+58
+00:03:44,029 --> 00:03:47,006
+de electricitate,
+fiind
+
+59
+00:03:47,006 --> 00:03:51,097
+probabil cel mai important
+experiment din toate timpurile.
+
+60
+00:03:51,097 --> 00:03:57,002
+Oersted trage concluzia
+că acest curent din fir produce
+
+61
+00:03:57,002 --> 00:04:01,028
+un câmp magnetic,
+iar acul magnetic
+
+62
+00:04:01,028 --> 00:04:04,054
+este deviat datorită
+acelui câmp magnetic produs
+
+63
+00:04:04,054 --> 00:04:09,032
+de fir.
+Această descoperire magnifică
+
+64
+00:04:09,032 --> 00:04:13,041
+duce la creşterea explozivă
+a cercetării în secolul XIX,
+
+65
+00:04:13,041 --> 00:04:18,068
+cu precădere de către Ampere,
+Faraday, şi Henry,
+
+66
+00:04:18,068 --> 00:04:21,073
+culminând cu
+lucrările geniale ale
+
+67
+00:04:21,073 --> 00:04:26,081
+fizicianului scoţian Maxwell.
+Maxwell defineşte o
+
+68
+00:04:26,081 --> 00:04:30,001
+teorie universală a câmpului,
+ce aduce laolaltă electricitatea şi
+
+69
+00:04:30,001 --> 00:04:34,096
+magnetismul. Acestea stau la baza
+acestui curs.
+
+70
+00:04:34,096 --> 00:04:39,005
+Ecuaţiile lui Maxwell.
+Le veţi vedea pe toate patru
+
+71
+00:04:39,005 --> 00:04:47,020
+până la sfârşitul acestui curs.
+Dacă avem un curent,
+
+72
+00:04:47,020 --> 00:04:51,039
+un fir, să spune că firul
+este perpendicular pe tablă,
+
+73
+00:04:51,039 --> 00:04:55,000
+iar curentul intră în tablă,
+pun un X
+
+74
+00:04:55,000 --> 00:04:57,002
+aici.
+În cazul în care curentul iese
+
+75
+00:04:57,002 --> 00:05:00,075
+din tablă, aş pune un punct aici.
+Există un motiv
+
+76
+00:05:00,075 --> 00:05:03,079
+bine întemeiat pentru asta.
+Am vorbit tot timpul despre
+
+77
+00:05:03,079 --> 00:05:06,023
+vectori, în mecanica clasică,
+şi în alte cursuri,
+
+78
+00:05:06,023 --> 00:05:08,081
+dar nu aţi văzut niciodată unul.
+Vă voi arăta
+
+79
+00:05:08,081 --> 00:05:12,028
+un vector.
+Acesta este un vector.
+
+80
+00:05:12,028 --> 00:05:15,055
+Aşa arată 
+când vine spre voi.
+
+81
+00:05:15,055 --> 00:05:19,013
+Atunci vedeţi un punct.
+Şi aşa arată când vine
+
+82
+00:05:19,013 --> 00:05:23,078
+dinspre voi.
+Atunci vedeţi un X.
+
+83
+00:05:23,078 --> 00:05:26,001
+Acest curent
+intră în
+
+84
+00:05:26,001 --> 00:05:32,000
+tablă aşadar. 
+Dacă punem ace de magnetită în
+
+85
+00:05:32,000 --> 00:05:37,026
+vecinătatea sa,
+ele se vor alinia astfel.
+
+86
+00:05:41,010 --> 00:05:47,005
+Dacă le pun aici,
+se vor alinia astfel.
+
+87
+00:05:47,005 --> 00:05:52,036
+Sunt tot timpul tangente
+pe un cerc, acesta fiind modul
+
+88
+00:05:52,036 --> 00:05:59,035
+în care definim 
+câmpul magnetic şi direcţia sa, şi anume,
+
+89
+00:05:59,035 --> 00:06:05,055
+câmpul magnetic,
+al cărui simbol este B,
+
+90
+00:06:05,055 --> 00:06:08,084
+este îndreptat în
+direcţia acelor de ceasornic,
+
+91
+00:06:08,084 --> 00:06:12,047
+prin convenţie,
+atunci când curentul intră în
+
+92
+00:06:12,047 --> 00:06:17,057
+tablă.
+Dacă uitaţi acest lucru,
+
+93
+00:06:17,057 --> 00:06:24,098
+aplicaţi regula burghiului 
+sau a mâinii drepte.
+
+94
+00:06:24,098 --> 00:06:28,082
+Dacă rotiţi un burghiu
+în sensul acelor de ceasornic,
+
+95
+00:06:28,082 --> 00:06:30,075
+burghiul intră
+în tablă.
+
+96
+00:06:30,075 --> 00:06:33,038
+Aceasta este legătura
+dintre B şi curent.
+
+97
+00:06:33,038 --> 00:06:39,027
+Dacă rotim burghiul 
+în sens invers,
+
+98
+00:06:39,027 --> 00:06:42,054
+atunci acesta
+iese din tablă.
+
+99
+00:06:42,054 --> 00:06:47,000
+Putem determina astfel
+direcţia câmpului magnetic din jurul
+
+100
+00:06:47,000 --> 00:06:51,057
+firelor de curent.
+E doar o convenţie.
+
+101
+00:06:51,057 --> 00:06:54,060
+Vreau să vă arăt
+răspunsul unui ac
+
+102
+00:06:54,060 --> 00:07:00,001
+magnetic în vecinătatea unui curent.
+Am aici un fir
+
+103
+00:07:00,001 --> 00:07:03,079
+prin care voi trece
+o cantitatea imensă de curent,
+
+104
+00:07:03,079 --> 00:07:09,004
+undeva la 300 A,
+veţi vedea
+
+105
+00:07:09,004 --> 00:07:14,002
+firul acolo,
+ajustez lumina,
+
+106
+00:07:14,002 --> 00:07:18,036
+să vedem cum facem,
+da, e bine aşa,
+
+107
+00:07:18,036 --> 00:07:25,003
+lumina e bună.
+La trecerea curentului, vedeţi
+
+108
+00:07:25,003 --> 00:07:28,056
+aici magnetitul,
+i se spune compas
+
+109
+00:07:28,056 --> 00:07:31,002
+acum, este aliniat
+pe direcţia câmpului
+
+110
+00:07:31,003 --> 00:07:34,002
+magnetic al Pământului.
+Vom trece
+
+111
+00:07:34,002 --> 00:07:37,000
+300 A pe aici,
+şi îşi va modifica
+
+112
+00:07:37,000 --> 00:07:40,032
+direcţia.
+Va exista
+
+113
+00:07:40,032 --> 00:07:43,059
+un câmp magnetic
+în jurul firului astfel.
+
+114
+00:07:43,059 --> 00:07:47,016
+Se va deplasa astfel, 
+prin urmare.
+
+115
+00:07:47,016 --> 00:07:51,074
+Curentul va fi aşa de mare,
+încât va scoate
+
+116
+00:07:51,074 --> 00:07:55,067
+fum în câteva secunde.
+Bateriei nu o să-i facă
+
+117
+00:07:55,067 --> 00:07:57,097
+plăcere un astfel
+de curent mare.
+
+118
+00:07:57,097 --> 00:07:59,079
+Prin urmare,
+pot aplica acest curent doar pentru
+
+119
+00:07:59,079 --> 00:08:03,007
+câteva secunde.
+Compasul se va roti în
+
+120
+00:08:03,007 --> 00:08:06,002
+această direcţie,
+apoi va începe să oscileze.
+
+121
+00:08:06,002 --> 00:08:08,039
+Nu pot menţine curentul
+suficient de mult încât oscilaţia
+
+122
+00:08:08,039 --> 00:08:11,004
+să înceteze.
+Îl voi opri aşadar cu mâna,
+
+123
+00:08:11,004 --> 00:08:15,002
+şi vă voi convinge că aceasta 
+este într-adevăr poziţia de echilibru.
+
+124
+00:08:15,002 --> 00:08:19,063
+Dacă sunteţi pregătiţi,
+o conectăm
+
+125
+00:08:19,063 --> 00:08:24,050
+acum, fiţi atenţi,
+trei, doi, unu, zero.
+
+126
+00:08:24,050 --> 00:08:27,005
+Uitaţi-l.
+Îl voi opri, curentul
+
+127
+00:08:27,005 --> 00:08:29,006
+merge încă.
+Vedeţi că aceasta este
+
+128
+00:08:29,006 --> 00:08:32,000
+poziţia de echilibru.
+Opresc curentul.
+
+129
+00:08:32,000 --> 00:08:34,046
+Inversez curentul,
+în direcţia
+
+130
+00:08:34,046 --> 00:08:40,088
+opusă, şi veţi vedea 
+că se roteşte invers.
+
+131
+00:08:40,088 --> 00:08:42,022
+Cu 180 de grade
+într-o direcţie
+
+132
+00:08:42,022 --> 00:08:43,080
+diferită.
+Trei, doi, unu,
+
+133
+00:08:43,080 --> 00:08:45,092
+zero.
+Uitaţi-l!
+
+134
+00:08:45,092 --> 00:08:47,058
+Îl opresc,
+câteva secunde,
+
+135
+00:08:47,058 --> 00:08:51,018
+aceasta este poziţia de echilibru,
+şi îi dau drumul.
+
+136
+00:08:51,018 --> 00:08:54,002
+Aţi văzut că, într-adevăr,
+acul magnetic
+
+137
+00:08:54,002 --> 00:08:58,033
+răspunde câmpului magnetic
+produs de fir.
+
+138
+00:08:58,033 --> 00:09:01,070
+Aceasta a fost marea
+descoperire a lui Oersted.
+
+139
+00:09:01,070 --> 00:09:04,004
+Probabil că 
+această demonstraţie
+
+140
+00:09:04,004 --> 00:09:08,005
+nu este foarte spectaculoasă
+pentru voi, dar, din punct de vedere istoric,
+
+141
+00:09:08,005 --> 00:09:11,002
+importanţa acesteia este enormă.
+Susţin faptul
+
+142
+00:09:11,002 --> 00:09:13,006
+că este probabil 
+cea mai importantă demonstraţie,
+
+143
+00:09:13,006 --> 00:09:16,003
+cel mai important 
+experiment din întreaga fizică,
+
+144
+00:09:16,003 --> 00:09:19,002
+pentru că leagă
+electricitatea de magnetism.
+
+145
+00:09:19,002 --> 00:09:24,000
+A pus bazele 
+întregului concept de
+
+146
+00:09:24,000 --> 00:09:28,001
+teorie a câmpului.
+Acţiunea este egală cu minus
+
+147
+00:09:28,001 --> 00:09:34,037
+reacţiunea,
+iar asta înseamna că un fir
+
+148
+00:09:34,037 --> 00:09:38,009
+străbătut de curent
+exercită o forţă asupra unui magnet,
+
+149
+00:09:38,009 --> 00:09:44,004
+dar şi magnetul trebuie să
+exercite o forţă asupra firului.
+
+150
+00:09:44,004 --> 00:09:47,003
+Vă voi demonstra
+şi acest lucru,
+
+151
+00:09:47,003 --> 00:09:51,076
+dar acum,
+am un magnet mult mai puternic,
+
+152
+00:09:51,076 --> 00:09:54,053
+acesta de aici.
+Magnetul nu se va deplasa,
+
+153
+00:09:54,053 --> 00:09:57,002
+este foarte greu.
+De data aceasta veţi vedea
+
+154
+00:09:57,002 --> 00:10:00,009
+doar deplasarea firului.
+Ideea de bază este
+
+155
+00:10:00,009 --> 00:10:04,004
+următoarea.
+Aici este magnetul.
+
+156
+00:10:12,005 --> 00:10:15,002
+Acesta este polul nord,
+iar acesta polul
+
+157
+00:10:15,002 --> 00:10:21,000
+sud. Sincer, 
+nu ţin minte care e care,
+
+158
+00:10:21,000 --> 00:10:24,038
+dar câmpul magnetic
+va fi astfel.
+
+159
+00:10:24,038 --> 00:10:26,098
+Aici avem
+un fir de curent,
+
+160
+00:10:26,098 --> 00:10:30,065
+un fir cu un curent prin el,
+firul este
+
+161
+00:10:30,065 --> 00:10:35,001
+perpendicular pe tablă.
+Când pornesc curentul,
+
+162
+00:10:35,001 --> 00:10:38,074
+dacă acesta iese din tablă --
+există o probabilitate
+
+163
+00:10:38,074 --> 00:10:41,003
+de 50%,
+pentru că nu ţin minte
+
+164
+00:10:41,003 --> 00:10:45,001
+dacă acesta este nordul sau sudul --
+dar să presupunem că
+
+165
+00:10:45,001 --> 00:10:47,078
+aceasta este configuraţia,
+iar curentul iese
+
+166
+00:10:47,078 --> 00:10:51,024
+din tablă, atunci,
+asupra acestui fir
+
+167
+00:10:51,024 --> 00:10:58,068
+se va exercita o forţă în sus.
+Este dovedit experimental
+
+168
+00:10:58,068 --> 00:11:08,002
+că forţa asupra unui fir
+este tot timpul în direcţia lui
+
+169
+00:11:08,002 --> 00:11:11,000
+I x B (produs vectorial).
+Aceştia sunt vectori unitate.
+
+170
+00:11:11,000 --> 00:11:13,079
+Din moment ce I
+iese din tablă,
+
+171
+00:11:13,079 --> 00:11:16,098
+dacă înmulţesc vectorial I cu B,
+obţin o forţă în această
+
+172
+00:11:16,098 --> 00:11:20,063
+direcţie.
+Dacă inversez curentul,
+
+173
+00:11:20,063 --> 00:11:23,056
+dacă acesta
+este acum aşa,
+
+174
+00:11:23,056 --> 00:11:25,044
+desigur, 
+firul vrea să meargă în jos.
+
+175
+00:11:25,044 --> 00:11:29,032
+Vă voi arăta ambele situaţii,
+dar nu ştiu care
+
+176
+00:11:29,032 --> 00:11:34,001
+va fi prima,
+pentru că nu am marcat polii.
+
+177
+00:11:37,003 --> 00:11:40,054
+Îl vedeţi puţin diferit
+faţă de cum
+
+178
+00:11:40,054 --> 00:11:43,005
+l-am desenat.
+Am desenat magnetul
+
+179
+00:11:43,005 --> 00:11:45,067
+îndreptat aşa, 
+dar este, desigur,
+
+180
+00:11:45,067 --> 00:11:47,066
+mult mai bine dacă-l
+vedeţi îndreptat aşa.
+
+181
+00:11:47,066 --> 00:11:50,070
+Vedeţi şi firul
+şi magnetul.
+
+182
+00:11:50,070 --> 00:11:54,006
+Voi trece un curent
+de câteva sute de amperi prin acest
+
+183
+00:11:54,006 --> 00:11:59,001
+fir, şi va sări în sus,
+sau în jos,
+
+184
+00:11:59,001 --> 00:12:01,058
+după care voi inversa
+curentul şi deplasarea
+
+185
+00:12:01,058 --> 00:12:05,045
+va fi în cealaltă parte.
+Bine.
+
+186
+00:12:05,045 --> 00:12:09,078
+Sunteţi pregătiţi?
+Trei, doi, unu,
+
+187
+00:12:09,078 --> 00:12:13,067
+zero.
+Aţi observat existenţa
+
+188
+00:12:13,067 --> 00:12:16,096
+unei forţe în jos,
+forţa a fost aşa de mare încât a tras
+
+189
+00:12:16,096 --> 00:12:22,004
+şi suporturile în jos.
+Dacă
+
+190
+00:12:22,004 --> 00:12:27,047
+inversez curentul,
+firul
+
+191
+00:12:27,047 --> 00:12:30,063
+va sări în sus.
+Acum ştiu cu
+
+192
+00:12:30,063 --> 00:12:33,005
+siguranţă,
+direcţia curentului este
+
+193
+00:12:33,005 --> 00:12:36,006
+opusă,
+iar firul va sări în sus.
+
+194
+00:12:36,006 --> 00:12:38,001
+Primul desen
+de acolo.
+
+195
+00:12:38,001 --> 00:12:40,007
+Trei,
+doi, unu, zero.
+
+196
+00:12:40,007 --> 00:12:44,001
+Foarte clar.
+Aţi văzut cum a sărit.
+
+197
+00:12:44,001 --> 00:12:48,037
+Bine.
+Să le deconectez.
+
+198
+00:12:57,061 --> 00:13:03,002
+Dacă printr-un fir avem un curent,
+să spunem că avem un curent
+
+199
+00:13:03,002 --> 00:13:11,041
+I1 prin acest fir,
+va produce un câmp magnetic,
+
+200
+00:13:11,041 --> 00:13:16,062
+regula burghiului,
+în acest punct, câmpul magnetic
+
+201
+00:13:16,062 --> 00:13:21,070
+intră în tablă,
+îl notăm cu B1, iar
+
+202
+00:13:21,070 --> 00:13:24,010
+aici, 
+iese din tablă.
+
+203
+00:13:24,010 --> 00:13:25,091
+Acest lucru
+este irelevant acum.
+
+204
+00:13:25,091 --> 00:13:27,031
+Dar iese
+din tablă.
+
+205
+00:13:27,031 --> 00:13:31,088
+Aici, intră în tablă.
+Iar aici avem un alt fir,
+
+206
+00:13:31,088 --> 00:13:37,015
+străbătut de
+curentul I2.
+
+207
+00:13:37,015 --> 00:13:40,005
+Asupra acestui fir
+se va exercita o forţă
+
+208
+00:13:40,005 --> 00:13:44,005
+în direcţia I x B.
+Folosind mâna dreaptă,
+
+209
+00:13:44,005 --> 00:13:47,067
+I x B,
+forţa este în sus.
+
+210
+00:13:47,067 --> 00:13:53,028
+Asupra acestui fir
+se va exercita o forţă în sus.
+
+211
+00:13:53,028 --> 00:13:55,076
+Dar, desigur,
+dacă asupra acestui fir se exercită
+
+212
+00:13:55,076 --> 00:13:59,002
+o forţă în sus, din moment ce 
+acţiunea este egală cu minus reacţiunea,
+
+213
+00:13:59,002 --> 00:14:01,020
+asupra acestui fir
+se va exercita o forţă în jos.
+
+214
+00:14:01,020 --> 00:14:03,070
+Se vor îndrepta
+unul spre celălalt prin urmare.
+
+215
+00:14:03,070 --> 00:14:07,044
+Se vor 
+atrage reciproc.
+
+216
+00:14:07,044 --> 00:14:11,052
+Putem confirma independent,
+că aici forţa este îndreptată
+
+217
+00:14:11,052 --> 00:14:15,041
+în jos.
+Că forţa este aceasta.
+
+218
+00:14:15,041 --> 00:14:17,098
+Pentru mine, este suficient
+să spuneţi că acţiunea este egală cu minus
+
+219
+00:14:17,098 --> 00:14:22,064
+reacţiunea, legea a 3-a a lui Newton.
+Dar dacă vrem să desenăm
+
+220
+00:14:22,064 --> 00:14:26,047
+câmpul magnetic B2
+datorat acestui
+
+221
+00:14:26,047 --> 00:14:29,061
+curent, ce iese, desigur,
+din tablă,
+
+222
+00:14:29,061 --> 00:14:32,038
+ţineţi minte
+regula burghiului,
+
+223
+00:14:32,038 --> 00:14:35,000
+atunci putem vedea
+că forţa de aici
+
+224
+00:14:35,000 --> 00:14:38,073
+trebuie să fie în direcţia
+lui I1 x B2,
+
+225
+00:14:38,073 --> 00:14:40,054
+adică în jos,
+ceea ce am presupus
+
+226
+00:14:40,054 --> 00:14:42,057
+mai înainte.
+Cele două fire se vor
+
+227
+00:14:42,057 --> 00:14:47,047
+apropia unul de celălalt.
+Totuşi, dacă totul ramâne
+
+228
+00:14:47,047 --> 00:14:51,006
+neschimbat, dar inversez
+direcţia lui I2, astfel încât
+
+229
+00:14:51,006 --> 00:14:54,002
+cei doi curenţi
+sunt în direcţii opuse,
+
+230
+00:14:54,002 --> 00:14:58,007
+atunci şi forţele se vor inversa,
+iar cele două fire se vor respinge
+
+231
+00:14:58,007 --> 00:15:02,005
+reciproc.
+Vă voi demonstra acest lucru.
+
+232
+00:15:08,012 --> 00:15:11,083
+Am
+cele două fire aici,
+
+233
+00:15:11,083 --> 00:15:14,062
+le veţi vedea
+pe ecran.
+
+234
+00:15:14,062 --> 00:15:19,005
+Vă voi explica 
+experimentul în detaliu.
+
+235
+00:15:20,074 --> 00:15:27,037
+Cele două fire sunt verticale,
+acesta este unul din ele,
+
+236
+00:15:27,037 --> 00:15:32,036
+acesta e celălalt fir.
+La trecerea unui
+
+237
+00:15:32,036 --> 00:15:41,003
+curent în aceeaşi direcţie,
+se vor atrage
+
+238
+00:15:41,003 --> 00:15:44,059
+reciproc.
+Veţi vedea asta acum.
+
+239
+00:15:44,059 --> 00:15:46,086
+Trei,
+doi, unu, zero.
+
+240
+00:15:46,086 --> 00:15:50,005
+Vedeţi?
+Se atrag reciproc.
+
+241
+00:15:50,005 --> 00:15:54,000
+Repet 
+experimentul acum.
+
+242
+00:15:54,000 --> 00:15:57,058
+Dacă inversez
+curentul prin unul din fire,
+
+243
+00:15:57,058 --> 00:16:01,001
+se vor respinge.
+Acum direcţia curentului
+
+244
+00:16:01,001 --> 00:16:04,082
+este opusă prin cele două fire.
+Se resping.
+
+245
+00:16:04,082 --> 00:16:07,064
+Încă odată,
+trei, doi, unu,
+
+246
+00:16:07,064 --> 00:16:11,049
+zero.
+Se resping reciproc.
+
+247
+00:16:11,049 --> 00:16:14,003
+Motivul pentru care
+v-am arătat această demonstraţie
+
+248
+00:16:14,003 --> 00:16:17,034
+este altul.
+Ceea ce vreau să vedeţi
+
+249
+00:16:17,034 --> 00:16:23,005
+este că, dacă am această
+placă conductoare de aluminiu -- este un
+
+250
+00:16:23,005 --> 00:16:26,007
+conductor -- şi o plasez
+între cele două
+
+251
+00:16:26,007 --> 00:16:29,019
+fire, şi repet experimentul,
+rezultatele vor fi
+
+252
+00:16:29,019 --> 00:16:32,034
+identice.
+Prin urmare,
+
+253
+00:16:32,034 --> 00:16:37,000
+câmpurile magnetice
+sunt foarte diferite de cele electrice,
+
+254
+00:16:37,000 --> 00:16:40,001
+pentru că cele electrice
+sunt afectate puternic de
+
+255
+00:16:40,001 --> 00:16:44,050
+o astfel de placă conductoare.
+Câmpurile magnetice însă, nu.
+
+256
+00:16:44,050 --> 00:16:47,004
+Voi amplasa
+această placă
+
+257
+00:16:47,004 --> 00:16:52,007
+între fire,
+şi voi trece un curent în
+
+258
+00:16:52,007 --> 00:16:54,090
+direcţii opuse prin fire.
+Veţi vedea că firele
+
+259
+00:16:54,090 --> 00:16:58,001
+se resping reciproc,
+ca şi cum placa nu ar fi fost acolo.
+
+260
+00:16:58,001 --> 00:17:00,082
+Trei,
+doi, unu, zero.
+
+261
+00:17:00,082 --> 00:17:08,002
+Uitaţi-vă.
+Câmpurile magnetice
+
+262
+00:17:08,002 --> 00:17:14,054
+sunt, aşadar, foarte interesante.
+Totuşi, electricitatea şi
+
+263
+00:17:14,054 --> 00:17:24,000
+magnetismul sunt interconectate.
+Cum definim intensitatea
+
+264
+00:17:24,000 --> 00:17:28,005
+unui câmp magnetic?
+În cazul electricităţii,
+
+265
+00:17:28,005 --> 00:17:32,000
+intensitatea câmpurilor
+ electrice a fost definită
+
+266
+00:17:32,000 --> 00:17:37,042
+astfel.
+Am măsurat forţa electrică
+
+267
+00:17:37,042 --> 00:17:40,041
+asupra
+unei sarcini electrice,
+
+268
+00:17:40,041 --> 00:17:42,066
+iar forţa electrică
+este egală cu
+
+269
+00:17:42,066 --> 00:17:44,048
+sarcina ori
+câmpul electric.
+
+270
+00:17:44,048 --> 00:17:47,066
+Aşa determinăm
+intensitatea câmpului electric.
+
+271
+00:17:47,066 --> 00:17:52,000
+Nu ar fi frumos
+dacă am putea spune că
+
+272
+00:17:52,000 --> 00:18:00,004
+forţa magnetică 
+este egală cu sarcina magnetică ori
+
+273
+00:18:00,004 --> 00:18:02,030
+câmpul B ?
+Am putea astfel defini
+
+274
+00:18:02,030 --> 00:18:05,005
+intensitatea câmpului B.
+Ar fi foarte frumos.
+
+275
+00:18:05,005 --> 00:18:07,020
+Dar din moment
+ce nu am găsit un monopol
+
+276
+00:18:07,020 --> 00:18:10,004
+magnetic, nu o putem face.
+Dacă veniţi mâine
+
+277
+00:18:10,004 --> 00:18:13,000
+cu un monopol magnetic,
+putem face asta.
+
+278
+00:18:13,000 --> 00:18:16,000
+Dar nu avem monopoli magnetici,
+prin urmare, nu putem face
+
+279
+00:18:16,000 --> 00:18:19,028
+acest lucru.
+Cum definim atunci câmpul
+
+280
+00:18:19,028 --> 00:18:21,076
+magnetic?
+Îl definim
+
+281
+00:18:21,076 --> 00:18:24,059
+astfel.
+Dacă avem o sarcină
+
+282
+00:18:24,059 --> 00:18:32,012
+electrică q,
+ce se deplasează
+
+283
+00:18:32,012 --> 00:18:39,055
+cu viteza V
+într-un câmp magnetic, atunci,
+
+284
+00:18:39,055 --> 00:18:46,009
+se poate demonstra experimental, 
+că forţa este tot timpul
+
+285
+00:18:46,009 --> 00:18:52,000
+perpendiculară pe V.
+Putem pune un indice B,
+
+286
+00:18:52,000 --> 00:18:54,002
+pentru forţă magnetică,
+dacă vrem.
+
+287
+00:18:54,002 --> 00:18:56,076
+Avem aşadar un câmp magnetic,
+sarcina se deplasează cu această
+
+288
+00:18:56,076 --> 00:18:59,055
+viteză, şi asupra sarcinii
+se exercită tot timpul o forţă
+
+289
+00:18:59,055 --> 00:19:05,006
+perpendiculară pe V.
+Valoarea forţei
+
+290
+00:19:05,006 --> 00:19:09,058
+e proporţională cu viteza particulei,
+şi
+
+291
+00:19:09,058 --> 00:19:13,000
+e proporţională
+cu sarcina însăşi.
+
+292
+00:19:13,000 --> 00:19:15,001
+O dublare a sarcinii
+duce la o
+
+293
+00:19:15,001 --> 00:19:17,007
+dublare a forţei.
+O dublare a vitezei
+
+294
+00:19:17,007 --> 00:19:23,084
+duce la o dublare a forţei.
+Definiţia intensităţii
+
+295
+00:19:23,084 --> 00:19:30,000
+câmpului magnetic
+este aceasta.
+
+296
+00:19:30,000 --> 00:19:33,046
+Forţa, cu indice B,
+pentru că este magnetică,
+
+297
+00:19:33,046 --> 00:19:37,056
+este egală cu q, sarcina electrică,
+ori produsul scalar dintre
+
+298
+00:19:37,056 --> 00:19:41,065
+V, viteza sarcinii electrice,
+şi B.
+
+299
+00:19:41,065 --> 00:19:43,074
+Vedeţi că
+că forţa este tot timpul
+
+300
+00:19:43,074 --> 00:19:47,001
+perpendiculară pe V,
+că este direct
+
+301
+00:19:47,001 --> 00:19:50,025
+proporţională cu viteza
+şi direct proporţională cu
+
+302
+00:19:50,025 --> 00:19:53,001
+sarcina q.
+Această forţă poartă numele de
+
+303
+00:19:53,001 --> 00:19:57,073
+forţa Lorentz,
+după fizicianul olandez.
+
+304
+00:19:57,073 --> 00:20:01,000
+Ecuaţia este
+cu semn.
+
+305
+00:20:01,000 --> 00:20:04,064
+Dacă înlocuim sarcina
+pozitivă cu una negativă,
+
+306
+00:20:04,064 --> 00:20:07,080
+forţa se inversează
+cu 180 de grade.
+
+307
+00:20:07,080 --> 00:20:11,000
+Dacă direcţia lui V se inversează,
+forţa se inversează.
+
+308
+00:20:11,000 --> 00:20:14,000
+Dacă inversăm direcţia lui B,
+forţa se inversează.
+
+309
+00:20:14,000 --> 00:20:18,033
+Este aşadar
+o ecuaţie ce depinde de semn.
+
+310
+00:20:18,033 --> 00:20:22,005
+Unitatea de măsură
+a intensităţii câmpului magnetic reiese
+
+311
+00:20:22,005 --> 00:20:27,009
+din această ecuaţie,
+forţa e în newtoni, q e în coulombi,
+
+312
+00:20:27,009 --> 00:20:32,002
+iar V în metri pe secundă.
+Aceasta ar fi aşadar unitatea de măsură
+
+313
+00:20:32,002 --> 00:20:35,002
+pentru intensitatea câmpului magnetic,
+dar nu folosim niciodată asta.
+
+314
+00:20:35,002 --> 00:20:40,009
+În unităţi SI,
+poartă numele de Tesla,
+
+315
+00:20:40,009 --> 00:20:43,005
+pentru care folosim
+simbolul „T”.
+
+316
+00:20:43,005 --> 00:20:48,003
+Un Tesla reprezintă
+un câmp magnetic extrem de intens.
+
+317
+00:20:48,003 --> 00:20:51,005
+Câmpul magnetic
+al acestui magnet este de doar 0,2
+
+318
+00:20:51,005 --> 00:20:53,001
+Tesla,
+iar acest magnet este
+
+319
+00:20:53,001 --> 00:20:57,068
+foarte puternic.
+Prin urmare, se foloseşte
+
+320
+00:20:57,068 --> 00:20:59,036
+adesea unitatea de măsură
+denumită gauss,
+
+321
+00:20:59,036 --> 00:21:02,040
+ce nu este o unitate SI,
+dar o veţi întâlni adesea în
+
+322
+00:21:02,040 --> 00:21:08,003
+cărţi. 
+Un gauss este egal cu 10^-4 T.
+
+323
+00:21:08,003 --> 00:21:13,005
+Câmpul magnetic al Pământului 
+este aproximativ o jumătate de gauss.
+
+324
+00:21:13,005 --> 00:21:18,000
+Acest magnet
+are aproximativ 2 kilogauss.
+
+325
+00:21:18,000 --> 00:21:32,040
+Dar unitatea SI este Tesla.
+Televizoarele
+
+326
+00:21:32,040 --> 00:21:36,006
+sau monitoarele,
+posedă un ecran
+
+327
+00:21:36,006 --> 00:21:41,001
+fluorescent, iar în interior,
+există tunuri electronice ce
+
+328
+00:21:41,001 --> 00:21:45,004
+baleiază acest ecran fluorescent.
+Ecranul unui
+
+329
+00:21:45,004 --> 00:21:48,048
+televizor este compus
+din 525 de linii,
+
+330
+00:21:48,048 --> 00:21:53,002
+iar tunul de electroni
+scanează acest ecran în 0,03 secunde.
+
+331
+00:21:53,002 --> 00:21:56,081
+Variaţia intensităţii
+acestor fascicule de electroni
+
+332
+00:21:56,081 --> 00:22:00,003
+dă naştere imaginilor.
+Dacă analizăm tubul
+
+333
+00:22:00,003 --> 00:22:06,001
+dintr-o parte, 
+într-un anumit moment, electronii
+
+334
+00:22:06,001 --> 00:22:08,070
+se deplasează astfel,
+un moment mai târziu
+
+335
+00:22:08,070 --> 00:22:12,001
+s-ar putea să fie aici,
+în timpul baleiajului.
+
+336
+00:22:12,001 --> 00:22:16,002
+Este evident că aducerea
+unui magnet puternic în vecinătatea
+
+337
+00:22:16,002 --> 00:22:19,002
+ecranului televizorului
+va duce la distorsionarea
+
+338
+00:22:19,002 --> 00:22:22,003
+imaginii, 
+pentru că modificăm
+
+339
+00:22:22,003 --> 00:22:27,000
+deplasarea acestor curenţi,
+a acestor electroni.
+
+340
+00:22:27,000 --> 00:22:33,039
+Nam June Paik  
+este un artist celebru, ce aplică
+
+341
+00:22:33,039 --> 00:22:36,001
+acest principiu pentru arta sa.
+Aproape orice muzeu important
+
+342
+00:22:36,001 --> 00:22:42,001
+din lume posedă o lucrare de
+Nam June Paik, cu imagini distorsionate
+
+343
+00:22:42,001 --> 00:22:46,035
+utilizând magneţi
+în vecinătatea ecranelor tv.
+
+344
+00:22:46,035 --> 00:22:49,006
+Nu vreau să intru în 
+competiţie cu Nam June Paik,
+
+345
+00:22:49,006 --> 00:22:52,002
+dar vreau
+să vă arăt acest lucru.
+
+346
+00:22:52,002 --> 00:22:55,005
+Avem aici
+un televizor
+
+347
+00:22:55,005 --> 00:23:00,031
+şi un magnet foarte puternic.
+Vom încerca
+
+348
+00:23:00,031 --> 00:23:06,001
+distorsionarea imaginii.
+Să ajustăm şi
+
+349
+00:23:06,001 --> 00:23:12,003
+lumina.
+Să căutăm
+
+350
+00:23:12,003 --> 00:23:19,009
+un post pe care-l urâm.
+Aici este magnetul,
+
+351
+00:23:19,009 --> 00:23:22,000
+un magnet
+foarte puternic.
+
+352
+00:23:22,000 --> 00:23:26,032
+Să dăm drumul la televizor,
+să vedem ce găsim.
+
+353
+00:23:31,079 --> 00:23:34,020
+Oh, l-am închis
+în loc să-l pornesc.
+
+354
+00:23:57,059 --> 00:24:01,073
+Ah, 
+urăsc reclamele.
+
+355
+00:24:01,073 --> 00:24:04,080
+Fiţi atenţi acum,
+aduc magnetul în apropierea
+
+356
+00:24:04,080 --> 00:24:11,069
+imaginii.
+Vedeţi?
+
+357
+00:24:11,069 --> 00:24:17,021
+Nu faceţi asta
+calculatorului vostru,
+
+358
+00:24:17,021 --> 00:24:21,037
+pentru că
+s-ar putea să nu-şi mai revină.
+
+359
+00:24:21,037 --> 00:24:28,001
+Acum electronii --
+vedeţi, vedeţi
+
+360
+00:24:28,001 --> 00:24:32,004
+distorsiunea,
+puteţi vedea distorsiunea?
+
+361
+00:24:32,004 --> 00:24:40,000
+Sunteţi aşa de tăcuţi.
+Aţi putut vedea aşadar
+
+362
+00:24:40,000 --> 00:24:45,075
+că putem modifica direcţia
+de deplasare a unei sarcini
+
+363
+00:24:45,075 --> 00:24:49,009
+cu ajutorul 
+unui magnet.
+
+364
+00:24:56,035 --> 00:25:00,021
+Dacă avem atât un câmp electric
+cât şi un câmp magnetic,
+
+365
+00:25:00,021 --> 00:25:03,001
+atunci avem, desigur,
+şi o forţă
+
+366
+00:25:03,001 --> 00:25:06,046
+electrică,
+iar forţa totală asupra
+
+367
+00:25:06,046 --> 00:25:11,020
+unei sarcini aflate în mişcare
+va fi egală cu q
+
+368
+00:25:11,020 --> 00:25:18,044
+ori vectorul câmpului electric,
+plus v x B.
+
+369
+00:25:18,044 --> 00:25:23,096
+Dar acest
+produs l-am mai întâlnit.
+
+370
+00:25:23,096 --> 00:25:28,035
+Un câmp electric poate
+efectua lucru mecanic asupra unei sarcini.
+
+371
+00:25:28,035 --> 00:25:30,086
+Ţineţi minte, q ori delta V.
+Poate fi pozitiv,
+
+372
+00:25:30,086 --> 00:25:33,043
+negativ,
+dar poate efectua lucru mecanic.
+
+373
+00:25:33,043 --> 00:25:36,064
+Poate modifica
+energia cinetică a sarcinii.
+
+374
+00:25:36,064 --> 00:25:39,033
+Câmpurile magnetice nu 
+pot efectua niciodată lucru mecanic
+
+375
+00:25:39,033 --> 00:25:43,035
+asupra unei sarcini în mişcare,
+pentru că forţa
+
+376
+00:25:43,035 --> 00:25:47,001
+este tot timpul
+perpendiculară pe viteza v.
+
+377
+00:25:47,001 --> 00:25:49,005
+Dacă forţa este tot timpul
+perpendiculară pe deplasare,
+
+378
+00:25:49,005 --> 00:25:53,005
+putem modifica direcţia deplasării,
+dar nu putem modifica
+
+379
+00:25:53,005 --> 00:25:55,073
+energia cinetică.
+Aceasta este diferenţa
+
+380
+00:25:55,073 --> 00:26:01,070
+fundamentală dintre 
+forţa electrică şi cea magnetică.
+
+381
+00:26:01,070 --> 00:26:05,015
+Voi calcula acum
+forţa exercitată de un
+
+382
+00:26:05,015 --> 00:26:11,071
+fir parcurs de un curent I,
+ce dă naştere unui câmp magnetic B.
+
+383
+00:26:15,037 --> 00:26:17,075
+Apropo,
+şi aceasta poartă numele de
+
+384
+00:26:17,075 --> 00:26:22,059
+forţa Lorentz,
+este o combinaţie dintre cele două.
+
+385
+00:26:22,059 --> 00:26:25,021
+Să luăm
+pentru început un
+
+386
+00:26:25,021 --> 00:26:33,000
+fir parcurs
+de un curent electric,
+
+387
+00:26:33,000 --> 00:26:38,006
+acesta este firul,
+iar curentul este I.
+
+388
+00:26:38,006 --> 00:26:40,051
+Să spunem că,
+în punctul acesta,
+
+389
+00:26:40,051 --> 00:26:49,078
+avem un câmp magnetic B.
+Câmpul magnetic poate fi
+
+390
+00:26:49,078 --> 00:26:53,002
+diferit în lungul firului,
+în principiu.
+
+391
+00:26:53,002 --> 00:27:00,087
+Aici avem o sarcină +dq, 
+ce se deplasează
+
+392
+00:27:00,087 --> 00:27:08,001
+în lungul firului
+cu o viteza de drift vd.
+
+393
+00:27:08,001 --> 00:27:14,018
+Să analizăm ce se întâmplă
+dacă valoarea curentului este zero.
+
+394
+00:27:14,018 --> 00:27:17,004
+În cazul în care curentul este zero,
+la temperatura camerei,
+
+395
+00:27:17,004 --> 00:27:21,002
+electronii liberi din aceste fire
+au viteze uriaşe.
+
+396
+00:27:21,002 --> 00:27:23,076
+Trei milioane
+de metri pe secundă.
+
+397
+00:27:23,076 --> 00:27:26,002
+Mult mai mare
+decât viteza de drift.
+
+398
+00:27:26,002 --> 00:27:29,044
+Dar direcţiile 
+acestora sunt haotice.
+
+399
+00:27:29,044 --> 00:27:33,005
+Este o mişcare Browniană,
+o agitaţie termică.
+
+400
+00:27:33,005 --> 00:27:37,031
+Asupra fiecărei sarcini
+individuale se va exercita o forţă,
+
+401
+00:27:37,031 --> 00:27:40,003
+dar în medie,
+aceasta va fi egală zero.
+
+402
+00:27:40,003 --> 00:27:44,007
+Aceste sarcini vor începe
+să se deplaseze cu o viteză
+
+403
+00:27:44,007 --> 00:27:48,076
+de drift foarte mică,
+doar în momentul aplicării unui curent.
+
+404
+00:27:48,076 --> 00:27:52,024
+În acest caz, desigur,
+forţa totală nu mai este zero.
+
+405
+00:27:52,024 --> 00:27:57,008
+Să spunem că această sarcină dq
+se deplasează în această direcţie,
+
+406
+00:27:57,008 --> 00:28:02,000
+ceea ce înseamnă un curent.
+Notăm unghiul
+
+407
+00:28:02,000 --> 00:28:04,070
+dintre ele cu θ.
+Asta e important,
+
+408
+00:28:04,070 --> 00:28:07,004
+pentru că avem
+un produs vectorial dintre viteză
+
+409
+00:28:07,004 --> 00:28:09,085
+şi B.
+Ne vom întâlni cu sinusul
+
+410
+00:28:09,085 --> 00:28:15,095
+acestui unghi θ mai încolo.
+Veţi spune -- sper că veţi spune,
+
+411
+00:28:15,095 --> 00:28:18,043
+„Ascultă, omule,
+ceea ce spui e ridicol.
+
+412
+00:28:18,043 --> 00:28:21,002
+Sarcinile pozitive
+nu se deplasează prin fire,
+
+413
+00:28:21,002 --> 00:28:24,004
+ci electronii sunt
+cei responsabili de deplasare.
+
+414
+00:28:24,004 --> 00:28:26,081
+Ei sunt responsabili
+pentru existenţa curentului.
+
+415
+00:28:26,081 --> 00:28:30,000
+Iar electronii posedă
+sarcină negativă, şi se deplasează
+
+416
+00:28:30,000 --> 00:28:33,002
+în cealaltă direcţie.”
+Aveţi dreptate.
+
+417
+00:28:33,002 --> 00:28:36,000
+E foarte adevărat.
+Totuşi, deplasarea sarcinii
+
+418
+00:28:36,000 --> 00:28:40,002
+negativă în această direcţie,
+este echivalentă matematic
+
+419
+00:28:40,002 --> 00:28:42,050
+cu o deplasare de sarcină
+pozitivă în acea direcţie.
+
+420
+00:28:42,050 --> 00:28:45,028
+În ambele cazuri,
+direcţia curentului
+
+421
+00:28:45,028 --> 00:28:48,023
+este aceeaşi.
+Am preferat aşadar,
+
+422
+00:28:48,023 --> 00:28:52,004
+din considerente matematice,
+să consider o deplasare de sarcină +dq
+
+423
+00:28:52,004 --> 00:28:55,084
+în această direcţie,
+în locul unei deplasări de sarcină -dq
+
+424
+00:28:55,084 --> 00:29:00,002
+cu viteza de drift,
+în acea direcţie.
+
+425
+00:29:00,002 --> 00:29:05,041
+Dar rezultatul
+final este acelaşi.
+
+426
+00:29:05,041 --> 00:29:10,064
+Asupra acestei
+sarcini se exercită o forţă,
+
+427
+00:29:10,064 --> 00:29:16,029
+dF,
+o forţă magnetică,
+
+428
+00:29:16,029 --> 00:29:20,041
+egală cu sarcina dq,
+ecuaţia de acolo,
+
+429
+00:29:20,041 --> 00:29:24,090
+ori v x B.
+Dar v este viteza
+
+430
+00:29:24,090 --> 00:29:29,048
+de drift,
+iar B-ul este câmpul magnetic,
+
+431
+00:29:29,048 --> 00:29:35,031
+în acest punct.
+Curentul prin fir,
+
+432
+00:29:35,031 --> 00:29:38,089
+în orice punct,
+trebuie să fie egal cu dq/dt.
+
+433
+00:29:38,089 --> 00:29:42,031
+Pentru că asta e definiţia curentului,
+numărul de coulombi
+
+434
+00:29:42,031 --> 00:29:46,005
+pe secundă.
+Curentul este tot timpul dq/dt.
+
+435
+00:29:46,005 --> 00:29:56,036
+Putem scrie ecuaţia aşadar
+ca şi I dt ori vd x B.
+
+436
+00:29:59,042 --> 00:30:05,009
+Dar ţin minte din mecanica clasică,
+faptul că vd ori dt,
+
+437
+00:30:05,009 --> 00:30:10,008
+adică viteza ori timpul,
+reprezintă distanţa.
+
+438
+00:30:10,008 --> 00:30:17,003
+Notăm această distanţă cu dl.
+O distanţă în lungul firului.
+
+439
+00:30:17,003 --> 00:30:19,038
+Pun distanţa aici,
+pentru că nu vreau să
+
+440
+00:30:19,038 --> 00:30:26,002
+complic desenul.
+Această sarcină,
+
+441
+00:30:26,002 --> 00:30:29,008
+în intervalul de timp dt,
+se deplasează pe acea distanţă
+
+442
+00:30:29,008 --> 00:30:35,000
+dl, ce este un vector.
+Acest produs
+
+443
+00:30:35,000 --> 00:30:40,049
+devine dl,
+iar ecuaţia devine dF
+
+444
+00:30:40,049 --> 00:30:53,079
+de B este egal cu 
+I ori dl x B.
+
+445
+00:30:56,074 --> 00:31:02,007
+Ce ne spune această ecuaţie?
+Aceasta este forţa asupra
+
+446
+00:31:02,007 --> 00:31:05,005
+unui mic segment al firului
+de lungime
+
+447
+00:31:05,005 --> 00:31:10,000
+dl, I este curentul prin fir,
+iar B este câmpul
+
+448
+00:31:10,000 --> 00:31:14,046
+magnetic local în acea locaţie dl,
+aceasta este semnificaţia.
+
+449
+00:31:14,046 --> 00:31:17,001
+Dacă vrem să aflăm
+forţa totală asupra firului,
+
+450
+00:31:17,001 --> 00:31:21,002
+trebuie doar să aplicăm
+integrala în lungul firului.
+
+451
+00:31:21,002 --> 00:31:25,055
+Trebuie să aplicăm aşadar o 
+integrală în lungul întregului fir,
+
+452
+00:31:25,055 --> 00:31:28,001
+şi pentru fiecare porţiune dl,
+trebuie să determinăm valoarea
+
+453
+00:31:28,001 --> 00:31:31,041
+câmpului B. 
+Obţinem astfel o forţă,
+
+454
+00:31:31,041 --> 00:31:33,083
+sub formă de vector,
+rezultatul final fiind suma
+
+455
+00:31:33,083 --> 00:31:36,005
+vectorială a tuturor acestor vectori.
+S-ar putea să fie
+
+456
+00:31:36,005 --> 00:31:41,018
+o mare bătaie de cap, 
+dar asta e ideea de bază.
+
+457
+00:31:42,086 --> 00:31:51,054
+Să calculăm forţa exercitată 
+asupra  firului pentru curentul de 300 A.
+
+458
+00:31:58,090 --> 00:32:01,051
+Aleg o geometrie simplă
+pentru a putea executa acea
+
+459
+00:32:01,051 --> 00:32:05,006
+integrală.
+Acesta este firul,
+
+460
+00:32:05,006 --> 00:32:11,044
+şi am avut un curent
+prin fir egal cu aproximativ 300 A.
+
+461
+00:32:11,044 --> 00:32:14,086
+Avem un câmp magnetic,
+adică cel din această
+
+462
+00:32:14,086 --> 00:32:28,039
+deschizătură, acel câmp magnetic B,
+egal cu 0,2 Tesla, 2 kilogauss.
+
+463
+00:32:28,039 --> 00:32:32,058
+Acest câmp magnetic
+există doar aici.
+
+464
+00:32:32,058 --> 00:32:34,087
+Acolo nu există.
+Ca şi
+
+465
+00:32:34,087 --> 00:32:38,083
+o simplificare,
+presupun că acel
+
+466
+00:32:38,083 --> 00:32:42,099
+câmp magnetic este 
+constant pe această porţiune a firului,
+
+467
+00:32:42,099 --> 00:32:46,002
+ce are, să spunem
+doar 10 centimetri.
+
+468
+00:32:46,002 --> 00:32:49,092
+Presupunem aşadar
+că această lungime este de
+
+469
+00:32:49,092 --> 00:32:55,043
+0,1 m, 
+şi că pe această lungime,
+
+470
+00:32:55,043 --> 00:32:58,007
+câmpul magnetic este constant.
+Vrem să calculăm doar
+
+471
+00:32:58,007 --> 00:33:02,021
+cu aproximaţie
+forţa asupra acestui fir.
+
+472
+00:33:02,021 --> 00:33:05,019
+Pot integra foarte
+uşor acea ecuaţie,
+
+473
+00:33:05,019 --> 00:33:09,003
+pentru că am presupus
+că B-ul este perpendicular
+
+474
+00:33:09,003 --> 00:33:13,006
+pe direcţia dl -- pentru că 
+direcţia lui dl este aceasta --
+
+475
+00:33:13,006 --> 00:33:16,004
+Sinus de θ este egal cu unu,
+nu trebuie să-mi fac griji pentru
+
+476
+00:33:16,004 --> 00:33:23,056
+asta, şi obţinem că
+forţa F asupra acestei porţiuni l
+
+477
+00:33:23,056 --> 00:33:30,073
+FB, este egală cu I, 
+curentul de acolo,
+
+478
+00:33:30,073 --> 00:33:33,054
+avem lungimea l,
+adică cea de aici,
+
+479
+00:33:33,054 --> 00:33:36,049
+înmulţit cu B,
+câmpul magnetic.
+
+480
+00:33:36,049 --> 00:33:38,054
+Nu avem niciun sinus,
+pentru că unghiurile sunt de 90
+
+481
+00:33:38,054 --> 00:33:46,001
+de grade.
+Forţa este aşadar
+
+482
+00:33:46,001 --> 00:33:53,037
+egală cu 300 ori
+0,1 ori 0,2,
+
+483
+00:33:53,037 --> 00:34:01,063
+adică 30 ori 0,2,
+adică 6 N.
+
+484
+00:34:01,063 --> 00:34:07,095
+Şase newtoni e mai mult
+decât greutatea unei jumătăţi de kilogram.
+
+485
+00:34:07,095 --> 00:34:11,000
+Nu ar trebui să ne surprindă
+aşadar, că, la pornirea
+
+486
+00:34:11,000 --> 00:34:13,004
+acestui curent,
+ceva trage brusc
+
+487
+00:34:13,004 --> 00:34:16,008
+în jos acel fir,
+cu o greutate echivalentă
+
+488
+00:34:16,008 --> 00:34:18,009
+cu cea a unei jumătăţi de kilogram,
+sau chiar şi mai mult
+
+489
+00:34:18,009 --> 00:34:21,005
+de fapt.
+Nu ar trebuie să ne suprindă
+
+490
+00:34:21,005 --> 00:34:27,000
+că aceşti suporţi au căzut.
+Aţi văzut că putem
+
+491
+00:34:27,000 --> 00:34:29,073
+calcula aceste valori
+dacă facem unele
+
+492
+00:34:29,073 --> 00:34:33,039
+ipoteze simplificatoare
+legate de uniformitatea câmpului
+
+493
+00:34:33,039 --> 00:34:38,041
+magnetic, 
+şi despre locul de existenţă al acestuia.
+
+494
+00:34:42,020 --> 00:34:45,002
+Vom
+vorbi acum despre
+
+495
+00:34:45,002 --> 00:34:51,036
+concursul de
+motoare electrice.
+
+496
+00:34:51,036 --> 00:34:54,001
+Începem astăzi
+acest concurs de motoare
+
+497
+00:34:54,001 --> 00:35:00,001
+electrice, aţi primit un plic
+astăzi. Voi începe să
+
+498
+00:35:00,001 --> 00:35:02,070
+vă spun
+partea de fizică.
+
+499
+00:35:02,070 --> 00:35:06,001
+Scopul final
+este construirea unui
+
+500
+00:35:06,001 --> 00:35:12,089
+motor.
+Dacă avem o buclă de curent --
+
+501
+00:35:12,089 --> 00:35:18,057
+aceasta este o buclă de curent.
+Curentul intră prin punctul A,
+
+502
+00:35:18,057 --> 00:35:20,079
+voi încerca să
+o desenez
+
+503
+00:35:20,079 --> 00:35:24,067
+tridimensional,
+ceea ce nu e foarte uşor.
+
+504
+00:35:24,067 --> 00:35:30,002
+Curentul iese
+prin punctul D.
+
+505
+00:35:30,002 --> 00:35:33,005
+Aceasta este o buclă de curent.
+Curentul trece pe aici,
+
+506
+00:35:33,005 --> 00:35:35,002
+pe aici,
+pe aici,
+
+507
+00:35:35,002 --> 00:35:38,091
+şi se reîntoarce aici.
+Există şi un câmp magnetic.
+
+508
+00:35:38,091 --> 00:35:42,067
+Vom presupune că
+acest câmp magnetic este constant,
+
+509
+00:35:42,067 --> 00:35:49,003
+şi are această direcţie.
+Forţa exercitată în partea
+
+510
+00:35:49,003 --> 00:35:52,047
+aceasta a firului are
+direcţia I x B.
+
+511
+00:35:52,047 --> 00:35:57,007
+Adică forţa este în sus.
+O altă forţă este exercitată aici,
+
+512
+00:35:57,007 --> 00:35:59,027
+în partea aceasta,
+a cărei direcţie este, desigur,
+
+513
+00:35:59,027 --> 00:36:01,030
+în jos.
+Direcţia câmpului magnetic este
+
+514
+00:36:01,030 --> 00:36:03,097
+aceeaşi, direcţia
+curentului este opusă,
+
+515
+00:36:03,097 --> 00:36:11,056
+aşadar forţa este în jos.
+Dacă această lungime a firului este a,
+
+516
+00:36:11,056 --> 00:36:15,003
+şi aceasta tot a,
+atunci valoarea
+
+517
+00:36:15,003 --> 00:36:18,048
+forţei este egală cu
+produsul dintre curentul prin fir
+
+518
+00:36:18,048 --> 00:36:21,032
+şi lungimea firului
+ori câmpul B.
+
+519
+00:36:21,032 --> 00:36:24,027
+Tocmai am demonstrat asta.
+Este integrala de mai devreme,
+
+520
+00:36:24,027 --> 00:36:26,041
+am presupus doar 
+că acest câmp magnetic este constant
+
+521
+00:36:26,041 --> 00:36:29,002
+în întreg spaţiul.
+Unghiul este egal cu 90 de grade,
+
+522
+00:36:29,002 --> 00:36:34,002
+astfel că sinus de θ este 1,
+iar forţa este aceasta.
+
+523
+00:36:34,002 --> 00:36:36,073
+Care este forţa aici
+şi care este forţa aici?
+
+524
+00:36:36,073 --> 00:36:42,057
+Păi, este zero.
+Zero aici, şi zero aici.
+
+525
+00:36:42,057 --> 00:36:45,005
+De ce?
+Pentru că produsul vectorial este
+
+526
+00:36:45,005 --> 00:36:47,091
+zero.
+Indiferent cum o analizăm,
+
+527
+00:36:47,091 --> 00:36:50,093
+putem spune că dl şi B
+sunt fie în aceeaşi direcţie fie
+
+528
+00:36:50,093 --> 00:36:53,065
+în direcţii opuse.
+Putem de asemenea spune că
+
+529
+00:36:53,065 --> 00:36:56,075
+viteza de drift şi B-ul sunt fie
+în aceeaşi direcţie, fie în direcţie opusă,
+
+530
+00:36:56,075 --> 00:37:00,001
+e acelaşi lucru.
+Nu există nicio forţă aici,
+
+531
+00:37:00,001 --> 00:37:05,015
+şi nu există nicio forţă aici.
+Pentru că ecuaţia aplicată
+
+532
+00:37:05,015 --> 00:37:07,062
+pentru aflarea forţei
+magnetice este egală cu zero.
+
+533
+00:37:07,062 --> 00:37:11,043
+Sinusul acelui unghi este egal cu zero.
+Ce se va întâmpla cu această
+
+534
+00:37:11,043 --> 00:37:14,042
+buclă?
+Păi, va exista un cuplu asupra acestui
+
+535
+00:37:14,042 --> 00:37:16,051
+sistem.
+Forţa netă este zero,
+
+536
+00:37:16,051 --> 00:37:18,029
+pentru că forţa de sus
+este identică cu forţa
+
+537
+00:37:18,029 --> 00:37:21,022
+de jos, dar există un cuplu
+ce tinde să rotească sistemul în
+
+538
+00:37:21,022 --> 00:37:25,012
+în sens trigonometric.
+Acest cuplu
+
+539
+00:37:25,012 --> 00:37:27,096
+este egal, desigur,
+produsul dintre
+
+540
+00:37:27,096 --> 00:37:30,069
+această forţă 
+şi distanţa perpendiculară dintre
+
+541
+00:37:30,069 --> 00:37:34,079
+aceste două forţe.
+Cuplul este
+
+542
+00:37:34,079 --> 00:37:40,002
+egal aşadar cu I ori a b ori B,
+în acest moment,
+
+543
+00:37:40,002 --> 00:37:43,062
+când distanţa dintre
+forţe este aceasta.
+
+544
+00:37:43,062 --> 00:37:46,058
+Dar bucla se va roti acum,
+şi pe măsură ce se roteşte,
+
+545
+00:37:46,058 --> 00:37:50,006
+aceste forţe se vor apropia,
+iar cuplul va
+
+546
+00:37:50,006 --> 00:37:53,038
+scădea.
+Totuşi, se va roti tot
+
+547
+00:37:53,038 --> 00:37:57,017
+în sens trigonometric.
+Vine un moment însă,
+
+548
+00:37:57,017 --> 00:38:03,000
+la un unghi de 90 de grade,
+când cuplul este zero.
+
+549
+00:38:03,000 --> 00:38:06,002
+Voi încerca să 
+desenez asta tridimensional
+
+550
+00:38:06,002 --> 00:38:08,003
+Nu este
+aşa de uşor.
+
+551
+00:38:08,003 --> 00:38:11,054
+Acesta este acum
+punctul D.
+
+552
+00:38:11,054 --> 00:38:15,058
+Curentul iese tot timpul 
+prin punctul D.
+
+553
+00:38:15,058 --> 00:38:20,067
+Voi încerca să fac un desen
+tridimensional.
+
+554
+00:38:20,067 --> 00:38:26,064
+Curentul intră pe aici,
+prin punctul A.
+
+555
+00:38:28,081 --> 00:38:30,035
+Nu arată
+chiar aşa de rău.
+
+556
+00:38:30,035 --> 00:38:35,006
+Câmpul magnetic B
+nu se modifică, B-ul este uniform
+
+557
+00:38:35,006 --> 00:38:39,032
+şi are aceeaşi direcţie.
+Curentul intră tot prin
+
+558
+00:38:39,032 --> 00:38:42,051
+A, nu s-a modificat.
+Singura diferenţă este că bucla
+
+559
+00:38:42,051 --> 00:38:47,056
+s-a rotit cu 90 de grade.
+Dacă vă întreb care sunt
+
+560
+00:38:47,056 --> 00:38:51,003
+forţele acum,
+va trebui să calculaţi
+
+561
+00:38:51,003 --> 00:38:54,082
+produsul vectorial
+dintre I şi B.
+
+562
+00:38:54,082 --> 00:38:59,000
+Aici, I x B
+rezultă într-o forţă
+
+563
+00:38:59,000 --> 00:39:04,001
+îndreptată spre noi.
+Aici, obţinem o forţă
+
+564
+00:39:04,001 --> 00:39:07,096
+îndreptată înspre tablă.
+Aici obţinem forţe îndreptate
+
+565
+00:39:07,096 --> 00:39:12,052
+în sus,
+respectiv în jos.
+
+566
+00:39:12,052 --> 00:39:17,011
+Veţi avea timp acasă
+să experimentaţi cu aceste produse,
+
+567
+00:39:17,011 --> 00:39:20,003
+să calculaţi I x B,
+şi să vedeţi
+
+568
+00:39:20,003 --> 00:39:22,001
+că, într-adevăr,
+toate forţele au
+
+569
+00:39:22,001 --> 00:39:27,075
+aceste direcţii.
+Nici de data aceasta
+
+570
+00:39:27,075 --> 00:39:29,038
+nu avem o forţă
+netă asupra sistemului.
+
+571
+00:39:29,038 --> 00:39:31,034
+Nici înainte nu am
+avut o forţă netă.
+
+572
+00:39:31,034 --> 00:39:33,078
+Dar acum
+nu avem nici cuplu.
+
+573
+00:39:33,078 --> 00:39:38,051
+Cuplul este
+zero de data aceasta.
+
+574
+00:39:38,051 --> 00:39:42,067
+Dacă rotim în continuare --
+este posibil ca atunci
+
+575
+00:39:42,067 --> 00:39:45,001
+când pornim acest motor,
+să se rotească în sens
+
+576
+00:39:45,001 --> 00:39:49,000
+trigonometric, să ajungă
+în această poziţie, cuplul devine zero,
+
+577
+00:39:49,000 --> 00:39:52,085
+dar are suficientă inerţie 
+pentru a se roti în continuare.
+
+578
+00:39:52,085 --> 00:39:55,058
+Cuplul se va 
+inversa acum.
+
+579
+00:39:55,058 --> 00:39:57,082
+Va trebui să vă
+convingeţi singuri de asta,
+
+580
+00:39:57,082 --> 00:40:00,003
+nu vreau să mai realizez
+încă un desen pentru a vă convinge că
+
+581
+00:40:00,003 --> 00:40:02,008
+se inversează.
+Dar este uşor de văzut,
+
+582
+00:40:02,008 --> 00:40:05,074
+pentru că, este aceeaşi buclă,
+dar inversată cu 180
+
+583
+00:40:05,074 --> 00:40:09,000
+de grade.
+Câmpul magnetic nu se
+
+584
+00:40:09,000 --> 00:40:11,072
+modifică, dar direcţia
+curenţilor pe aceste două laturi
+
+585
+00:40:11,072 --> 00:40:14,075
+se modifică,
+pentru că A şi D
+
+586
+00:40:14,075 --> 00:40:17,007
+se inversează.
+Cuplul se inversează aşadar,
+
+587
+00:40:17,007 --> 00:40:21,024
+iar bucla merge aşa,
+iar apoi
+
+588
+00:40:21,024 --> 00:40:27,067
+revine la poziţia iniţială.
+Acesta nu e un motor foarte bun.
+
+589
+00:40:27,067 --> 00:40:31,001
+Ampermetrele sunt 
+folosite adesea
+
+590
+00:40:31,001 --> 00:40:36,055
+pe automobile,
+mult mai multe decât aţi crede,
+
+591
+00:40:36,055 --> 00:40:40,041
+indicatorul de benzină
+şi de temperatură
+
+592
+00:40:40,041 --> 00:40:43,076
+a apei de răcire
+sunt ampermetre.
+
+593
+00:40:43,076 --> 00:40:47,069
+Un ampermetru
+funcţionează astfel.
+
+594
+00:40:47,069 --> 00:40:52,015
+Se ataşează un ac indicator
+de această buclă,
+
+595
+00:40:52,015 --> 00:40:55,044
+indicator ce urmează a fi calibrat.
+Putem acum citi
+
+596
+00:40:55,044 --> 00:41:00,021
+valoarea curentului
+prin acest aparat de măsură.
+
+597
+00:41:00,021 --> 00:41:03,058
+Bucla se va deplasa 
+în sens trigonometric.
+
+598
+00:41:03,058 --> 00:41:11,021
+Se ataşează aici un arc
+ce produce un cuplu de sens
+
+599
+00:41:11,021 --> 00:41:13,089
+contrar,
+indicatorul se va
+
+600
+00:41:13,089 --> 00:41:16,091
+deplasa, dar se va stabiliza.
+Dacă dublăm curentul,
+
+601
+00:41:16,091 --> 00:41:19,054
+se va deplasa şi mai mult.
+Acesta este modul de funcţionare
+
+602
+00:41:19,054 --> 00:41:22,046
+al unui ampermetru.
+Indicatorul de combustibil
+
+603
+00:41:22,046 --> 00:41:25,018
+din maşină este un ampermetru,
+doar că nivelul
+
+604
+00:41:25,018 --> 00:41:28,030
+combustibilului este 
+convertit într-un semnal
+
+605
+00:41:28,030 --> 00:41:30,083
+electric ce este
+transmis ampermetrului,
+
+606
+00:41:30,083 --> 00:41:33,039
+şi apoi poate fi citit.
+Este calibrat, desigur,
+
+607
+00:41:33,039 --> 00:41:35,087
+în funcţie de 
+nivelul de combustibil rămas.
+
+608
+00:41:35,087 --> 00:41:39,072
+Indicatorul de temperatură
+este calibrat în grade celsius,
+
+609
+00:41:39,072 --> 00:41:42,051
+sau Fahrenheit, 
+indiferent.
+
+610
+00:41:42,051 --> 00:41:48,052
+Aceste ampermetre
+sunt des întâlnite, chiar şi atunci
+
+611
+00:41:48,052 --> 00:41:53,064
+când nu avem de-a
+face cu un curent propriu-zis.
+
+612
+00:41:53,064 --> 00:41:56,000
+Cum putem construi însă
+un motor ce funcţionează ?
+
+613
+00:41:56,000 --> 00:41:59,078
+Cum putem scăpa
+de această inversare a cuplului ?
+
+614
+00:41:59,078 --> 00:42:02,064
+Inversarea cuplului
+nu este singura problemă,
+
+615
+00:42:02,064 --> 00:42:05,070
+ci, dacă 
+am putea menţine această
+
+616
+00:42:05,070 --> 00:42:08,003
+rotire,
+aceste două fire
+
+617
+00:42:08,003 --> 00:42:11,000
+s-ar răsuci
+şi s-ar rupe eventual.
+
+618
+00:42:11,000 --> 00:42:13,002
+Dacă le răsucim de o sută 
+de ori, putem vedea ce se întâmplă
+
+619
+00:42:13,002 --> 00:42:17,019
+în punctele A şi D, se vor rupe.
+Trebuie să găsiţi aşadar
+
+620
+00:42:17,019 --> 00:42:20,054
+o variantă cu contacte alunecătoare -
+acestea poartă numele de
+
+621
+00:42:20,054 --> 00:42:24,080
+perii.
+Să presupunem că avem
+
+622
+00:42:24,080 --> 00:42:29,002
+aici un conductor conectat
+în punctul A,
+
+623
+00:42:29,002 --> 00:42:33,049
+lipit fizic de firul
+din punctul A.
+
+624
+00:42:33,049 --> 00:42:39,005
+Iar aici avem
+conductorul D.
+
+625
+00:42:39,005 --> 00:42:42,071
+Bucla este în
+partea aceasta.
+
+626
+00:42:42,071 --> 00:42:46,000
+Firele lipite în aceste puncte
+formează o buclă aici.
+
+627
+00:42:46,000 --> 00:42:50,083
+Borna pozitivă a bateriei
+se află aici,
+
+628
+00:42:50,083 --> 00:42:53,001
+iar borna negativă
+aici,
+
+629
+00:42:53,001 --> 00:42:56,003
+şi ceea ce avem aici
+reprezintă un contact alunecător.
+
+630
+00:42:56,003 --> 00:42:59,064
+În practică le spunem perii.
+Această configuraţie rezolvă
+
+631
+00:42:59,064 --> 00:43:04,003
+problema
+răsucirii firelor.
+
+632
+00:43:04,003 --> 00:43:06,083
+Mai trebuie menţionat
+încă un lucru în legătură cu acest
+
+633
+00:43:06,083 --> 00:43:10,004
+design.
+Dacă distanţa dintre A şi D este
+
+634
+00:43:10,004 --> 00:43:14,007
+ocupată de un dielectric,
+ce se va întâmpla când bucla
+
+635
+00:43:14,007 --> 00:43:17,064
+se va roti cu 
+180 de grade ?
+
+636
+00:43:17,064 --> 00:43:21,002
+A-ul, conectat acum
+la borna pozitivă a bateriei,
+
+637
+00:43:21,002 --> 00:43:22,077
+aici e minus,
+desigur.
+
+638
+00:43:22,077 --> 00:43:25,000
+A-ul este conectat 
+la borna pozitivă a bateriei,
+
+639
+00:43:25,000 --> 00:43:27,001
+iar dacă rotim 
+cu 180 de grade,
+
+640
+00:43:27,001 --> 00:43:29,007
+A-ul se va regăsi la 
+borna negativă a bateriei.
+
+641
+00:43:29,007 --> 00:43:32,057
+Astfel încât, la fiecare rotaţie,
+direcţia curentului
+
+642
+00:43:32,057 --> 00:43:36,037
+se va inversa
+de la sine.
+
+643
+00:43:36,037 --> 00:43:40,081
+Spunem că acesta este un comutator.
+În această configuraţie,
+
+644
+00:43:40,081 --> 00:43:44,002
+inversarea cuplului
+nu va mai avea loc.
+
+645
+00:43:44,002 --> 00:43:47,035
+Dacă, la momentul potrivit,
+direcţia curentului se inversează,
+
+646
+00:43:47,035 --> 00:43:52,003
+bucla se va roti tot
+timpul în exact aceeaşi direcţie
+
+647
+00:43:52,003 --> 00:43:55,090
+sub influenţa cuplului.
+Aceasta este ideea din spatele
+
+648
+00:43:55,090 --> 00:44:01,008
+unui comutator.
+Acum despre
+
+649
+00:44:01,008 --> 00:44:03,008
+concurs.
+Aveţi un plic
+
+650
+00:44:03,008 --> 00:44:06,011
+în care veţi găsi -- nu-l
+deschideţi acum --
+
+651
+00:44:06,011 --> 00:44:11,045
+veţi găsi un fir de cupru izolat,
+cu o lungime de doi metri,
+
+652
+00:44:11,045 --> 00:44:15,002
+doi magneţi, două agrafe,
+şi o bucată de lemn.
+
+653
+00:44:15,002 --> 00:44:19,009
+Ideea este să construiţi un motor
+cu o viteză de rotaţie
+
+654
+00:44:19,009 --> 00:44:26,006
+cât se poate de mare.
+Pentru fiecare 100 de rotaţii pe minut (RPM),
+
+655
+00:44:27,086 --> 00:44:33,002
+primiţi câte un punct,
+până la maxim 20 de puncte.
+
+656
+00:44:33,002 --> 00:44:35,061
+Dacă viteza de rotaţie
+a motorului vostru este de
+
+657
+00:44:35,061 --> 00:44:38,003
+2.000 RPM sau mai mult,
+primiţi 20 de puncte.
+
+658
+00:44:38,003 --> 00:44:41,005
+Echivalentul a două 
+teme de casă.
+
+659
+00:44:41,005 --> 00:44:44,006
+Aceste puncte se adună
+la nota
+
+660
+00:44:44,006 --> 00:44:47,000
+finală.
+Aveţi cuvântul meu.
+
+661
+00:44:47,000 --> 00:44:49,003
+Veţi primi o notă la sfârşitul
+cursului, aşa cum
+
+662
+00:44:49,003 --> 00:44:52,002
+v-am explicat 
+la început,
+
+663
+00:44:52,002 --> 00:44:56,084
+şi peste acea notă se adaugă
+punctele obţinute la concurs.
+
+664
+00:44:56,084 --> 00:45:00,002
+Pentru fiecare 100 RPM
+primiţi câte un punct,
+
+665
+00:45:00,002 --> 00:45:03,070
+până la un maxim
+de 20 de puncte.
+
+666
+00:45:03,070 --> 00:45:09,033
+Vom testa aceste motoare
+în data de 2 aprilie.
+
+667
+00:45:09,033 --> 00:45:14,099
+Primiţi şi nişte instrucţiuni
+pentru realizarea motorului.
+
+668
+00:45:14,099 --> 00:45:17,074
+V-am dat deja o 
+idee, dacă vreţi
+
+669
+00:45:17,074 --> 00:45:20,063
+să o folosiţi,
+să construiţi un comutator
+
+670
+00:45:20,063 --> 00:45:23,005
+pentru a întâmpina
+inversarea cuplului.
+
+671
+00:45:23,005 --> 00:45:26,038
+Dar acest lucru
+nu este deloc uşor.
+
+672
+00:45:26,038 --> 00:45:28,011
+Nu doar că nu este uşor,
+dar când aveţi un
+
+673
+00:45:28,011 --> 00:45:32,003
+comutator, aveţi
+de-a face cu frecare,
+
+674
+00:45:32,003 --> 00:45:34,068
+şi puteţi pierde mai mult
+decât câştigaţi.
+
+675
+00:45:34,068 --> 00:45:41,029
+Există o soluţie alternativă,
+şi anume,
+
+676
+00:45:41,029 --> 00:45:46,041
+să proiectaţi motorul
+astfel încât în momentul
+
+677
+00:45:46,041 --> 00:45:51,085
+inversării cuplului
+să nu existe curent prin buclă.
+
+678
+00:45:51,085 --> 00:45:56,056
+Iar peste o jumătate de rotaţie,
+să avem din nou cuplu,
+
+679
+00:45:56,056 --> 00:45:58,071
+să avem din nou
+curent prin buclă.
+
+680
+00:45:58,071 --> 00:46:00,097
+Pentru o jumătate de perioadă
+oprim curentul prin buclă.
+
+681
+00:46:00,097 --> 00:46:02,090
+Veţi vedea că acest lucru
+este foarte uşor, v-am dat câteva
+
+682
+00:46:02,090 --> 00:46:06,054
+sugestii în legătură cu acest lucru.
+Va trebui să analizaţi avantajele
+
+683
+00:46:06,054 --> 00:46:11,041
+şi dezavantajele 
+faţă de realizarea unui comutator.
+
+684
+00:46:11,041 --> 00:46:14,008
+Ideea este că
+puteţi obţine un maximum de
+
+685
+00:46:14,008 --> 00:46:16,032
+20 de puncte.
+Echivalentul a două
+
+686
+00:46:16,032 --> 00:46:20,084
+teme de casă.
+Se adună la nota finală
+
+687
+00:46:20,084 --> 00:46:24,003
+de la curs.
+Plus că este foarte
+
+688
+00:46:24,003 --> 00:46:27,002
+distractiv, credeţi-mă.
+Ce vreţi mai mult de atât ?
+
+689
+00:46:27,002 --> 00:46:30,064
+Faceţi fizică,
+primiţi puncte, şi vă distraţi.
+
+690
+00:46:30,064 --> 00:46:33,001
+Eu asta fac în fiecare zi,
+acesta e cel mai frumos lucru
+
+691
+00:46:33,001 --> 00:46:36,022
+în legătură cu fizica.
+Ne-au mai rămas 5 minute,
+
+692
+00:46:36,022 --> 00:46:40,017
+şi în aceste 5 minute 
+vă voi arăta un motor.
+
+693
+00:46:41,088 --> 00:46:44,094
+Ceea ce vedeţi
+acolo este o buclă
+
+694
+00:46:44,094 --> 00:46:51,074
+de curent -- voi încerca să o reprezint
+tridimensional -- aceasta
+
+695
+00:46:51,074 --> 00:46:55,010
+este bucla de curent,
+vom avea un curent
+
+696
+00:46:55,010 --> 00:47:00,091
+în această direcţie.
+Aici avem un magnet,
+
+697
+00:47:00,091 --> 00:47:07,011
+nord, sud, 
+câmpul magnetic în această direcţie.
+
+698
+00:47:07,011 --> 00:47:10,001
+Aici avem un alt 
+magnet,
+
+699
+00:47:10,001 --> 00:47:14,007
+nord, sud,
+câmpul magnetic tot în
+
+700
+00:47:14,007 --> 00:47:19,052
+această direcţie.
+Vom aplica un curent prin
+
+701
+00:47:19,052 --> 00:47:21,089
+buclă,
+iar dacă acest curent intră
+
+702
+00:47:21,089 --> 00:47:27,000
+în tablă,
+I x B, I este în interior,
+
+703
+00:47:27,000 --> 00:47:31,041
+prin urmare, forţa este în sus.
+Această porţiune vrea să se deplaseze
+
+704
+00:47:31,041 --> 00:47:37,004
+în sus. Din moment ce 
+direcţia câmpului magnetic
+
+705
+00:47:37,004 --> 00:47:39,076
+este identică aici,
+dar curentul se deplasează în
+
+706
+00:47:39,076 --> 00:47:42,002
+direcţia opusă,
+pe această porţiune forţa
+
+707
+00:47:42,002 --> 00:47:44,001
+va fi în jos.
+Va exista aşadar un cuplu pe acest
+
+708
+00:47:44,001 --> 00:47:47,078
+motor.
+Veţi vedea acest lucru.
+
+709
+00:47:47,078 --> 00:47:52,092
+Veţi vedea că bucla se va deplasa aşa.
+Dar, după ce se roteşte cu
+
+710
+00:47:52,092 --> 00:47:57,000
+180 de grade şi ajunge aici,
+bucla se va deplasa înapoi,
+
+711
+00:47:57,000 --> 00:47:59,002
+datorită inversării
+cuplului.
+
+712
+00:47:59,002 --> 00:48:04,003
+Acesta este primul lucru 
+ce vreau să vi-l arăt.
+
+713
+00:48:04,003 --> 00:48:06,072
+Cred că lumina 
+e bună aşa.
+
+714
+00:48:06,072 --> 00:48:11,064
+Avem aici acea buclă,
+aici avem cei doi
+
+715
+00:48:11,064 --> 00:48:14,008
+magneţi. Apropo, 
+câmpul magnetic nu este
+
+716
+00:48:14,008 --> 00:48:17,001
+nicidecum uniform, 
+ci e foarte intens aici,
+
+717
+00:48:17,001 --> 00:48:24,029
+şi foarte intens acolo.
+Alimentăm acum această buclă.
+
+718
+00:48:24,029 --> 00:48:27,090
+Să-i dăm drumul.
+Da, cred că
+
+719
+00:48:27,090 --> 00:48:30,004
+porţiunea aceasta
+se va ridica,
+
+720
+00:48:30,004 --> 00:48:32,001
+sunt destul de sigur
+că am nimerit direcţia.
+
+721
+00:48:32,001 --> 00:48:35,000
+Să vedem prima dată cum merge.
+Uitaţi-vă.
+
+722
+00:48:35,000 --> 00:48:39,054
+Când este aici, observaţi,
+merge sus.
+
+723
+00:48:39,054 --> 00:48:44,070
+Dar acum, dacă o alimentez 
+în această poziţie, se deplasează invers.
+
+724
+00:48:44,070 --> 00:48:50,061
+Aici, merge în sus,
+iar aici, merge invers.
+
+725
+00:48:50,061 --> 00:48:53,046
+Trebuie să rezolvăm cumva problema.
+Şi o putem rezolva cu
+
+726
+00:48:53,046 --> 00:48:56,002
+un comutator.
+Dacă putem cumva inversa
+
+727
+00:48:56,002 --> 00:48:59,005
+curentul când bucla se află aici,
+atunci îşi va continua traseul.
+
+728
+00:48:59,005 --> 00:49:01,052
+Am să vă arăt asta.
+Acum este aici.
+
+729
+00:49:01,052 --> 00:49:05,003
+Voi inversa direcţia
+curentului.
+
+730
+00:49:05,003 --> 00:49:07,003
+Sunteţi pregătiţi ?
+Aţi observat ?
+
+731
+00:49:07,003 --> 00:49:10,006
+Acum vrea să se deplaseze în jos.
+Vrea să meargă în jos.
+
+732
+00:49:10,006 --> 00:49:14,018
+Dar când se află aici,
+trebuie să inversez curentul,
+
+733
+00:49:14,018 --> 00:49:17,000
+şi se deplasează în sus.
+Dacă pot face asta manual,
+
+734
+00:49:17,000 --> 00:49:19,042
+voi putea menţine
+rotaţia buclei.
+
+735
+00:49:19,042 --> 00:49:22,003
+Îmi va lua ceva timp, 
+dar voi face tot ceea ce-mi stă în putinţă.
+
+736
+00:49:22,003 --> 00:49:27,003
+Îi dăm drumul.
+Inversez, inversez,
+
+737
+00:49:27,003 --> 00:49:30,004
+inversez, inversez,
+inversez, inversez,
+
+738
+00:49:30,004 --> 00:49:33,031
+inversez,  inversez,
+inversez.
+
+739
+00:49:33,031 --> 00:49:36,033
+Da, funcţionează.
+Funcţionează.
+
+740
+00:49:36,033 --> 00:49:40,001
+Sunt un comutator.
+Acest motor se roteşte cu cel puţin
+
+741
+00:49:40,001 --> 00:49:44,001
+60 RPM, adică un punct 
+pentru mine pentru acest curs.
+
+742
+00:49:44,001 --> 00:49:45,096
+Vă
+mulţumesc.
+
+743
+00:49:45,096 --> 00:49:49,002
+subtitrarea în limba română pentru
+www.circuiteelectrice.ro

@@ -1,0 +1,3309 @@
+﻿1
+00:00:06,053 --> 00:00:14,005
+Am văzut data trecută că,
+aplicând formula Biot-Savart
+
+2
+00:00:14,005 --> 00:00:17,025
+în cazul unui curent
+ce intră direct în tablă,
+
+3
+00:00:17,025 --> 00:00:25,055
+perpendicular pe tablă, 
+obţinem un câmp magnetic
+
+4
+00:00:25,055 --> 00:00:30,071
+la distanţa r.
+Câmpul magnetic este tangent
+
+5
+00:00:30,071 --> 00:00:35,064
+pe cerc,
+B aici,
+
+6
+00:00:35,064 --> 00:00:42,006
+B aici, iar intensitatea
+câmpului magnetic este egală cu
+
+7
+00:00:42,006 --> 00:00:48,027
+μ0 ori I împărţit la
+2πR.
+
+8
+00:00:50,040 --> 00:00:56,063
+Dacă parcurgem acest cerc,
+acest drum,
+
+9
+00:00:56,063 --> 00:01:06,047
+şi împărţim acest cerc
+în elemente infinitezimale dl,
+
+10
+00:01:06,047 --> 00:01:15,046
+şi călculăm integrala 
+închisă pe cerc,
+
+11
+00:01:15,046 --> 00:01:22,006
+din B ori dl, 
+aşadar, în fiecare punct calculăm
+
+12
+00:01:22,006 --> 00:01:24,077
+produsul scalar dintre B şi dl,
+dar B şi dl au exact
+
+13
+00:01:24,077 --> 00:01:29,003
+aceeaşi direcţie peste tot.
+Atunci această integrală
+
+14
+00:01:29,003 --> 00:01:37,040
+va fi evident egală cu B ori 2πR.
+Dar B2πR este
+
+15
+00:01:37,040 --> 00:01:47,093
+egal cu μ0 ori I.
+Acest dl nu are nicio legătură
+
+16
+00:01:47,093 --> 00:01:50,086
+cu dl-ul de aici.
+Nu-i încurcaţi pe cei doi.
+
+17
+00:01:50,086 --> 00:01:54,078
+Acest dl reprezintă o mică 
+porţiune din lungimea conductorului
+
+18
+00:01:54,078 --> 00:01:57,080
+ce intră în tablă 
+şi prin care trece curent.
+
+19
+00:01:57,080 --> 00:02:01,054
+Acest dl reprezintă pur şi simplu
+dl-ul nostru
+
+20
+00:02:01,054 --> 00:02:06,091
+atunci când parcurgem acest conductor.
+Indiferent de distanţa
+
+21
+00:02:06,091 --> 00:02:11,051
+faţă de conductor,
+rezultatul este tot timpul μ0I.
+
+22
+00:02:11,051 --> 00:02:13,092
+Vedeţi asta cu ochii voştri,
+pentru că B-ul este
+
+23
+00:02:13,092 --> 00:02:19,031
+invers proporţional cu r.
+Ampère a fost primul care a
+
+24
+00:02:19,031 --> 00:02:24,080
+observat că drumul urmat
+nu trebuie să fie neapărat un cerc
+
+25
+00:02:24,080 --> 00:02:29,014
+pentru a obţine rezultatul μI,
+ci că putem urma un drum
+
+26
+00:02:29,014 --> 00:02:35,077
+oricât de întortocheat
+atâta timp cât este unul închis,
+
+27
+00:02:35,077 --> 00:02:41,011
+ceva de genul acesta.
+Aici este
+
+28
+00:02:41,011 --> 00:02:44,003
+câmpul local B,
+evident
+
+29
+00:02:44,003 --> 00:02:51,093
+perpendicular pe raza aceasta,
+iar aici elementul local dl,
+
+30
+00:02:51,093 --> 00:02:58,062
+iar dacă parcurgem acest drum,
+integrală închisă, indiferent de drum,
+
+31
+00:02:58,062 --> 00:03:04,081
+nu trebuie să fie neapărat un cerc,
+din B ori dl este egală cu
+
+32
+00:03:04,081 --> 00:03:09,064
+μ0 ori I, relaţie cunoscută
+sub numele de legea lui Ampère.
+
+33
+00:03:09,064 --> 00:03:15,005
+Pentru I se foloseşte adesea
+indexul „închis”,
+
+34
+00:03:15,005 --> 00:03:20,051
+şi reprezintă curentul
+închis de acel drum, de acea buclă.
+
+35
+00:03:20,051 --> 00:03:23,006
+Este destul de uşor 
+de demonstrat această relaţie
+
+36
+00:03:23,006 --> 00:03:26,085
+folosind formalismul Biot-Savart.
+Aceasta aproape că este
+
+37
+00:03:26,085 --> 00:03:30,031
+cea de-a treia ecuaţie a lui Maxwell.
+Avem deja două din patru.
+
+38
+00:03:30,031 --> 00:03:32,082
+Aceasta aproape că este a treia,
+dar nu încă.
+
+39
+00:03:32,082 --> 00:03:37,022
+O vom completa într-un
+viitor apropiat.
+
+40
+00:03:37,022 --> 00:03:41,097
+Ceea ce nu este foarte clar 
+în această ecuaţie, este semnificaţia
+
+41
+00:03:41,097 --> 00:03:45,068
+acelui „închis”.
+Vom defini acest lucru acum
+
+42
+00:03:45,068 --> 00:03:48,003
+într-un mod unic, 
+ca să nu mai existe niciodată
+
+43
+00:03:48,003 --> 00:03:54,077
+neînţelegeri.
+Dacă îmi aleg un drum închis extrem
+
+44
+00:03:54,077 --> 00:04:02,030
+de întortocheat, 
+acesta este drumul ce-l parcurg,
+
+45
+00:04:02,030 --> 00:04:06,022
+trebuie să ataşez 
+acestei bucle închise o suprafaţă,
+
+46
+00:04:06,022 --> 00:04:09,027
+o suprafaţă deschisă.
+E obligatoriu.
+
+47
+00:04:09,027 --> 00:04:11,082
+O putem alege plană.
+E în regulă.
+
+48
+00:04:11,082 --> 00:04:15,026
+Putem alege orice formă.
+Putem, de exemplu, alege un fel
+
+49
+00:04:15,026 --> 00:04:19,002
+de pungă de plastic, deschisă aici.
+Ne putem băga mâinile înăuntru
+
+50
+00:04:19,002 --> 00:04:22,003
+aici, ca o căciulă.
+Orice suprfaţă este permisă,
+
+51
+00:04:22,003 --> 00:04:26,032
+dar trebuie să ataşăm 
+acestei bucle o suprafaţă.
+
+52
+00:04:26,032 --> 00:04:29,060
+Acesta este un  
+drum ce l-am putea alege,
+
+53
+00:04:29,060 --> 00:04:33,001
+iar aceasta ar fi o suprafaţă
+deschisă perfect valabilă.
+
+54
+00:04:33,001 --> 00:04:36,001
+Ar putea fi plană,
+dar poate fi şi deschisă,
+
+55
+00:04:36,001 --> 00:04:40,016
+precum o căciulă.
+Putem acum defini în mod unic
+
+56
+00:04:40,016 --> 00:04:44,025
+semnificaţia
+acestui I închis.
+
+57
+00:04:44,025 --> 00:04:48,030
+Dacă avem un curent
+ce trece prin această suprafaţă,
+
+58
+00:04:48,030 --> 00:04:53,013
+şi o împunge în acest punct,
+atunci curentul I
+
+59
+00:04:53,013 --> 00:04:57,008
+penetrează suprafaţa,
+iar acest lucru este definit în mod unic.
+
+60
+00:04:57,008 --> 00:05:01,030
+Să presupunem că avem un alt curent
+prin suprafaţă,
+
+61
+00:05:01,030 --> 00:05:07,026
+I2, 
+care penetrează şi el suprafaţa.
+
+62
+00:05:09,026 --> 00:05:15,050
+Prin convenţie, dacă parcurgem 
+drumul în sensul acelor de ceasornic,
+
+63
+00:05:15,050 --> 00:05:21,019
+-- folosim acum notaţia din
+legea burghiului,
+
+64
+00:05:21,019 --> 00:05:24,055
+ce face legătura dintre 
+câmpul magnetic şi curent.
+
+65
+00:05:24,055 --> 00:05:27,072
+Dacă parcurgem drumul în sensul
+acelor de ceasornic,
+
+66
+00:05:27,072 --> 00:05:34,070
+privit din partea aceasta,
+atunci I1 de aici,
+
+67
+00:05:34,070 --> 00:05:37,095
+va trebui să fie mai mare
+decât zero în ecuaţie,
+
+68
+00:05:37,095 --> 00:05:42,036
+iar I2 mai mic
+decât zero.
+
+69
+00:05:42,036 --> 00:05:45,040
+Dar dacă am parcurge drumul
+în sens invers,
+
+70
+00:05:45,040 --> 00:05:48,000
+lucru perfect valabil
+întrucât legeal lui Ampère nu
+
+71
+00:05:48,000 --> 00:05:52,004
+ne impune direcţia 
+de parcurgere a drumului,
+
+72
+00:05:52,004 --> 00:05:58,033
+atunci I1 va fi negativ
+iar I2
+
+73
+00:05:58,033 --> 00:06:01,002
+pozitiv,
+conform notaţiei impuse
+
+74
+00:06:01,002 --> 00:06:11,020
+de legea burghiului.
+Putem îmbunătăţi legea lui Ampère
+
+75
+00:06:11,020 --> 00:06:14,044
+pentru că în toate 
+cărţile veţi vedea notaţia I_închis,
+
+76
+00:06:14,044 --> 00:06:18,036
+dar ar fi mai utilă
+înlocuirea expresiei cu I_penetrare.
+
+77
+00:06:18,036 --> 00:06:21,012
+Această penetrare
+a suprafeţei de către curent
+
+78
+00:06:21,012 --> 00:06:27,061
+este unic determinată,
+dar nu şi un curent închis de o bulcă.
+
+79
+00:06:29,064 --> 00:06:31,020
+Atunci
+când este posibil,
+
+80
+00:06:31,020 --> 00:06:35,002
+când aplicăm legea lui Ampère, 
+vom încerca să găsim
+
+81
+00:06:35,002 --> 00:06:38,088
+drumuri uşoare, precum cercuri
+sau dreptughiuri,
+
+82
+00:06:38,088 --> 00:06:41,073
+iar din moment ce suntem liberi
+să ne alegem orice suprafaţă
+
+83
+00:06:41,073 --> 00:06:46,005
+ataşată acelui drum,
+cea mai bună alegere va fi
+
+84
+00:06:46,005 --> 00:06:51,004
+o suprafaţă plană, 
+dar asta nu va fi tot timpul posibil.
+
+85
+00:06:51,004 --> 00:06:56,058
+Reţeta este, aşadar, următoarea.
+Noi alegem bucla închisă.
+
+86
+00:06:56,058 --> 00:06:59,070
+Orice buclă este permisă.
+S-ar putea să nu ne ajute prea mult
+
+87
+00:06:59,070 --> 00:07:02,082
+dacă este prost aleasă,
+dar orice buclă este perfect valabilă.
+
+88
+00:07:02,082 --> 00:07:07,074
+Ataşăm apoi o suprafaţă deschisă
+acelei bucle,
+
+89
+00:07:07,074 --> 00:07:14,014
+iar curentul I_pentrare reprezintă
+curentul ce trece prin
+
+90
+00:07:14,014 --> 00:07:18,044
+acea suprafaţă,
+conform acestei convenţii.
+
+91
+00:07:18,044 --> 00:07:22,028
+Direcţia de parcurgere 
+a drumului este la alegerea noastră.
+
+92
+00:07:22,028 --> 00:07:25,078
+Putem parcurge drumul 
+în oricare direcţie,
+
+93
+00:07:25,078 --> 00:07:31,063
+dar aceasta va defini 
+semnul curentului,
+
+94
+00:07:31,063 --> 00:07:36,073
+conform regulii burghiului.
+Putem acum calcula
+
+95
+00:07:36,073 --> 00:07:40,070
+pentru prima dată,
+câmpul magnetic din interiorul
+
+96
+00:07:40,070 --> 00:07:46,097
+unui conductor parcurs de curent, 
+aplicând legea lui Ampère.
+
+97
+00:07:46,097 --> 00:07:53,023
+Avem un conductor de rază R,
+parcurs de un curent
+
+98
+00:07:53,023 --> 00:07:56,082
+I ce iese din tablă.
+Presupunem că acest curent
+
+99
+00:07:56,082 --> 00:07:59,059
+este uniform distribuit
+în conductor.
+
+100
+00:07:59,059 --> 00:08:05,058
+Avem o densitatea uniformă de curent.
+Vrem să aflăm
+
+101
+00:08:05,058 --> 00:08:08,010
+expresia câmpului magnetic
+în fiecare punct.
+
+102
+00:08:08,010 --> 00:08:11,026
+Avem simetrie cilindrică.
+Vrem să aflăm câmpul magnetic
+
+103
+00:08:11,026 --> 00:08:13,072
+în exteriorul precum şi
+în interiorul conductorului.
+
+104
+00:08:13,072 --> 00:08:17,056
+Analizăm prima dată 
+cazul r > R.
+
+105
+00:08:17,056 --> 00:08:21,074
+Aceasta este secţiunea 
+transversală a conductorului,
+
+106
+00:08:21,074 --> 00:08:25,059
+rază R.
+Curentul I trece prin
+
+107
+00:08:25,059 --> 00:08:30,009
+această suprafaţă.
+Trebuie să ne alegem acum
+
+108
+00:08:30,009 --> 00:08:33,031
+un drum închis.
+Din moment ce avem simetrie
+
+109
+00:08:33,031 --> 00:08:41,025
+cilindrică, este evident că vom
+alege un cerc de rază r,
+
+110
+00:08:41,025 --> 00:08:44,011
+pentru a fi siguri că 
+intensitatea câmpului magnetic
+
+111
+00:08:44,011 --> 00:08:49,008
+este aceeaşi peste tot,
+datorită simetriei.
+
+112
+00:08:49,008 --> 00:08:54,027
+Din moment ce curentul iese din tablă,
+şi sunt liber să-mi
+
+113
+00:08:54,027 --> 00:08:57,080
+aleg direcţia de parcurgere 
+a buclei,
+
+114
+00:08:57,080 --> 00:09:00,033
+ştim că direcţia câmpului
+magnetic este aceasta.
+
+115
+00:09:00,033 --> 00:09:03,068
+Pot parcurge bucla
+în această direcţie, astfel încât
+
+116
+00:09:03,068 --> 00:09:07,062
+direcţia elementelor dl să fie aceasta.
+Nu sunt obligat să fac asta.
+
+117
+00:09:07,062 --> 00:09:10,046
+Aş putea parcurge drumul
+în celălalt sens, dar dacă
+
+118
+00:09:10,046 --> 00:09:14,023
+îl parcurg astfel,
+atunci ambii termeni din
+
+119
+00:09:14,023 --> 00:09:18,088
+legea lui Ampère vor fi pozitivi.
+Trebuie să ataşez acum
+
+120
+00:09:18,088 --> 00:09:25,075
+o suprafaţă deschisă acestui drum.
+Suprafaţa aleasă va fi tabla.
+
+121
+00:09:25,075 --> 00:09:32,079
+Aplicăm acum legea lui Ampère,
+şi obţinem B ori 2πr
+
+122
+00:09:32,079 --> 00:09:35,057
+pentru că dl şi B sunt
+în aceeaşi direcţie,
+
+123
+00:09:35,057 --> 00:09:40,018
+astfel că integrala este trivială.
+Acest produs este egal cu
+
+124
+00:09:40,018 --> 00:09:43,005
+μ0 ori I-ul
+ce penetrează
+
+125
+00:09:43,005 --> 00:09:46,030
+această suprafaţă.
+Unic determinat.
+
+126
+00:09:46,030 --> 00:09:50,046
+Toţi curenţii 
+din conductor ce ies din tablă penetrează
+
+127
+00:09:50,046 --> 00:09:54,009
+suprafaţa aleasă, deci, ori I.
+Prin urmare,
+
+128
+00:09:54,009 --> 00:10:00,001
+B = μ0I / 2πRr.
+Acest rezultat este identic
+
+129
+00:10:00,001 --> 00:10:03,083
+celui găsit data trecută
+folosind legea
+
+130
+00:10:03,083 --> 00:10:06,055
+Biot-Savart.
+Acest rezultat nu este aşadar
+
+131
+00:10:06,055 --> 00:10:11,004
+o surpriză.
+Avem însă acum o modalitate
+
+132
+00:10:11,004 --> 00:10:17,035
+de calculare a câmpului magnetic
+şi în interiorul conductorului.
+
+133
+00:10:17,035 --> 00:10:20,064
+Aceasta este secţiunea transversală 
+a aceluiaşi conductor,
+
+134
+00:10:20,064 --> 00:10:24,024
+curentul iese din tablă,
+dar acum alegem
+
+135
+00:10:24,024 --> 00:10:29,024
+o rază mai mică decât R.
+Drumul ales va fi din nou,
+
+136
+00:10:29,024 --> 00:10:34,052
+din motive de simetrie,
+un cerc cu raza r.
+
+137
+00:10:34,052 --> 00:10:38,009
+Suprafaţa ataşată 
+va fi o suprafaţă plană.
+
+138
+00:10:38,009 --> 00:10:45,034
+Aşadar, B2πr este egal cu
+μ0 ori --
+
+139
+00:10:45,034 --> 00:10:48,055
+ah, 
+trebuie să fiu atent acum,
+
+140
+00:10:48,055 --> 00:10:51,085
+pentru că în acest caz,
+suprafaţa aleasă nu mai este
+
+141
+00:10:51,085 --> 00:10:55,006
+penetrată de curentul total,
+ci curentul care
+
+142
+00:10:55,006 --> 00:11:00,004
+penetrează suprafaţa
+este acum egal cu
+
+143
+00:11:00,004 --> 00:11:05,079
+r^2 împărţit la R^2
+ori I.
+
+144
+00:11:05,079 --> 00:11:10,051
+Deoarece curentul total trece
+prin cercul de rază R,
+
+145
+00:11:10,051 --> 00:11:16,011
+dar suprafaţa noastră 
+are o rază r mai mică decât R.
+
+146
+00:11:16,011 --> 00:11:20,030
+Un r se simplifică,
+obţinând un rezultat complet diferit.
+
+147
+00:11:20,030 --> 00:11:26,002
+Câmpul magnetic este acum egal
+cu μ0 ori I,
+
+148
+00:11:26,002 --> 00:11:33,028
+direct proporţional cu r,
+împărţit la 2πR^2.
+
+149
+00:11:33,028 --> 00:11:36,089
+Acest câmp creşte liniar cu r,
+pe când acesta
+
+150
+00:11:36,089 --> 00:11:42,049
+descreşte cu 1/r.
+Dacă înlocuim în această ecuaţie
+
+151
+00:11:42,049 --> 00:11:46,009
+r-ul cu R,
+ceea ce înseamnă
+
+152
+00:11:46,009 --> 00:11:49,005
+câmpul magnetic
+exact la suprafaţa
+
+153
+00:11:49,005 --> 00:11:55,016
+conductorului, rezultatul celor 
+două ecuaţii este identic.
+
+154
+00:11:55,016 --> 00:11:59,066
+Dacă înlocuim r cu R, 
+un R se simplifică,
+
+155
+00:11:59,066 --> 00:12:02,004
+şi obţinem
+acelaşi rezultat.
+
+156
+00:12:02,004 --> 00:12:09,099
+Graficul câmpului magnetic
+în funcţie de r
+
+157
+00:12:09,099 --> 00:12:15,092
+arată astfel.
+Acesta este r-ul,
+
+158
+00:12:15,092 --> 00:12:18,038
+acesta este R-ul,
+iar aceasta este intensitatea
+
+159
+00:12:18,038 --> 00:12:22,004
+câmpului magnetic, 
+tangentă pe
+
+160
+00:12:22,004 --> 00:12:27,026
+cerc.
+Graficul este o linie dreaptă
+
+161
+00:12:27,026 --> 00:12:33,083
+şi descreşte apoi cu 1/r.
+Valoarea maximă, cea de aici,
+
+162
+00:12:33,083 --> 00:12:39,078
+este acea valoare 
+găsită după înlocuirea r-ul cu R.
+
+163
+00:12:44,030 --> 00:12:46,013
+Vom vedea
+mai departe că,
+
+164
+00:12:46,013 --> 00:12:51,067
+folosind legea lui Ampère,
+putem calcula
+
+165
+00:12:51,067 --> 00:12:58,038
+câmpul magnetic din interiorul solenoizilor.
+Un solenoid nu este altceva
+
+166
+00:12:58,038 --> 00:13:06,001
+decât o spirală de curent,
+o buclă în continuarea celeilalte.
+
+167
+00:13:06,001 --> 00:13:09,012
+Vreau să vă reamintesc,
+că în cazul unei bucle de curent
+
+168
+00:13:09,012 --> 00:13:12,058
+precum aceasta, 
+curentul iese din tablă aici
+
+169
+00:13:12,058 --> 00:13:15,097
+şi întră în tablă aici --
+avem un conductor circular aşadar,
+
+170
+00:13:15,097 --> 00:13:19,053
+aceasta fiind doar o secţiune.
+Vreau să vă reamintesc
+
+171
+00:13:19,053 --> 00:13:23,000
+distribuţia liniilor de câmp
+magnetic,
+
+172
+00:13:23,000 --> 00:13:28,039
+în sensul acelor de ceasornic aici,
+în sens invers aici.
+
+173
+00:13:28,039 --> 00:13:32,079
+În mijloc, ţineţi minte,
+este astfel.
+
+174
+00:13:32,079 --> 00:13:36,092
+Iar între cele două,
+astfel.
+
+175
+00:13:36,092 --> 00:13:39,088
+Aceasta este configuraţia
+câmpului magnetic
+
+176
+00:13:39,088 --> 00:13:45,025
+în vecinătatea unei 
+bucle parcurse de curent electric.
+
+177
+00:13:45,025 --> 00:13:49,090
+Imaginaţi-vă acum că plasăm
+o altă buclă aici.
+
+178
+00:13:49,090 --> 00:13:52,098
+La fel, curentul iese din tablă
+aici şi intră aici,
+
+179
+00:13:52,098 --> 00:13:56,085
+şi încă una, 
+şi aşa mai departe, câteva bucle.
+
+180
+00:13:56,085 --> 00:13:58,098
+Ce credeţi că se va întâmpla
+cu aceste linii de
+
+181
+00:13:58,098 --> 00:14:03,013
+câmp magnetic divergente ?
+Se vor aduna
+
+182
+00:14:03,013 --> 00:14:06,078
+aici.
+Această buclă vrea de asemenea
+
+183
+00:14:06,078 --> 00:14:10,064
+ca liniile de câmp 
+magnetic să treacă prin mijlocul ei,
+
+184
+00:14:10,064 --> 00:14:13,088
+aceasta la fel.
+Rezultatul este un câmp
+
+185
+00:14:13,088 --> 00:14:18,081
+magnetic aproximativ constant,
+iar cu cât acest bucle sunt
+
+186
+00:14:18,081 --> 00:14:22,081
+înfăşurate mai strâns,
+cu atât variaţia câmpului magnetic
+
+187
+00:14:22,081 --> 00:14:28,096
+din interior va fi mai mică.
+Vă pot arăta acest
+
+188
+00:14:28,096 --> 00:14:34,084
+lucru în detaliu
+pe nişte folii transparente.
+
+189
+00:14:39,047 --> 00:14:44,058
+Aceasta este o figură
+din carte.
+
+190
+00:14:44,058 --> 00:14:48,003
+Vedeţi 5 înfăşurări,
+o spirală.
+
+191
+00:14:48,003 --> 00:14:50,026
+Privind din partea stângă,
+direcţia curentului este
+
+192
+00:14:50,026 --> 00:14:54,025
+în sensul acelor de ceasornic,
+iar câmpul magnetic
+
+193
+00:14:54,025 --> 00:14:58,001
+intră pe aici
+şi iese pe acolo.
+
+194
+00:14:58,001 --> 00:15:00,050
+Dacă suntem atenţi,
+observăm că, la interior,
+
+195
+00:15:00,050 --> 00:15:03,012
+câmpul magnetic 
+este aproximativ constant,
+
+196
+00:15:03,012 --> 00:15:07,072
+iar în exteriorul acestor bucle de curent,
+în exteriorul solenoidului,
+
+197
+00:15:07,072 --> 00:15:11,012
+câmpul magnetic 
+este extrem de slab.
+
+198
+00:15:11,012 --> 00:15:15,041
+Dacă înfăşurăm 
+aceste bucle foarte strâns,
+
+199
+00:15:15,041 --> 00:15:18,038
+obţinem
+o astfel de configuraţie.
+
+200
+00:15:18,038 --> 00:15:21,039
+Obţinem un câmp 
+magnetic aproape perfect constant în
+
+201
+00:15:21,039 --> 00:15:25,083
+interiorul solenoidului, iar în exterior
+câmpul magnetic
+
+202
+00:15:25,083 --> 00:15:31,067
+este extrem de slab.
+Vom calcula acum
+
+203
+00:15:31,067 --> 00:15:35,006
+câmpul magnetic din interiorul
+unui astfel de solenoid
+
+204
+00:15:35,006 --> 00:15:40,042
+aplicând
+legea lui Ampère.
+
+205
+00:15:40,042 --> 00:15:46,071
+Trebuie să facem 
+câteva ipoteze simplificatoare.
+
+206
+00:15:46,071 --> 00:16:04,013
+Fie acesta un solenoid de lungime L,
+parcurs de curentul I.
+
+207
+00:16:06,082 --> 00:16:11,062
+Privite din partea stângă,
+buclele sunt
+
+208
+00:16:11,062 --> 00:16:13,079
+înfăşurate în 
+sensul acelor de ceasornic.
+
+209
+00:16:13,079 --> 00:16:20,077
+Prin urmare, direcţia 
+câmpului magnetic este aceasta.
+
+210
+00:16:20,077 --> 00:16:25,021
+Presupunem că în exteriorul
+solenoidului, câmpul magnetic este
+
+211
+00:16:25,021 --> 00:16:29,035
+aproximativ egal cu zero.
+Voi face imediat un experiment
+
+212
+00:16:29,035 --> 00:16:33,017
+şi vă voi demonstra că 
+e o aproximaţie destul de bună.
+
+213
+00:16:33,017 --> 00:16:37,008
+Vrem acum să aflăm 
+expresia câmpului magnetic
+
+214
+00:16:37,008 --> 00:16:40,063
+în interior.
+Presupunem un solenoid cu N bucle,
+
+215
+00:16:40,063 --> 00:16:47,001
+N înfăşurări.
+Trebuie să alegem un drum.
+
+216
+00:16:47,001 --> 00:16:51,060
+Vrem să aplicăm legea lui Ampère.
+Veţi fi poate
+
+217
+00:16:51,060 --> 00:16:54,082
+surprinşi de 
+drumul ce am să-l aleg.
+
+218
+00:16:54,082 --> 00:17:01,070
+Acest este drumul ales.
+Este un dreptunghi.
+
+219
+00:17:01,070 --> 00:17:08,066
+Lungimea acestei porţiuni
+din interiorul solenoidului este l.
+
+220
+00:17:08,066 --> 00:17:13,064
+Împărţim drumul
+în patru porţiuni diferite.
+
+221
+00:17:13,064 --> 00:17:18,088
+Prima porţiune,
+a doua, a treia,
+
+222
+00:17:18,088 --> 00:17:23,061
+şi a patra.
+Să analizăm a doua porţiune.
+
+223
+00:17:23,061 --> 00:17:26,011
+Am presupus că la exterior
+câmpul magnetic este
+
+224
+00:17:26,011 --> 00:17:30,077
+practic zero, şi atunci,
+aplicând integrala,
+
+225
+00:17:30,077 --> 00:17:32,092
+contribuţia acestei porţiuni
+trebuie să fie zero.
+
+226
+00:17:32,092 --> 00:17:36,000
+Dacă B-ul este zero,
+atunci integrala din B ori dl
+
+227
+00:17:36,000 --> 00:17:41,066
+este tot zero.
+Pe porţiunea unu şi trei,
+
+228
+00:17:41,066 --> 00:17:44,004
+în partea exterioară, 
+câmpul magnetic este din nou
+
+229
+00:17:44,004 --> 00:17:47,001
+aproape de zero.
+Direcţia câmpului magnetic din interior
+
+230
+00:17:47,001 --> 00:17:51,086
+este aceasta. 
+Dar direcţia lui dl este aceasta,
+
+231
+00:17:51,086 --> 00:17:54,007
+iar B-ul este aşa,
+adică un unghi de 90 de grade,
+
+232
+00:17:54,007 --> 00:17:57,089
+iar produsul scalar este zero.
+Singura porţiune care
+
+233
+00:17:57,089 --> 00:18:02,030
+contribuie la integrala închisă
+din legea lui Ampère
+
+234
+00:18:02,030 --> 00:18:07,094
+este porţiunea patru.
+Aşadar, B ori l --
+
+235
+00:18:07,094 --> 00:18:10,008
+pentru că B-ul este constant,
+am presupuns că
+
+236
+00:18:10,008 --> 00:18:15,000
+este constant în interior,
+şi l-am integrat pe lungimea l.
+
+237
+00:18:15,000 --> 00:18:17,034
+Trebuie să-mi aleg acum
+o suprafaţă.
+
+238
+00:18:17,034 --> 00:18:22,027
+Ce suprafaţă voi alege
+pentru această buclă închisă ?
+
+239
+00:18:22,027 --> 00:18:27,098
+De ce să nu alegem o suprafaţă
+plană, precum tabla ?
+
+240
+00:18:27,098 --> 00:18:31,032
+Trebuie să calculez 
+acum curentul ce penetrează
+
+241
+00:18:31,032 --> 00:18:37,080
+această suprafaţă.
+Pentru a calcula acest curent,
+
+242
+00:18:37,080 --> 00:18:40,024
+trebuie să ştiu de câte 
+ori înţeapă
+
+243
+00:18:40,024 --> 00:18:43,000
+această înfăşurare suprafaţa
+aleasă.
+
+244
+00:18:43,000 --> 00:18:49,001
+Dacă lungimea porţiunii este l,
+iar lungimea
+
+245
+00:18:49,001 --> 00:18:52,053
+solenoidului este L,
+şi avem un număr de N înfăşurări
+
+246
+00:18:52,053 --> 00:18:55,006
+pe lungimea L,
+atunci curentul va înţepa acea
+
+247
+00:18:55,006 --> 00:18:59,085
+suprafaţă de atâtea ori,
+unic determinat.
+
+248
+00:18:59,085 --> 00:19:03,042
+Pentru că este o suprafaţă,
+nu există niciun
+
+249
+00:19:03,042 --> 00:19:06,024
+curent închis,
+ci doar un curent ce penetrează
+
+250
+00:19:06,024 --> 00:19:08,082
+acea suprafaţă.
+Precum o peliculă de săpun
+
+251
+00:19:08,082 --> 00:19:14,044
+pe care o străpung,
+la fel ca şi curentul I.
+
+252
+00:19:14,044 --> 00:19:18,073
+Înmulţim totul cu μ şi cu I,
+de fiecare dată când
+
+253
+00:19:18,073 --> 00:19:25,074
+înţeapă suprafaţa, am un curent I.
+Prin urmare,
+
+254
+00:19:25,074 --> 00:19:37,033
+B este egal cu μ0 ori I ori N
+împărţit la L.
+
+255
+00:19:37,033 --> 00:19:41,084
+Aceasta este expresia 
+câmpului magnetic constant din
+
+256
+00:19:41,084 --> 00:19:48,026
+interiorul unui solenoid, 
+o aproximare foarte bună atâta timp
+
+257
+00:19:48,026 --> 00:19:53,016
+cât L, lungimea solenoidului,
+este mult mai mare decât
+
+258
+00:19:53,016 --> 00:19:59,070
+raza solenoidului,
+adică raza acestor bucle.
+
+259
+00:20:07,021 --> 00:20:12,032
+Următorul calcul numeric 
+are legătură
+
+260
+00:20:12,032 --> 00:20:18,038
+cu următorul experiment.
+Avem aici un solenoid
+
+261
+00:20:18,038 --> 00:20:25,091
+cu N egal cu 2.800,
+iar L cu 60 cm, adică 0,6 m,
+
+262
+00:20:25,091 --> 00:20:28,055
+iar curentul prin înfăşurări,
+a cărui valoare
+
+263
+00:20:28,055 --> 00:20:30,058
+nu o ştiu încă exact, 
+va fi de aproximativ
+
+264
+00:20:30,058 --> 00:20:35,059
+4,5 amperi, 
+vom ştii în timpul experimentului.
+
+265
+00:20:35,059 --> 00:20:39,060
+Putem calcula intensitatea
+câmpului magnetic
+
+266
+00:20:39,060 --> 00:20:42,015
+în acest caz.
+Intensitatea câmpului magnetic
+
+267
+00:20:42,015 --> 00:20:47,005
+este egală cu 4π ori
+10^-7,
+
+268
+00:20:47,005 --> 00:20:54,041
+adică μ0,
+înmulţit cu 2.800,
+
+269
+00:20:54,041 --> 00:20:57,076
+şi 
+împărţit la 0,6,
+
+270
+00:20:57,076 --> 00:21:02,039
+totul înmulţit cu 
+valoarea curentului, 4,5.
+
+271
+00:21:02,039 --> 00:21:10,057
+După efectuarea calculelor, 
+B-ul este 0,026 Tesla,
+
+272
+00:21:10,057 --> 00:21:13,099
+aproximativ 260 Gauss.
+În timpul
+
+273
+00:21:13,099 --> 00:21:16,066
+experimentului curentul va fi 
+puţin diferit,
+
+274
+00:21:16,066 --> 00:21:19,005
+dar veţi vedea că 
+intensitatea câmpului va fi
+
+275
+00:21:19,005 --> 00:21:23,067
+într-adevăr foarte aproiată
+de 260 Gauss.
+
+276
+00:21:23,067 --> 00:21:27,085
+Poate vă întrebaţi de ce 
+câmpul magnetic nu este proporţional
+
+277
+00:21:27,085 --> 00:21:32,004
+cu numărul de înfăşurări, 
+ci proporţional cu numărul de înfăşurări
+
+278
+00:21:32,004 --> 00:21:35,006
+pe unitate de lungime.
+Poate gândiţi în felul următor.
+
+279
+00:21:35,006 --> 00:21:37,001
+Pentru o singură buclă, 
+avem
+
+280
+00:21:37,001 --> 00:21:39,014
+un anumit câmp magnetic,
+pentru doua bucle,
+
+281
+00:21:39,014 --> 00:21:41,008
+un câmp magnetic dublu,
+pentru zece bucle,
+
+282
+00:21:41,008 --> 00:21:45,069
+un câmp magnetic de zece ori mai mare.
+Păi, să presupunem că un
+
+283
+00:21:45,069 --> 00:21:53,012
+capăt al solenoidului se află în sala 7.
+Aici este sala 7,
+
+284
+00:21:53,012 --> 00:21:58,063
+şi acesta este solenoidul.
+Adăugăm înfăşurări,
+
+285
+00:21:58,063 --> 00:22:03,088
+mii şi mii 
+de înfăşurări, până ajungem în
+
+286
+00:22:03,088 --> 00:22:08,092
+această sală.
+Uitaţi-vă la această buclă.
+
+287
+00:22:08,092 --> 00:22:14,017
+Imaginaţi-vă că este prima buclă.
+Generează un câmp magnetic.
+
+288
+00:22:14,017 --> 00:22:16,027
+Care este 
+configuraţia acelui câmp magnetic ?
+
+289
+00:22:16,027 --> 00:22:18,020
+Păi, 
+aceasta este o buclă de curent,
+
+290
+00:22:18,020 --> 00:22:19,097
+şi,
+după cum am văzut,
+
+291
+00:22:19,097 --> 00:22:21,078
+câmpul magnetic produs de 
+această buclă este
+
+292
+00:22:21,078 --> 00:22:25,005
+asemănător câmpului produs de un dipol.
+Chiar credeţi că
+
+293
+00:22:25,005 --> 00:22:29,001
+aici, în această sală,
+putem detecta câmpul magnetic
+
+294
+00:22:29,001 --> 00:22:32,031
+produs de această buclă
+neînsemnată?
+
+295
+00:22:32,031 --> 00:22:35,000
+Practic, nu vom simţi nimic.
+Câmpul magnetic
+
+296
+00:22:35,000 --> 00:22:38,003
+descreşte atât de rapid,
+încât nu-l putem
+
+297
+00:22:38,003 --> 00:22:40,096
+detecta aici.
+Este imediat evident, aşadar,
+
+298
+00:22:40,096 --> 00:22:43,041
+că intensitatea câmpului magnetic
+nu este proporţională cu
+
+299
+00:22:43,041 --> 00:22:45,089
+numărul de bucle.
+Dar, dacă
+
+300
+00:22:45,089 --> 00:22:48,057
+aşezăm toate aceste bucle
+una peste cealaltă,
+
+301
+00:22:48,057 --> 00:22:51,058
+atunci, desigur,
+câmpurile magnetice se vor însuma.
+
+302
+00:22:51,058 --> 00:22:55,000
+Este aşadar normal ca expresia
+câmpului magnetic
+
+303
+00:22:55,000 --> 00:23:02,021
+să depindă de numărul de înfăşurări
+pe unitate de lungime.
+
+304
+00:23:02,021 --> 00:23:08,030
+Vreau să vă arăt 
+configuraţia câmpului magnetic
+
+305
+00:23:08,030 --> 00:23:13,080
+a unei înfăşurări 
+cu şapte bucle.
+
+306
+00:23:13,080 --> 00:23:20,031
+Voi presăra megnetite, pilitură de fier,
+în vecinătatea câmpului.
+
+307
+00:23:20,031 --> 00:23:23,092
+Am mai făcut acest lucru
+cu alte configuraţii de curent.
+
+308
+00:23:23,092 --> 00:23:30,096
+Vom face acelaşi lucru
+cu acest solenoid.
+
+309
+00:23:30,096 --> 00:23:36,001
+Curentul prin bucle 
+va fi de câteva sute de amperi,
+
+310
+00:23:36,001 --> 00:23:39,044
+de aceea avem nevoie de
+bateria de maşină.
+
+311
+00:23:39,044 --> 00:23:44,005
+Bine.
+Presar acum pilitură de fier
+
+312
+00:23:44,005 --> 00:23:49,094
+şi vom observa că, 
+deşi înfăşurările nu sunt foarte strânse,
+
+313
+00:23:49,094 --> 00:23:52,022
+câmpul magnetic din interior
+începe să arate
+
+314
+00:23:52,022 --> 00:23:55,095
+uniform, iar în exterior,
+este aproape inexistent.
+
+315
+00:23:55,095 --> 00:23:59,000
+Uitaţi-vă la asta,
+nu e frumos ?
+
+316
+00:23:59,000 --> 00:24:02,007
+Nu e incredibil ?
+Vedeţi cum aceste magnetite
+
+317
+00:24:02,007 --> 00:24:05,094
+se aliniază foarte frumos
+în interiorul buclelor,
+
+318
+00:24:05,094 --> 00:24:09,080
+iar în exteriorul solenoidului,
+aici sau acolo,
+
+319
+00:24:09,080 --> 00:24:12,004
+unde am presupus un
+câmp magnetic nul,
+
+320
+00:24:12,004 --> 00:24:16,007
+magnetitele rămân în poziţia iniţială,
+nu există o direcţie preferată,
+
+321
+00:24:16,007 --> 00:24:20,078
+ceea ce semnifică un 
+câmp magnetic extrem de mic.
+
+322
+00:24:24,087 --> 00:24:28,089
+Vreau
+să vă arăt acum
+
+323
+00:24:28,089 --> 00:24:32,024
+câmpul magnetic produs 
+de această jucărie,
+
+324
+00:24:32,024 --> 00:24:34,089
+adică exact 
+cea de pe tablă.
+
+325
+00:24:34,089 --> 00:24:38,098
+Are 2.800 de înfăşurări
+iar curentul prin ea
+
+326
+00:24:38,098 --> 00:24:44,093
+va fi de aproximativ 
+4,5 A, dar vom ştii cu exactitate,
+
+327
+00:24:44,093 --> 00:24:49,074
+pentru că avem la dispoziţie
+un ampermetru, precum şi
+
+328
+00:24:49,074 --> 00:24:56,044
+un aparat de măsură
+pentru câmpurile magnetice.
+
+329
+00:24:56,044 --> 00:25:04,039
+Cel de jos este ampermetrul,
+unde 3-ul
+
+330
+00:25:04,039 --> 00:25:09,056
+înseamnă 6 A.
+Aparatul de sus este astfel calibrat
+
+331
+00:25:09,056 --> 00:25:12,075
+încât,
+pentru o deviaţie maximă
+
+332
+00:25:12,075 --> 00:25:18,006
+să avem 300 Gauss.
+Avem la dispoziţie şi un
+
+333
+00:25:18,006 --> 00:25:22,000
+senzor de câmp magnetic --
+nu am discutat despre acesta.
+
+334
+00:25:22,000 --> 00:25:26,075
+Este un senzor cu efect Hall
+care ne permite
+
+335
+00:25:26,075 --> 00:25:30,005
+măsurarea câmpului magnetic
+în vecinătatea acestui solenoid.
+
+336
+00:25:30,005 --> 00:25:33,002
+Poate discerne şi direcţia.
+Dacă direcţia câmpului
+
+337
+00:25:33,002 --> 00:25:36,034
+este aceasta, se va deplasa spre dreapta.
+Dacă direcţia câmpului magnetic
+
+338
+00:25:36,034 --> 00:25:41,079
+este aşa ,se va deplasa spre stânga.
+Acest senzor ne va permite
+
+339
+00:25:41,079 --> 00:25:49,033
+o apreciere cantitativă a câmpului
+magnetic din vecinătatea solenoidului.
+
+340
+00:25:49,033 --> 00:25:53,054
+Putem intra chiar şi înăuntru
+precum şi în exterior.
+
+341
+00:25:53,054 --> 00:25:56,029
+Voi da drumul la curent.
+Să-l vedem,
+
+342
+00:25:56,029 --> 00:25:59,000
+este aparatul de jos.
+Indică
+
+343
+00:25:59,000 --> 00:26:01,061
+4,8 A.
+Am presupus iniţial
+
+344
+00:26:01,061 --> 00:26:04,040
+că va fi 4,5,
+dar este puţin mai mare.
+
+345
+00:26:04,040 --> 00:26:10,003
+Aduc acest senzor 
+la mică distanţă de gura solenoidului,
+
+346
+00:26:10,003 --> 00:26:12,039
+şi nu se observă nimic.
+Vin şi mai aproape
+
+347
+00:26:12,039 --> 00:26:17,003
+de intrare, 
+iar câmpul magnetic începe să se simtă.
+
+348
+00:26:17,003 --> 00:26:22,044
+Încă nu este nici pe departe constant.
+Avem imediat
+
+349
+00:26:22,044 --> 00:26:24,051
+100 Gauss.
+Mai avansăm cu sonda.
+
+350
+00:26:24,051 --> 00:26:29,093
+200 Gauss.
+Avansăm şi mai mult.
+
+351
+00:26:29,093 --> 00:26:32,004
+Şi mai mult, 
+iar acum avem aproximativ
+
+352
+00:26:32,004 --> 00:26:35,097
+240 Gauss, şi observaţi,
+dacă înaintez şi mai mult,
+
+353
+00:26:35,097 --> 00:26:38,042
+câmpul magnetic nu mai creşte.
+Este mai mult sau mai puţin constant.
+
+354
+00:26:38,042 --> 00:26:42,059
+Este foarte interesant
+faptul că este aproximativ constant.
+
+355
+00:26:42,059 --> 00:26:44,091
+Uitaţi, îl mişc înainte şi înapoi 
+şi nu se
+
+356
+00:26:44,091 --> 00:26:48,051
+întâmplă nimic.
+Dacă intrăm pe cealaltă parte,
+
+357
+00:26:48,051 --> 00:26:50,065
+vom observa pur şi simplu
+o inversare de semn,
+
+358
+00:26:50,065 --> 00:26:52,084
+ceea ce nu e foarte interesant,
+dar avem tot
+
+359
+00:26:52,084 --> 00:26:58,002
+240 Gauss şi în cealaltă direcţie.
+Vă pot arăta şi că
+
+360
+00:26:58,002 --> 00:27:02,034
+în afara solenoidului,
+sonda nu-mi indică nimic.
+
+361
+00:27:02,034 --> 00:27:04,055
+Aşadar, într-adevăr, 
+ipoteza conform căreia câmpul
+
+362
+00:27:04,055 --> 00:27:07,095
+magnetic în exteriorul 
+unui solenoid este foarte slab,
+
+363
+00:27:07,095 --> 00:27:18,006
+se dovedeşte a fi corectă.
+Foarte bine.
+
+364
+00:27:25,016 --> 00:27:28,005
+V-am rugat, 
+iar data limită este vineri
+
+365
+00:27:28,005 --> 00:27:33,082
+la ora 16,
+să explicaţi comportamentul
+
+366
+00:27:33,082 --> 00:27:38,097
+bateriei Kelvin.
+Vă voi ajuta puţin.
+
+367
+00:27:38,097 --> 00:27:42,039
+Unii dintre voi aţi rezolvat problema,
+dar cei care n-au făcut-o
+
+368
+00:27:42,039 --> 00:27:46,007
+probabil că nu o vor rezolva
+oricum până vineri,
+
+369
+00:27:46,007 --> 00:27:51,028
+aşa că, mai bine vă spun.
+Acel picurător,
+
+370
+00:27:51,028 --> 00:27:55,054
+denumit baterie Kelvin,
+este o baterie incredibilă.
+
+371
+00:27:55,054 --> 00:27:58,017
+Am mai văzut-o în cursul 10.
+Ştim ce face,
+
+372
+00:27:58,017 --> 00:28:07,068
+dar o mai explic odată.
+Avem doi cilindri A şi B.
+
+373
+00:28:07,068 --> 00:28:15,093
+Apa ce picură de sus
+trece prin ele.
+
+374
+00:28:15,093 --> 00:28:18,006
+Picăturile acestea de apă sunt 
+colectate
+
+375
+00:28:18,006 --> 00:28:20,072
+în recipientul D,
+din material conductor,
+
+376
+00:28:20,072 --> 00:28:24,086
+iar apa de aici în recipientul C,
+de asemenea conductor.
+
+377
+00:28:24,086 --> 00:28:27,070
+Cilindrul A este conectat
+la recipientul C.
+
+378
+00:28:27,070 --> 00:28:29,090
+Acest lucru este crucial.
+Iar cilindrul B
+
+379
+00:28:29,090 --> 00:28:34,027
+este conectat la D.
+Aici sunt doi bile
+
+380
+00:28:34,027 --> 00:28:36,063
+pe care le pot aduce 
+aproape una de cealaltă.
+
+381
+00:28:36,063 --> 00:28:39,066
+Dăm drumul la apă,
+şi după o anumită perioadă
+
+382
+00:28:39,066 --> 00:28:43,088
+vom vedea o scânteie aici.
+Putem obţine o scânteie
+
+383
+00:28:43,088 --> 00:28:46,045
+chiar şi atunci când 
+distanţa este de aproximativ 6 mm,
+
+384
+00:28:46,045 --> 00:28:48,024
+asta însemnând o 
+diferenţă de potenţial
+
+385
+00:28:48,024 --> 00:28:55,021
+de aproximativ 20 kV.
+Cum funcţionează această baterie ?
+
+386
+00:28:55,021 --> 00:29:00,008
+Păi, pH-ul apei este de 7.
+Asta înseamnă că
+
+387
+00:29:00,008 --> 00:29:08,014
+una din 10^7 molecule este ionizată.
+Avem aşadar OH minus,
+
+388
+00:29:08,014 --> 00:29:11,037
+şi H plus,
+reprezentând purtătorii de sarcină
+
+389
+00:29:11,037 --> 00:29:14,062
+în cazul de faţă.
+Ionii sunt cei responsabili
+
+390
+00:29:14,062 --> 00:29:21,042
+de tot ceea ce se întâmplă aici.
+Să analizăm în detaliu
+
+391
+00:29:21,042 --> 00:29:25,088
+cilindrul A.
+Să presupunem că,
+
+392
+00:29:25,088 --> 00:29:28,059
+din pură întâmplare,
+cilindrul A posedă
+
+393
+00:29:28,059 --> 00:29:32,028
+o sarcină pozitivă.
+Ar putea la fel de bine să fie negativă,
+
+394
+00:29:32,028 --> 00:29:34,036
+dar o considerăm 
+a fi pozitivă pe moment.
+
+395
+00:29:34,036 --> 00:29:37,048
+Indiferent de semnul sarcinii,
+bateria funcţionează.
+
+396
+00:29:37,048 --> 00:29:39,036
+Din pură întâmplare.
+Şi voi aveţi un exces infim
+
+397
+00:29:39,036 --> 00:29:42,002
+de sarcină netă.
+Nu sunteţi nici voi complet neutri.
+
+398
+00:29:42,002 --> 00:29:46,003
+Acest cilindru posedă 
+un anumit exces de sarcină pozitivă.
+
+399
+00:29:46,003 --> 00:29:51,005
+Aceasta este picătura din duză
+ce va trece prin cilindru.
+
+400
+00:29:51,005 --> 00:29:53,095
+Ce se va întâmpla ?
+Prin inducţie,
+
+401
+00:29:53,095 --> 00:29:56,043
+prin polarizaţie,
+va exista un mic exces
+
+402
+00:29:56,043 --> 00:30:00,036
+de sarcină negativă aici
+şi un mic exces de sarcină pozitivă
+
+403
+00:30:00,036 --> 00:30:03,047
+aici, pentru că sarcinile pozitive
+se resping reciproc, iar cea
+
+404
+00:30:03,047 --> 00:30:06,003
+pozitivă cu cea negativă se atrag.
+Ionii pozitivi H+
+
+405
+00:30:06,003 --> 00:30:09,019
+se vor deplasa puţin în sus,
+iar cei negativi OH- în jos.
+
+406
+00:30:09,019 --> 00:30:13,020
+Dar acum, picătura se desprinde
+şi ajunge în cilindru.
+
+407
+00:30:13,020 --> 00:30:16,079
+Posedă un exces de sarcină negativă.
+Aşadar, picăturile
+
+408
+00:30:16,079 --> 00:30:24,008
+ce trec prin cilindru vor fi negative,
+recipientul devenind negativ.
+
+409
+00:30:24,008 --> 00:30:28,000
+Dar D-ul este conectat la B,
+aşadar, şi B-ul se încarcă negativ.
+
+410
+00:30:28,000 --> 00:30:30,034
+Dar ce credeţi că se va întâmpla
+cu picăturile
+
+411
+00:30:30,034 --> 00:30:34,047
+ce trec prin cilindrul B ?
+Se vor încărca
+
+412
+00:30:34,047 --> 00:30:39,027
+pozitiv, pentru că B-ul fiind negativ,
+atunci această situaţie
+
+413
+00:30:39,027 --> 00:30:41,036
+se va inversa,
+partea inferioară va fi pozitivă,
+
+414
+00:30:41,036 --> 00:30:44,004
+iar cea superioară negativă.
+Picăturile ce vor trece
+
+415
+00:30:44,004 --> 00:30:47,021
+prin cilindrul 
+B vor fi pozitive.
+
+416
+00:30:47,021 --> 00:30:52,036
+C-ul se încarcă şi el pozitiv.
+Dar C-ul este conectat la A,
+
+417
+00:30:52,036 --> 00:30:57,022
+iar A-ul devine şi mai pozitiv,
+afectând şi mai mult
+
+418
+00:30:57,022 --> 00:31:00,001
+aceste picături de apă,
+polarizaţia picăturilor va fi
+
+419
+00:31:00,001 --> 00:31:03,033
+şi mai pronunţată, 
+tot acest proces intrând într-o buclă.
+
+420
+00:31:03,033 --> 00:31:07,012
+Întregul proces continuă
+până când diferenţa
+
+421
+00:31:07,012 --> 00:31:09,091
+de potenţial de aici devine
+atât de mare,
+
+422
+00:31:09,091 --> 00:31:14,002
+încât depăşeste 3 milioane de V/m,
+ceea ce duce la străpungerea dielectricului
+
+423
+00:31:14,002 --> 00:31:18,063
+şi apariţia unei scântei.
+Putem presupune că
+
+424
+00:31:18,063 --> 00:31:22,076
+o apă care curge reprezintă
+o deplasare de picături individuale,
+
+425
+00:31:22,076 --> 00:31:29,045
+aşadar, sistemul funcţionează
+şi dacă avem avem o curgere de apă.
+
+426
+00:31:29,045 --> 00:31:34,021
+Cine efectuează lucru mecanic aici ?
+Cineva trebuie să efectueze lucru mecanic.
+
+427
+00:31:34,021 --> 00:31:37,054
+Aceasta este o baterie.
+Bateria se încarcă
+
+428
+00:31:37,054 --> 00:31:40,001
+şi apoi se descarcă 
+prin intermediul unei scântei.
+
+429
+00:31:40,001 --> 00:31:43,032
+Cine efectuează lucru mecanic ?
+Aveţi vreo idee ?
+
+430
+00:31:43,032 --> 00:31:46,069
+V-aţi gândit la asta ?
+Da ?
+
+431
+00:31:46,069 --> 00:31:49,008
+Gravitaţia.
+Foarte bine.
+
+432
+00:31:49,008 --> 00:31:51,047
+Gravitaţia este cea 
+care efectuează lucru mecanic.
+
+433
+00:31:51,047 --> 00:31:55,041
+Putem observa asta foarte uşor
+dacă urmărim deplasarea
+
+434
+00:31:55,041 --> 00:32:02,035
+curentului şi câmpul electric.
+Cum se deplasează curentul electric ?
+
+435
+00:32:02,035 --> 00:32:06,004
+Dacă sarcina negativă se
+deplasează în jos,
+
+436
+00:32:06,004 --> 00:32:10,003
+atunci curentul este în sus.
+Dacă sarcina pozitivă
+
+437
+00:32:10,003 --> 00:32:15,000
+se deplasează în jos,
+atunci curentul este în jos.
+
+438
+00:32:15,000 --> 00:32:19,007
+Această parte a duzei
+va fi pozitivă
+
+439
+00:32:19,007 --> 00:32:23,099
+iar aceasta negativă,
+pentru că ionii H+ sunt mai
+
+440
+00:32:23,099 --> 00:32:26,066
+numeroşi aici decât acolo.
+Prin urmare, odată cu curgerea apei
+
+441
+00:32:26,066 --> 00:32:31,081
+vom avea şi un curent
+în această direcţie.
+
+442
+00:32:31,081 --> 00:32:34,020
+Conductivitatea 
+apei este destul de bună,
+
+443
+00:32:34,020 --> 00:32:37,032
+întrucât este ionizată cu un raport
+de una la 10^7 molecule.
+
+444
+00:32:37,032 --> 00:32:40,074
+Şi, din când în când,
+vom avea un curent
+
+445
+00:32:40,074 --> 00:32:43,005
+şi aici în timpul scântei,
+dar acest curent
+
+446
+00:32:43,005 --> 00:32:47,038
+este intermitent, desigur.
+Ce putem spune despre câmpurile electrice ?
+
+447
+00:32:47,038 --> 00:32:49,048
+Câmpurile electrice
+sunt îndreptate dinspre plus
+
+448
+00:32:49,048 --> 00:32:51,094
+spre minus, aşa că reprezentarea
+lor este simplă.
+
+449
+00:32:51,094 --> 00:32:55,085
+Aici trebuie să fie în
+această direcţie
+
+450
+00:32:55,085 --> 00:32:59,064
+Aici, câmpul electric 
+este de la plus la minus.
+
+451
+00:32:59,064 --> 00:33:01,045
+C-ul este
+încărcat pozitiv,
+
+452
+00:33:01,045 --> 00:33:04,025
+B negativ,
+aşadar direcţia câmpului electric
+
+453
+00:33:04,025 --> 00:33:07,029
+este aceasta.
+Câmpul electric este îndreptat
+
+454
+00:33:07,029 --> 00:33:09,001
+dinspre plus spre minus.
+Aici este plus,
+
+455
+00:33:09,001 --> 00:33:11,012
+aici este minus,
+câmpul electric este în
+
+456
+00:33:11,012 --> 00:33:15,002
+această direcţie.
+Câmpul electric este de la plus
+
+457
+00:33:15,002 --> 00:33:17,057
+la minus. 
+Cilindrul A era pozitiv,
+
+458
+00:33:17,057 --> 00:33:20,000
+nu ?
+Câmpul electric este aşadar
+
+459
+00:33:20,000 --> 00:33:23,000
+de la plus la minus.
+Aceasta este configuraţia
+
+460
+00:33:23,000 --> 00:33:28,026
+câmpului electric.
+Dar uitaţi ce se întâmplă.
+
+461
+00:33:28,026 --> 00:33:31,000
+Aici, direcţia câmpului E 
+şi cea a curentului
+
+462
+00:33:31,000 --> 00:33:34,001
+este aceeaşi.
+E în regulă.
+
+463
+00:33:34,001 --> 00:33:35,098
+Aici, direcţia câmpului E
+şi a curentului
+
+464
+00:33:35,098 --> 00:33:38,001
+este din nou identică.
+Foarte bine.
+
+465
+00:33:38,001 --> 00:33:41,080
+Dar uitaţi-vă la aceşti
+ioni negativi.
+
+466
+00:33:41,080 --> 00:33:45,059
+Aceşti ioni nu vor să se deplaseze
+în direcţia câmpului E.
+
+467
+00:33:45,059 --> 00:33:49,023
+Sarcinile negative vor să se
+deplaseze în direcţia opusă lui E.
+
+468
+00:33:49,023 --> 00:33:51,048
+Dar gravitaţia spune,
+„îmi pare rău, nu se poate,
+
+469
+00:33:51,048 --> 00:33:54,072
+trebuie să veniţi în jos.”
+Gravitaţia va trage aşadar aceste
+
+470
+00:33:54,072 --> 00:34:00,075
+sarcini negative în jos.
+Uitaţi-vă la aceste sarcini pozitive.
+
+471
+00:34:00,075 --> 00:34:03,018
+Aceste picături de apă
+încărcate pozitiv
+
+472
+00:34:03,018 --> 00:34:06,011
+se deplasează împotriva câmpului electric.
+Desigur că nu vor asta.
+
+473
+00:34:06,011 --> 00:34:08,002
+Sarcinile pozitive vor să 
+se deplaseze
+
+474
+00:34:08,002 --> 00:34:10,000
+pe direcţia câmpului electric,
+dar gravitaţia spune,
+
+475
+00:34:10,000 --> 00:34:13,038
+„îmi pare rău,
+va trebui să veniţi în jos.”
+
+476
+00:34:13,038 --> 00:34:15,037
+Cu alte cuvinte, 
+gravitaţia este cea care
+
+477
+00:34:15,037 --> 00:34:18,087
+efectuează lucru mecanic,
+împotriva voinţei sarcinilor.
+
+478
+00:34:18,087 --> 00:34:22,056
+Bateria se 
+încarcă şi se încarcă până când
+
+479
+00:34:22,056 --> 00:34:26,008
+diferenţa de potenţial devine
+atât de mare încât are loc o scânteie.
+
+480
+00:34:26,008 --> 00:34:29,012
+Această diferenţa de potenţial
+este de aproximativ
+
+481
+00:34:29,012 --> 00:34:34,079
+20 kV.
+Ţineţi minte de data trecută,
+
+482
+00:34:34,079 --> 00:34:37,008
+dar vă voi arăta 
+şi astăzi,
+
+483
+00:34:37,008 --> 00:34:41,006
+că pe măsură ce apa 
+curge iar sistemul se încarcă,
+
+484
+00:34:41,006 --> 00:34:46,054
+se observă că, 
+deşi iniţial apa curge astfel,
+
+485
+00:34:46,054 --> 00:34:51,014
+va începe să se împrăştie.
+Se va desface.
+
+486
+00:34:51,014 --> 00:34:55,085
+Se poatea auzi
+dar se poate şi vedea acest lucru.
+
+487
+00:34:55,085 --> 00:34:58,055
+De ce se întâmplă acest lucru ?
+Păi, este
+
+488
+00:34:58,055 --> 00:35:00,047
+evident.
+Dacă cilindrul este încărcat
+
+489
+00:35:00,047 --> 00:35:04,011
+pozitiv, dar apa este
+încărcată negativ,
+
+490
+00:35:04,011 --> 00:35:06,078
+sarcina negativă vrea să 
+se deplaseze prin cilindrul pozitiv,
+
+491
+00:35:06,078 --> 00:35:10,018
+prin urmare, se împrăştie.
+Este evident, aşadar,
+
+492
+00:35:10,018 --> 00:35:13,052
+că în momentul
+în care scânteia este inevitabilă,
+
+493
+00:35:13,052 --> 00:35:17,005
+apa se va împrăştia.
+Vom
+
+494
+00:35:17,005 --> 00:35:19,061
+observa acest efect.
+După scânteie,
+
+495
+00:35:19,061 --> 00:35:27,080
+va curge din nou normal,
+şi încet încet, se va împrăştia.
+
+496
+00:35:27,080 --> 00:35:33,009
+Vom face acum o serie de 
+experimente pentru a susţine
+
+497
+00:35:33,009 --> 00:35:36,061
+ceea ce ştim,
+dar şi ceea ce nu ştim încă.
+
+498
+00:35:36,061 --> 00:35:48,054
+Vom lăsa lumina aprinsă
+doar pe baterie.
+
+499
+00:35:51,014 --> 00:35:56,019
+Vă voi arăta prima dată
+cele două bile
+
+500
+00:35:56,019 --> 00:36:01,038
+şi distanţa dintre ele.
+De data aceasta suntem mai pregătiţi
+
+501
+00:36:01,038 --> 00:36:03,062
+datorită lui Marcos,
+ce stă foarte
+
+502
+00:36:03,062 --> 00:36:08,003
+modest în spatele instrumentului.
+De data aceasta avem
+
+503
+00:36:08,003 --> 00:36:13,089
+un aparat de măsură
+ce ne va indica intensitatea câmpului
+
+504
+00:36:13,089 --> 00:36:18,034
+magnetic în apropierea cilindrului A.
+Asta înseamnă că,
+
+505
+00:36:18,034 --> 00:36:21,081
+pe măsură ce sistemul se încarcă,
+nu va mai trebui să
+
+506
+00:36:21,081 --> 00:36:25,059
+aşteptăm neapărat apariţia scânteii,
+ci ne putem uita
+
+507
+00:36:25,059 --> 00:36:32,015
+pe galvanometru 
+pentru a vedea cum se încarcă,
+
+508
+00:36:32,015 --> 00:36:38,030
+iar după apariţia scânteii,
+se descarcă.
+
+509
+00:36:38,030 --> 00:36:41,012
+Aş face pentru început 
+ceea ce
+
+510
+00:36:41,012 --> 00:36:44,084
+am făcut şi data trecută, 
+şi anume, o vom lăsa să curgă
+
+511
+00:36:44,084 --> 00:36:54,008
+şi vom aştepta o scânteie.
+Există tot timpul bule de aer
+
+512
+00:36:54,008 --> 00:36:57,067
+în sistem, 
+bule ce trebuie scose.
+
+513
+00:36:57,067 --> 00:37:05,047
+Bine, cred că am reuşit.
+Să avem acum răbdare.
+
+514
+00:37:05,047 --> 00:37:09,053
+Ah, a început deja.
+Uitaţi-vă la câmpul electric.
+
+515
+00:37:09,053 --> 00:37:12,014
+Bang !
+Prima scânteie.
+
+516
+00:37:12,014 --> 00:37:17,019
+Vedeţi scânteia sus pe ecran ?
+Priviţi atent.
+
+517
+00:37:17,019 --> 00:37:19,034
+Încă
+o scânteie !
+
+518
+00:37:19,034 --> 00:37:24,010
+Observaţi că în acelaşi 
+timp câmpul electric scade la zero.
+
+519
+00:37:24,010 --> 00:37:26,096
+Se încarcă, 
+bang.
+
+520
+00:37:28,054 --> 00:37:33,092
+Se încarcă, 
+bang.
+
+521
+00:37:33,092 --> 00:37:37,034
+Întregul sistem porneşte
+datorită existenţei
+
+522
+00:37:37,034 --> 00:37:41,077
+pur întâmplătoare a unui
+exces de sarcină pozitivă sau negativă
+
+523
+00:37:41,077 --> 00:37:50,079
+pe unul dintre cilindrii.
+Voi mări acum
+
+524
+00:37:50,079 --> 00:37:53,094
+distanţa dintre bile.
+O voi face atât
+
+525
+00:37:53,094 --> 00:37:57,060
+de mare, încât câmpul magnetic
+dintre cele două bile
+
+526
+00:37:57,060 --> 00:38:00,035
+nu va mai putea depăşi 
+niciodată valoarea de 3 milioane V/m.
+
+527
+00:38:00,035 --> 00:38:03,008
+Dar sistemul are
+multe margini ascuţite
+
+528
+00:38:03,008 --> 00:38:06,006
+multe puncte ascuţite,
+astfel că va exista o altă
+
+529
+00:38:06,006 --> 00:38:10,008
+locaţie în care câmpul electric
+va depăşi tensiunea de străpungere
+
+530
+00:38:10,008 --> 00:38:15,023
+iar sistemul va pierde din sarcini
+datorită descărcării corona.
+
+531
+00:38:15,023 --> 00:38:21,054
+Nu veţi vedea nicio scânteie,
+dar se va descărca.
+
+532
+00:38:21,054 --> 00:38:24,091
+Măresc acum distanţa.
+Fiţi atenţi
+
+533
+00:38:24,091 --> 00:38:28,078
+la câmpul electric.
+Va atinge o valoare maximă
+
+534
+00:38:28,078 --> 00:38:30,088
+iar apoi se va descărca.
+Uitaţi-vă.
+
+535
+00:38:30,088 --> 00:38:33,080
+Începe să tremure,
+înainte şi înapoi,
+
+536
+00:38:33,080 --> 00:38:36,050
+dar nu mai avem nicio
+scânteie între bile,
+
+537
+00:38:36,050 --> 00:38:38,047
+nu vedem nimic
+între cele două bile,
+
+538
+00:38:38,047 --> 00:38:42,008
+pentru că descărcarea are 
+loc în altă parte. Nu ştiu unde,
+
+539
+00:38:42,008 --> 00:38:45,011
+dar există undeva un curent
+continuu de sarcini
+
+540
+00:38:45,011 --> 00:38:47,061
+ce părăsesc sistemul.
+Este o descărcare
+
+541
+00:38:47,061 --> 00:38:51,083
+corona.
+În această configuraţie,
+
+542
+00:38:51,083 --> 00:38:55,053
+apa este tot timpul împrăştiată  
+la trecerea prin cilindru.
+
+543
+00:38:55,053 --> 00:39:00,066
+Vă pot arăta şi 
+asta.
+
+544
+00:39:00,066 --> 00:39:03,008
+Poate, Marcos,
+poţi să îmbunătăţeşti
+
+545
+00:39:03,008 --> 00:39:06,065
+lumina.
+Aş putea închide asta,
+
+546
+00:39:06,065 --> 00:39:10,077
+poate vedeţi 
+mai bine.
+
+547
+00:39:10,077 --> 00:39:13,074
+Dar vedeţi că apa se împrăştie
+tot timpul.
+
+548
+00:39:13,074 --> 00:39:18,006
+Aduc bilele mai aproape.
+Ah, dar vreţi să vedeţi
+
+549
+00:39:18,006 --> 00:39:23,057
+desigur şi câmpul electric,
+să vedeţi descărcarea.
+
+550
+00:39:23,057 --> 00:39:29,000
+Le aduc aproape una de cealaltă,
+oprind descărcarea corona.
+
+551
+00:39:29,000 --> 00:39:33,035
+Uitaţi scânteia.
+Acum uitaţi-vă la apă.
+
+552
+00:39:33,035 --> 00:39:36,009
+Acum apa nu este deloc
+interesantă,
+
+553
+00:39:36,009 --> 00:39:39,006
+dar apoi se împrăştie.
+Putem stinge lumina.
+
+554
+00:39:39,006 --> 00:39:42,082
+Uitaţi-vă la apă.
+Şi încet încet, sistemul
+
+555
+00:39:42,082 --> 00:39:45,009
+se încarcă.
+Vedeţi apa ?
+
+556
+00:39:45,009 --> 00:39:48,009
+Bingo.
+Ne putem da seama de apariţia
+
+557
+00:39:48,009 --> 00:39:53,052
+scânteii după comportamentul apei.
+Încă o scânteie.
+
+558
+00:39:53,052 --> 00:39:56,065
+Voi face acum ceva
+diabolic.
+
+559
+00:39:56,065 --> 00:40:04,042
+Voi ridica duza atât de sus,
+încât cilindrul A
+
+560
+00:40:04,042 --> 00:40:09,038
+să nu mai ajungă până la ea.
+Duza este acum foarte sus,
+
+561
+00:40:09,038 --> 00:40:13,000
+şi cilindrul nu mai poate polariza apa.
+Săraca bateria
+
+562
+00:40:13,000 --> 00:40:16,004
+nu va mai putea porni.
+E urât să facem
+
+563
+00:40:16,004 --> 00:40:19,088
+asta unei baterii.
+Dar, pe de altă parte,
+
+564
+00:40:19,088 --> 00:40:26,017
+nu sunt aşa de rău.
+Pot să fiu eu cel care porneşte
+
+565
+00:40:26,017 --> 00:40:29,066
+întregul sistem,
+îl pot ajuta să pornească.
+
+566
+00:40:29,066 --> 00:40:34,032
+Voi folosi electroforul,
+şi voi aduce discul încărcat
+
+567
+00:40:34,032 --> 00:40:38,068
+electric în apropierea unei duze,
+permiţându-i să polarizeze
+
+568
+00:40:38,068 --> 00:40:43,084
+temporar apa.
+Odată pornit, există mari
+
+569
+00:40:43,084 --> 00:40:48,014
+şanse ca sistemul să 
+să se alimenteze pe el însuşi.
+
+570
+00:40:48,014 --> 00:40:51,052
+Nu e foarte previzibil,
+dar voi încerca.
+
+571
+00:40:51,052 --> 00:40:55,092
+Primul lucru ce vreau să-l fac --
+ar fi bine să aduci
+
+572
+00:40:55,092 --> 00:40:57,093
+câmpul electric la zero.
+Da, mulţumesc.
+
+573
+00:40:57,093 --> 00:41:00,032
+Va trebui să ne asigurăm 
+prima data că,
+
+574
+00:41:00,032 --> 00:41:02,034
+dacă dăm acum drumul
+la apă,
+
+575
+00:41:02,034 --> 00:41:05,094
+sistemul nu va porni de unul singur,
+pentru că altfel,
+
+576
+00:41:05,094 --> 00:41:09,038
+eu nu voi mai avea 
+nimic de făcut.
+
+577
+00:41:09,038 --> 00:41:13,001
+Să dăm drumul la apă.
+Sper că Marcos a pus duza
+
+578
+00:41:13,001 --> 00:41:21,087
+suficient de sus, şi să vedem --
+putem să ne uităm
+
+579
+00:41:21,087 --> 00:41:24,078
+la -- ah,
+avem iarăşi bule de aer
+
+580
+00:41:24,078 --> 00:41:26,090
+în sistem.
+Trebuie să scăpăm de
+
+581
+00:41:26,090 --> 00:41:34,029
+bulele de aer.
+Să vedem acum.
+
+582
+00:41:34,029 --> 00:41:39,045
+Bine.
+Vedeţi că acum câmpul electric
+
+583
+00:41:39,045 --> 00:41:43,066
+nu face nimic.
+Sistemul nu poate porni.
+
+584
+00:41:43,066 --> 00:41:47,025
+Cilindrul A încearcă disperat
+să ajungă la duză,
+
+585
+00:41:47,025 --> 00:41:50,094
+dar aceasta este prea departe.
+Nu poate polariza apa,
+
+586
+00:41:50,094 --> 00:41:54,072
+şi prin urmare, bateria nu poate porni.
+Ah, ba porneşte !
+
+587
+00:41:54,072 --> 00:41:56,080
+Oh, Marcos, nu e suficient
+de sus !
+
+588
+00:41:56,080 --> 00:41:58,050
+Trebuie dusă şi mai sus.
+Oh, apropo,
+
+589
+00:41:58,050 --> 00:42:00,060
+e foarte interesantă situaţia.
+Să vedem cum --
+
+590
+00:42:00,060 --> 00:42:03,068
+oh, mamă, e fascinant.
+Distanţa este de
+
+591
+00:42:03,068 --> 00:42:07,058
+aproximativ 50 cm,
+şi uitaţi !
+
+592
+00:42:07,058 --> 00:42:11,035
+E incredibil.
+Nemernicul,
+
+593
+00:42:11,035 --> 00:42:19,001
+nu mă aşteptam să facă asta.
+Să-i dăm o şansă, merită.
+
+594
+00:42:19,001 --> 00:42:21,052
+Se încarcă foarte încet.
+Ştim de ce se încarcă aşa
+
+595
+00:42:21,052 --> 00:42:27,025
+de încet, pentru că distanţa dintre
+A şi duză este foarte mare.
+
+596
+00:42:27,025 --> 00:42:29,087
+Dar, mamă --
+vedeţi şi apa.
+
+597
+00:42:29,087 --> 00:42:36,004
+Iar apa, 
+apa curge încă normal.
+
+598
+00:42:36,004 --> 00:42:42,031
+Aproape că mă simt
+trădat.
+
+599
+00:42:42,031 --> 00:42:45,019
+O vom ridica puţin mai sus,
+dar vreau să-i dau o
+
+600
+00:42:45,019 --> 00:42:48,054
+şansă, să vedem o scânteie.
+Cele două bile sunt
+
+601
+00:42:48,054 --> 00:42:54,077
+suficient de apropiate,
+aşa că vom vedea o scânteie.
+
+602
+00:42:54,077 --> 00:42:56,066
+Asta este tortură 
+pentru mine.
+
+603
+00:42:56,066 --> 00:42:59,004
+Ah, uitaţi,
+uitaţi-vă.
+
+604
+00:42:59,004 --> 00:43:00,079
+Apa începe să 
+se împrăştie.
+
+605
+00:43:00,079 --> 00:43:02,039
+Uitaţi-vă la apă,
+începe să se împrăştie.
+
+606
+00:43:02,039 --> 00:43:05,017
+Ah, gata.
+Marcos, o poţi ridica
+
+607
+00:43:05,017 --> 00:43:11,089
+şi mai sus ?
+Vom încerca s-o oprim
+
+608
+00:43:11,089 --> 00:43:16,020
+cu totul.
+Mut-o mult mai sus,
+
+609
+00:43:16,020 --> 00:43:24,040
+şi vom încerca să pornim sistemul
+cu ajutorul unui prieten.
+
+610
+00:43:42,025 --> 00:43:44,027
+Să nu-mi spuneţi 
+că începe să --
+
+611
+00:43:44,027 --> 00:43:46,008
+se poate deplasa şi în cealaltă 
+direcţie, desigur,
+
+612
+00:43:46,008 --> 00:43:51,078
+direcţia iniţială este
+aleatoare.
+
+613
+00:43:51,078 --> 00:43:58,001
+Ah, mă dezamăgeşte.
+Să vedem dacă
+
+614
+00:43:58,001 --> 00:44:05,061
+o pot ajuta puţin. 
+Am aici discul încărcat electric.
+
+615
+00:44:05,061 --> 00:44:12,074
+Îl voi ţine aici.
+Ştiţi de ce îl ţin aici ?
+
+616
+00:44:12,074 --> 00:44:14,051
+Pentru că speram să pot
+inversa direcţia.
+
+617
+00:44:14,051 --> 00:44:16,043
+Dar nici măcar asta
+nu vrea să facă.
+
+618
+00:44:16,043 --> 00:44:21,019
+E recalcitrant astăzi,
+nu ?
+
+619
+00:44:21,019 --> 00:44:26,055
+O ţin aici,
+sarcină negativă.
+
+620
+00:44:26,055 --> 00:44:29,057
+Motivul pentru care vedeţi
+o schimbare bruscă a câmpului
+
+621
+00:44:29,057 --> 00:44:32,095
+electric se datorează
+senzorului de câmp, ce detectează
+
+622
+00:44:32,095 --> 00:44:39,042
+discul încărcat atunci când
+îl ţin în apropierea duzei lui B.
+
+623
+00:44:39,042 --> 00:44:44,005
+Se pare că 
+s-a decis deja oricum,
+
+624
+00:44:44,005 --> 00:44:49,032
+sau s-a decis într-adevăr ?
+Ah, ah, ah, ah.
+
+625
+00:44:49,032 --> 00:44:51,019
+A luat deja 
+o decizie finală ?
+
+626
+00:44:51,019 --> 00:44:54,005
+Ah!
+Acum se gândeşte
+
+627
+00:44:54,005 --> 00:45:01,059
+ce va face. 
+Oh, ce păcat.
+
+628
+00:45:01,059 --> 00:45:04,080
+Da, va alege 
+direcţia pe care mi-am dorit-o,
+
+629
+00:45:04,080 --> 00:45:08,084
+pentru că am ţinut acea 
+sarcină negativă în apropierea lui B,
+
+630
+00:45:08,084 --> 00:45:12,091
+iar asta a forţat 
+sistemul în direcţia ce o ia acum.
+
+631
+00:45:12,091 --> 00:45:18,026
+Oh, da.
+Da.
+
+632
+00:45:18,026 --> 00:45:20,029
+Uitaţi-vă, distanţa este --
+cât este
+
+633
+00:45:20,029 --> 00:45:24,007
+acum, undeva la 80,
+85 cm ?
+
+634
+00:45:24,007 --> 00:45:26,038
+Sistemul e disperat, 
+dar,
+
+635
+00:45:26,038 --> 00:45:29,020
+dar face ceea ce ar 
+trebui să facă.
+
+636
+00:45:29,020 --> 00:45:34,063
+Fizica funcţionează din nou.
+Şi vom obţine o scânteie
+
+637
+00:45:34,063 --> 00:45:39,035
+pentru că -- e suficient de aproape ?
+Ah, da, acum chiar că
+
+638
+00:45:39,035 --> 00:45:42,045
+se merită să fiţi aici.
+Vă pare bine,
+
+639
+00:45:42,045 --> 00:45:45,072
+nu ?
+Aţi văzut că sistemul
+
+640
+00:45:45,072 --> 00:45:48,016
+a pornit iniţial
+într-o direcţie, dar
+
+641
+00:45:48,016 --> 00:45:53,052
+şi-a schimbat apoi direcţia.
+Nu putem controla
+
+642
+00:45:53,052 --> 00:45:55,055
+direcţia în care sistemul
+va porni, dar
+
+643
+00:45:55,055 --> 00:45:57,085
+am adus un disc încărcat
+negativ
+
+644
+00:45:57,085 --> 00:46:00,050
+în apropierea duzei aflate
+deasupra lui B
+
+645
+00:46:00,050 --> 00:46:04,000
+şi am forţat polarizaţia în direcţia
+pe care am dorit-o eu,
+
+646
+00:46:04,000 --> 00:46:07,006
+asta e ceea ce vedeţi acum.
+Trebuie să-i dăm
+
+647
+00:46:07,006 --> 00:46:09,001
+o şansă, după care
+vom aprinde lumina şi veţi
+
+648
+00:46:09,001 --> 00:46:12,046
+avea încă patru minute la dispoziţie
+pentru a completa testul.
+
+649
+00:46:12,046 --> 00:46:17,056
+Dar să acordam cel puţin
+o şansă acestei bateri,
+
+650
+00:46:17,056 --> 00:46:21,003
+ca să-şi facă treaba.
+Apa curge încă
+
+651
+00:46:21,003 --> 00:46:24,018
+drept, 
+dar ne aşteptăm să
+
+652
+00:46:24,018 --> 00:46:26,060
+se împrăştie din clipă în clipă,
+pentru că am văzut
+
+653
+00:46:26,060 --> 00:46:32,008
+acest lucru şi înainte.
+Sarcina de pe cei
+
+654
+00:46:32,008 --> 00:46:38,009
+doi cilindri A şi B
+creşte încet.
+
+655
+00:46:39,089 --> 00:46:42,053
+Sistemul este atât de lent acum,
+încât, dacă aşteptăm,
+
+656
+00:46:42,053 --> 00:46:47,003
+nu veţi mai avea timp să completaţi --
+voi aprinde aşadar lumina
+
+657
+00:46:47,003 --> 00:46:51,001
+pentru a vă completa testul,
+şi o putem lăsa să meargă
+
+658
+00:46:51,001 --> 00:46:55,004
+şi vom vedea ce se întâmplă.
+Lăsaţi vă rog testele
+
+659
+00:46:55,004 --> 00:47:00,034
+aici înainte să plecaţi,
+şi voi lăsa sistemul
+
+660
+00:47:00,034 --> 00:47:02,083
+să meargă pentru cei care
+veţi avea răbdare
+
+661
+00:47:02,083 --> 00:47:05,004
+să vedeţi ce se va 
+întâmpla.
+
+662
+00:47:05,080 --> 00:47:12,055
+subtitrarea în limba română pentru
+www.circuiteelectrice.ro

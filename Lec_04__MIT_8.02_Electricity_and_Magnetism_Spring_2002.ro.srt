@@ -1,0 +1,3484 @@
+﻿1
+00:00:00,52 --> 00:00:06,19
+Vom aborda din nou
+nişte concepte noi.
+
+2
+00:00:06,19 --> 00:00:14,74
+Ne vom referi la conceptul de
+energie potenţială
+
+3
+00:00:14,74 --> 00:00:23,96
+energie potenţială electrostatică.
+Pentru care vom folosi
+
+4
+00:00:23,96 --> 00:00:33,67
+simbolul U, şi independent,
+la potenţialul electric.
+
+5
+00:00:33,67 --> 00:00:35,81
+Ce este foarte diferit,
+şi pentru care vom folosi
+
+6
+00:00:35,81 --> 00:00:47,17
+simbolul V.
+Imaginaţi-vă că am o sarcină q1
+
+7
+00:00:47,17 --> 00:00:53,03
+aici, cu plus,
+o sarcină pozitivă,
+
+8
+00:00:53,03 --> 00:00:57,43
+şi aici am o sarcină +q2
+iar distanţă dintre ele,
+
+9
+00:00:57,43 --> 00:01:03,25
+se află la distanţa R una de cealaltă.
+Iar aici este punctul P.
+
+10
+00:01:03,25 --> 00:01:06,37
+Este foarte clar că pentru
+a aduce aceste sarcini la această
+
+11
+00:01:06,37 --> 00:01:08,70
+distanţă una faţă de cealaltă,
+a trebui să efectuez lucru mecanic
+
+12
+00:01:08,70 --> 00:01:11,04
+pentru a le aduce acolo,
+pentru că se resping reciproc.
+
+13
+00:01:11,04 --> 00:01:14,37
+Este ca şi cum aş comprima un arc.
+Dacă eliberez arcul,
+
+14
+00:01:14,37 --> 00:01:16,90
+primesc înapoi energia.
+Dacă ar fi -- dacă ar fi
+
+15
+00:01:16,90 --> 00:01:20,47
+conectate printr-un mic arc,
+arcul ar fi întins,
+
+16
+00:01:20,47 --> 00:01:22,37
+luăm foarfecele,
+tăiem arcul şi acestea
+
+17
+00:01:22,37 --> 00:01:29,15
+se împrăştie. Am înmagazinat
+aşadar lucru mecanic acolo,
+
+18
+00:01:26,64 --> 00:01:33,15
+asta e ceea ce numim
+energie potenţială electrostatică.
+
+19
+00:01:33,15 --> 00:01:35,84
+Să analizăm această situaţie
+în detaliu, ce lucru mecanic trebuie să
+
+20
+00:01:35,84 --> 00:01:39,51
+efectuez.
+Păi,
+
+21
+00:01:39,76 --> 00:01:44,76
+punem prima dată q1 aici,
+dacă spaţiul este gol,
+
+22
+00:01:44,76 --> 00:01:48,71
+plasarea sarcinii q1 aici
+nu necesită lucru mecanic.
+
+23
+00:01:48,71 --> 00:01:51,25
+Dar acum vin de la o distanţă foarte mare,
+spunem tot timpul că este
+
+24
+00:01:51,25 --> 00:01:53,84
+infinit de mare,
+desigur că asta este
+
+25
+00:01:53,84 --> 00:01:57,00
+o exagerare,
+şi aduc această sarcină q2
+
+26
+00:01:57,00 --> 00:02:00,81
+de la infinit în punctul P.
+Iar eu, Walter Lewin,
+
+27
+00:02:00,81 --> 00:02:03,25
+trebuie să efectuez lucru mecanic,
+trebuie să împing şi să împing şi
+
+28
+00:02:03,25 --> 00:02:06,20
+să împing, şi cu cât mă apropii mai mult,
+cu atât trebuie să împing mai puternic
+
+29
+00:02:06,20 --> 00:02:10,99
+şi ajung în sfârşit
+la punctul P.
+
+30
+00:02:10,99 --> 00:02:16,96
+Să presupunem că mă aflu aici
+iar această distanţă este r.
+
+31
+00:02:16,96 --> 00:02:20,80
+Am ajuns în acel punct.
+Forţa exercitată asupra mea,
+
+32
+00:02:20,80 --> 00:02:25,30
+forţa electrică,
+este îndreptată în exterior.
+
+33
+00:02:25,30 --> 00:02:30,15
+Trebuie să înving acea forţă,
+prin urmare, forţa mea, F Walter
+
+34
+00:02:30,15 --> 00:02:33,87
+Lewin este în această direcţie.
+Vedeţi aşadar că efectuez
+
+35
+00:02:33,87 --> 00:02:37,38
+lucru mecanic pozitiv,
+forţa şi direcţia pe care
+
+36
+00:02:37,38 --> 00:02:43,72
+mă deplasez se află în aceeaşi direcţie,
+efectuez lucru mecanic pozitiv.
+
+37
+00:02:43,72 --> 00:02:48,69
+Pot calcula lucrul mecanic
+ce-l efectuez.
+
+38
+00:02:48,69 --> 00:02:53,90
+Lucrul mecanic efectuat de Walter Lewin
+pentru a se deplasa dinspre
+
+39
+00:02:53,90 --> 00:02:59,88
+infinit la acea locaţie P, este egal 
+cu integrală de la
+
+40
+00:02:59,88 --> 00:03:08,83
+infinit la distanţa R
+din forţa Walter Lewin punct dr.
+
+41
+00:03:08,83 --> 00:03:12,99
+Desigur că acest lucru mecanic
+este exact acelaşi,
+
+42
+00:03:12,99 --> 00:03:18,68
+oricare din ele este corectă,
+cu forţa electrică
+
+43
+00:03:18,68 --> 00:03:21,31
+de la R
+spre infinit,
+
+44
+00:03:21,31 --> 00:03:23,36
+punct dr.
+Pentru că forţa,
+
+45
+00:03:23,36 --> 00:03:25,53
+forţa electrică
+şi forţa Walter Lewin au aceeaşi
+
+46
+00:03:25,53 --> 00:03:28,62
+valoare,
+dar direcţie opusă,
+
+47
+00:03:28,62 --> 00:03:31,50
+iar prin inversare integralei,
+de la infinit la R,
+
+48
+00:03:31,50 --> 00:03:34,93
+în de la R la infinit,
+rezultatul este acelaşi.
+
+49
+00:03:34,93 --> 00:03:40,87
+Acesta este unul şi acelaşi lucru.
+Să calculăm această integrală
+
+50
+00:03:40,87 --> 00:03:45,94
+pentru că este destul de uşoară.
+Ştim care este forţa electrică,
+
+51
+00:03:45,94 --> 00:03:48,13
+legea lui Coulomb,
+este de respingere,
+
+52
+00:03:48,13 --> 00:03:51,30
+aşadar forţa şi dr sunt
+pe aceeaşi direcţie,
+
+53
+00:03:51,30 --> 00:03:54,12
+iar unghiul teta dintre cele două
+este zero, iar cosinus de teta
+
+54
+00:03:54,12 --> 00:03:58,02
+este unu. Putem uita aşadar
+de toţi vectorii,
+
+55
+00:03:58,02 --> 00:04:04,00
+şi obţinem că integrala este
+egală cu q1,
+
+56
+00:04:04,00 --> 00:04:08,66
+q2 împărţit la 
+4piε0.
+
+57
+00:04:08,66 --> 00:04:11,75
+Iar aici jos avem
+un r la pătrat.
+
+58
+00:04:11,75 --> 00:04:17,35
+Iar integrala devine
+dr împărţit la r^2,
+
+59
+00:04:17,35 --> 00:04:24,01
+de la R la infinit.
+această integrală este -1
+
+60
+00:04:24,01 --> 00:04:25,68
+împărţit
+r,
+
+61
+00:04:25,68 --> 00:04:30,25
+rezultat ce trebuie evaluat
+de la R la infinit.
+
+62
+00:04:30,25 --> 00:04:34,31
+Rezultatul este aşadar
++1/R.
+
+63
+00:04:34,31 --> 00:04:37,70
+Nu, integrală din dr pe r^2,
+sunt sigur că toţi
+
+64
+00:04:37,70 --> 00:04:42,16
+o puteţi rezolva, este -1/r.
+Evaluăm integrala între R şi
+
+65
+00:04:42,16 --> 00:04:46,04
+infinit şi obţinem 
++1/R.
+
+66
+00:04:46,04 --> 00:04:49,76
+Prin urmare U, reprezentând energia
+ce -- lucrul mecanic ce trebuie să-l efectuez
+
+67
+00:04:49,76 --> 00:04:54,22
+pentru a aduce această sarcină
+în acea poziţie,
+
+68
+00:04:54,22 --> 00:05:03,60
+acel U este acum egal cu q1
+ori q2 împărţit la 4piε0.
+
+69
+00:05:03,60 --> 00:05:06,74
+Împărţit la 
+R.
+
+70
+00:05:06,74 --> 00:05:11,20
+Iar acesta, desigur, este un scalar,
+adică lucru mecanic,
+
+71
+00:05:11,20 --> 00:05:16,63
+reprezintă o cantitate de jouli.
+Dacă q1 şi q2 sunt ambele
+
+72
+00:05:16,63 --> 00:05:20,72
+pozitive sau ambele negative,
+efectuez lucru mecanic pozitiv,
+
+73
+00:05:20,72 --> 00:05:24,12
+puteţi vedea asta,
+minus ori minus este plus.
+
+74
+00:05:24,12 --> 00:05:25,95
+Pentru că atunci 
+se resping reciproc.
+
+75
+00:05:25,95 --> 00:05:27,43
+Dacă una este pozitivă,
+iar cealaltă
+
+76
+00:05:27,43 --> 00:05:31,30
+negativă, atunci efectuez lucru mecanic
+negativ, şi vedeţi că ceea ce obţinem
+
+77
+00:05:31,30 --> 00:05:34,72
+este o relaţie cu semn,
+minus ori plus este minus,
+
+78
+00:05:34,72 --> 00:05:38,60
+prin urmare, pot efectua lucru mecanic negativ.
+Dacă cele două nu au aceeaşi
+
+79
+00:05:38,60 --> 00:05:45,13
+polaritate.
+Vreau să vă convingeţi
+
+80
+00:05:45,13 --> 00:05:48,66
+că, dacă nu m-aş fi apropiat
+pe o traiectorie dreaptă
+
+81
+00:05:48,66 --> 00:05:51,64
+dinspre infinit,
+ci aş fi ales un drum
+
+82
+00:05:51,64 --> 00:05:56,54
+întortocheat, ajungând într-un final în punctul P,
+în acel punct
+
+83
+00:05:56,54 --> 00:06:01,24
+cantitatea de lucru mecanic
+ce aş fi efectuat-o este exact aceeaşi.
+
+84
+00:06:01,24 --> 00:06:03,62
+Vedeţi paralela cu mecanica clasică
+unde am avut de a face cu
+
+85
+00:06:03,62 --> 00:06:07,56
+gravitaţia.
+Gravitaţia este o forţă conservativă,
+
+86
+00:06:07,56 --> 00:06:10,52
+iar când avem de-a face cu
+forţe conservative,
+
+87
+00:06:10,52 --> 00:06:13,62
+lucrul mecanic ce trebuie efectuat
+pentru a ne deplasa dintr-un punct
+
+88
+00:06:13,62 --> 00:06:16,27
+în altul,
+este independent de drum.
+
+89
+00:06:16,27 --> 00:06:18,74
+Aceasta este definiţia
+forţei conservative.
+
+90
+00:06:18,74 --> 00:06:21,23
+Forţele electrice 
+sunt şi ele conservative.
+
+91
+00:06:21,23 --> 00:06:24,51
+Aşadar, e indiferent 
+dacă mă apropii
+
+92
+00:06:24,51 --> 00:06:28,77
+pe o traiectorie dreaptă până în acest punct
+sau dacă fac acest lucru
+
+93
+00:06:28,77 --> 00:06:32,58
+pe un drum extrem de întortocheat
+şi ajung într-un final aici.
+
+94
+00:06:32,58 --> 00:06:37,95
+Este aceeaşi cantitate de lucru mecanic.
+Dacă avem acum o colecţie
+
+95
+00:06:37,95 --> 00:06:42,82
+de sarcini, prin urmare avem
+sarcini pozitive şi sarcini negative,
+
+96
+00:06:42,82 --> 00:06:44,94
+nişte plusuri
+nişte minusuri, nişte plusuri,
+
+97
+00:06:44,94 --> 00:06:48,50
+minus, plusuri,
+plusuri, atunci putem
+
+98
+00:06:48,50 --> 00:06:52,49
+calcula cantitatea de lucru mecanic
+pe care eu, Walter Lewin,
+
+99
+00:06:52,49 --> 00:06:55,37
+trebuie să o efectuez pentru a le asambla.
+Aduc una de la infinit până
+
+100
+00:06:55,37 --> 00:06:57,56
+aici, încă una,
+încă una,
+
+101
+00:06:57,56 --> 00:07:00,30
+şi adunăm tot acest lucru mecanic,
+o partea poate să fie lucru mecanic pozitiv,
+
+102
+00:07:00,30 --> 00:07:04,00
+o parte poate să fie negativ.
+Într-un final, ajungem la
+
+103
+00:07:04,00 --> 00:07:06,30
+cantitatea totală
+de lucru mecanic ce trebuie
+
+104
+00:07:06,30 --> 00:07:11,06
+efectuat pentru asamblarea acestor sarcini.
+Aceasta este definiţia lui
+
+105
+00:07:11,06 --> 00:07:17,04
+U.
+Să ne îndreptăm acum atenţia
+
+106
+00:07:17,04 --> 00:07:24,29
+spre potenţialul electric.
+Pentru asta voi începe
+
+107
+00:07:24,29 --> 00:07:30,45
+cu o sarcină
+ce o voi denumi +Q.
+
+108
+00:07:30,45 --> 00:07:37,16
+Se află aici.
+Şi într-un punct P,
+
+109
+00:07:37,16 --> 00:07:45,98
+aflat la distanţa R,
+amplasez o sarcină de test +q.
+
+110
+00:07:45,98 --> 00:07:49,02
+Să fie pozitivă pentru moment,
+o putem schimba mai încolo
+
+111
+00:07:49,02 --> 00:07:53,16
+în negativă.
+Energia potenţială
+
+112
+00:07:53,16 --> 00:07:56,36
+electrostatică, o ştim deja,
+tocmai am calculat-o,
+
+113
+00:07:56,36 --> 00:08:03,42
+este egală cu q ori Q
+împărţit la 4piε0R.
+
+114
+00:08:03,42 --> 00:08:07,17
+Este exact
+aceeaşi.
+
+115
+00:08:07,17 --> 00:08:13,64
+Potenţialul electric,
+energia potenţială electrostatică,
+
+116
+00:08:13,64 --> 00:08:21,31
+este lucru mecanic necesar pentru
+a aduce această sarcină aici.
+
+117
+00:08:21,31 --> 00:08:25,92
+Voi introduce acum
+potenţialul electric.
+
+118
+00:08:25,92 --> 00:08:36,28
+Potenţialul electric.
+Iar acesta este definit ca lucrul mecanic
+
+119
+00:08:36,28 --> 00:08:43,01
+pe unitate de sarcină ce trebuie efectuat
+pentru a ne deplasa de la infinit
+
+120
+00:08:43,01 --> 00:08:45,73
+în acea poziţie.
+Prin urmare q nu mai face parte
+
+121
+00:08:45,73 --> 00:08:55,75
+din ecuaţie.
+Este lucrul mecanic pe unitate de sarcină
+
+122
+00:08:55,75 --> 00:09:00,62
+pentru a ne deplasa de la infinit
+în acea locaţie P.
+
+123
+00:09:00,62 --> 00:09:04,29
+Dacă este lucru mecanic pe
+unitate de sarcină, înseamnă că q
+
+124
+00:09:04,29 --> 00:09:08,30
+dispare.
+Putem scrie că V,
+
+125
+00:09:08,30 --> 00:09:11,82
+în acel punct P,
+potenţialul,
+
+126
+00:09:11,82 --> 00:09:14,84
+potenţialul electric
+în acel punct P,
+
+127
+00:09:14,84 --> 00:09:19,92
+este acum doar Q pe
+4piε0R.
+
+128
+00:09:19,92 --> 00:09:27,00
+q a dispărut.
+Este de asemenea un scalar.
+
+129
+00:09:27,00 --> 00:09:32,52
+Acesta este în jouli.
+Unitatea de măsură aici este jouli
+
+130
+00:09:32,52 --> 00:09:34,86
+pe coulombi. 
+Am împărţit la o sarcină.
+
+131
+00:09:34,86 --> 00:09:38,96
+Este lucru mecanic pe unitate de sarcină.
+Nimeni nu foloseşte
+
+132
+00:09:38,96 --> 00:09:41,72
+jouli pe coulombi,
+îi spunem volţi,
+
+133
+00:09:41,74 --> 00:09:44,60
+după marele Volta,
+ce a efectuat multe cercetări
+
+134
+00:09:44,60 --> 00:09:49,30
+asupra acestuia.
+Îi spunem aşadar volţi.
+
+135
+00:09:49,30 --> 00:09:54,11
+Dar este acelaşi lucru cu
+jouli pe coulombi.
+
+136
+00:09:54,11 --> 00:09:57,08
+Dacă avem o situaţie extrem
+de simplă precum cea de aici,
+
+137
+00:09:57,08 --> 00:10:02,48
+adică doar o singură sarcină,
+atunci potenţialul este acesta,
+
+138
+00:10:02,48 --> 00:10:06,15
+peste tot, la orice distanţă
+faţă de această sarcină.
+
+139
+00:10:06,15 --> 00:10:09,36
+Dacă R creşte,
+dacă suntem mai departe,
+
+140
+00:10:09,36 --> 00:10:13,03
+potenţialul
+scade.
+
+141
+00:10:13,03 --> 00:10:16,79
+Dacă acest Q este pozitiv,
+potenţialul este pozitiv
+
+142
+00:10:16,79 --> 00:10:20,05
+peste tot,
+pentru o singură sarcină.
+
+143
+00:10:20,05 --> 00:10:23,70
+Dacă acest Q este negativ,
+potenţialul este
+
+144
+00:10:23,70 --> 00:10:27,40
+peste tot negativ.
+Potenţialul electric
+
+145
+00:10:27,40 --> 00:10:31,11
+poate fi negativ.
+Lucrul mecanic efectuat pe unitate
+
+146
+00:10:31,11 --> 00:10:35,80
+de sarcină pentru a ne deplasa
+de la infinit, este negativ,
+
+147
+00:10:35,80 --> 00:10:40,12
+dacă aceea este o sarcină negativă.
+Iar potenţialul la o distanţă
+
+148
+00:10:40,12 --> 00:10:43,71
+infinit de mare,
+când acest R devine infinit
+
+149
+00:10:43,71 --> 00:10:48,27
+de mare, este zero.
+Acesta este modul în care
+
+150
+00:10:48,27 --> 00:10:52,91
+definim zeroul.
+Putem avea aşadar potenţiale
+
+151
+00:10:52,91 --> 00:10:56,01
+pozitive, în vecinătatea sarcinilor pozitive,
+potenţiale negative,
+
+152
+00:10:56,01 --> 00:10:58,65
+în apropierea sarcinilor negative,
+iar dacă ne aflăm foarte
+
+153
+00:10:58,65 --> 00:11:05,67
+departe, atunci potenţialul este zero.
+Să ne reîntoarcem acum la
+
+154
+00:11:05,67 --> 00:11:12,76
+Van der Graaff.
+Este o sferă goală,
+
+155
+00:11:12,76 --> 00:11:18,57
+cu raza R,
+de aproximativ 30 de centimetri.
+
+156
+00:11:18,57 --> 00:11:24,45
+Voi pune aici
++10 micro-coulombi.
+
+157
+00:11:24,45 --> 00:11:26,26
+Sarcina se va 
+distribui uniform.
+
+158
+00:11:26,26 --> 00:11:28,50
+Vom discuta în detaliu acest lucru
+data viitoare.
+
+159
+00:11:28,50 --> 00:11:31,90
+Pentru că este un conductor.
+După cum am văzut deja la cursul
+
+160
+00:11:31,90 --> 00:11:36,78
+precedent, câmpul electric
+în interiorul sferei este zero.
+
+161
+00:11:36,78 --> 00:11:39,25
+Câmpul electric în exterior
+nu este zero, dar ne putem
+
+162
+00:11:39,25 --> 00:11:44,05
+imagina că toată sarcina
+este concentrată în acest punct,
+
+163
+00:11:44,05 --> 00:11:48,29
+cei +10 micro-coulombi sunt toţi aici,
+atâta timp cât vreau să calculez
+
+164
+00:11:48,29 --> 00:11:51,47
+valoarea câmpului electric
+în exterior.
+
+165
+00:11:51,47 --> 00:11:54,88
+Puteţi uita aşadar
+că este o sferă.
+
+166
+00:11:54,88 --> 00:12:00,05
+Vreau acum să determin
+potenţialul electric în toate
+
+167
+00:12:00,05 --> 00:12:02,52
+punctele din spaţiu.
+Vreau să-l aflu aici,
+
+168
+00:12:02,52 --> 00:12:06,71
+şi vreau să-l aflu aici,
+în punctul P, ce se află
+
+169
+00:12:06,71 --> 00:12:11,64
+la o distanţă r faţă de centru.
+Şi vreau să-l aflu aici,
+
+170
+00:12:11,64 --> 00:12:14,73
+la distanţa
+r faţă de
+
+171
+00:12:14,73 --> 00:12:21,78
+centru.
+Să calculăm prima dată potenţialul
+
+172
+00:12:21,78 --> 00:12:29,75
+de aici.
+Potenţialul în punctul P este
+
+173
+00:12:29,75 --> 00:12:36,00
+integrală de la r la infinit,
+din raportul dintre
+
+174
+00:12:36,00 --> 00:12:50,21
+forţa electrică şi sarcina mea de test q,
+punct dr, dar acesta este
+
+175
+00:12:50,21 --> 00:12:53,82
+câmpul electric,
+vedeţi, această forţă ori distanţa
+
+176
+00:12:53,82 --> 00:12:57,75
+reprezintă lucru mecanic, dar este
+lucru mecanic pe unitate de sarcină,
+
+177
+00:12:57,75 --> 00:13:00,48
+înlătur prin urmare sarcina mea de test.
+Iar asta este egală cu integrală
+
+178
+00:13:00,48 --> 00:13:07,64
+de la R la infinit din E punct dl -- dr,
+pardon.
+
+179
+00:13:07,64 --> 00:13:10,75
+Aceasta este o integrală
+foarte simplă.
+
+180
+00:13:10,75 --> 00:13:14,65
+Pentru că-l cunoaştem pe E.
+Am calculat câmpul electric
+
+181
+00:13:14,65 --> 00:13:17,59
+de câteva ori.
+Îl determinăm direct
+
+182
+00:13:17,59 --> 00:13:21,17
+din legea lui Coulomb,
+iar integrala este egală cu
+
+183
+00:13:21,17 --> 00:13:28,27
+Q pe 4piε0R,
+ceea ce nu este nicio surpriză,
+
+184
+00:13:28,27 --> 00:13:29,76
+pentru că am obţinut acelaşi
+rezultat pentru o sarcină
+
+185
+00:13:29,76 --> 00:13:35,20
+punctiformă.
+Acesta este rezultatul dacă r
+
+186
+00:13:35,20 --> 00:13:40,37
+este mai mare
+decât R.
+
+187
+00:13:43,30 --> 00:13:48,58
+Exact ce am obţinut şi înainte.
+Putem face şi un calcul numeric.
+
+188
+00:13:48,58 --> 00:13:53,01
+Dacă punem r = R,
+egal cu 0,3
+
+189
+00:13:53,01 --> 00:13:57,76
+metri, şi introducem aici
+cei 10 micro-coulombi,
+
+190
+00:13:57,76 --> 00:14:01,50
+şi aici cei 30 de
+centimetri, obţinem
+
+191
+00:14:01,50 --> 00:14:03,64
+300.000
+de volţi.
+
+192
+00:14:03,64 --> 00:14:08,13
+Obţinem 3 ori 10
+la puterea 5 volţi.
+
+193
+00:14:08,13 --> 00:14:14,08
+Dacă luăm r = 60 centimetri
+dacă îl dublăm,
+
+194
+00:14:14,08 --> 00:14:16,46
+dacă dublăm distanţa,
+potenţialul scade
+
+195
+00:14:16,46 --> 00:14:18,79
+la jumătate,
+este 1/r,
+
+196
+00:14:18,79 --> 00:14:22,65
+şi obţinem 150
+de kilovolţi.
+
+197
+00:14:22,65 --> 00:14:26,50
+Dacă ne îndepărtăm la 3 metri,
+atunci este de 10 ori mai mic,
+
+198
+00:14:26,50 --> 00:14:32,49
+atunci e 30 de kilovolţi.
+Iar dacă mergem la infinit,
+
+199
+00:14:32,49 --> 00:14:34,38
+care practic,
+ar putea fi
+
+200
+00:14:34,38 --> 00:14:37,42
+sala 7,
+dacă mergem în sala 7,
+
+201
+00:14:37,42 --> 00:14:40,75
+atunci potenţialul
+este practic
+
+202
+00:14:40,75 --> 00:14:47,88
+zero.
+Pentru că R este atât de mare încât
+
+203
+00:14:47,88 --> 00:14:54,37
+potenţialul dispare.
+Dacă eu, dacă eu,
+
+204
+00:14:54,37 --> 00:14:58,91
+Walter Lewin,
+vin de la infinit până la
+
+205
+00:14:58,91 --> 00:15:03,77
+suprafaţa Van der Graaff-ului,
+şi pun o sarcină q în
+
+206
+00:15:03,77 --> 00:15:10,51
+buzunar,
+şi vin înspre Van der Graaff,
+
+207
+00:15:10,51 --> 00:15:17,70
+în momentul în care ajung în acel punct,
+am efectuat lucru mecanic.
+
+208
+00:15:17,70 --> 00:15:20,39
+Înmulţesc din nou sarcina
+cu potenţialul,
+
+209
+00:15:20,39 --> 00:15:22,89
+obţinem din nou lucrul mecanic,
+pentru că potenţialul este lucru mecanic
+
+210
+00:15:22,89 --> 00:15:27,25
+pe unitate de sarcină, iar lucrul mecanic
+ce l-am efectuat este egal
+
+211
+00:15:27,25 --> 00:15:30,71
+cu sarcina ce o car în buzunar
+ori potenţialul,
+
+212
+00:15:30,71 --> 00:15:33,42
+în cazul de faţă,
+potenţialul Van der Graaff-ului,
+
+213
+00:15:33,42 --> 00:15:35,54
+dacă ajung până
+la această suprafaţă,
+
+214
+00:15:35,54 --> 00:15:38,57
+a cărui potenţial este de
+300.000 de volţi.
+
+215
+00:15:38,57 --> 00:15:41,51
+Dacă aş fi un om puternic,
+aş pune în buzunar
+
+216
+00:15:41,51 --> 00:15:45,26
+un coulomb.
+Asta e o cantitate mare de sarcină.
+
+217
+00:15:45,26 --> 00:15:48,44
+Atunci aş efectua un lucru mecanic
+ egal cu 300.000 de jouli.
+
+218
+00:15:48,44 --> 00:15:52,30
+Prin simplul fapt că 
+aduc un coulomb din sala 7
+
+219
+00:15:52,30 --> 00:15:54,12
+pe Van der Graaff.
+Este aproximativ acelaşi lucru mecanic
+
+220
+00:15:54,12 --> 00:15:58,02
+ce ar trebui să-l efectuez
+pentru a urca Empire State Building-ul.
+
+221
+00:15:58,02 --> 00:16:01,32
+Faimoasa relaţie mgh,
+masa mea ori g ori
+
+222
+00:16:01,32 --> 00:16:09,94
+înălţimea la care trebuie să urc.
+Ştiu aşadar relaţia
+
+223
+00:16:09,94 --> 00:16:13,80
+dintre potenţialul electric
+şi distanţă.
+
+224
+00:16:13,80 --> 00:16:18,44
+Este o relaţie 1/r.
+Am ajuns acum pe
+
+225
+00:16:18,44 --> 00:16:21,87
+Van der Graaff, sunt la suprafaţa lui,
+cu sarcina mea de test,
+
+226
+00:16:21,87 --> 00:16:26,62
+şi intru înăuntru.
+Mă bălăcesc înăuntru,
+
+227
+00:16:26,62 --> 00:16:29,60
+dar nu mai simt nicio forţă.
+Nu există niciun câmp electric
+
+228
+00:16:29,60 --> 00:16:32,95
+în interior.
+Pe măsură ce mă deplasez în interior,
+
+229
+00:16:32,95 --> 00:16:37,46
+nu simt asupra mea nicio forţă.
+Asta înseamnă că nu efectuez lucru mecanic.
+
+230
+00:16:37,46 --> 00:16:39,37
+Asta înseamnă că
+potenţialul
+
+231
+00:16:39,37 --> 00:16:43,74
+trebuie să fie constant.
+Absenţa unui câmp electric aici
+
+232
+00:16:43,74 --> 00:16:47,57
+implică faptul că 
+potenţialul electric este pretutindeni
+
+233
+00:16:47,57 --> 00:16:51,85
+înăuntru exact acelaşi 
+cu potenţialul de la suprafaţa sferei.
+
+234
+00:16:51,85 --> 00:16:55,64
+Pentru că nu mai este necesară
+efectuarea de lucru mecanic pentru a ne deplasa
+
+235
+00:16:55,64 --> 00:17:02,17
+în interior cu o sarcină de test.
+Pentru acest caz special,
+
+236
+00:17:02,17 --> 00:17:13,26
+pot trasa un grafic 
+potenţial electric - distanţă,
+
+237
+00:17:13,26 --> 00:17:16,29
+aceasta este raza 
+Van der Graaff-ului.
+
+238
+00:17:16,29 --> 00:17:20,07
+Potenţialul este constant 
+până în acest punct şi
+
+239
+00:17:20,07 --> 00:17:23,47
+apoi scade cu 
+inversul distanţei, 1/r.
+
+240
+00:17:23,47 --> 00:17:26,95
+Pentru valorile ce le-am ales,
+valoarea maximă
+
+241
+00:17:26,95 --> 00:17:36,65
+a potenţialului de aici
+este 300.000 de volţi.
+
+242
+00:17:36,65 --> 00:17:45,04
+La fel cum ne uităm pe hărţi,
+unde vedem contururi de
+
+243
+00:17:45,04 --> 00:17:48,79
+înălţimi egale,
+care poartă numele de
+
+244
+00:17:48,79 --> 00:17:55,42
+altitudini egale,
+aici avem suprafeţe echipotenţiale.
+
+245
+00:17:55,42 --> 00:17:58,53
+Dacă avem o sarcină punctiformă
+sau dacă avem un Van der Graaff,
+
+246
+00:17:58,53 --> 00:18:01,76
+aceste suprafeţe sunt
+sfere concentrice.
+
+247
+00:18:01,76 --> 00:18:05,49
+Cu cât ne îndepărtăm mai mult,
+dacă sarcina este pozitivă,
+
+248
+00:18:05,49 --> 00:18:08,10
+cu atât potenţialul
+este mai mic.
+
+249
+00:18:08,10 --> 00:18:13,03
+Acestea sunt
+suprafeţe sferice.
+
+250
+00:18:13,03 --> 00:18:17,84
+Să presupunem acum că
+avem mai mult de o singură sarcină,
+
+251
+00:18:17,84 --> 00:18:25,56
+o sarcină +Q1
+şi o sarcină -Q2,
+
+252
+00:18:25,56 --> 00:18:28,35
+de exemplu.
+Vrem acum să aflăm
+
+253
+00:18:28,35 --> 00:18:34,93
+care este potenţialul în punctul P.
+Potenţialul electric
+
+254
+00:18:34,93 --> 00:18:40,11
+în punctul P, Vp,
+este potenţialul pe care
+
+255
+00:18:40,11 --> 00:18:45,05
+l-am avea dacă sarcina Q1
+ar fi singură.
+
+256
+00:18:45,05 --> 00:18:49,82
+Trebuie să adunăm şi
+potenţialul ce l-am obţine
+
+257
+00:18:49,82 --> 00:18:53,42
+dacă sarcina Q2
+ar fi singură.
+
+258
+00:18:53,42 --> 00:18:59,40
+Adunăm pur şi simplu lucrul mecanic
+al celor două sarcini.
+
+259
+00:18:59,40 --> 00:19:01,57
+Dacă această sarcină
+este negativă,
+
+260
+00:19:01,57 --> 00:19:07,68
+atunci acest termen este negativ,
+iar acesta este pozitiv.
+
+261
+00:19:07,68 --> 00:19:12,25
+Aşadar, atunci când avem configuraţii
+de sarcini pozitive şi negative,
+
+262
+00:19:12,25 --> 00:19:15,45
+atunci desigur, în funcţie
+de punctul din spaţiu în care ne aflăm,
+
+263
+00:19:15,45 --> 00:19:18,80
+dacă suntem aproape de sarcina pozitivă,
+potenţialul este aproape sigur
+
+264
+00:19:18,80 --> 00:19:22,35
+pozitiv,
+pentru că 1/r este imens.
+
+265
+00:19:22,35 --> 00:19:24,88
+Dacă suntem foarte aproape de
+sarcina negativă, atunci din nou,
+
+266
+00:19:24,88 --> 00:19:28,50
+raportul 1/r al acestei sarcini
+va domina şi obţinem
+
+267
+00:19:28,50 --> 00:19:31,54
+un potenţial negativ.
+Avem prin urmare suprafeţe
+
+268
+00:19:31,54 --> 00:19:34,56
+de potenţial pozitiv şi 
+suprafeţe echipotenţiale
+
+269
+00:19:34,56 --> 00:19:38,59
+de potenţiale negative şi
+suprafeţe cu potenţial
+
+270
+00:19:38,59 --> 00:19:41,20
+zero.
+Acestea nu sunt tot timpul
+
+271
+00:19:41,20 --> 00:19:45,88
+foarte uşor de imaginat.
+Vreau să vă arăt modul în care
+
+272
+00:19:45,88 --> 00:19:48,56
+Maxwell însuşi
+a lucrat
+
+273
+00:19:48,56 --> 00:19:53,63
+la calcularea acestor
+echipotenţiale.
+
+274
+00:19:53,63 --> 00:20:01,50
+Am aici o folie
+cu o lucrare
+
+275
+00:20:01,50 --> 00:20:04,73
+a lui Maxwell.
+Vedeţi nişte sarcini,
+
+276
+00:20:04,73 --> 00:20:07,00
+să presupunem că e +4
+şi +1,
+
+277
+00:20:07,00 --> 00:20:09,19
+ar putea să fie -4 şi -1,
+dar să presupunem că
+
+278
+00:20:09,19 --> 00:20:11,72
+sunt plus.
+Vedeţi liniile verzi,
+
+279
+00:20:11,72 --> 00:20:15,55
+ce le-am văzut şi înainte,
+ce reprezintă liniile de câmp.
+
+280
+00:20:15,55 --> 00:20:18,82
+Ignoraţi pentru moment
+liniile de câmp verzi.
+
+281
+00:20:18,82 --> 00:20:22,67
+Liniile roşii reprezintă
+echipotenţiale.
+
+282
+00:20:22,67 --> 00:20:24,08
+Trebuie să le rotiţi 
+în jurul
+
+283
+00:20:24,08 --> 00:20:25,72
+verticalei
+pentru că acestea sunt
+
+284
+00:20:25,72 --> 00:20:30,02
+suprafeţe,
+această reprezentare este tridimensională.
+
+285
+00:20:30,02 --> 00:20:34,29
+Nu am reprezentat toate
+suprafeţele echipotenţiale în roşu,
+
+286
+00:20:34,29 --> 00:20:36,39
+pentru că ar fi prea
+îngrămădite.
+
+287
+00:20:36,39 --> 00:20:41,40
+Dar am încercat să le reprezint
+pe majoritatea în roşu.
+
+288
+00:20:41,40 --> 00:20:44,40
+Din moment ce această sarcină este pozitivă,
+şi acea sarcină este pozitiva,
+
+289
+00:20:44,40 --> 00:20:46,44
+În oricare punct din spaţiu,
+indiferent unde ne aflăm,
+
+290
+00:20:46,44 --> 00:20:48,15
+potenţialul trebuie să fie
+pozitiv.
+
+291
+00:20:48,15 --> 00:20:52,21
+Nu există niciun singur punct
+în care să fie negativ.
+
+292
+00:20:52,21 --> 00:20:57,42
+Dacă ne aflăm la o distanţă foarte mare
+de aceste sarcini +4 şi +1,
+
+293
+00:20:57,42 --> 00:20:59,94
+ne aşteptăm ca
+suprafeţele echipotenţiale
+
+294
+00:20:59,94 --> 00:21:03,27
+să fie sfere, pentru că este ca şi cum
+am avea o singură sarcină
+
+295
+00:21:03,27 --> 00:21:06,88
++5.
+Nu este de mirare aşadar,
+
+296
+00:21:06,88 --> 00:21:10,93
+că pe măsură ce ne îndepărtăm,
+obţinem într-un final forme sferice.
+
+297
+00:21:10,93 --> 00:21:13,63
+Când suntem foarte aproape de +4
+suprafeţele sunt sfere
+
+298
+00:21:13,63 --> 00:21:16,67
+perfecte, când suntem 
+foarte aproape de +1,
+
+299
+00:21:16,67 --> 00:21:20,63
+sunt sfere perfecte.
+Dar când suntem între ele,
+
+300
+00:21:20,63 --> 00:21:24,77
+nici foarte aproape de +4
+dar nici foarte aproape de +1,
+
+301
+00:21:24,77 --> 00:21:27,66
+obţinem această formă
+foarte ciudată.
+
+302
+00:21:27,66 --> 00:21:32,97
+Îmi aduce aminte puţin de forma
+acestui balon.
+
+303
+00:21:32,97 --> 00:21:37,00
+Ceva de genul.
+Vedeţi?
+
+304
+00:21:37,00 --> 00:21:41,42
+Există o suprafaţă,
+o suprafaţă echipotenţială neobişnuită,
+
+305
+00:21:41,42 --> 00:21:47,60
+ce are un punct aici,
+unde câmpul electric este
+
+306
+00:21:47,60 --> 00:21:51,54
+zero.
+Este ca şi cum am răsuci
+
+307
+00:21:51,54 --> 00:21:54,74
+gâtul unei gâşte,
+obţinem ceva de genul acesta.
+
+308
+00:21:54,74 --> 00:21:58,90
+Avem aici o suprafaţă,
+cu un punct aici,
+
+309
+00:21:58,90 --> 00:22:01,75
+şi exact în acel punct,
+câmpul electric este
+
+310
+00:22:01,75 --> 00:22:06,21
+zero. Asta nu înseamnă că
+potenţialul este zero,
+
+311
+00:22:06,21 --> 00:22:09,35
+în niciun caz,
+potenţialul este pozitiv aici.
+
+312
+00:22:09,35 --> 00:22:12,72
+Dacă ne apropiem cu
+o sarcină pozitivă din sala 7,
+
+313
+00:22:12,72 --> 00:22:15,06
+şi vrem să ajungem în acel punct,
+trebuie să efectuăm lucru mecanic
+
+314
+00:22:15,06 --> 00:22:17,51
+pozitiv.
+Trebuie să învingem atât
+
+315
+00:22:17,51 --> 00:22:20,58
+forţa de respingere a sarcinii +4
+cât şi forţa de respingere
+
+316
+00:22:20,58 --> 00:22:24,00
+a sarcinii +1.
+Dar când ajungem în sfârşit în acel
+
+317
+00:22:24,00 --> 00:22:27,07
+punct, ne putem odihni,
+pentru că nu există nicio forţă asupra noastră
+
+318
+00:22:27,07 --> 00:22:29,20
+în acel punct.
+Aceasta este semnificaţia
+
+319
+00:22:29,20 --> 00:22:32,26
+câmpului electric zero.
+Nu înseamnă că
+
+320
+00:22:32,26 --> 00:22:34,75
+nu am efectuat lucru mecanic.
+Nu confundaţi aşadar niciodată
+
+321
+00:22:34,75 --> 00:22:42,10
+câmpurile electrice cu potenţialele.
+Vreau să vă atrag atenţia
+
+322
+00:22:42,10 --> 00:22:43,82
+că liniile verzi,
+liniile de câmp,
+
+323
+00:22:43,82 --> 00:22:47,29
+sunt peste tot perpendiculare
+pe suprafeţele echipotenţiale.
+
+324
+00:22:47,29 --> 00:22:49,51
+Voi reveni asupra acestui lucru
+în următorul curs.
+
+325
+00:22:49,51 --> 00:22:53,82
+Nu este o întâmplare.
+Acest lucru este tot timpul valabil.
+
+326
+00:22:53,82 --> 00:22:57,76
+Maxwell ne arată
+ceva puţin
+
+327
+00:22:57,76 --> 00:23:03,75
+mai complicat.
+Aici a calculat pentru noi
+
+328
+00:23:03,75 --> 00:23:07,16
+suprafeţele echipotenţiale,
+cele roşii sunt suprafeţele,
+
+329
+00:23:07,16 --> 00:23:09,61
+din nou, trebuie să le rotim
+în jurul axei verticale pentru a obţine imaginea
+
+330
+00:23:09,61 --> 00:23:13,18
+tridimensională,
+şi de data asta avem o sarcină -1
+
+331
+00:23:13,18 --> 00:23:18,43
+şi o sarcină +4.
+Peste tot unde suprafaţa este roşie,
+
+332
+00:23:18,43 --> 00:23:21,30
+potenţialul este
+pozitiv,
+
+333
+00:23:21,30 --> 00:23:28,17
+iar unde este albastră,
+potenţialul este negativ.
+
+334
+00:23:28,17 --> 00:23:31,15
+Dacă suntem la o distanţă foarte mare
+atât de sarcina +4 cât şi de sarcina
+
+335
+00:23:31,15 --> 00:23:35,28
+-1, ne aşteptăm
+să privim o sarcină echivalentă
+
+336
+00:23:35,28 --> 00:23:38,96
+de +3.
+La o distanţă foarte mare aşadar,
+
+337
+00:23:38,96 --> 00:23:40,59
+potenţialul
+va fi cu siguranţă
+
+338
+00:23:40,59 --> 00:23:43,53
+pozitiv peste tot, 
+iar suprafeţele vor fi din nou
+
+339
+00:23:43,53 --> 00:23:46,23
+sferice.
+Vedeţi aici, dacă suntem foarte
+
+340
+00:23:46,23 --> 00:23:48,98
+departe de +4 
+şi de -1,
+
+341
+00:23:48,98 --> 00:23:55,05
+deja are într-adevăr
+forma unei sfere.
+
+342
+00:23:55,05 --> 00:23:57,83
+Acest lucru este clar aşadar,
+că sarcina +4 şi -1 la o distanţă foarte mare,
+
+343
+00:23:57,83 --> 00:24:02,18
+se comportă precum o sarcină +3.
+Dacă suntem foarte aproape de
+
+344
+00:24:02,18 --> 00:24:07,89
++4, regăsim sfere perfecte
+în jurul sarcinii +4,
+
+345
+00:24:07,89 --> 00:24:10,96
+potenţial pozitiv.
+Dacă suntem foarte aproape de
+
+346
+00:24:10,96 --> 00:24:14,47
+-1, observaţi că
+suprafeţele albastre sunt aproximativ
+
+347
+00:24:14,47 --> 00:24:18,35
+sfere perfecte, dar acum sunt toate negative,
+pentru că ne aflăm foarte
+
+348
+00:24:18,35 --> 00:24:24,13
+aproape de -1.
+Un potenţial negativ prin urmare.
+
+349
+00:24:24,13 --> 00:24:29,25
+Există o suprafaţă 
+cu potenţial zero.
+
+350
+00:24:29,25 --> 00:24:32,57
+Trebuie să existe, pentru că,
+dacă avem potenţial negativ în vecinătatea
+
+351
+00:24:32,57 --> 00:24:36,28
+lui -1,
+şi potenţial pozitiv la distanţă mare,
+
+352
+00:24:36,28 --> 00:24:38,98
+trebuie să trecem printr-o suprafaţă
+unde este zero.
+
+353
+00:24:38,98 --> 00:24:41,76
+Suprafaţa aceasta de aici,
+ce am trasat-o tot cu albastru,
+
+354
+00:24:41,76 --> 00:24:45,83
+în oricare punct de pe această 
+suprafaţă, potenţialul este
+
+355
+00:24:45,83 --> 00:24:48,18
+zero.
+Câmpul electric este şi el zero
+
+356
+00:24:48,18 --> 00:24:51,02
+acolo?
+În niciun caz.
+
+357
+00:24:51,02 --> 00:24:56,40
+Câmpul electric nu trebuie
+confundat cu potenţialul.
+
+358
+00:24:56,40 --> 00:24:59,00
+Acest lucru înseamnă că,
+dacă punem o sarcină de test în
+
+359
+00:24:59,00 --> 00:25:02,90
+buzunar şi ne apropiem dinspre
+infinit înspre acea
+
+360
+00:25:02,90 --> 00:25:06,16
+suprafaţă, în momentul în care
+am ajuns la acea suprafaţă,
+
+361
+00:25:06,16 --> 00:25:08,97
+lucrul mecanic efectuat va fi zero.
+Aceasta este semnificaţia
+
+362
+00:25:08,97 --> 00:25:14,05
+potenţialului
+zero.
+
+363
+00:25:14,05 --> 00:25:17,34
+Avem aici un punct ce l-am
+discutat în cursurile
+
+364
+00:25:17,34 --> 00:25:21,40
+precedente,
+unde câmpul electric este zero.
+
+365
+00:25:21,40 --> 00:25:23,58
+Potenţialul nu este însă zero
+acolo.
+
+366
+00:25:23,58 --> 00:25:26,31
+Potenţialul este cu siguranţă
+pozitiv aici.
+
+367
+00:25:26,31 --> 00:25:29,09
+Pentru că suprafaţa zero
+este aici.
+
+368
+00:25:29,09 --> 00:25:31,66
+Aici este deja o suprafaţă pozitivă,
+iar aici este tot o suprafaţă
+
+369
+00:25:31,66 --> 00:25:35,33
+pozitivă.
+Aşadar potenţialul este pozitiv.
+
+370
+00:25:35,33 --> 00:25:38,44
+Totuşi, dacă ajungem în acel punct,
+nu va exista nicio forţă exercitată
+
+371
+00:25:38,44 --> 00:25:42,56
+asupra sarcinii.
+Aceasta este semnificaţia câmpului electric
+
+372
+00:25:42,56 --> 00:25:44,29
+zero.
+Desigur, aceste suprafeţe
+
+373
+00:25:44,29 --> 00:25:47,68
+nu sunt foarte uşor de calculat.
+Maxwell a putut să facă
+
+374
+00:25:47,68 --> 00:25:50,95
+acest lucru acum 110 ani.
+Astăzi le putem calcula
+
+375
+00:25:50,95 --> 00:26:00,17
+foarte uşor cu ajutorul calculatoarelor.
+Suprafeţele echipotenţiale ce
+
+376
+00:26:00,17 --> 00:26:04,40
+au valori diferite 
+nu se pot niciodată intersecta.
+
+377
+00:26:04,40 --> 00:26:07,90
+Suprafaţa de +5 volţi 
+nu se poate intersecta niciodată cu
+
+378
+00:26:07,90 --> 00:26:11,29
++3 sau -1.
+Gândiţi-vă de ce se întâmplă
+
+379
+00:26:11,29 --> 00:26:12,41
+acest lucru.
+Motivul este că,
+
+380
+00:26:12,41 --> 00:26:14,78
+ar fi o încălcare
+a principiului conservării
+
+381
+00:26:14,78 --> 00:26:18,33
+energiei.
+Suprafeţele echipotenţiale aşadar,
+
+382
+00:26:18,33 --> 00:26:23,00
+valori diferite,
+nu se pot niciodată intersecta.
+
+383
+00:26:23,00 --> 00:26:27,01
+Bine.
+Aţi văzut că pentru
+
+384
+00:26:27,01 --> 00:26:31,88
+diferite configuraţii de sarcină,
+suprafeţele echipotenţiale au
+
+385
+00:26:31,88 --> 00:26:37,07
+nişte forme foarte complicate şi
+nu pot fi tot timpul calculate
+
+386
+00:26:37,07 --> 00:26:45,25
+foarte uşor.
+Acum vine întrebarea, de ce
+
+387
+00:26:45,25 --> 00:26:47,52
+introducem
+potenţiale electrice,
+
+388
+00:26:47,52 --> 00:26:51,28
+cine are nevoie de ele?
+Şi cine are nevoie de suprafeţe
+
+389
+00:26:51,28 --> 00:26:54,05
+echipotenţiale?
+Nu este adevărat că, în cazul în care cunoaştem
+
+390
+00:26:54,05 --> 00:26:56,95
+vectorii câmpului electric
+în oricare punct din spaţiu,
+
+391
+00:26:56,95 --> 00:27:01,83
+putem determina în mod unic 
+modul de deplasare al sarcinilor, acceleraţia
+
+392
+00:27:01,83 --> 00:27:04,23
+imprimată asupra lor,
+determinând variaţia
+
+393
+00:27:04,23 --> 00:27:06,27
+energiei lor cinetice?
+Iar răspunsul este, da,
+
+394
+00:27:06,27 --> 00:27:08,99
+dacă ştim câmpul electric
+în oricare punct din spaţiu, atunci desigur.
+
+395
+00:27:08,99 --> 00:27:13,20
+Atunci putem prezice tot 
+ceea ce se întâmplă cu o sarcină
+
+396
+00:27:13,20 --> 00:27:15,64
+în acel câmp.
+Dar există exemple unde
+
+397
+00:27:15,64 --> 00:27:20,51
+câmpurile electrice sunt atât
+de complicate, încât este
+
+398
+00:27:20,51 --> 00:27:24,22
+mai uşor de lucrat cu
+echipotenţiale, pentru că
+
+399
+00:27:24,22 --> 00:27:28,83
+variaţia energiei cinetice, 
+după cum vom discuta acum, depinde în realitate
+
+400
+00:27:28,83 --> 00:27:33,06
+doar de variaţia potenţialului 
+atunci când ne deplasăm dintr-un
+
+401
+00:27:33,06 --> 00:27:36,53
+punct în altul.
+Veţi vedea imediat
+
+402
+00:27:36,53 --> 00:27:39,08
+că în unele cazuri,
+dacă ne interesează doar variaţia
+
+403
+00:27:39,08 --> 00:27:43,09
+energiei cinetice 
+şi nu neapărat detaliile
+
+404
+00:27:43,09 --> 00:27:46,93
+traiectoriei, 
+atunci echipotenţialele sunt
+
+405
+00:27:46,93 --> 00:27:55,00
+extrem de utile.
+Nu confundaţi niciodată U, ce reprezintă
+
+406
+00:27:55,00 --> 00:28:03,02
+energia potenţială electrostatică,
+cu V, ce reprezintă potenţialul
+
+407
+00:28:03,02 --> 00:28:09,02
+electric.
+Unitatea de măsură pentru acesta este jouli.
+
+408
+00:28:09,02 --> 00:28:12,52
+Iar unitate de măsură a acestuia este
+jouli pe coulombi, adică volţi.
+
+409
+00:28:12,52 --> 00:28:17,88
+Dacă avem o colecţie de sarcini,
+plusuri şi minusuri,
+
+410
+00:28:17,88 --> 00:28:22,46
+U are doar o singură valoare.
+Reprezintă lucrul mecanic necesar
+
+411
+00:28:22,46 --> 00:28:27,10
+pentru a aduce toate aceste sarcini
+exact în poziţia în care se află.
+
+412
+00:28:27,10 --> 00:28:29,80
+Dar potenţialul electric este
+diferit aici faţă de aici faţă
+
+413
+00:28:29,80 --> 00:28:32,25
+de acolo şi acolo 
+şi acolo.
+
+414
+00:28:32,25 --> 00:28:35,17
+Dacă suntem foarte aproape de o sarcină
+pozitivă, putem fi siguri că
+
+415
+00:28:35,17 --> 00:28:37,90
+potenţialul este pozitiv.
+Dacă suntem foarte aproape de o
+
+416
+00:28:37,90 --> 00:28:40,11
+sarcină negativă, 
+putem fi siguri că
+
+417
+00:28:40,11 --> 00:28:42,86
+potenţialul este negativ.
+Dar U este doar un singur număr.
+
+418
+00:28:42,86 --> 00:28:45,73
+Este doar o singură valoare.
+Ambii sunt scalari.
+
+419
+00:28:45,73 --> 00:28:50,38
+Nu-i confundaţi
+între ei.
+
+420
+00:28:50,38 --> 00:28:56,49
+Într-un câmp gravitaţional,
+materia, precum o bucată de cretă,
+
+421
+00:28:56,49 --> 00:29:00,81
+vrea să se deplaseze
+de la un potenţial mare la un potenţial mic.
+
+422
+00:29:00,81 --> 00:29:03,90
+Dacă o eliberez cu viteză zero,
+uitaţi,
+
+423
+00:29:03,90 --> 00:29:05,81
+potenţial mare spre
+potenţial mic.
+
+424
+00:29:05,81 --> 00:29:10,01
+La fel, sarcinile pozitive
+se vor deplasa de asemenea de la
+
+425
+00:29:10,01 --> 00:29:14,29
+un potenţial electric mare
+spre un potenţial electric mic.
+
+426
+00:29:14,29 --> 00:29:17,32
+Şi, desigur, acest lucru
+este unic pentru electricitate,
+
+427
+00:29:17,32 --> 00:29:22,07
+sarcinile negative se vor deplasa dinspre
+un potenţial mic spre un potenţial
+
+428
+00:29:22,07 --> 00:29:32,46
+electric mare.
+Să presupunem că am un punct A
+
+429
+00:29:32,46 --> 00:29:37,74
+în spaţiu,
+şi am un alt punct B,
+
+430
+00:29:37,74 --> 00:29:45,92
+şi specific potenţialele.
+Aici avem A,
+
+431
+00:29:45,92 --> 00:29:51,53
+potenţialul este Va,
+şi aici avem punctul B, unde
+
+432
+00:29:51,53 --> 00:29:59,23
+potenţialul este Vb.
+Prin definiţie,
+
+433
+00:29:59,23 --> 00:30:07,74
+potenţialul Va,
+după cum am discutat mai înainte, este egal
+
+434
+00:30:07,74 --> 00:30:15,51
+cu integrală -- apropo,
+distanţa dintre acestea două
+
+435
+00:30:15,51 --> 00:30:18,80
+este
+R.
+
+436
+00:30:18,80 --> 00:30:24,83
+Aşadar potenţialul în punctul A
+este definit ca integrală
+
+437
+00:30:24,83 --> 00:30:33,58
+de la A la infinit din E punct dr.
+Aceasta este definiţia potenţialului
+
+438
+00:30:33,58 --> 00:30:38,28
+din punctul A.
+Avem aici un E, ce reprezintă
+
+439
+00:30:38,28 --> 00:30:42,93
+forţa pe unitate de sarcină.
+Prin urmare nu este lucru mecanic.
+
+440
+00:30:42,93 --> 00:30:45,81
+Dacă ar fi fost forţă dr,
+atunci ar fi fost lucru mecanic, dar este forţă
+
+441
+00:30:45,81 --> 00:30:53,85
+pe unitate de sarcină, adică E.
+Potenţialul punctului B, prin definiţie,
+
+442
+00:30:53,85 --> 00:31:03,25
+este integrală 
+de la B la infinit din E punct dr.
+
+443
+00:31:03,25 --> 00:31:08,36
+Iar diferenţa de potenţial
+dintre punctul A şi
+
+444
+00:31:08,36 --> 00:31:19,59
+B, Va minus Vb,
+este egală cu integrală de la A la B
+
+445
+00:31:19,59 --> 00:31:29,00
+din E punct dr, iar din motive
+pe care nici acum nu le înţeleg,
+
+446
+00:31:29,00 --> 00:31:32,39
+fiind de atâta timp
+în acest domeniu,
+
+447
+00:31:32,39 --> 00:31:37,50
+manualele vă vor spune tot timpul
+că inversează Va cu Vb, şi calculează
+
+448
+00:31:37,50 --> 00:31:42,39
+Vb minus Va.
+Iar apoi, da, vă vor spune că trebuie
+
+449
+00:31:42,39 --> 00:31:45,66
+să puneţi un minus 
+în faţa integralei.
+
+450
+00:31:45,66 --> 00:31:48,38
+Este acelaşi lucru.
+În manuale veţi găsi tot timpul
+
+451
+00:31:48,38 --> 00:31:57,90
+această formă
+Dar este exact aceeaşi.
+
+452
+00:31:57,90 --> 00:32:00,83
+Sper că realizaţi acest lucru.
+Adică, cele două ecuaţii
+
+453
+00:32:00,83 --> 00:32:07,86
+de aici sunt identice.
+Va minus Vb este egal cu integrală
+
+454
+00:32:07,86 --> 00:32:13,38
+de la A la B din E punct dr.
+Dacă inversez diferenţa, nu trebuie decât
+
+455
+00:32:13,38 --> 00:32:19,00
+să pun un minus aici,
+şi cele două sunt identice.
+
+456
+00:32:19,00 --> 00:32:23,08
+Observaţi că dacă nu există
+un câmp electric între A şi B,
+
+457
+00:32:23,08 --> 00:32:25,43
+atunci se află la acelaşi potenţial,
+evident.
+
+458
+00:32:25,43 --> 00:32:27,39
+Pentru că atunci când ne deplasăm 
+de la A la B cu o sarcină
+
+459
+00:32:27,39 --> 00:32:31,28
+în buzunar, nu efectuăm lucru mecanic.
+Aşadar potenţialul rămâne
+
+460
+00:32:31,28 --> 00:32:37,28
+acelaşi.
+Vom înlocui acest dr
+
+461
+00:32:37,28 --> 00:32:41,58
+cu un simbol diferit,
+ce-l voi numi dl.
+
+462
+00:32:41,58 --> 00:32:44,92
+dr ar înseamna că
+ne deplasăm de la A spre
+
+463
+00:32:44,92 --> 00:32:49,61
+infinit pe această traiectorie dreaptă,
+iar de la B
+
+464
+00:32:49,61 --> 00:32:54,61
+la infinit de-a lungul acestei linii drepte,
+dar nu contează
+
+465
+00:32:54,61 --> 00:32:58,96
+cum ne deplasăm.
+Dacă ne deplasăm de la A la B,
+
+466
+00:32:58,96 --> 00:33:06,39
+această diferenţă de potenţial,
+şi ne deplasăm astfel, atunci
+
+467
+00:33:06,39 --> 00:33:13,34
+Va - Vb nu se modifică.
+Dacă introduc aici
+
+468
+00:33:13,34 --> 00:33:18,25
+un element dl,
+un mic vector,
+
+469
+00:33:18,25 --> 00:33:25,61
+iar dacă vectorul E local aici
+este aşa, în acest punct de aici,
+
+470
+00:33:25,61 --> 00:33:32,38
+atunci Va - Vb este 
+integrală din E punct dl.
+
+471
+00:33:32,38 --> 00:33:37,13
+Cu alte cuvinte, pot înlocui
+r-ul cu un l, şi putem alege
+
+472
+00:33:37,13 --> 00:33:42,51
+orice traiectorie dorim.
+De cele mai multe ori vom scrie
+
+473
+00:33:42,51 --> 00:33:44,90
+această ecuaţie 
+în acest fel.
+
+474
+00:33:44,90 --> 00:33:46,53
+Nu contează aşadar
+modul în care
+
+475
+00:33:46,53 --> 00:33:52,08
+ne deplasăm, pentru că avem de-a face
+cu câmpuri conservative.
+
+476
+00:33:52,08 --> 00:33:54,99
+Să presupunem pentru moment
+că Va este de
+
+477
+00:33:54,99 --> 00:33:59,18
+150 de volţi,
+Iar Vb este de exemplu
+
+478
+00:33:59,18 --> 00:34:03,01
+50 de volţi.
+Este un exemplu cât se poate
+
+479
+00:34:03,01 --> 00:34:10,32
+de specific.
+Ce înseamnă acest lucru?
+
+480
+00:34:10,32 --> 00:34:16,03
+Înseamnă că, dacă pun o sarcină +q
+în buzunar şi vin dinspre
+
+481
+00:34:16,03 --> 00:34:21,34
+sala 7 
+până în punctul B.
+
+482
+00:34:21,34 --> 00:34:30,92
+Walter Lewin, sarcina +q 
+în buzunar, se deplasează din sala 7
+
+483
+00:34:30,92 --> 00:34:35,59
+până în punctul B,
+trebuie să efectuez lucru mecanic,
+
+484
+00:34:35,59 --> 00:34:40,55
+egal cu produsul dintre
+sarcina mea q şi potenţial.
+
+485
+00:34:40,55 --> 00:34:50,40
+Lucrul mecanic ce trebuie să-l efectuez
+este egal cu q ori Vb.
+
+486
+00:34:50,40 --> 00:34:55,26
+În cazul de faţă este 50 ori q,
+indiferent de sarcina
+
+487
+00:34:55,26 --> 00:34:57,67
+ce o am în buzunar.
+Acesta este
+
+488
+00:34:57,67 --> 00:35:03,34
+în jouli.
+Acum, mă deplasez din sala 7
+
+489
+00:35:03,34 --> 00:35:08,65
+până în punctul A.
+Trebuie să efectuez şi mai mult lucru mecanic.
+
+490
+00:35:08,65 --> 00:35:16,69
+Trebuie să efectuez 
+un lucru mecanic de 150q jouli.
+
+491
+00:35:16,69 --> 00:35:19,80
+Vă puteţi imagina că 
+ajung prima dată în punctul B,
+
+492
+00:35:19,80 --> 00:35:23,07
+deja sunt epuizat,
+dar trebuie să mai efectuez iarăşi lucru mecanic
+
+493
+00:35:23,07 --> 00:35:30,34
+pentru a ajunge până în punctul A.
+Dacă am această
+
+494
+00:35:30,34 --> 00:35:33,57
+sarcină +q în punctul A,
+unde se află la un potenţial
+
+495
+00:35:33,57 --> 00:35:37,65
+mai mare, aceasta vrea să 
+vină singură înapoi în punctul B.
+
+496
+00:35:37,65 --> 00:35:40,21
+Vrea să se deplaseze de la un potenţial
+mai mare, la un potenţial mai mic.
+
+497
+00:35:40,21 --> 00:35:43,21
+Uitaţi, vectorul E
+este în această direcţie.
+
+498
+00:35:43,21 --> 00:35:48,36
+Sarcina pozitivă se va deplasa
+spre un potenţial mai mic.
+
+499
+00:35:48,36 --> 00:35:53,05
+Pe măsură ce se deplasează de la A la B,
+are loc o eliberare de energie.
+
+500
+00:35:53,05 --> 00:35:55,78
+Cât de multă energie?
+Păi, aceasta este cantitatea de
+
+501
+00:35:55,78 --> 00:35:58,76
+lucru mecanic ce am efectuat-o pentru
+a ajunge în A, aceasta este cantitatea
+
+502
+00:35:58,76 --> 00:36:01,96
+de lucru mecanic pentru a ajunge în B,
+iar dacă acum sarcina se deplasează
+
+503
+00:36:01,96 --> 00:36:04,49
+înapoi din punctul A în punctul B,
+este diferenţa
+
+504
+00:36:04,49 --> 00:36:07,86
+ce devine disponibilă
+sub formă de energie cinetică.
+
+505
+00:36:07,86 --> 00:36:10,55
+Este o variaţie
+a energiei potenţiale.
+
+506
+00:36:10,55 --> 00:36:16,42
+Iar acea variaţie a energiei potenţiale,
+variaţia
+
+507
+00:36:16,42 --> 00:36:22,00
+energiei potenţiale,
+când sarcina +q se deplasează
+
+508
+00:36:22,00 --> 00:36:31,45
+de la A la B, acea variaţie este
+q ori (Va - Vb).
+
+509
+00:36:34,55 --> 00:36:41,90
+qVb în punctul B şi
+qVa în punctul A.
+
+510
+00:36:41,90 --> 00:36:44,53
+Aceasta este aşadar energia potenţială
+care este disponibilă în principiu
+
+511
+00:36:44,53 --> 00:36:51,01
+dacă sarcina se deplasează de la A la B.
+Vă reamintiţi teorema energiei cinetice
+
+512
+00:36:51,01 --> 00:36:54,30
+din mecanica clasică.
+Dacă avem de-a face cu forţe
+
+513
+00:36:54,30 --> 00:36:57,78
+conservative, atunci suma
+energiei potenţiale şi a energiei
+
+514
+00:36:57,78 --> 00:37:00,75
+cinetice a unui corp este constantă.
+Acest lucru este valabil şi pentru
+
+515
+00:37:00,75 --> 00:37:03,57
+forţele gravitaţionale.
+Cu alte cuvinte,
+
+516
+00:37:03,57 --> 00:37:07,69
+această diferenţă a energiei potenţiale,
+ce devine disponibilă,
+
+517
+00:37:07,69 --> 00:37:11,75
+precum energia potenţială 
+ce devine disponibilă atunci când arunc creta
+
+518
+00:37:11,75 --> 00:37:14,48
+de la un potenţial mare
+la un potenţial mic,
+
+519
+00:37:14,48 --> 00:37:16,42
+şi este convertită
+în energie cinetică.
+
+520
+00:37:16,42 --> 00:37:19,76
+Această diferenţă este de asemenea
+convertită în energie cinetică
+
+521
+00:37:19,76 --> 00:37:22,92
+a sarcinii aflate în mişcare.
+Aceasta va fi egală cu
+
+522
+00:37:22,92 --> 00:37:28,28
+energia cinetică în punctul B minus
+energia cinetică în punctul A.
+
+523
+00:37:28,28 --> 00:37:30,78
+Ceea ce reprezintă de fapt
+teorema energiei cinetice.
+
+524
+00:37:30,78 --> 00:37:37,17
+Reprezintă 
+conservarea energiei.
+
+525
+00:37:37,17 --> 00:37:41,57
+Orice corp metalic,
+indiferent de forma sa,
+
+526
+00:37:41,57 --> 00:37:45,21
+este un echipotenţial.
+Atâta timp când nu există deplasare
+
+527
+00:37:45,21 --> 00:37:50,36
+de sarcină în interiorul metalului.
+Este evident că este un
+
+528
+00:37:50,36 --> 00:37:53,32
+echipotenţial.
+Pentru că aceste sarcini din interiorul
+
+529
+00:37:53,32 --> 00:37:55,69
+metalului, aceşti electroni,
+când sunt supuşi unui
+
+530
+00:37:55,69 --> 00:37:58,46
+câmp electric,
+încep imediat să se deplaseze
+
+531
+00:37:58,46 --> 00:38:02,32
+în acest câmp electric,
+şi vor continua să se deplaseze până când
+
+532
+00:38:02,32 --> 00:38:05,50
+nu va exista nicio forţă asupra lor,
+iar acest lucru înseamnă că poziţiile lor
+
+533
+00:38:05,50 --> 00:38:08,61
+determină un câmp electric
+efectiv egal cu zero.
+
+534
+00:38:08,61 --> 00:38:12,92
+Sarcinile electrice din interiorul unui conductor
+se deplasează automat, tot timpul,
+
+535
+00:38:12,92 --> 00:38:15,34
+astfel încât anulează
+câmpul
+
+536
+00:38:15,34 --> 00:38:17,73
+electric din interior.
+În cazul în care câmpul electric nu
+
+537
+00:38:17,73 --> 00:38:20,92
+ar fi fost încă zero,
+acestea s-ar mai deplasa încă.
+
+538
+00:38:20,92 --> 00:38:23,82
+Orice metal pe care-l avem,
+indiferent unde-l punem,
+
+539
+00:38:23,82 --> 00:38:28,61
+atâta timp cât nu
+există curenţi electrici în interior,
+
+540
+00:38:28,61 --> 00:38:32,19
+va fi tot timpul
+un echipotenţial.
+
+541
+00:38:32,19 --> 00:38:36,78
+Pot lua o cutie de gunoi
+pe care o introduc într-un câmp extern.
+
+542
+00:38:36,78 --> 00:38:39,48
+La foarte scurt timp 
+după ce o introduc, când lucrurile
+
+543
+00:38:39,48 --> 00:38:42,46
+s-au calmat, 
+cutia va fi un
+
+544
+00:38:42,46 --> 00:38:45,44
+echipotenţial, iar câmpul
+electric din interiorul metalului
+
+545
+00:38:45,44 --> 00:38:49,63
+va fi pretutindeni 
+zero.
+
+546
+00:38:49,63 --> 00:38:58,82
+Aş putea ataşa de exemplu
+punctul A de o cutie de gunoi,
+
+547
+00:38:58,82 --> 00:39:02,53
+o cutie de gunoi metalică,
+astfel încât înteaga cutie să fie la
+
+548
+00:39:02,53 --> 00:39:07,28
+150 de volţi,
+iar punctul B l-aş putea pune
+
+549
+00:39:07,28 --> 00:39:10,09
+pe o cutie de suc,
+care este de asemenea
+
+550
+00:39:10,09 --> 00:39:13,55
+metalică.
+Cutia de suc ar fi la
+
+551
+00:39:13,55 --> 00:39:15,67
+50 de volţi,
+iar cutia de gunoi
+
+552
+00:39:15,67 --> 00:39:18,59
+ar fi la
+150 de volţi.
+
+553
+00:39:18,59 --> 00:39:22,46
+Plasez întregul aranjament
+în vid, şi plasez un
+
+554
+00:39:22,46 --> 00:39:26,88
+electron în punctul B.
+Un electron.
+
+555
+00:39:26,88 --> 00:39:29,53
+Un electron vrea să se deplaseze
+spre un potenţial mai mare.
+
+556
+00:39:29,53 --> 00:39:33,07
+Un proton s-ar deplasa de la A la B,
+electronul vrea să meargă de la B
+
+557
+00:39:33,07 --> 00:39:40,61
+la A.
+Avem acum o energie disponibilă.
+
+558
+00:39:40,61 --> 00:39:46,09
+Este disponibilă o energie 
+electrică potenţială, iar electronul
+
+559
+00:39:46,09 --> 00:39:48,65
+va fi accelerat
+şi va ajunge
+
+560
+00:39:48,65 --> 00:39:51,65
+într-un final în punctul A.
+Cum se va deplasa,
+
+561
+00:39:51,65 --> 00:39:52,86
+nu ştiu.
+Configuraţia
+
+562
+00:39:52,86 --> 00:39:56,17
+câmpului electric
+este extrem de complicată.
+
+563
+00:39:56,17 --> 00:39:59,94
+Între cutia de suc
+şi cutia de gunoi.
+
+564
+00:39:59,94 --> 00:40:03,23
+Incredibil de complicată.
+Dacă aţi putea să vedeţi
+
+565
+00:40:03,23 --> 00:40:07,92
+liniile de câmp, ar fi ciudat.
+Dar dacă tot ceea ce vrem să ştim
+
+566
+00:40:07,92 --> 00:40:10,48
+este valoarea energiei cinetice,
+care este viteza
+
+567
+00:40:10,48 --> 00:40:12,94
+cu care acest electron
+ajunge pe cutie,
+
+568
+00:40:12,94 --> 00:40:15,40
+atunci?
+Atunci putem aplica teorema
+
+569
+00:40:15,40 --> 00:40:19,88
+energiei cinetice 
+pentru a afla imediat care este
+
+570
+00:40:19,88 --> 00:40:24,92
+energia cinetică.
+Pentru că energia potenţială
+
+571
+00:40:24,92 --> 00:40:28,63
+disponibilă este egală cu 
+sarcina electronului ori
+
+572
+00:40:28,63 --> 00:40:31,42
+diferenţa de potenţial
+dintre aceste două obiecte.
+
+573
+00:40:31,42 --> 00:40:35,25
+Sarcina electronului
+este egală cu 1,6 ori 10
+
+574
+00:40:35,25 --> 00:40:39,82
+la puterea -19 coulombi.
+Diferenţa de potenţial este de
+
+575
+00:40:39,82 --> 00:40:43,26
+100 de volţi.
+Aceasta este diferenţa
+
+576
+00:40:43,26 --> 00:40:45,57
+energiei cinetice.
+Dacă presupun că plasez
+
+577
+00:40:45,57 --> 00:40:50,51
+electronul cu o viteză iniţială zero,
+obţin atunci imediat
+
+578
+00:40:50,51 --> 00:40:55,32
+energia cinetică a acestuia
+în punctul A, egală cu 1/2 din masa
+
+579
+00:40:55,32 --> 00:41:00,05
+electronului ori viteza
+în punctul A la pătrat.
+
+580
+00:41:00,05 --> 00:41:03,57
+Acceptând faptul
+că ştim
+
+581
+00:41:03,57 --> 00:41:06,38
+echipotenţialele,
+putem calcula foarte rapid
+
+582
+00:41:06,38 --> 00:41:09,84
+energia cinetică, şi prin urmare,
+viteza electronului,
+
+583
+00:41:09,84 --> 00:41:12,76
+în momentul în care ajunge în A,
+fără a cunoaşte
+
+584
+00:41:12,76 --> 00:41:16,25
+câmpul electric extrem de complicat.
+Dacă înlocuim
+
+585
+00:41:16,25 --> 00:41:19,69
+cu masa electronului,
+ce este egală cu 9 ori 10
+
+586
+00:41:19,69 --> 00:41:22,90
+la puterea -31 kilograme,
+vom obţine că
+
+587
+00:41:22,90 --> 00:41:27,36
+viteza este aproximativ egală
+cu 2% din viteza luminii.
+
+588
+00:41:27,36 --> 00:41:37,57
+O viteză substanţială.
+Toate potenţialele,
+
+589
+00:41:37,57 --> 00:41:39,71
+potenţialele electrice,
+sunt definite faţă de
+
+590
+00:41:39,71 --> 00:41:42,65
+infinit.
+Asta înseamnă că la infinit
+
+591
+00:41:42,65 --> 00:41:44,40
+ele sunt zero.
+Acest lucru se datorează
+
+592
+00:41:44,40 --> 00:41:49,21
+relaţiei 1/r.
+Totul e bine şi frumos şi
+
+593
+00:41:49,21 --> 00:41:51,76
+funcţionează.
+Totuşi, există situaţii
+
+594
+00:41:51,76 --> 00:41:57,88
+în care nu contează
+unde ne alegem punctul zero.
+
+595
+00:41:57,88 --> 00:42:02,03
+Ţineţi minte că şi în cazul gravitaţiei
+am avut o situaţie similară.
+
+596
+00:42:02,03 --> 00:42:05,78
+În cazul gravitaţiei, am avut tot timpul
+de-a face cu o diferenţă
+
+597
+00:42:05,78 --> 00:42:10,48
+a energiei potenţiale,
+dar câteodată spunem că aici e zero şi aici plus.
+
+598
+00:42:10,48 --> 00:42:12,42
+Câteodată spunem că acesta 
+este plus şi acesta minus.
+
+599
+00:42:12,42 --> 00:42:15,23
+Nu prea contează până la urmă,
+pentru că variaţia energiei
+
+600
+00:42:15,23 --> 00:42:18,36
+cinetice depinde doar 
+de diferenţa
+
+601
+00:42:18,36 --> 00:42:22,09
+potenţialelor.
+Aşa că putem foarte bine
+
+602
+00:42:22,09 --> 00:42:25,57
+să spunem că aceasta este 150
+şi aceasta 50, dar nu am fi
+
+603
+00:42:25,57 --> 00:42:29,76
+găsit un răspuns diferit
+pentru electron, dacă am fi spus
+
+604
+00:42:29,76 --> 00:42:34,09
+că acest potenţial este 100 de volţi
+iar acesta zero, sau
+
+605
+00:42:34,09 --> 00:42:38,01
+că acesta este zero şi
+acesta -100, sau
+
+606
+00:42:38,01 --> 00:42:41,46
+am fi spus că acesta este 50 şi
+acesta -50.
+
+607
+00:42:41,46 --> 00:42:45,03
+Aşadar comportamentul
+electronilor, al sarcinilor
+
+608
+00:42:45,03 --> 00:42:47,21
+nu s-ar fi schimbat.
+Desigur, inginerii
+
+609
+00:42:47,21 --> 00:42:51,40
+de profil electric vor spune tot timpul,
+prin definiţie, că potenţialul
+
+610
+00:42:51,40 --> 00:42:58,26
+pământului este zero
+în cazul circuitelor electrice.
+
+611
+00:42:58,26 --> 00:43:01,69
+Aş vrea acum să
+vă demonstrez cu ajutorul
+
+612
+00:43:01,69 --> 00:43:08,25
+Van der Graaff-lui că,
+dacă avem un câmp electric intens
+
+613
+00:43:08,25 --> 00:43:12,44
+şi radial dinspre Van der Graaff,
+atunci obţinem o diferenţă
+
+614
+00:43:12,44 --> 00:43:17,67
+potenţială imensă între
+acest punct şi acest punct.
+
+615
+00:43:17,67 --> 00:43:19,28
+Dacă am încă
+valorile
+
+616
+00:43:19,28 --> 00:43:24,28
+acolo,
+sper să le am,
+
+617
+00:43:24,28 --> 00:43:26,44
+aici sunt,
+la suprafaţa
+
+618
+00:43:26,44 --> 00:43:29,11
+Van der Graaff-ului, ce are aproximativ
+10 micro-coulombi,
+
+619
+00:43:29,11 --> 00:43:32,59
+va fi de 300.000 de volţi
+aici,
+
+620
+00:43:32,59 --> 00:43:35,80
+aici este de 
+150.000 de volţi,
+
+621
+00:43:35,80 --> 00:43:38,63
+iar aici, la trei metri de centru
+este de aproximativ 30
+
+622
+00:43:38,63 --> 00:43:44,34
+de kilovolţi.
+Asta înseamnă că, dacă aduc
+
+623
+00:43:44,34 --> 00:43:49,57
+acest tub fluorescent 
+în acel câmp electric, va exista
+
+624
+00:43:49,57 --> 00:43:52,40
+o diferenţă potenţială gigantică
+între aceste două
+
+625
+00:43:52,40 --> 00:43:55,26
+puncte, dacă poziţia 
+sa este radială.
+
+626
+00:43:55,26 --> 00:43:57,73
+Dacă îl ţin aşa,
+atunci diferenţa potenţială
+
+627
+00:43:57,73 --> 00:44:00,40
+între aceste două puncte
+va fi desigur zero,
+
+628
+00:44:00,40 --> 00:44:03,73
+dacă îl ţin tangent,
+ambele puncte vor fi la acelaşi
+
+629
+00:44:03,73 --> 00:44:07,34
+potenţial electric.
+Dar când îl ţin radial,
+
+630
+00:44:07,34 --> 00:44:13,21
+veţi vedea probabil că
+acest tub fluorescent va
+
+631
+00:44:13,21 --> 00:44:17,24
+da puţină lumină.
+Odată ce vedeţi această lumină,
+
+632
+00:44:17,24 --> 00:44:21,34
+înseamnă că electronii
+se deplasează prin acel gaz.
+
+633
+00:44:21,34 --> 00:44:23,71
+Înseamnă că avem o deplasare de sarcină.
+Nu am discutat încă despre
+
+634
+00:44:23,71 --> 00:44:25,21
+curent,
+dar asta înseamnă.
+
+635
+00:44:25,21 --> 00:44:27,17
+Există un curent.
+Iar acest curent trebuie
+
+636
+00:44:27,17 --> 00:44:32,01
+să fie produs de către Van der Graaff,
+dar Van der Graaff-ul poate produce
+
+637
+00:44:32,01 --> 00:44:33,51
+doar nişte curenţi
+foarte slabi.
+
+638
+00:44:33,51 --> 00:44:36,09
+Nu veţi vedea prin urmare
+prea multă lumină.
+
+639
+00:44:36,09 --> 00:44:39,96
+Dar vreau să vă arăt
+că veţi vedea ceva lumină.
+
+640
+00:44:39,96 --> 00:44:42,30
+Fără cabluri conectate.
+Doar aici.
+
+641
+00:44:42,30 --> 00:44:47,53
+Îl voi roti apoi
+tangenţial şi nu veţi mai vedea
+
+642
+00:44:47,53 --> 00:44:51,96
+nicio urmă de lumină.
+Dacă putem stinge
+
+643
+00:44:51,96 --> 00:44:57,42
+din lumini,
+voi porni
+
+644
+00:44:57,42 --> 00:45:01,21
+Van der Graaff-ul iar apoi Marcos
+va stinge toate luminile
+
+645
+00:45:01,21 --> 00:45:04,27
+când va fi nevoie,
+pentru că lumina emisă este atât
+
+646
+00:45:04,27 --> 00:45:09,65
+de slaba încât trebuie
+să fie complet întuneric.
+
+647
+00:45:09,65 --> 00:45:13,82
+Îmi voi pune o mănuşă, pentru siguranţă,
+cu toate că nu cred că
+
+648
+00:45:13,82 --> 00:45:19,63
+mă va ajuta foarte mult.
+Observaţi că am aici o bucată
+
+649
+00:45:19,63 --> 00:45:22,38
+de sticlă, pentru a 
+obţine o izolare faţă de
+
+650
+00:45:22,38 --> 00:45:25,92
+tub,
+ca să nu stric
+
+651
+00:45:25,92 --> 00:45:31,38
+demonstraţia.
+Nu e tot una dacă-mi ţin degetele
+
+652
+00:45:31,38 --> 00:45:33,50
+aici,
+sau dacă le ţin aici.
+
+653
+00:45:33,50 --> 00:45:39,01
+Să ne apropiem prima dată,
+fără a stinge încă lumina,
+
+654
+00:45:39,01 --> 00:45:46,86
+şi apoi, bine, 
+stinge acum lumina de tot.
+
+655
+00:45:46,86 --> 00:45:50,73
+Cred că -- cred că 
+puteţi vedea o incandescenţă.
+
+656
+00:45:50,73 --> 00:45:55,90
+Tubul este radial acum.
+Marcos, poţi să aprinzi
+
+657
+00:45:55,90 --> 00:45:59,17
+puţin lumina?
+Mă voi plasa acum tangenţial,
+
+658
+00:45:59,17 --> 00:46:02,65
+poţi să stingi lumina?
+Acum nu mai vedeţi nimic,
+
+659
+00:46:02,65 --> 00:46:07,63
+foarte puţin.
+Mă plasez din nou radial.
+
+660
+00:46:07,63 --> 00:46:13,90
+Şi iată.
+Acum, dacă sunt nebun,
+
+661
+00:46:13,90 --> 00:46:17,17
+dacă aş fi nebun,
+aş atinge capătul
+
+662
+00:46:17,17 --> 00:46:21,78
+acestui tub cu degetul,
+permiţând acestui curent să treacă
+
+663
+00:46:21,78 --> 00:46:25,01
+direct prin corpul meu în pământ,
+intensificând astfel
+
+664
+00:46:25,01 --> 00:46:29,51
+lumina.
+Să încercăm asta.
+
+665
+00:46:29,51 --> 00:46:32,94
+Voi
+atinge prin urmare
+
+666
+00:46:32,94 --> 00:46:36,96
+acest tub fluorescent
+în partea din dreapta voastră.
+
+667
+00:46:36,96 --> 00:46:39,38
+Ah.
+Ah.
+
+668
+00:46:39,38 --> 00:46:47,13
+Ah.
+De fiecare dată când îl ating, ah.
+
+669
+00:46:47,13 --> 00:46:51,23
+Dar asta nu este ah.
+Dar vedeţi că de fiecare dată când
+
+670
+00:46:51,23 --> 00:46:56,19
+îl ating, curentul se deplasează
+mai uşor, şi vedeţi foarte
+
+671
+00:46:56,19 --> 00:47:00,51
+clar că intensitatea luminoasă creşte.
+Voi realiza acum aceeaşi
+
+672
+00:47:00,51 --> 00:47:06,78
+demonstraţie cu o lampă cu neon,
+şi voi plasa lampa cu neon
+
+673
+00:47:06,78 --> 00:47:12,44
+în capătul unei 
+undiţe de pescuit.
+
+674
+00:47:12,44 --> 00:47:15,48
+Această lampă cu neon am folosit-o
+în primul curs, atunci când
+
+675
+00:47:15,48 --> 00:47:20,73
+am bătut studenţii, 
+dar am învăţat să nu mai fac acest lucru.
+
+676
+00:47:20,73 --> 00:47:24,75
+Este nevoie de câţiva
+kilovolţi pentru a obţine
+
+677
+00:47:24,75 --> 00:47:26,98
+o lumină,
+dintr-un capăt în celălalt,
+
+678
+00:47:26,98 --> 00:47:29,17
+asta e o nimica toată
+pentru Van der Graaff,
+
+679
+00:47:29,17 --> 00:47:32,19
+vorbim aici de sute
+şi mii de volţi.
+
+680
+00:47:32,19 --> 00:47:36,28
+Voi roti această lampă,
+iar când se află
+
+681
+00:47:36,28 --> 00:47:39,96
+pe direcţie radială,
+veţi vedea probabil o lumină,
+
+682
+00:47:39,96 --> 00:47:45,65
+iar când este tangenţială, nu veţi
+vedea prea multă lumină. Iar apoi, dacă mă simt
+
+683
+00:47:45,65 --> 00:47:56,55
+foarte bine, voi face din nou acel lucru.
+Marcos, dacă stingi
+
+684
+00:47:56,55 --> 00:48:03,46
+lumina, îi voi da drumul.
+Radial, radial,
+
+685
+00:48:03,46 --> 00:48:06,94
+radial,
+radial, radial,
+
+686
+00:48:06,94 --> 00:48:14,71
+radial, radial,
+radial, radial.
+
+687
+00:48:14,71 --> 00:48:22,71
+Acum, ah
+o ating acum,
+
+688
+00:48:22,71 --> 00:48:29,82
+o ating din nou
+Şi o ating din nou.
+
+689
+00:48:29,82 --> 00:48:32,00
+Din nou.
+Din nou.
+
+690
+00:48:32,00 --> 00:48:35,98
+Ah.
+De fiecare dată când o ating,
+
+691
+00:48:35,98 --> 00:48:39,40
+mă curentează.
+Şi obţinem o lumină
+
+692
+00:48:39,40 --> 00:48:42,61
+frumoasă.
+Vedeţi aşadar aici, în faţa
+
+693
+00:48:42,61 --> 00:48:44,44
+voastră, 
+fără niciun fir contectat,
+
+694
+00:48:44,44 --> 00:48:48,30
+că diferenţa de potenţial
+creată de câmpul electric,
+
+695
+00:48:48,30 --> 00:48:52,69
+că aceste diferenţe de potenţial
+produc această lumină.
+
+696
+00:48:52,69 --> 00:48:55,48
+Ne vedem 
+vineri.
+
+697
+00:48:55,48 --> 00:49:01,23
+(subtitrarea în limba română pentru 
+www.circuiteelectrice.ro)
